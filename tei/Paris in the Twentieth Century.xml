@@ -3,15 +3,15 @@
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:id="eco000001" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco000010" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title ref="https://www.wikidata.org/wiki/Q404158">
-     Utopia
+    <title ref="https://www.wikidata.org/wiki/Q794866">
+     Paris in the Twentieth Century
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q42544">
-     Thomas Morus
+    <author ref="https://www.wikidata.org/wiki/Q33977">
+     Jules Vernes
     </author>
     <respStmt>
      <resp>

@@ -7,10 +7,10 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>
+    <title ref="https://www.wikidata.org/wiki/Q483034">
      Robinson Crusoe
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q483034">
+    <author ref="https://www.wikidata.org/wiki/Q40946">
      Daniel Defoe
     </author>
     <respStmt>

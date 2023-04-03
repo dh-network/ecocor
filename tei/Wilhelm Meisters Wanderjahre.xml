@@ -3,14 +3,14 @@
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:id="eco000030" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco000032" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>
+    <title ref="https://www.wikidata.org/wiki/Q478344">
      Wilhelm Meisters Wanderjahre
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q478344">
+    <author ref="https://www.wikidata.org/wiki/Q5879">
      Johann Wolfgang von Goethe
     </author>
     <respStmt>

@@ -7,10 +7,10 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>
+    <title ref="https://www.wikidata.org/wiki/Q150827">
      Frankenstein
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q150827">
+    <author ref="https://www.wikidata.org/wiki/Q47152">
      Mary Shelly
     </author>
     <respStmt>

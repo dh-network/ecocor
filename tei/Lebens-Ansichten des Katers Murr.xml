@@ -3,14 +3,14 @@
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:id="eco000029" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco000031" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>
+    <title ref="https://www.wikidata.org/wiki/Q1314475">
      Lebens-Ansichten des Katers Murr
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q1314475">
+    <author ref="https://www.wikidata.org/wiki/Q150471">
      E. T. A. Hoffmann
     </author>
     <respStmt>

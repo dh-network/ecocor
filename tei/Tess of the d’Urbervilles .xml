@@ -3,14 +3,14 @@
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:id="eco000010" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco000012" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>
+    <title ref="https://www.wikidata.org/wiki/Q649409">
      Tess of the d’Urbervilles
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q649409">
+    <author ref="https://www.wikidata.org/wiki/Q132805">
      Thomas Hardy
     </author>
     <respStmt>

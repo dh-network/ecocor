@@ -7,10 +7,10 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>
+    <title ref="https://www.wikidata.org/wiki/Q863534">
      Walden
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q863534">
+    <author ref="https://www.wikidata.org/wiki/Q131149">
      Henry David Thoreau
     </author>
     <respStmt>
