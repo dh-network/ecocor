@@ -24,10 +24,7 @@
    </titleStmt>
    <extent>
     <measure unit="words">
-     Unknown
-    </measure>
-    <measure unit="pages">
-     Unknown
+     84891
     </measure>
    </extent>
    <publicationStmt>
@@ -70,8 +67,8 @@
   </encodingDesc>
   <profileDesc>
    <langUsage>
-    <language ident="de">
-     German
+    <language ident="en">
+     English
     </language>
    </langUsage>
    <textDesc>
@@ -88,7 +85,7 @@
   </revisionDesc>
  </teiHeader>
  <text>
-  <body>
+  <front>
    <p>
     EREWHON, OR OVER THE RANGE
    </p>
@@ -173,6 +170,8 @@
    <p>
     SAMUEL BUTLER. August 7, 1901
    </p>
+  </front>
+  <body>
    <div type="chapter">
     <head>
      CHAPTER I: WASTE LANDS
