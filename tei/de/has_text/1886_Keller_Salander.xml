@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xml:id="eco000049" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -24,10 +22,7 @@
    </titleStmt>
    <extent>
     <measure unit="words">
-     Unknown
-    </measure>
-    <measure unit="pages">
-     Unknown
+     94795
     </measure>
    </extent>
    <publicationStmt>
@@ -4865,18 +4860,26 @@
     <p>
      »Herzlich geliebtes Wesen! Teuerste Gattin! Endlich finde ich einen Augenblick der Fassung, um Dir aus dem Kerker ein Lebenszeichen übersenden zu können. Ich will mich über das bis dato Erduldete und wie es gekommen ist, jetzt nicht weiter verbreiten. So Gott will, wird der Tag unserer Wiedervereinigung nicht ausbleiben, wo wir das Unglück mit frohem Rückblicke in traulichem Geplauder genugsam betrachten können! Möge es so sein! Für jetzt möchte ich Dich nur mit einigen kleinen Wünschen behelligen, deren Erfüllung in diesem provisorischen Zustande mir zustatten käme. Da die Wut der Verhöre etwas nachzulassen scheint, bleibt mir so viel freie Zeit, daß die Untätigkeit mir peinlich wird. Da bin ich auf den Gedanken gekommen, sowohl um mir selbst Rechenschaft zu geben, als vielleicht auch der Gesamtheit nützlich zu sein, eine sozialpädagogische Studie zu schreiben über Pflichtverletzungen und ihre Quellen im Staats- und Volksleben und die Verstopfung der letzteren, vom Standpunkt eines Selbstprüfers. Leider fehlt es mir an gutem Schreibmaterial, an das ich gewöhnt bin; das, was ich hier bekomme, ist miserabel. Schicke mir daher ein Buch weißes, starkes, aber gut satiniertes Papier, Imperial, ferner eine Schachtel von meinen Stahlfedern, die Du ja kennst, ein Fläschchen blaue Tinte, ein dito rote und zwei Federhalter. Alles dies bekommst Du in der Handlung von I.G. Schwarz &amp; Co. am besten. Bezüglich der Kost befinde ich mich einstweilen nicht so übel, da meine Eltern die Verpflegung garantiert haben; denn Du weißt, daß ich ohne einen Rappen Geld fortgeschleppt worden bin. Doch wäre eine kleine Aufbesserung sehr erwünscht, woher untenstehende Notierung. Endlich fehlt es mir an geeigneter Lektüre. Es sind wohl Bücher zu haben, die aber mehr für Kinder oder Versorgte in Korrektionsanstalten passen. Eine gute geographische und historische Beschreibung der nord- und südamerikanischen Staaten wäre mir willkommen, nebst einigen Bänden Gerstäcker oder so was. Auch fehlt mir der Schlafrock, den ich vergessen habe. Du könntest ihn vielleicht durch den Gemeindammann aus unserem Tuskulum herauspraktizieren lassen. Er hängt gewiß noch hinter der Tür wie immer. Tue mir also die Liebe und berücksichtige folgendes Verzeichnis meiner dermaligen Wünsche:
     </p>
-    <p>
+   </div>
+   <div type="chapter">
+    <head>
      1. Obiges Schreibmaterial.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      2. Der Schlafrock.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      3. Eidamerkäs, 1 Laib mittlerer Größe.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      4. Salamiwurst, große
-    </p>
+    </head>
     <p>
      1
     </p>
@@ -4901,24 +4904,36 @@
     <p>
      .
     </p>
-    <p>
+   </div>
+   <div type="chapter">
+    <head>
      5. Ein Topf eingemachte Zwetschgen.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      6. Eine Flasche Kognak.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      7. Bücher in obigem Sinn.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      8. Ein paar Dutzend Zigarren zur Probe, mittelstarke.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      9. Meine Haarbürsten, die ich vergessen. Vielleicht mit dem Schlafrock zu bekommen.
-    </p>
-    <p>
+    </head>
+   </div>
+   <div type="chapter">
+    <head>
      10. Ein oder zwei Schlipse.
-    </p>
+    </head>
     <p>
      Unwandelbar Dein getreuer Isidor.
     </p>

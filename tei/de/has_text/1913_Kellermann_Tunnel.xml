@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xml:id="eco000053" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
@@ -24,10 +22,7 @@
    </titleStmt>
    <extent>
     <measure unit="words">
-     Unknown
-    </measure>
-    <measure unit="pages">
-     Unknown
+     99860
     </measure>
    </extent>
    <publicationStmt>
@@ -20374,9 +20369,11 @@
     <p>
      Der Lärm zog durch die Pearlstreet, Bowery hinauf zur 3. und von da zur
     </p>
-    <p>
+   </div>
+   <div type="chapter">
+    <head>
      5. Avenue, wo die geschmacklosen Paläste der Millionäre stehen. Die
-    </p>
+    </head>
     <p>
      Paläste lagen still, ohne Leben. Es war der dampfende, laute Schweiß,
     </p>
@@ -24756,9 +24753,11 @@
     <p>
      waren an diesem Abend mit Toten, Arbeitern sowie Polizisten bedeckt. Am
     </p>
-    <p>
+   </div>
+   <div type="chapter">
+    <head>
      10. Dezember erklärte die englische Arbeiter-Union den Generalstreik.
-    </p>
+    </head>
     <p>
      Die französische, deutsche, russische und italienische folgten und
     </p>
@@ -25322,9 +25321,11 @@
     <p>
      Drei junge, freche Burschen, Mechaniker, kamen sogar bis zu Allan im
     </p>
-    <p>
+   </div>
+   <div type="chapter">
+    <head>
      32. Stockwerk hinauf!
-    </p>
+    </head>
     <p>
      »Mac muß uns unser Geld geben! Hallo!« Das war eine bestrickende Idee!
     </p>
