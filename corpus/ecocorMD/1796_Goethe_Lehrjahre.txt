@@ -1,8 +1,7 @@
 ^
 
 Wilhelm Meisters Lehrjahre
-Erstes Buch
-##Erstes Kapitel
+#Erstes Buch
 ##Erstes Kapitel
 Das Schauspiel dauerte sehr lange. Die alte Barbara trat einigemal ans Fenster und horchte, ob die Kutschen nicht rasseln wollten. Sie erwartete Marianen, ihre schöne Gebieterin, die heute im Nachspiele, als junger Offizier gekleidet, das Publikum entzückte, mit größerer Ungeduld als sonst, wenn sie ihr nur ein mäßiges Abendessen vorzusetzen hatte; diesmal sollte sie mit einem Paket überrascht werden, das Norberg, ein junger reicher Kaufmann, mit der Post geschickt hatte, um zu zeigen, daß er auch in der Entfernung seiner Geliebten gedenke.
 Barbara war als alte Dienerin, Vertraute, Ratgeberin, Unterhändlerin und Haushälterin im Besitz des Rechtes, die Siegel zu eröffnen, und auch diesen Abend konnte sie ihrer Neugierde um so weniger widerstehen, als ihr die Gunst des freigebigen Liebhabers mehr als selbst Marianen am Herzen lag. Zu ihrer größten Freude hatte sie in dem Paket ein feines Stück Nesseltuch und die neuesten Bänder für Marianen, für sich aber ein Stück Kattun, Halstücher und ein Röllchen Geld gefunden. Mit welcher Neigung, welcher Dankbarkeit erinnerte sie sich des abwesenden Norbergs! Wie lebhaft nahm sie sich vor, auch bei Marianen seiner im besten zu gedenken, sie zu er innern, was sie ihm schuldig sei und was er von ihrer Treue hoffen und erwarten müsse.
