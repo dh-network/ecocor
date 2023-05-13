@@ -2,7 +2,7 @@
 ﻿Die Judenbuche
 Ein Sittengemälde
 aus dem gebirgichten Westfalen
-
+#
 Wo ist die Hand so zart, daß ohne Irren
 Sie sondern mag beschränkten Hirnes Wirren,
 So fest, daß ohne Zittern sie den Stein
