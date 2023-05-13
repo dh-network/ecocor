@@ -2,8 +2,7 @@
 Lebensansichten des Katers Murr
 nebst fragmentarischer Biographie des Kapellmeisters Johannes Kreisler in zufälligen Makulaturblättern
 #Erster Band
-Vorwort des Herausgebers
-Vorwort des Herausgebers
+##Vorwort des Herausgebers
 1
 Keinem Buche ist ein Vorwort nötiger, als gegenwärtigem, da es, wird nicht erklärt, auf welche wunderliche Weise es sich zusammengefügt hat, als ein zusammengewürfeltes Durcheinander erscheinen dürfte.
 Daher bittet der Herausgeber den günstigen Leser, wirklich zu lesen, nämlich dies Vorwort.
@@ -40,7 +39,6 @@ Berlin
 , im November 1819
 E. T. A. Hoffmann
 Vorrede des Autors
-Vorrede des Autors
 Schüchtern – mit bebender Brust, übergebe ich der Welt einige Blätter des Lebens, des Leidens, der Hoffnung, der Sehnsucht, die in süßen Stunden der Muße, der dichterischen Begeisterung meinem innersten Wesen entströmten.
 Werde, kann ich bestehen vor dem strengen Richterstuhl der Kritik? Doch ihr seid es, ihr fühlenden Seelen, ihr rein kindlichen Gemüter, ihr mir verwandten treuen Herzen, ja, ihr seid es, für die ich schrieb, und eine einzige schöne Träne in eurem Auge wird mich trösten, wird die Wunde heilen, die der kalte Tadel unempfindlicher Rezensenten mir schlug!
 Berlin
@@ -48,8 +46,6 @@ Berlin
 Murr
 (Étudiant en belles lettres)
 Vorwort. Unterdrücktes des Autors
-Vorwort
-Unterdrücktes des Autors
 Mit der Sicherheit und Ruhe, die dem wahren Genie angeboren, übergebe ich der Welt meine Biographie, damit sie lerne, wie man sich zum großen Kater bildet, meine Vortrefflichkeit im ganzen Umfange erkenne, mich liebe, schätze, ehre, bewundere und ein wenig anbete.
 Sollte jemand verwegen genug sein, gegen den gediegenen Wert des außerordentlichen Buchs einige Zweifel erheben zu wollen, so mag er bedenken, daß er es mit einem Kater zu tun hat, der Geist, Verstand besitzt und scharfe Krallen.
 Berlin
@@ -58,8 +54,7 @@ Murr
 (Homme de lettres très renommé)
 N. S. Das ist zu arg! – Auch das Vorwort des Autors, welches unterdrückt werden sollte, ist abgedruckt! – Es bleibt nichts übrig, als den günstigen Leser zu bitten, daß er dem schriftstellerischen Kater den etwas stolzen Ton dieses Vorworts nicht zu hoch anrechnen und bedenken möge, daß, wenn manche wehmütige Vorrede irgendeines andern empfindsamen Autors in die wahre Sprache der innigen Herzensmeinung übersetzt werden sollte, es nicht viel anders herauskommen würde.
 d.H.
-Erster Abschnitt
-Erster Abschnitt
+##Erster Abschnitt
 Gefühle des Daseins
 Die Monate der Jugend
 Es ist doch etwas Schönes, Herrliches, Erhabenes um das Leben! – »O du süße Gewohnheit des Daseins!« ruft jener niederländische Held in der Tragödie aus. So auch ich, aber nicht wie der Held in dem schmerzlichen Augenblick, als er sich davon trennen soll – nein! – in dem Moment, da mich eben die volle Lust des Gedankens durchdringt, daß ich in jene süße Gewohnheit nun ganz und gar hineingekommen und durchaus nicht willens bin, jemals wieder hinauszukommen. – Ich meine nämlich, die geistige Kraft, die unbekannte Macht, oder wie man sonst das über uns waltende Prinzip nennen mag, welches mir besagte Gewohnheit ohne meine Zustimmung gewissermaßen aufgedrungen hat, kann unmöglich schlechtere Gesinnungen haben als der freundliche Mann, bei dem ich Kondition gegangen, und der mir das Gericht Fische, das er mir vorgesetzt, niemals vor der Nase wegzieht, wenn es mir eben recht wohlschmeckt.
@@ -392,8 +387,7 @@ Der Geheime Rat umarmte entzückt den Meister, aber Kreisler trat zwischen beide
 »Glückselig,« rief der Geheime Rat, »glückselig, heilbringend also die Katastrophe, die dich aus den Fesseln befreite!«
 »Sage das nicht,« erwiderte Kreisler, »zu spät trat die Befreiung ein. Mir geht es wie jenem Gefangenen, der, als er endlich befreit wurde, dem Getümmel der Welt, ja dem Licht des Tages so entwöhnt war, daß er nicht vermögend, der goldnen Freiheit zu genießen, und sich wieder zurücksehnte in den Kerker.«
 »Das ist,« nahm Meister Abraham das Wort, »das ist nun eine von Euern konfusen Ideen, Johannes, mit denen Ihr Euch und andere plagt! – Geht! geht! – Immer hat es das Schicksal mit Euch gut gemeint, aber daß Ihr nun einmal nicht im gewöhnlichen Trott bleiben könnt, daß Ihr rechts, links herausspringt aus dem Wege, daran ist niemand schuld als Ihr selbst. Recht habt Ihr indessen wohl, daß, was Eure Knabenjahre betrifft, Euer Stern besonders waltete, und – –«
-Zweiter Abschnitt
-Zweiter Abschnitt
+##Zweiter Abschnitt
 Lebenserfahrungen des Jünglings
 Auch ich war in Arkadien
 (M. f. f.)
@@ -783,8 +777,7 @@ Dabei blieb es, unerachtet die Benzon verletzt schien durch Kreislers Schweigen.
 Der Kapellmeister begleitete die Rätin mit Julien bis ans Schloß, dann begab er sich auf den Rückweg nach Sieghartsweiler. Sowie er in den Laubgängen des Parks verschwunden, trat der Adjutant des Prinzen aus dem Pavillon und verfolgte denselben Weg, den Kreisler genommen. Bald darauf fiel tief im Walde ein Schuß!
 In derselben Nacht verließ der Prinz Sieghartsweiler, er hatte sich bei dem Fürsten schriftlich beurlaubt und baldige Rückkehr versprochen. Als am andern Morgen der Gärtner mit seinen Leuten den Park durchsuchte, fand er Kreislers Hut, an dem blutige Spuren befindlich. Er selbst war und blieb verschwunden. Man –
 #Zweiter Band
-Dritter Abschnitt
-Dritter Abschnitt
+##Dritter Abschnitt
 Die Lehrmonate
 Launisches Spiel des Zufalls
 (M. f. f.)
@@ -1266,8 +1259,7 @@ Kreisler begab sich mit dem Pater Hilarius, der mit einem halbängstlichen »bib
 »Gewiß,« erwiderte Kreisler, »gewiß hat es mit diesem Cyprianus eine eigne Bewandtnis, und mich sollt' es wundern, wenn nicht gewisse Beziehungen sich sehr bald kundtun sollten.«
 Pater Hilarius begab sich zu den Brüdern, um mit ihnen in feierlicher Prozession, das Kreuz vorauf, die Laienbrüder mit angezündeten Kerzen und Fahnen an den Seiten, in die Kirche zu ziehen.
 Als nun der Abt mit dem fremden Mönch dicht bei Kreisler vorüberkam, erkannte dieser auf den ersten Blick, daß Bruder Cyprianus eben der Jüngling war, den auf jenem Bilde die heilige Jungfrau aus dem Tode zum Leben erweckte. – Doch noch eine Ahnung erfaßte Kreislern plötzlich. Er rannte herauf in sein Zimmer, er holte das kleine Bildnis hervor, das ihm Meister Abraham gegeben; kein Zweifel! er erblickte denselben Jüngling, nur jünger, frischer und in Offizieruniform abgebildet. – Als nun –
-Vierter Abschnitt
-Vierter Abschnitt
+##Vierter Abschnitt
 Erspriessliche Folgen höherer Kultur
 Die reiferen Monate des Mannes
 (M.f.f.)
