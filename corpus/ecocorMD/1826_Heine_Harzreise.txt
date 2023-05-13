@@ -1,6 +1,7 @@
-﻿Die Harzreise
+^
+Die Harzreise
 1824
-
+#
 Nichts ist dauernd als der Wechsel; nichts beständig als der Tod. Jeder Schlag des Herzens schlägt uns eine Wunde, und das Leben wäre ein ewiges Verbluten, wenn nicht die Dichtkunst wäre. Sie gewährt uns, was uns die Natur versagt: eine goldene Zeit, die nicht rostet, einen Frühling, der nicht abblüht, wolkenloses Glück und ewige Jugend.
 Börne
 
