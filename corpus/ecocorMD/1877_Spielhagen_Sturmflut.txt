@@ -1,8 +1,8 @@
 ^
 Sturmflut
 
-                                  Erstes Buch
-
+#                                  Erstes Buch
+##
 Das Wetter war gegen Abend unfreundlicher geworden. Auf dem Vorderdeck hatten
 sich die Gruppen der Erdarbeiter, die nach Sundin an die neue Eisenbahn
 wollten, enger zwischen den hochgestapelten Fässern, Kisten und Kasten
@@ -223,7 +223,7 @@ Genüge, daß die Voraussage des »Unermüdlichen« eingetroffen und der Dampfer
 aufgelaufen war.
 
 *
-
+##
 Alle Anstrengungen, das Schiff abzubringen, hatten sich als vergeblich
 erwiesen, ja, man durfte von Glück sagen, daß bei der gefährlichen Arbeit, die
 man ihr zumutete, die Schraube nicht gebrochen war. Auch war die Senkung des
@@ -385,7 +385,7 @@ Er bückte sich schnell, hob ihn auf und steckte ihn in die Tasche.
 Den bekommt sie nicht wieder, sagte er bei sich.
 
 *
-
+##
 Reinhold hatte recht gehabt: Es war kein Moment zu verlieren gewesen. Während
 das kleine Boot, dessen Steuer er führte, die schäumenden Wogen durchschnitt,
 überzog sich der Himmel immer mehr mit schwarzem Gewölk, das bald auch die
@@ -473,7 +473,7 @@ Ich erinnere mich, fiel der General ein, der zweite höhere Ufervorsprung nach
 Norden – rechts von uns. Wir können bis dahin kaum eine halbe Meile haben.
 
 *
-
+##
 Der Wald hatte sich aufgetan. In der Mitte des freien Platzes vor ihnen lag ein
 stattliches, mit Türmen, wie es schien, flankiertes Gebäude, dessen Fenster
 vielfach erleuchtet waren – ein hellerleuchtetes Schloß mitten im Walde –
@@ -576,7 +576,7 @@ folgen – so soll dies meine Strafe sein, so will ich jetzt Buße tun: in
 schwarzem Frack und Wasserstiefeln!
 
 *
-
+##
 Hat man den Herrn Kapitän nicht gerufen? fragte der Graf den Hausmeister.
 
 Zu Befehl, Herr Graf, vor einer Viertelstunde.
@@ -829,7 +829,7 @@ unfruchtbaren Wassern die Stätten bedecken wird, auf denen die Menschen bereits
 für alle Zeiten ihr Reich und ihre Herrschaft fest gegründet zu haben glaubten.
 
 *
-
+##
 Die Damen zogen sich, nachdem die Tafel aufgehoben, alsbald zurück. Frau von
 Strummin, die sonst um neun Uhr zu Bett zu gehen pflegte, war ernstlich müde.
 Mieting behauptete, es ebenfalls zu sein. Aber ihre glänzenden Augen
@@ -867,7 +867,7 @@ und darauf angewiesen ist! Schläfst du schon?
 Nein, aber ich bin sehr müde; gib nur einen Kuß, und dann geh' auch zu Bett!
 
 *
-
+##
 Auch die Herren waren nur noch kurze Zeit beisammen geblieben. Die von dem
 Grafen offerierten Zigarren fanden nur an Herrn von Strummin einen Liebhaber,
 da der General und der Präsident nicht rauchten, und Reinhold erklärte, für
@@ -975,8 +975,8 @@ Aber bin ich wirklich närrisch? Was soll denn das alles? Was ist denn das alles
 als tollste Phantasterei, deren du dich schämen solltest, deren du dich morgen
 schämen wirst! Morgen? Es ist schon Morgen!
 
-                                 Zweites Buch
-
+#                                 Zweites Buch
+##
 Die letzte Station, meine Herren! Darf ich um die Billetts bitten?
 
 Reinhold reichte dem Schaffner das Billett und warf einen Blick auf den
@@ -1178,7 +1178,7 @@ geflüsterte Stimme an seinem Ohre sagte: Vater haßt die Werbens; ich meine, de
 General – von achtundvierzig her –
 
 *
-
+##
 Reinhold hatte aus den wenigen kurzen Briefen, die er während dieser zehn Jahre
 aus dem Hause seiner Verwandten erhalten, so viel herausgelesen, daß Onkel
 Ernsts Geschäft mindestens nicht schlecht gegangen sein könne. – Die gewählte
@@ -1238,7 +1238,7 @@ Die Mahlzeit fängt gut an, dachte Reinhold, indem er zwischen dem Onkel und der
 Tante, Ferdinande gegenüber, Platz nahm.
 
 *
-
+##
 Indessen schienen glücklicherweise seine Befürchtungen nicht in Erfüllung gehen
 zu sollen. Zwar konnte Tante Rikchen nicht wohl den Mund öffnen, ohne daß Onkel
 Ernst ihr den Faden der Rede kurz abschnitt; auch mischte sich Ferdinande wenig
@@ -1435,7 +1435,7 @@ Es ist Justus! rief Tante Rikchen, ich dachte es doch! – Haben Sie schon
 gegessen?
 
 *
-
+##
 Noch nicht, Tante Rikchen, sagte der Eingetretene. – Guten Abend, meine
 Herrschaften! – Ich bitte um Entschuldigung, Herr Schmidt, daß ich so spät
 komme! – Herr Kapitän Schmidt? – Würde es an der Familienähnlichkeit sehen,
@@ -1683,7 +1683,7 @@ Blicke schienen über das Haus, das nun vor ihr lag, zu schweifen; dann kam sie
 um das Rondell herum – Ferdinande!
 
 *
-
+##
 An dem Eisengitter, das den etwas höher gelegenen Garten von dem Hofe trennte,
 tastete sich ein junges Mädchen hin. Sie ging langsam, gleichmäßigen Schrittes,
 in der erhobenen Linken einen Teller tragend, auf dem Butterbrote zu liegen
@@ -1783,7 +1783,7 @@ halte ich Sie so lange auf, und Sie haben so viel Wichtigeres zu tun! Auf
 Wiedersehen!
 
 *
-
+##
 Reinhold ließ seine Blicke um sich schweifen. Dieselbe Glocke, die vorhin, als
 Cilli aus dem Hause getreten, die Frühstückspause verkündete, erschallte jetzt
 abermals. Die Leute gingen wieder an die Arbeit. Um die Ecke des Hauses
@@ -2062,7 +2062,7 @@ Es war nicht nötig, aber ich habe doch gesehen, daß du zu mir stehst, wenn es
 an den Mann geht.
 
 *
-
+##
 Der junge Mann in Hemdärmeln, der Reinhold so wenig höflichen Bescheid gegeben,
 drohte, nachdem er die Tür wieder zugesperrt, mit der Faust und murmelte einen
 kräftigen Fluch in seiner Heimatsprache zwischen den scharfen weißen Zähnen.
@@ -2201,7 +2201,7 @@ Ich warte auf ihn, er hat sich noch nicht sehen lassen; gehen Sie mit Antonio
 immer voran; wir treffen uns bei den Skulpturen.
 
 *
-
+##
 Die Tür war ins Schloß gefallen, die Schritte der Fortgehenden verhallten –
 Ferdinande hatte sich noch nicht aus der Stellung bewegt.
 
@@ -2303,7 +2303,7 @@ zu beurteilen weiß, mit dem muß es ein Genuß sein, die Werke wahrer Künstler
 betrachten.
 
 *
-
+##
 Ich fürchte nun doch, ihr werdet mich so gründlich verwöhnen, daß ich mich nur
 schwer in mein einfaches Leben zurückfinde, sagte Reinhold, als er in des
 Onkels Equipage an Ferdinandes Seite durch die Tiergartenstraße dem
@@ -2537,7 +2537,7 @@ Ich gehe! rief Reinhold.
 Tun Sie's, es ist besser! Hier – haben Sie noch eine Hand! Auf Wiedersehen!
 
 *
-
+##
 Ferdinande hatte in dem Uhrsaale mit den Damen ihrer Bekanntschaft nur so lange
 gesprochen, bis sie zu bemerken glaubte, daß Reinhold, der sich wiederholt nach
 ihr umgeblickt, sie für den Augenblick außer acht ließ und sich ganz der
@@ -2667,7 +2667,7 @@ er stand. In demselben Moment verschwand ein auffallend schöner, elegant
 gekleideter junger Mann aus der Tür am andern Ende der Galerie.
 
 *
-
+##
 Zwei Damen hatten sich auf eines der wenigen Sofas geflüchtet, deren die
 Ausstellung sich rühmen konnte. Neben ihnen stand ein Herr, dessen zerstreute
 und abgespannte Miene deutlich genug verriet, wie gern er sich ebenfalls
@@ -2806,7 +2806,7 @@ es Fürst Prora? Ihr Schlößchen auf Golmberg soll ja noch schöner liegen als
 sein berühmtes Jagdschloß?
 
 *
-
+##
 Reinhold stand eben, ratlos, ob er weitergehen oder wieder umkehren solle, als
 eine Hand in gelbem Glacé seine Schulter berührte. – Da hätte ich dich endlich!
 
@@ -2948,7 +2948,7 @@ Jetzt weiß ich, von wem die Briefe sind, in denen sie so viel liest! – Du
 sollst es bezahlen, murmelte er durch die weißen Zähne.
 
 *
-
+##
 An demselben Abend saßen in einem eleganten Salon des Hotel Royal unter den
 Linden an einem mit Karten und Plänen bedeckten Tische Graf Golm und der
 Geheimrat Schieler. Die Herren hatten über einer Flasche Wein lange und eifrig
@@ -3281,7 +3281,7 @@ selbstverständlich zu einer hohen Ehre schätzen würde, die persönliche
 Bekanntschaft des Herrn Grafen zu machen.
 
 *
-
+##
 Philipp ging in seinem Arbeitskabinett ungeduldig auf und ab, setzte sich
 wieder an den Schreibtisch, drückte auf die Feder eines geheimen Schubfaches,
 nahm das Billett des Geheimrats heraus, eigentlich nur, um sich zu
@@ -3487,8 +3487,8 @@ die etwas zurückstanden, etwas besonders Komisches haben. Sie tauschten
 schnelle Blicke untereinander aus und verzogen sämtlich die Gesichter zu einem
 schadenfrohen Lächeln.
 
-                                 Drittes Buch
-
+#                                 Drittes Buch
+##
 Der General arbeitete in seinem Kabinett; Tante Sidonie schrieb vermutlich an
 ihrem »Hofhaushalt«; Ottomar war noch nicht vom Exerzieren zurück; Else hatte
 ihre Wirtschaft in Ordnung gebracht, sich angezogen und jetzt, vor dem
@@ -3769,7 +3769,7 @@ Das hätte sich nun ausgeflattert, lieber Schmetterling. Es muß eben alles
 einmal ein Ende nehmen – so oder so!
 
 *
-
+##
 Reinhold hatte sich gestern vergeblich bemüht, den Onkel zu überreden, in die
 von den Arbeitern geforderte Lohnerhöhung wenigstens diesmal zu willigen: Der
 Schaden liege zu augenscheinlich auf seiner Seite, wenn er durch den von den
@@ -4118,7 +4118,7 @@ Er goß ein zweites Glas hinunter.
 Die rote Wolke auf der Stirn war nur noch dunkler geworden.
 
 *
-
+##
 Reinhold wollte die Zwischenzeit benutzen, dem alten Buchhalter, den er im
 Laufe der letzten Tage wiederholt gesprochen und als einen zwar wunderlichen,
 aber trefflichen und rechtschaffenen Menschen kennengelernt, nach der soeben
@@ -4303,7 +4303,7 @@ wie er die Süßigkeit ihres ersten Kusses trank: Heute abend? – Was du willst
 Acht Uhr, im Bellevuegarten! – Wie du willst!
 
 *
-
+##
 Ferdinande hatte sich längst von jeder Beaufsichtigung ihrer Tante frei
 gemacht. Sie war gewohnt, zu gehen und zu kommen, wie es ihr beliebte; die
 einzige Rücksicht, die sie zu nehmen hatte, war, daß sie sich pünktlich zu den
@@ -4389,7 +4389,7 @@ Aber er, den sie hinter sich fürchtete, war ihr in diesem Augenblicke schon
 weit voraus.
 
 *
-
+##
 Unterdessen war die Droschke nur eine ganz kurze Strecke gefahren, bis zum
 Eingang in den Bellevuegarten. – Es ist absolut sicher hier, ich schwöre es
 dir, hatte Ottomar geflüstert, als er Ferdinande beim Aussteigen half. Der
@@ -4523,7 +4523,7 @@ nun zu tun war.
 Die Jagd aufgeben! Es blieb nichts übrig.
 
 *
-
+##
 Die drei nicht eben großen Zimmer in dem oberen Stock der von dem General
 bewohnten kleinen Villa in der Springbrunnenstraße waren zum Empfang der
 Gesellschaft hergerichtet. Das nach hinten gelegene größere, »der Saal«
@@ -4728,7 +4728,7 @@ gleich hat an die Tür führen lassen. Das fehlte eigentlich nur. Strapazieren
 Sie sich nur nicht so, Herr Graf! Es hilft Ihnen doch nichts!
 
 *
-
+##
 Der Graf war vor wenigen Minuten eingetreten, in seiner Landstandsuniform und
 mit dem Johanniterkreuz. Der Salon hatte sich mittlerweile beinahe gefüllt, und
 es hatte ihn einige Mühe gekostet, zu den Damen des Hauses durchzudringen. Else
@@ -4811,7 +4811,7 @@ einmal gänzlich mißlang, mit einem ärgerlich geschnarrten: Ah, Ah, Herr Kapit
 – sehr erfreut, an ihm vorbeischlüpfte? Was kam darauf an?
 
 *
-
+##
 Sind Sie nicht engagiert? fragte eine tiefe Stimme hinter Reinhold.
 
 Reinhold wandte sich: Nein, Herr General.
@@ -4944,7 +4944,7 @@ Uniform aufreißend, in die Tasche steckte.
 Der Unglückliche! murmelte er.
 
 *
-
+##
 Der Vater stand an seinem Arbeitstisch, über dem die Hängelampe brannte. Auch
 auf der Konsole vor dem Spiegel brannten die Lampen noch, es war unheimlich
 hell in dem Zimmer, und unheimlich aufgeräumt, obgleich es heute genau so war,
@@ -5201,7 +5201,7 @@ Liebling. Vielleicht soll ich dafür bestraft werden, daß ich so unsäglich sto
 auf ihn war.
 
 *
-
+##
 Warum hat denn mein Bruder heute schon um vier Uhr nach dem Kaffee geschellt?
 fragte Tante Rikchen in der Küche.
 
@@ -5386,7 +5386,7 @@ Ich habe auch nicht geschlafen, erwiderte der General mit einem melancholischen
 Lächeln.
 
 *
-
+##
 Die beiden Männer standen einander gegenüber, sich mit den Blicken gegenseitig
 messend, wie zwei Athleten, die in einen Kampf auf Tod und Leben gehen und sich
 doch nicht enthalten können, jeder des andern herrliche Erscheinung zu
@@ -5727,7 +5727,7 @@ nicht sein; es galt noch einen Kampf – den schwersten – den Kampf mit seinem
 Fleisch und Blut.
 
 *
-
+##
 Für Ferdinande hatte die Nacht keine Schrecken, der Morgen keine Dunkelheit
 gehabt. In ihrer Seele war es hellichter Tag, seit vielen Monaten zum ersten
 Male, ja, wie sie meinte, zum ersten Male, seitdem sie wußte, welch ein
@@ -5893,8 +5893,8 @@ Besser den Tod als ein ehrloses Leben.
 Er schritt an Reinhold vorüber in das Haus. Reinhold wagte nicht, ihm zu
 folgen. Er wußte, daß es vergeblich sein würde.
 
-                                 Viertes Buch
-
+#                                 Viertes Buch
+##
 In einem goldstrahlenden Salon des Hotel Royal schritt – wenige Tage später –
 die Baronin Valerie von Warnow unruhevoll auf und nieder. Sie hatte, auf
 Giraldis Rat, ihre gestern abend erfolgte Ankunft heute morgen in das Haus des
@@ -6208,7 +6208,7 @@ Vergebens, vergebens! murmelte sie. Ich werde mich nie frei machen können, nie!
 Er ist der tausendmal Stärkere, und er weiß es – nur zu gut!
 
 *
-
+##
 Sidonie rauschte durch die Tür und stand einer schlanken, blassen Dame
 gegenüber, die, sich auf Elses Arm stützend, ihr eine schmale, weiße Hand
 entgegenstreckte und wohl gewiß ihre Schwester Valerie war, nur, daß sie der
@@ -6256,7 +6256,7 @@ sie so lange allein ließ? Welche Absicht verfolgte er dabei, er, der niemals
 etwas tat ohne eine bestimmte Absicht!
 
 *
-
+##
 Der Eintritt des Grafen in den Salon war für die Baronin überraschend genug
 gewesen; aber ein Augenblick hatte für die Kluge hingereicht, um den
 Zusammenhang herauszufinden und daß diese Überraschung ein Werk Giraldis sei,
@@ -6300,7 +6300,7 @@ Die Gesellschaft war fort; Giraldi, der sie bis an die Tür begleitet, kam
 wieder zurück, langsamen Schrittes mit erhobenem Haupt.
 
 *
-
+##
 Der Herbst war gekommen und machte seine Herrschaft ungestüm geltend; es waren
 dunkle, häßliche Tage.
 
@@ -6461,7 +6461,7 @@ zuvor? Und wenn sie je erführe, daß ich es gewesen bin – aber darin hat der
 Signor recht: Eines bleibt mir immer, das Letzte, das Beste – die Rache!
 
 *
-
+##
 Die Freunde hatten in letzter Zeit, als Ferdinande noch das Bett hütete, Onkel
 Ernst sein Zimmer fast nicht mehr verließ und das Schmidtsche Familienleben
 infolgedessen so gut wie zerstört war, ihre Abende ziemlich gleichmäßig, wie
@@ -6522,7 +6522,7 @@ sofort betreffenden Ortes vorzustellen habe, da er spätestens am ersten
 Dezember seinen Posten antreten müsse.
 
 *
-
+##
 Muß ich dem Droschkenkutscher für meine kleine Person und meinen kleinen Koffer
 wirklich zwanzig Silbergroschen bezahlen? fragte Mieting, die Tür zu Elses
 Zimmern aufreißend.
@@ -6701,7 +6701,7 @@ dem Reden fast die Augen zu, und Else brachte sie zu Bett und küßte das gute
 Kind, das seine Arme um ihren Hals schlang.
 
 *
-
+##
 In den nächsten Tagen hatte Else mehr als gewöhnlich in der Wirtschaft zu tun,
 und eine andere Angelegenheit nahm ihr Interesse gebieterisch in Anspruch. Es
 fand bei dem Vater, nachdem nun beinahe zwei Monate lang hinüber und herüber
@@ -6827,7 +6827,7 @@ wurden ihre Augen immer starrer, ihr Atem immer schwerer, und dann drückte sie
 die Hände in die Augen, neigte ihren Kopf auf Mietings Brief und weinte.
 
 *
-
+##
 Drei Tage später – die herbstliche Sonne war im Untergehen, und es dämmerte
 bereits in dem weiten Gemache – saß Giraldi an seinem Schreibtisch in der Nähe
 des Fensters und durchlief die eingegangenen Briefe. Es hatte sich im Laufe des
@@ -6930,7 +6930,7 @@ Meinst du? erwiderte Giraldi. Was weißt denn du, Knabe, was ich vermag oder
 nicht vermag?
 
 *
-
+##
 Du sollst sehen, Carla, er kommt heute wieder nicht, sagte Frau von Wallbach,
 eine womöglich noch bequemere Lage in ihrem Fauteuil versuchend.
 
@@ -7143,7 +7143,7 @@ Hier haben Sie sie!
 Und auf beide drücke ich als Siegel der Bestätigung meine Lippen.
 
 *
-
+##
 Ach, der Herr Kapitän! rief August, Reinhold auf dem Vorsaal erblickend.
 
 Der Herr Kapitän stand bei August in großer Gunst, und der Herr Kapitän, der
@@ -7323,7 +7323,7 @@ Wer sich von dir geliebt weiß, flüsterte Reinhold, der fürchtet auf der Welt
 nur eines: deine Liebe nicht zu verdienen!
 
 *
-
+##
 Die Freunde wanderten auf dem hellerleuchteten Perron, der Abfahrt des Zuges
 harrend.
 
@@ -7545,8 +7545,8 @@ leuchteten, die goldenen Sterne, – und größer, prächtiger als alle, der Ste
 seiner Liebe – heute sollte er verzagen? Nimmermehr! Mochte die Sturmflut
 kommen – sie würde ihn bereit, sie würde ihn auf seinem Posten finden.
 
-                                 Fünftes Buch
-
+#                                 Fünftes Buch
+##
 Auf Schloß Warnow hatte die Gesellschaft seit einer Stunde abgespeist; Frau von
 Wallbach, Else und Graf Golm, der zu Mittag geladen gewesen, saßen in dem Salon
 um den Kamin, in dem nur ein spärliches Feuer brannte. Es war den ganzen Tag,
@@ -7737,7 +7737,7 @@ haben. Unsere Aktien können ja wieder steigen. Und – der Steinklopfer läuft 
 nicht weg!
 
 *
-
+##
 Else hatte die Zeit zu einem Spaziergange benutzen und – da sie Carla und den
 Grafen bereits entfernt glaubte – Frau von Wallbach aus Höflichkeit zur
 Begleitung auffordern wollen. Hut und Tuch bereits in der Hand, war sie, aus
@@ -7785,7 +7785,7 @@ Stirn zu kühlen, die brennenden Augen zu erquicken, und wär's durch eine Trän
 ungestillter Sehnsucht nur.
 
 *
-
+##
 Kein größerer Baum, hier und da nur ein paar verkrüppelte Weiden und wüstes
 Gesträuch an den Gräben, die sich hinüber und herüber zogen, und an dem
 breiteren, träge fließenden Bach, den sie jetzt auf einer baufälligen,
@@ -8063,7 +8063,7 @@ Der Graf zog mit höhnischem Gelächter den Hut, warf das Pferd abermals herum
 und jagte, seitwärts ab, in die Senkung zurück, aus der er hervorgekommen war.
 
 *
-
+##
 Es war bis nach Hause wenig zwischen den Damen gesprochen worden. Die Tante
 schien unter einer tiefen Abspannung zu leiden; dazu die unsichere, eilige
 Fahrt auf dem schlechten Wege, der sich, wie Reinhold vorausgesagt, bei der
@@ -8231,7 +8231,7 @@ zurückgekehrt ist und ebenfalls sein Erbe verscherzt hat – ich will ihm die
 Antwort nicht schuldig bleiben.
 
 *
-
+##
 Auch durch Berlins geradzeilige Straßen sauste heute abend der Sturm.
 
 Mag er doch! Was kümmert's uns!
@@ -8539,8 +8539,8 @@ war verschlossen! Da rechts neben dem Drücker dasselbe Schloß wie an der
 Tapetentür – nicht größer als die Schlüsselöffnung auf dem Zifferblatt einer
 Stutzuhr! Er war gefangen!
 
-                                 Sechstes Buch
-
+#                                 Sechstes Buch
+##
 Der General war an seinen Arbeitstisch getreten, auf dem ein Brief, den vor
 einer Viertelstunde Herr von Wallbach durch seinen Diener gesandt hatte, offen
 lag. Vornübergebeugt, die Hand auf den Tisch stemmend, in dumpfer Betäubung,
@@ -8833,7 +8833,7 @@ Augen lud er die zweite, mit der er den Schurken niederschießen wollte, der mit
 teuflischer Arglist seinen Sohn in Schande und Tod gelockt.
 
 *
-
+##
 Ferdinande war heute wie immer zur gewohnten Stunde in ihr Atelier gegangen;
 sie hatte sogar zu arbeiten versucht; aber mit welcher stählernen Energie und
 wie lange sie sich nun auch bereits geübt, ihr Talent unter ihren Willen zu
@@ -8900,7 +8900,7 @@ Nun war es still geworden, nur der Sturm sauste und heulte um das stille Haus
 und rasselte und rüttelte an dem hohen Fenster.
 
 *
-
+##
 Onkel Ernst, der, die Hände auf dem Rücken, in dem Zimmer auf- und nieder
 geschritten war, hatte, in dumpfes Grübeln versunken, die leise Tür nicht gehen
 hören. Jetzt, am andern Ende des Zimmers angekommen, wandte er sich und zuckte
@@ -9013,7 +9013,7 @@ gewiß aufgeweckt! Aber die Augen waren noch immer halb geschlossen, und sie
 lächelte wie vorhin.
 
 *
-
+##
 Es war wenige Minuten vor zwölf, als an dem Abfahrtperron des Berlin-Sundiner
 Bahnhofes eine Droschke vorfuhr, von deren Bock August schnell herabsprang, dem
 General herauszuhelfen. Der General stieg die Stufen hinauf, während August
@@ -9343,7 +9343,7 @@ Onkel Ernst trat heran: Ich muß Ihnen Lebewohl sagen, Herr General.
 Ich komme mit Ihnen.
 
 *
-
+##
 Auf Schloß Warnow hatte niemand geschlafen, außer Frau von Wallbach. Und auch
 sie war wiederholt durch seltsame Geräusche geweckt oder doch beinahe geweckt
 worden. Was das wohl gewesen sein möge? – Die Kammerjungfer, die ihr die
@@ -9491,7 +9491,7 @@ Valerie nahm die kalte, starre Hand.
 Er wird wiederkehren, Else!
 
 *
-
+##
 Es war gegen vier Uhr nachmittags.
 
 Frau von Wallbach saß vor dem Kamin, starrte in die Kohlen, die man nach vielen
@@ -9632,7 +9632,7 @@ Und wie zur Antwort auf des Meisters Stimme aus dem Abgrund der Hölle, die er
 gerufen, heulte und gellte es um Warnow-Schloß.
 
 *
-
+##
 Carla, sagte der Graf.
 
 Er hatte sein Pferd dicht an das ihre herangedrängt, sie bog sich zu ihm
@@ -9891,7 +9891,7 @@ Und der Unglückselige schrie laut auf in seiner Angst und schlug die Hände vor
 das Gesicht und wimmerte und weinte wie ein Kind.
 
 *
-
+##
 Es ist halb fünf Uhr, sagte Else; wir müssen fort.
 
 Bleib' du hier!
@@ -10058,7 +10058,7 @@ Gefahr für die beiden, von denen er nichts wissen wollte, als daß es Menschen
 waren, die ohne ihn verloren sein mußten.
 
 *
-
+##
 In der großen, vom Rauch schlechten Tabaks und dem Mißduft verschütteten Bieres
 und Branntweins erfüllten Gaststube im Wirtshaus von Warnow lärmten die heute
 morgen angekommenen Fuhrknechte, zu denen sich im Laufe des Nachmittags ein
@@ -10237,7 +10237,7 @@ Lebensgefahr sei. Was war das für ein Steg? Wo war der Steg?
 Er lief rufend, schreiend dem Kutscher nach. Der Mann hörte nicht.
 
 *
-
+##
 Giraldi sah nach der Uhr, es war in zehn Minuten sechs. François, der bereits
 vor einer halben Stunde zurückgekommen, hatte geschworen, er sei überzeugt,
 Madame würde sich sogleich hinter ihm her auf den Weg gemacht haben. Der Weg
@@ -10343,7 +10343,7 @@ ihnen den einen senden möge, den einzigen, der sie erretten könnte aus dieser
 gräßlichen Not.
 
 *
-
+##
 Ferdinande war, als Ottomars Schritt über den Flur die knarrende Treppe hinab
 verhallte, aufgesprungen und ein paarmal in dem kleinen Zimmer hin und her
 geschritten, dann hatte sie sich wieder auf das Sofa geworfen, wie Ottomar sie
@@ -10464,7 +10464,7 @@ Menschen mit den flatternden schwarzen Haaren, der in seiner Hand ein blutiges
 Messer schwang, auf die Seite wichen.
 
 *
-
+##
 Wollen Sie mich fahren, Freund?
 
 Wohin, Herr?
@@ -10624,7 +10624,7 @@ Die sind ersoffen wie Katzen, und mein schöner neuer Holsteiner – daß ich da
 Dem aus Neuenfähr war, als ob er jetzt doch wohl nicht fluchen dürfe.
 
 *
-
+##
 Die zuerst Gekommenen brauchten den Herzulaufenden die Unglücksstelle nicht
 mehr zu zeigen. Es konnte jeder den weißangestrichenen Altan drüben sehen und
 die schwarzen Frauengestalten – einmal zwei, dann wieder nur eine, die vorhin –
@@ -10756,7 +10756,7 @@ seine Sache, und die sechs an den Rudern verstanden ihre Sache auch, und es
 würde wiederkehren, gerettet, die Geretteten tragend aus Sturm und Flut.
 
 *
-
+##
 Die sinkende Sonne stand nicht mehr hoch über den Hügeln. In ihrem magischen
 Licht erglänzte die stille Wasserfläche, die das ungeheure Halbrund zwischen
 dem Golmberge und dem Wissower Haken bedeckte. Die schrägen, rotgoldenen
