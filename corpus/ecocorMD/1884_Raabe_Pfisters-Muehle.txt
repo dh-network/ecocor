@@ -9,7 +9,7 @@ WELCHER DAS LACHEN, ALS DER,
 WELCHER DAS WEINEN NICHT HALTEN KANN
 Seneca, Von der Gemütsruhe
 
-Erstes Blatt
+#Erstes Blatt
 
 Von alten und neuen Wundern
 
@@ -101,7 +101,7 @@ im Druck vielleicht einmal drei Kreuze stehen, und mich hinunterziehen zu
 lassen unter die alten Kastanienbäume, in deren Wipfel die wilden Tauben immer
 noch in den Sommermorgen hineingurrten.
 
-Zweites Blatt
+#Zweites Blatt
 
 Zu leeren Tischen und Bänken
 
@@ -200,7 +200,7 @@ andern Namen. Auch mein väterlich Anwesen hat seine Stelle in mehr als einem
 dafür, daß künftige Generationen, wenn sie ja noch singen, nicht mehr von ihm
 singen werden.
 
-Drittes Blatt
+#Drittes Blatt
 
 Wie Sardes, Frau!
 
@@ -383,7 +383,7 @@ letzte wirkliche Herr und Wirt des guten Ortes sich in Nebel und Nichts
 auflösen können, während sein letzter Stammgast noch seinen Platz auf der Bank
 und am Tische festhielt?
 
-Viertes Blatt
+#Viertes Blatt
 
 Herein von der Gänseweide
 
@@ -513,7 +513,7 @@ eignen wilden Dorfindianer und eheleiblichen Tagedieb gesetzt.«
 »Reden Sie sich nicht um Ihren Hals, Vater Pfister!« hat mein Freund und
 Gönner, Doktor Adam Asche, gelacht.
 
-Fünftes Blatt
+#Fünftes Blatt
 
 Hinter dem Beutelkasten und unter den Kastanien
 
@@ -763,7 +763,7 @@ mich am Arm und verzog sich selber mit mir aus der Brüder wildem Reihen.«
 »In den Frieden der Natur!« zitierte Emmy eine der mannigfachen Redensarten
 ihres Freundes A. A. Asche.
 
-Sechstes Blatt
+#Sechstes Blatt
 
 Eine nachdenkliche Frage
 
@@ -995,7 +995,7 @@ in goldenem Rahmen zusammensuchte und -trug.
 Daß man der Dornen acht',
 Das haben die Rosen gemacht.
 
-Siebentes Blatt
+#Siebentes Blatt
 
 Da trippelten den Bach entlang
 Gar wunderliche Gäste
@@ -1181,7 +1181,7 @@ Herrgott, und wie wird's mir sein, wenn auch ich in den allernächsten Tagen
 schon hierher nur noch zurückdenken kann und alles ist, als ob alles gar nicht
 gewesen wäre!«
 
-Achtes Blatt
+#Achtes Blatt
 
 Wie es anfing, übel zu riechen in Pfisters Mühle.
 
@@ -1446,7 +1446,7 @@ das richtige Wort; ich roch vielmehr in sie hinaus und mußte augenblicklich
 Emmy vollständig recht geben, wenn sie vorhin den letzten Wirt von Pfisters
 Mühle in seiner Verzweiflung und meiner Erzählung gar nicht begriffen hatte.
 
-Neuntes Blatt
+#Neuntes Blatt
 
 Wie es eben bei dem Doktor Adam Asche noch viel übler roch.
 
@@ -1808,7 +1808,7 @@ herzlichen Lachen in seiner alten Weise gekommen, ehe es aus mit ihm war.
 
 Wo bleiben alle die Bilder?
 
-Zehntes Blatt
+#Zehntes Blatt
 
 Der Blaue Bock und ein Tag Adams und Evas in der Schlehengasse
 
@@ -2086,7 +2086,7 @@ Asches:
 
 »Wie ich glaube, können wir allmählich auch gehen.«
 
-Elftes Blatt
+#Elftes Blatt
 
 Auf dem Stadtwege nach Pfisters Mühle
 
@@ -2361,7 +2361,7 @@ Herr Doktor Asche! – Herr Eberhard Pfister junior – meine Tochter Albertine!
 Ja, Ihr Herr Vater war so freundlich, uns zu dem heutigen Festabend einzuladen,
 lieber Ebert!«
 
-Zwölftes Blatt
+#Zwölftes Blatt
 
 Unter Vater Pfisters Weihnachtsbaum
 
@@ -2589,7 +2589,7 @@ hinbrummen:
 »Das ist wirklich ein merkwürdig nettes Mädchen – ein ganz liebes Kind und,
 wenn der erste Eindruck nicht vollkommen täuscht, auch gar nicht dumm!«
 
-Dreizehntes Blatt
+#Dreizehntes Blatt
 
 Vater Pfisters Elend unterm Mikroskop
 
@@ -2808,7 +2808,7 @@ nehme dir es gewiß nicht übel. Ich habe ja aber auch zu Hause bei Papa
 eigentlich nur mit ihm auf seinem Kirchhofe botanisieren können, und da – da –
 du weißt ja selber, wie auch du mir dazwischen gekommen bist!«
 
-Vierzehntes Blatt
+#Vierzehntes Blatt
 
 Krickerode
 
@@ -3329,7 +3329,7 @@ Erfahrnisse des gestrigen und heutigen Tages von Berlin aus schicken. Überlege
 es dir, überlege es mit ihm, ob es ihm das brave, gute Herz viel erleichtern
 wird, wenn er sich damit an einen Advokaten wendet.«
 
-Fünfzehntes Blatt
+#Fünfzehntes Blatt
 
 In versunkenen Kriegesschanzen
 
@@ -3594,7 +3594,7 @@ würdiger Freund und Gönner; aber nun auch im vollsten Vertrauen – jetzt sage
 Sie mir mal um Gottes willen, weshalb haben Sie eigentlich Krickerode nicht
 mitgegründet?«
 
-Sechzehntes Blatt
+#Sechzehntes Blatt
 
 Emmy auf dem Schubkarren in meinem versinkenden Paradies
 
@@ -3808,7 +3808,7 @@ sich, mit dem Taschentuche sich Kühlung zuwehend, auf einem der Schubkarren,
 die man behufs der demnächst beginnenden Erdarbeiten unter den unschuldigen,
 lieben, vertrauensvollen Bäumen zusammengefahren hatte, hinsinken lassen.
 
-Siebzehntes Blatt
+#Siebzehntes Blatt
 
 Fräulein Albertine hat etwas nach Berlin zu bestellen
 
@@ -4026,7 +4026,7 @@ vor deiner eigenen Nase liegt, vir juvenis.« – – –
 sehr!« sagte Emmy, unter den Kastanien von Pfisters Mühle wieder ihren Arm in
 den meinigen hängend.
 
-Achtzehntes Blatt
+#Achtzehntes Blatt
 
 Ausführlicher über Jungfer Christine Voigt
 
@@ -4377,7 +4377,7 @@ Lichtkreis von Christinens kleiner Lampe zurück; aber wir saßen nicht nieder a
 Tisch, wir saßen auf unsern Reisekoffern einander gegenüber und verplauderten
 so den Rest des Abends.
 
-Neunzehntes Blatt
+#Neunzehntes Blatt
 
 Felix Lippoldes' erste durchschlagende Tragödie
 
@@ -4662,7 +4662,7 @@ die gebeugte Stirn und trocknete ihr mit dem Taschentuch, immer liebe,
 abgebrochene Trostworte flüsternd, die Tränen aus den Augen und von den
 runzligen Backen.
 
-Zwanzigstes Blatt
+#Zwanzigstes Blatt
 
 Alte, schöne Lieder von ferne; die letzte schöne, alte Müllerin auf dem
 Haustürtritt
@@ -4850,7 +4850,7 @@ sich, todmüde von dem fröhlichen Abend, nicht daran, daß sie im Eisenbahnwage
 stets leicht Kopfweh bekommt und unfähig wird, auf das Interessanteste
 hinzuhorchen.
 
-Einundzwanzigstes Blatt
+#Einundzwanzigstes Blatt
 
 Auf dem Schub und im Frieden
 
@@ -5082,7 +5082,7 @@ zureichendem Grunde Pfisters Mühle oder gar der große, unbekannte dramatische
 Dichter Doktor Felix Lippoldes an, da wir uns hatten und »die gute Albertine ja
 gottlob auch ihren Adam und ihre neue, feste Heimat!« –?
 
-Zweiundzwanzigstes Blatt
+#Zweiundzwanzigstes Blatt
 
 Von Vater Pfisters Testament, der Mühlen Ausgang und Fortbestehen, und wozu
 doch am Ende das Griechische nützt.
