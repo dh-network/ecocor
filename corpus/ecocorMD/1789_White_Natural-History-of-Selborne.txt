@@ -1,7 +1,7 @@
 ^
 THE NATURAL HISTORY OF SELBORNE. 
 
-LETTER I. 
+#LETTER I. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -34,7 +34,7 @@ As the parish still inclines down towards Wolmer Forest, at the juncture of the 
 
 BROAD LEAVED ELM. 
 
-LETTER II. 
+#LETTER II. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -79,7 +79,7 @@ During the time of incubation, the natural timidity of birds is greatly lessened
 
 FOSSIL SHELLS. 
 
-LETTER III. 
+#LETTER III. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -97,7 +97,7 @@ in diameter. But as these did not consist of firm stone, but were formed of a ki
 
 In the very thickest strata of our freestone, and at consider- able depths, well-diggers often find large scallops, or pectines, having both shells deeply striated, and ridged and furrowed alternately. They are highly impregnated with, if not \vholly composed of, the stone of the quarry, 
 
-LETTER IV. 
+#LETTER IV. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -127,7 +127,7 @@ very hard and heavy, and of a firm, compact texture, and com- posed of a small r
 
 From a notion of rendering their work the more elegant, and giving it a finish, masons chip this stone into small fragments about the size of the head of a large nail ; and then stick the pieces into the wet mortar along the joints of their freestone walls. This embellishment carries an odd appearance, and has occasioned strangers sometimes to ask us pleasantly, " Whether we fastened our walls together with tenpenny nails?" 
 
-LETTER V. 
+#LETTER V. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -173,7 +173,7 @@ FOREST OF WOLMER.
 
 the women weed the corn, and enjoy a second harvest in September by hop-picking. Formerly, in the dead months, they availed themselves greatly by spinning wool, for making of barragons, a genteel corded stuff, much in vogue at that time for summer wear, and chiefly manufactured at Alton, a neighbouring town, by some of the people called Quakers. The inhabitants enjoy a good share of health and longevity, and the parish swarms with children. 
 
-LETTER VI. 
+#LETTER VI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -214,7 +214,7 @@ DEER STEALING.
 
 exhibited, as served the country people for matter of talk and wonder for years afterwards. I saw myself one of the yeomen prickers single out a stag from the herd, and must confess that it was the most curious feat of activity I ever beheld, superior to any thing in Mr Astley's riding-school. The exertions made by the horse and deer much exceeded all my expecta- tions, though the former greatly excelled the latter in speed. When the devoted deer was separated from his companions, they gave him, by their watches, law, as they called it, for twenty minutes ; when, sounding their horns, the stop-dogs were permitted to pursue, and a most gallant scene ensued. 
 
-LETTER VII. 
+#LETTER VII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -250,7 +250,7 @@ The plea for these burnings is, that, when the old coat of heath, &c. is consume
 
 On two of the most conspicuous eminences of this forest, stand two arbours, or bowers, made of the boughs of oaks ; the one called Waldon Lodge, the other Brimstone Lodge : these the keepers renew annually, on the feast of St Barnabas, taking the old materials for a perquisite. The farm called Blackmoor, in this parish, is obliged to find the posts and brushwood for the former ; while the farms at Greatham, in rotation, furnish for the latter; and are all enjoined to cut and deliver the materials at the spot. This custom I mention, because I look upon it to be of very remote antiquity. 
 
-LETTER VIII. 
+#LETTER VIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -290,7 +290,7 @@ On the face of this expanse of waters, and perfectly secure from fowlers, lie al
 
 Yet neither its extent, nor the clearness of its water, nor the resort of various and curious fowls, nor its picturesque groups of cattle, can render this meer so remarkable, as the great quantity of coins that were found in its bed about forty years ago.* 
 
-LETTER IX. 
+#LETTER IX. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -334,7 +334,7 @@ The superiority of wood cut in winter arises from its being divested of sap at t
 
 2'2 MIGRATIONS. 
 
-LETTER X. 
+#LETTER X. 
 
 TO THOMAS PENNA1N 7 T, ESQ. 
 
@@ -393,7 +393,7 @@ answer to any of our English hawks ; neither could I find any like it at the cur
 
 The parish I live in is a very abrupt uneven country, full of hills and woods, and therefore full of birds. 
 
-LETTER XL 
+#LETTER XI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -445,7 +445,7 @@ I was much entertained last summer with a tame bat, which would take flies out o
 
 Bats drink on the wing, like swallows, by sipping the surface, as they play over pools and streams. They love to frequent waters, not only for the sake of drinking, but on account of insects, which are found over them in the greatest plenty. As I was going some years ago, pretty late, in a boat from Rich- mond to Sunbury, on a warm summer's evening, I think I saw myriads of bats between the two places ; the air swarmed with them all along the Thames, so that hundreds were in sight at a time. 
 
-LETTER XII. 
+#LETTER XII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -500,7 +500,7 @@ I acquiesce entirely in your opinion, that, though most of the swallow kind may 
 
 As to the short-winged soft-billed birds, which come trooping in such numbers in the spring, I am at a loss even what to suspect about them. I watched them narrowly this year, and saw them abound till about Michaelmas, when they appeared no longer. Subsist they cannot openly among us, and yet elude the eyes of the inquisitive ; and as to their hiding, no man pretends to have found any of them in a torpid state in the winter. But with regard to their migration, what difficulties attend that supposition ! that such feeble bad fliers (who the summer long never flit but from hedge to hedge) should be able to traverse vast seas and continents, in order to enjoy milder seasons amidst the regions of Africa! 
 
-LETTER XIII. 
+#LETTER XIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -562,7 +562,7 @@ SPIRACULA IN DEER.
 
 vegetation in general must have suffered prodigiously. There is reason to believe that some days were more severe than any since the year 1739-40. 
 
-LETTER XIV. 
+#LETTER XIV. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -586,7 +586,7 @@ OP. Cyn. Lib. ii. 1. 181.
 
 Writers, copying from one another, make Aristotle say, that goats breathe at their ears, whereas he asserts just the contrary : AXx/jbaicvv yao OVK aXqdri Xs^i, (pa/Atvog avaffvuv rag aiyag xara ra wra. " Alcmseon does not advance what is true, when he avers that goats breathe through their ears." History of Animals, Book i. chap. xi. 
 
-LETTER XV. 
+#LETTER XV. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -624,7 +624,7 @@ I wonder that the stone curlew, charadnus oedicnemus, should be mentioned by the
 
 I can shew you some good specimens of my new mice. Linnaeus, perhaps, would call the species mus minimus. 
 
-LETTER XVI. 
+#LETTER XVI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -728,7 +728,7 @@ TITMOUSE.
 
 glitters like burnished gold. It often hangs, like a titmouse, with its back downwards. * 
 
-LETTER XVII. 
+#LETTER XVII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -812,7 +812,7 @@ to sport in the water, perhaps with a view to procure frogs, and other food. *
 
 I cannot well guess how you are to make out your twelve species of reptiles, unless it be by the various species, or rather varieties, of our lacerti, of which Ray enumerates five. ) I have not had opportunity of ascertaining these, but remember well to have seen, formerly, several beautiful green lacerti on the sunny sandbanks near Farnham, in Surrey ; and Ray admits there are such in Ireland. 
 
-LETTER XVIII. 
+#LETTER XVIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -848,7 +848,7 @@ this invaluable nostrum for his own emolument ; or, at least, by some means of p
 
 The water-eft has not, that I can discern, the least appear- ance of any gills ; for want of which it is continually rising to the surface of the water to take in fresh air. I opened a big- bellied one, indeed, and found it full of spawn. Not that this circumstance at all invalidates the assertion that they are larva? ; for the larva of insects are full of eggs, which they exclude the instant they enter their last state. The water-eft is continually climbing over the brim of the vessel, within which we keep it in water, and wandering away ; and people every summer see numbers crawling out of the pools where they are hatched, upon the dry banks. There are varieties of them, differing in colour ; and some have fins up their tail and back, and some have not. * 
 
-LETTER XIX. 
+#LETTER XIX. 
 
 TO THOMAS PENNAN 7 T, ESQ. 
 
@@ -864,7 +864,7 @@ SANDPIPER BUTCHER-BIRD.
 
 which the others have not. This last haunts only the tops of trees in high beechen woods, and makes a sibilous grasshopper- like noise now and then, at short intervals, shivering a little with its wings when it sings ; and is, I make no doubt now, the regulus non cristatus of Ray ; which he says, " cantat voce striduld locustce" Yet this great ornithologist never suspected that there were three species. * 
 
-LETTER XX. 
+#LETTER XX. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -902,7 +902,7 @@ my favour ; and then, I think, we may advance this extraor- dinary provision of 
 
 As yet I have not quite done with my history of the oedicnemusi or stone-curlew ; for I shall desire a gentleman in Sussex, near whose house these birds congregate in vast flocks in the autumn, to observe nicely when they leave him, (if they do leave him,) and when they return again in the spring : I was with this gentleman lately, and saw several single birds. 
 
-LETTER XXI. 
+#LETTER XXI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -939,7 +939,7 @@ Your approbation with regard to my new discovery of the migration of the ringous
 
 I want to be better informed with regard to ichthyology. If fortune had settled me near the sea-side, or near some great river, my natural propensity would soon have urged me to have made myself acquainted with their productions ; but as I have lived mostly in inland parts, and in an upland district. my knowledge of fishes extends little farther than to those common sorts which our brooks and lakes produce. 
 
-LETTER XXII. 
+#LETTER XXII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -997,7 +997,7 @@ The vast rain ceased with us much about the same time as with you, and since, we
 
 GOAT-SUCKER. 
 
-LETTER XXIII. 
+#LETTER XXIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1027,7 +1027,7 @@ SALICARIA.
 
 These reflections made so strong an impression on my imagination, that they became productive of a composition, that may perhaps amuse you for a quarter of an hour when next I have the honour of writing to you. 
 
-LETTER XXIV. 
+#LETTER XXIV. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1090,7 +1090,7 @@ The new-mown hay that scents the swelling breeze, Or cottage chimney smoking thr
 
 The chilling night-dews fall : away, retire ; For see, the glow-worm lights her amorous fire ! * Thus, ere night's veil had half obscured the sky, Th' impatient damsel hung her lamp on high ; True to the signal, by love's meteor led, Leander hasten'd to his Hero's bed. 
 
-LETTER XXV. TO THE HON. DAINES BARRINGTON. 
+#LETTER XXV. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE, June 80, 1769. 
 
@@ -1100,31 +1100,31 @@ The following is a List of the Summer JBirds of Passage which I have discovered 
 
 KAII NOMIKA. USUALLY APPEARS ABOUT 
 
-##1. Wryneck, Yunx, sim tortilla. { ^* "' 
+1. Wryneck, Yunx, sim tortilla. { ^* "' 
 
-##2. Smallest willow- Regiilus non crista- March 23: chirps till 
+2. Smallest willow- Regiilus non crista- March 23: chirps till 
 
 wren, \ tus. \ September. 
 
-##3. Swallow, Hirundo domestica. April 13. 
+3. Swallow, Hirundo domestica. April 13. 
 
-##4. Marten, Hirundo rustica. Ditto. 
+4. Marten, Hirundo rustica. Ditto. 
 
-##5. Sand-marten, Hirunda riparia. Ditto. 
+5. Sand-marten, Hirunda riparia. Ditto. 
 
-##6. Black-cap, Atricapilla. Ditto : a sweet wild note. 
+6. Black-cap, Atricapilla. Ditto : a sweet wild note. 
 
-##7. Nightingale, Luscinia. Beginning of April. 
+7. Nightingale, Luscinia. Beginning of April. 
 
-##8. Cuckoo, Citculus. Middle of April. 
+8. Cuckoo, Citculus. Middle of April. 
 
-##9. Middle willow- JRegulus non crista- ( Ditto : a sweet plaintive 
+9. Middle willow- JRegulus non crista- ( Ditto : a sweet plaintive 
 
 wren, \ tus. \ note. 
 
 ,0. White-throat, Fibula affinis. 
 
-##11. Kedstart, RuticiUa. { Di s "ng. 
+11. Kedstart, RuticiUa. { Di s "ng. 
 
 * The light of the female glow-worm (as she often crawls up the stalk of a grass to make herself more conspicuous) is a signal to the male, which is a slender, dusky scardbceus. 
 
@@ -1134,19 +1134,19 @@ SUMMER BIRDS OF PASSAGE.
 
 si 7. fEnd of March. : loud 
 
-##12. Stone-curlew, Oedicnemus. | nocturnal whistle. 
+12. Stone-curlew, Oedicnemus. | nocturnal whistle. 
 
-##13. Turtle-dove, Turtur. 
+13. Turtle-dove, Turtur. 
 
  A1 j . . ("Middle of April: a small 
 
-##14. Grasshopper- (Alauda minima sibi]ous / ^ h 
+14. Grasshopper- (Alauda minima sibi]ous / ^ h 
 
 lark, \ locust* voce. | end of July. 
 
-##15. Swift, Hirundo apus. About April 27. 
+15. Swift, Hirundo apus. About April 27. 
 
-##16. Less reed-spar- Passer arundinaceus 
+16. Less reed-spar- Passer arundinaceus 
 
 minor. 
 
@@ -1156,19 +1156,19 @@ crex.
 
  Cantat voce stridula 
 
-##18. Largest willow- ( Regulus non crista- ] locusta : end of April, \ tus. j on the tops of high 
+18. Largest willow- ( Regulus non crista- ] locusta : end of April, \ tus. j on the tops of high 
 
 beeches. 
 
  j j V. 
 
-##19. Goat-sucker, or ^ r^; m ,,i, D ^r w n i g h t " 
+19. Goat-sucker, or ^ r^; m ,,i, D ^r w n i g h t " 
 
 singular noise. 
 
 p 
 
-##20. Fly-catcher, Stoparola. 
+20. Fly-catcher, Stoparola. 
 
 
 This assemblage of curious and amusing birds belongs to ten several genera of the Linnsean system ; and are all of the ordo of passer es, save \heyunx and cuculus, M r hich are piece, and the charadrius (oedicnemus) arid rallus, (ortygometra,) which are grallce. 
@@ -1233,21 +1233,21 @@ u walk.
 
 This is the smallest Bri- tish bird : haunts the tops of tall trees ; stays the winter through. 
 
-##1. Ringousel, 
+1. Ringousel, 
 
-##2. Redwing, 
+2. Redwing, 
 
-##3. Fieldfare, 
+3. Fieldfare, 
 
-##4. Royston-crow, 
+4. Royston-crow, 
 
-##5. Woodcock, 
+5. Woodcock, 
 
-##6. Snipe, 
+6. Snipe, 
 
-##7. Jack-snipe, 
+7. Jack-snipe, 
 
-##8. Wood-pigeon, 
+8. Wood-pigeon, 
 
 i 
 
@@ -1275,25 +1275,25 @@ lus feru Anser ferus.
 
 Anas fera fusca. Penelope. 
 
-##9. Wild-swan, 
+9. Wild-swan, 
 
-##10. Wild-goose. 
+10. Wild-goose. 
 
-##11. Wild-duck, 
+11. Wild-duck, 
 
-##12. Pochard, 
+12. Pochard, 
 
-##13. Widgeon, 
+13. Widgeon, 
 
-##14. Teal, breeds with') 
+14. Teal, breeds with') 
 
 us in Wolmer > Querquedula. Forest, ) 
 
-##15. Crossbeak, Coccothraustes. 
+15. Crossbeak, Coccothraustes. 
 
-##16. Crossbill, Loxia. ,.,., Garrulus Bohemi 
+16. Crossbill, Loxia. ,.,., Garrulus Bohemi 
 
-##17. Silk-tail, 
+17. Silk-tail, 
 
  Seldom appears till late; not in such plenty as (, formerly. On some large waters. 
 
@@ -1329,7 +1329,7 @@ Less reed-sparrow, \ ^^undinaceiis Among reeds and wil-
 
 I should now proceed to such birds as continue to sing after midsummer, but as they are rather numerous, they would exceed the bounds of this paper ; besides, as this is now the season for remarking on that subject, I am willing to repeat my observations on some birds, concerning the continuation of whose song I seem at present to have some doubt. 
 
-LETTER XXVL fej 
+#LETTER XXVI. fej 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1355,7 +1355,7 @@ SINGING BIRDS.
 
 A gentleman sent me lately a fine specimen of the lanius minpr cinerascens cum macula in scapulis alba, Rail ; which is a bird that, at the time of your publishing your two first volumes of British Zoology, I find you had not seen. You have described it well from Edward's drawing. * 
 
-LETTER XXVII. 
+#LETTER XXVII. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -1375,22 +1375,22 @@ Tin January, and
 
  tt*.&S V. autumn. 
 
-##2. Song-thrush, { ^ "" < ' 
+2. Song-thrush, { ^ "" < ' 
 
 
 j A1 Ditto. 
 
 C Early in 
 
-##6. Yellow-hammer, Emberiza flava. -<? on thro 
+6. Yellow-hammer, Emberiza flava. -<? on thro 
 
 (. August 
 
-##0. Wren, 
+0. Wren, 
 
-##4. Red-breast, 
+4. Red-breast, 
 
-##5. Hedge-sparrow, 
+5. Hedge-sparrow, 
 
 Passer troglodytes, 
 
@@ -1408,31 +1408,31 @@ which so affected the thoughtless woman, that she was taken seriously ill, in wh
 
 SINGING BIRDS. 
 
-##7. Skylark, Alauda vulgaris. {^ ^^ ""* t 
+7. Skylark, Alauda vulgaris. {^ ^^ ""* t 
 
-##8. Swallow, Hirundo domestica. From April to September. 
+8. Swallow, Hirundo domestica. From April to September. 
 
-##9. Black-cap, Atricapilla. AlJril 
+9. Black-cap, Atricapilla. AlJril 
 
-##10. Titlark, Alauda pratorum. Fr T II | dd !" A P rU tO 
+10. Titlark, Alauda pratorum. Fr T II | dd !" A P rU tO 
 
 \ July the 16th. 
 
  Sometimes in February 
 
-##11. Blackbird, Merula vulgaris. * ) and March, and so 
+11. Blackbird, Merula vulgaris. * ) and March, and so 
 
  on to July the 23d; V. re-assumes in autumn. 
 
-##12. White-throat, Ficedula affinis. Ic April, and to July 23. 
+12. White-throat, Ficedula affinis. Ic April, and to July 23. 
 
-##13. Goldfinch, Carduelis. /April and through to 
+13. Goldfinch, Carduelis. /April and through to 
 
 | September 16. 
 
-##14. Greenfinch, Chloris. Onto July and August 2d. 
+14. Greenfinch, Chloris. Onto July and August 2d. 
 
-##15. Less reed-spar- "^ Passer arundinaceus ("May, onto beginning of 
+15. Less reed-spar- "^ Passer arundinaceus ("May, onto beginning of 
 
 row, minor. \ July. 
 
@@ -1462,7 +1462,7 @@ All birds that continue in full song till after midsummer, appear to me to breed
 
 Most kinds of birds seem to me to be wild and shy, some- what in proportion to their bulk ; I mean in this island, where they are much pursued and annoyed ; but in Ascension Island, and many other desolate places, mariners have found fowls so unacquainted with a human figure, that they would stand still to be taken, as is the case with boobies, &c. As an example of what is advanced, I remark that the golden-crested wren, (the smallest British bird,) will stand unconcerned till you come within three or four yards of it, while the bustard, (otis,) the largest British land fowl, does not care to admit a person within so many furlongs. 
 
-LETTER XXVIII. 
+#LETTER XXVIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1532,7 +1532,7 @@ SINGING BIRDS AVIARIES.
 
 By my journal it appears, that curlews clamoured on to October the thirty-first ; since which, I have not seen or heard any. Swallows were observed on to November the third. 
 
-LETTER XXIX. 
+#LETTER XXIX. 
 
 TO THE HON. DAINES BARRIISTGTON. 
 
@@ -1572,7 +1572,7 @@ by the addition of orange trees and evergreens, where they will breed, as in a s
 
 CUCKOO. 
 
-LETTER XXX, 
+#LETTER XXX, 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -1600,7 +1600,7 @@ What was said by a very ancient and sublime writer con- cerning the defect of na
 
 Query, Does each female cuckoo lay but one egg in a season, or does she drop several in different nests, according as opportunity offers ? 
 
-LETTER XXXI. 
+#LETTER XXXI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1628,7 +1628,7 @@ MOOSE-DEER.
 
 I have somewhat to inform you of concerning- the moose- deer ; but, in general, foreign animals fall seldom in my way ; my little intelligence is confined to the narrow sphere of my own observations at home. 
 
-LETTER XXXII. 
+#LETTER XXXII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1651,7 +1651,7 @@ It is very reasonable to suppose, that this creature supports itself chiefly by 
 
 Please to let me hear if my female moose corresponds with that you saw ; and whether you think still that the American moose and European elk are the same creature. 
 
-LETTER XXXIII. 
+#LETTER XXXIII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -1699,7 +1699,7 @@ P.S. Swallows appear amidst snows and frost.
 
 PAIRING OF BIRDS. 
 
-LETTER XXXIV. 
+#LETTER XXXIV. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1735,7 +1735,7 @@ and will not, when they can avoid it, deign to wet a foot, much less to plunge i
 
 Quadrupeds that prey on fish are amphibious ; such as the otter, which by nature is so well formed for diving, that it makes great havock among the inhabitants of the waters. Not supposing that we had any of those beasts in our shallow brooks, I was much pleased to see a male otter brought to me, weighing twenty-one pounds, that had been shot on the bank of our stream, below the Priory, where the rivulet divides the parish of Selborne from Harteley Wood. 
 
-LETTER XXXV. 
+#LETTER XXXV. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -1793,7 +1793,7 @@ Dr Butter, of Plymouth, has satisfactorily proved, that our female domestic fowl
 
 HENS WITH COCK PLUMAGE. 
 
-LETTER XXXVI. 
+#LETTER XXXVI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1822,7 +1822,7 @@ When I was last in town, our friend Mr Barrington most obligingly carried me to 
 
 Mr Barrington shewed me many astonishing collections of stuffed and living birds from all quarters of the world. After I had studied over the latter for a time, I remarked that every species almost that came from distant regions, such as South America, the coast of Guinea, &c. were thick-billed birds, of the loxia and fringilla genera ; and no motacillcs or muscicapidce, * were to be met with. When I came to consider, the reason was obvious enough ; for the hard-billed birds subsist on seeds which are easily carried on board, while the soft-billed birds, which are supported by worms and insects, or, what is a succedaneum for them, fresh raw meat, can meet with neither in long and tedious voyages. It is from this defect of food that our collections (curious as they are) are defective, and we are deprived of some of the most delicate and lively genera. 
 
-LETTER XXXVII. 
+#LETTER XXXVII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1846,7 +1846,7 @@ Scopoli's new work* (which I have just procured) has its merits, in ascertaining
 
 SCOPOLl's ANNUS PRIMUS. 
 
-LETTER XXXVIII. TO THE HON. DAINE5 HARRINGTON. 
+#LETTER XXXVIII. TO THE HON. DAINE5 HARRINGTON. 
 
 RINGMER, near LEWES, October 8, 1770. 
 
@@ -1904,7 +1904,7 @@ During the hybernation of animals, a temporary stagnation or suspen- sion of act
 
 SCOPOLI'S ANNUS PRIMUS. 
 
-!7 LETTER XXXIX. 
+#!7 LETTER XXXIX. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1924,7 +1924,7 @@ over which it rests, in a coal mine at Auchincruive, in Ayrshire." This fact inv
 
 STONE-CURLEW. 
 
-LETTER XL. 
+#LETTER XL. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -1946,7 +1946,7 @@ For a long time I have desired my relation to look out for these birds in Andalu
 
 When the oedicnemus flies, it stretches out its legs straight behind, like a heron. 
 
-LETTER XLI. 
+#LETTER XLI. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -1998,7 +1998,7 @@ hinc circa plenilunium potissimum mensis Octobris plerumquc Austriam transmigrat
 
 P.S. There fell in the county of Rutland, in three weeks of this present very wet weather, seven inches and a half of rain, which is more than has fallen in any three weeks for these thirty years past, in that part of the world. A mean quantity in that county for one year is twenty inches and a half. * 
 
-LETTER XLII. 
+#LETTER XLII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -2106,7 +2106,7 @@ HARVEST BUG.
 
 pipe set at concert pitch, and finds they all hoot in B flat. He will examine the nightingales next spring. 
 
-LETTER XLIII. 
+#LETTER XLIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -2144,7 +2144,7 @@ he was so eaten by the maggots, that his death seemed inevitable. After clearing
 
 PEACOCKS. 
 
-LETTER XLIV. 
+#LETTER XLIV. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -2154,7 +2154,7 @@ DEAR SIR, Happening to make a visit to my neighbour's peacocks, I could not help
 
 I should tell you that I have got an uncommon calculus cegogropila, taken out of the stomach of a fat ox. It is per- fectly round, and about the size of a large Seville orange : such are, I think, usually flat. 
 
-LETTER XLV. 
+#LETTER XLV. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -2192,7 +2192,7 @@ followers and imitators, in spite of the advantage of fresh discoveries and mode
 
 At this distance of years, it is not in my power to recollect at what periods woodcocks used to be sluggish or alert, when I was a sportsman ; but, upon my mentioning this circumstance to a friend, he thinks he has observed them to be remarkably listless against snowy foul weather : if this should be the case, then the inaptitude for flying arises only from an eagerness for food, as sheep are observed to be very intent on grazing against stormy wet evenings. 
 
-LETTER XL VI. 
+#LETTER XLVI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -2206,7 +2206,7 @@ BATS.
 
 not understand perfectly ; but refer it to the observation of the curious anatomist. These creatures send forth a very rancid and offensive smell.* 
 
-LETTER XL VII. 
+#LETTER XLVII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -2232,7 +2232,7 @@ Some swifts staid late, till the 22d of August ; a rare instance ! for they usua
 
 On September the 24th, three or four ringousels appeared in my fields, for the first time this season. How punctual are these visitors in their autumnal and spring migrations ! 
 
-LETTER XL VIII. 
+#LETTER XLVIII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -2272,7 +2272,7 @@ The starlings also congregate in autumn. We saw a flight of these birds in the a
 
 SWALLOWS TORTOISE. 
 
-LETTER XLIX. 
+#LETTER XLIX. 
 
 ' 
 
@@ -2282,7 +2282,7 @@ March 9, 1772.
 
 DEAR SIR, As a gentleman and myself were walking, on the 4th of last November, round the sea-banks at Newha^en, near the mouth of the Lewes river, in pursuit of natural knowledge, we were surprised to see three house swallows gliding very swiftly by us. That morning was rather chilly, with the wind at north-west ; but the tenor of the weather, for some time before, had been delicate, and the noons remarkably warm. From this incident, and from repeated accounts which I meet with, I am more and more induced to believe, that many of the swallow kind do not depart from this island, but lay themselves up in holes and caverns, and do, insect-like, and bat-like, come forth at mild times, and then retire again to their latebrce. Nor make I the least doubt but that, if I lived at Newhaven, Seaford, Brighthelmstone, or any of those towns near the chalk cliffs of the Sussex coast, by proper observations, I should see swallows stirring at periods of the winter, when the noons were soft and inviting, and the sun warm and invi- gorating. And I am the more of this opinion, from what I have remarked during some of our late springs, and though some swallows did make their appearance about the usual time, viz. the 13th or 14th of April, yet, meeting with a harsh reception, and blustering, cold, north-east winds, they imme- diately withdrew, absconding for several days, till the weather gave them better encouragement. 
 
-LETTER L. 
+#LETTER L. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -2304,7 +2304,7 @@ P. S. In about three days after I left Sussex, the tortoise retired into the gro
 
 MIGRATION. 
 
-LETTER LI. 
+#LETTER LI. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -2322,7 +2322,7 @@ AFFECTION IN BIRDS.
 
 We now begin to expect our vernal migration of ringousels every week. Persons worthy of credit assure me, that ring- ousels were seen at Christmas, 1770, in the forest of Bere, on the southern verge of this county. Hence we may conclude, that their migrations are only internal, and not extended to the continent southward, if they do at first come at all from the northern parts of this island only, and not from the north of Europe. Come from whence they will, it is plain, from the fearless disregard that they shew for men or guns, that they have been little accustomed to places of much resort. Navi- gators mention, that, in the Isle of Ascension, and other such desolate districts, birds are so little acquainted with the human form, that they settle on men's shoulders, and have no more dread of a sailor than they would have of a goat that ,,was grazing. A young man at Lewes, in Sussex, assured me, that, about seven years ago, ringousels abounded so about that town in the autumn, that he killed sixteen himself in one afternoon : he added farther, that some had appeared since in: every autumn ; but he could not find that any had been observed before the season in which he shot so many. I myself have found these birds in little parties in the autumn, cantoned all along the Sussex downs, wherever there were shrubs and bushes, from Chichester to Lewes ; particularly in the autumn of 1770. 
 
-LETTER LII. TO THE HON. DAINES BARRINGTON. 
+#LETTER LII. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE, March 26, 1773. 
 
@@ -2362,7 +2362,7 @@ that made a most grotesque figure ; nor was it without great difficulty that it 
 
 To these instances of tender attachment, many more of which might be daily discovered, by those that are studious of nature, may be opposed that rage of affection, that monstrous perver- sion of the <fc*Cj% which induces some females of the brute creation to devour their young, because their owners have handled them too freely, or removed them from place to place ! Swine, and sometimes the more gentle race of dogs and cats, are guilty of this horrid and preposterous murder. When I hear now and then of an abandoned mother that destroys her offspring, I am not so much amazed ; since reason perverted, and the bad passions let loose, are capable of any enormity ; but why the parental feelings of brutes, that usually flow in one most uniform tenor, should sometimes be so extravagantly diverted, I leave to abler philosophers than myself to determine. 
 
-LETTER LIII. TO THE HON. DAINES HARRINGTON. 
+#LETTER LIII. TO THE HON. DAINES HARRINGTON. 
 
 SELBORNE, July 8, 1773. 
 
@@ -2428,7 +2428,7 @@ coming out of the north, are rendered half frantic by the tickling sensation ; w
 
 The curious Reaumur discovered the large eggs, or rather pupce, of these flies, as big as the flies themselves, which he hatched in his own bosom. Any person that will take the trouble to examine the old nests of either species of swallows, may find in them the black shining cases, or skins, of the pupcB of these insects ; but, for other particulars, too long for this place, we refer the reader to L'Histoire d'Insectcs of that admirable entomologist, torn. iv. pi. 11. 
 
-LETTER LIV. TO THOMAS PENNANT, ESQ. 
+#LETTER LIV. TO THOMAS PENNANT, ESQ. 
 
 SELBORNE, November 9, 1773. 
 
@@ -2544,7 +2544,7 @@ When it happens to be silent in the night, by throwing a stone or clod into the 
 
 It will be proper to premise here, that the fifty-fifth, fifty-seventh, fifty-ninth, and sixty-first letters have been published already in the Philosophical Transactions ; but, as nicer observation has furnished several corrections and additions, it is hoped that the republication of them will not give offence ; especially as these sheets would be very imperfect without them, and as they will be new to many readers who had no opportunity of seeing them when they made their first appearance. 
 
-LETTER LV. 
+#LETTER LV. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -2586,7 +2586,7 @@ HOUSE MARTEN.
 
 nests are washed down every hard rain ; and yet these birds drudge on to no purpose, from summer to summer, without changing their aspect or house. It is a piteous sight to see them labouring when half their nest is washed away, and bringing dirt " generis lapsi sarcire ruinas" Thus is instinct a most wonderfully unequal faculty ; in some instances so much above reason, in other respects so far below it ! Martens love to frequent towns, especially if there are great lakes and rivers at hand ; nay, they even affect the close air of London. And I have not only seen them nesting in the Borough, but even in the Strand and Fleet Street : but then it was obvious, from the dinginess of their aspect, that their feathers partook of the filth of that sooty atmosphere. Martens are by far the least agile of the four species ; their wings and tails are short, and therefore they are not capable of such surprising" turns, and quick and glancing evolutions as the swallow. Accord- ingly, they make use of a placid, easy motion, in a middle region of the air, seldom mounting to any great height, and never sweeping along together over the surface of the ground or water. They do not wander far for food, but affect sheltered districts, over some lake, or under some hanging wood, or in some hollow vale, especially in windy weather. They breed the latest of all the swallow kind : in 1772, they had nestlings on to October twenty-first, and are never without unfledged young as late as Michaelmas. 
 
-^As the summer declines, the congregating flocks increase in numbers daily by the constant accession of the second broods : till at last they swarm in myriads upon myriads round the villages on the Thames, darkening the face of the sky as they frequent the aits of that river, where they roost. They retire, the bulk of them I mean, in vast flocks together, about the beginning of October ; but have appeared of late years, in a considerable flight, in this neighbourhood, for one day or two, as late as November the third and sixth, after they were supposed to have been gone for more than a fortnight. They, therefore, withdraw with us the latest of any species. Unless these birds are very short-lived, indeed, or unless they do not return to the district where they are bred, they must undergo vast devastations somehow, and somewhere ; for the birds that return yearly bear no manner of proportion to the birds that retire. * 
+As the summer declines, the congregating flocks increase in numbers daily by the constant accession of the second broods : till at last they swarm in myriads upon myriads round the villages on the Thames, darkening the face of the sky as they frequent the aits of that river, where they roost. They retire, the bulk of them I mean, in vast flocks together, about the beginning of October ; but have appeared of late years, in a considerable flight, in this neighbourhood, for one day or two, as late as November the third and sixth, after they were supposed to have been gone for more than a fortnight. They, therefore, withdraw with us the latest of any species. Unless these birds are very short-lived, indeed, or unless they do not return to the district where they are bred, they must undergo vast devastations somehow, and somewhere ; for the birds that return yearly bear no manner of proportion to the birds that retire. * 
 
 * Inscrutable are the ways of Him who is the director of all things. He has, in his infinite wisdom, so nicely regulated the increase of animal life, that there shall be no superabundance. But for this, there would 
 
@@ -2594,7 +2594,7 @@ SUSSEX DOWNS.
 
 House-martens are distinguished from their congeners by having their legs covered with soft downy feathers down to their toes. They are no songsters, but twitter in a pretty, inward, soft manner in their nests. During the time of breed- ing, they are often greatly molested with fleas. 
 
-LETTER LVI. 
+#LETTER LVI. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -2649,7 +2649,7 @@ The old tortoise, that I have mentioned in a former letter,
 
 taken many miles west of the point mentioned D. 
 
-^ This bird but seldom visits this kingdom : it is a native of the extensive pine forests of the Rhine. Mr Knapp knew one instance of it breeding in England; he says, " That rare bird the crossbill occasionally visits the orchards in our neighbourhood, coming in little parties to feed on the seeds of the apple, and, seldom as it appears, it is always noticed by the mischief it does to fruit, cutting it asunder with its well-constructed mandibles, in order to obtain the kernels." ED. 
+ This bird but seldom visits this kingdom : it is a native of the extensive pine forests of the Rhine. Mr Knapp knew one instance of it breeding in England; he says, " That rare bird the crossbill occasionally visits the orchards in our neighbourhood, coming in little parties to feed on the seeds of the apple, and, seldom as it appears, it is always noticed by the mischief it does to fruit, cutting it asunder with its well-constructed mandibles, in order to obtain the kernels." ED. 
 
 TORTOISE ROOKS. 
 
@@ -2667,7 +2667,7 @@ JThe jack-daw is a bird of great intelligence; is easily domesticated, becomes v
 
 SWALLOWS. 
 
-LETTER LVII. TO THE HON. DAINES HARRINGTON. 
+#LETTER LVII. TO THE HON. DAINES HARRINGTON. 
 
 SELBORNE, January 29, 1774. 
 
@@ -2775,7 +2775,7 @@ SWALLOWS.
 
 Thus is instinct in animals, taken the least out of its way, an undistinguishing, limited faculty, and blind to every circum- stance that does not immediately respect self-preservation, or lead at once to the propagation or support of their species. 
 
-LETTER LVIII. 
+#LETTER LVIII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -2799,7 +2799,7 @@ We have had a very wet autumn and winter, so as to raise the springs to a pitch 
 
 The wheat of last year, all round this district, and in the county of Rutland, and elsewhere, yields remarkably bad ; and our wheat on the ground, by the continual late sudden vicissi- tudes from fierce frost to pouring rains, looks poorly, and the turnips rot very fast. 
 
-; LETTER LIX. ; ! 
+# LETTER LIX. ; ! 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -2871,7 +2871,7 @@ SWALLOWS NIGHTINGALES.
 
 Sand-martens differ from their congeners in the diminutive- ness of their size, and in their colour, which is what is usually called a mouse-colour. Near Valencia, in Spain, they are taken, says Willoughby, and sold in the markets for the table, and are called by the country people, probably from their desultory, jerking manner of flight, Papillon de Montagna.* 
 
-LETTER LX. 
+#LETTER LX. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -2979,7 +2979,7 @@ Selborne parish alone can and has exhibited at times more than half the birds th
 
 On a retrospect, I observe that my long letter carries with it a quaint and magisterial air, and is very sententious ; but when I recollect ^that you requested stricture and anecdote, hope you will pardon the didactic manner for the sake of the information it may happen to contain. 
 
-LETTER LXI. 
+#LETTER LXI. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -3081,7 +3081,7 @@ SWALLOWS.
 
 disproportioned abdomina, and their heads too heavy for their necks to support, we could not but wonder when we reflected that these shiftless beings, in a little more than a fortnight, would be able to dash through the air almost with the incon- ceivable swiftness of a meteor, and, perhaps, in their emigration, must traverse vast continents and oceans as distant as the equator. So soon does Nature advance small birds to their 3?X///a, or state of perfection ; while the progressive growth of men and large quadrupeds is slow and tedious ! 
 
-LETTER LXII. 
+#LETTER LXII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3119,7 +3119,7 @@ disqualify me for a naturalist ; for, when those fits are upon me, I lose all th
 
 And Wisdom at one entrance quite shut out. 
 
-LETTER LXIII. 
+#LETTER LXIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -3159,7 +3159,7 @@ flesh ; for it frequently picks bones on dunghills ; it is a vast admirer of sue
 
 How the wheatear and whin-chat support themselves in winter, cannot be so easily ascertained, since they spend their time on wild heaths and warrens ; the former especially, where there are stone quarries : most probable it is, that their maintenance arises from the aurelise of the lepidoptera ordo, which furnish them with a plentiful table in the wilderness. 
 
-LETTER LXIV. 
+#LETTER LXIV. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -3195,7 +3195,7 @@ The celebrated zigzag up the Coryarich must not be passed over. Moll takes notic
 
 The seat of the Earl of Eglintoun, near Glasgow, is worthy of notice. The pine plantations of that nobleman are very grand and extensive indeed. 
 
-LETTER LXV. 
+#LETTER LXV. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3237,7 +3237,7 @@ Mr Murray thinks that electricity, either positive or negative, is an active age
 
 SOCIALITY OF BRUTES. 
 
-LETTER LXVL TO THE HON. DAINES BARRINGTON. 
+#LETTER LXVI. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE, August 15, 1775. 
 
@@ -3269,7 +3269,7 @@ following I sentiment in the mouth of Adam, seems to be somewhat mistaken :
 
 Much less can bird with beast, or fish with fowl, So well converse, nor with the ox the ape. 
 
-LETTER LXVII. 
+#LETTER LXVII. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -3345,7 +3345,7 @@ Ludolf, in the seventeenth century, collected from certain wandering tribes, whi
 
 RUSHLIGHTS. 
 
-LETTER LXVIII. 
+#LETTER LXVIII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3381,7 +3381,7 @@ morning and evening, in the dairy and kitchen ; but the very poor, who are alway
 
 While on the subject of rural economy, it may not be improper to mention a pretty implement of housewifery that we have seen nowhere else ; that is, little neat besoms which our foresters make from the stalks of the polytricum commune, or great golden maiden-hair, which they call silk-wood, and find plenty in the bogs.* When this moss is well combed and dressed, and divested of its outer skin, it becomes of a beautiful bright chestnut colour; and, being soft and pliant, is very proper for the dusting of beds, curtains, carpets, hangings, &c. If these besoms were known to the brushmakers in town, it is probable they might come much in use for the purpose above mentioned, -j* 
 
-LETTER LXIX. 
+#LETTER LXIX. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3403,7 +3403,7 @@ Shouldst Wildman be.
 
 When a tall youth, he was removed from hence to a distant village, where he died, as I understand, before he arrived at manhood. 
 
-LETTER LXX. TO THE HON. DAINES BARRINGTON. 
+#LETTER LXX. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE, January 8, 1776* 
 
@@ -3463,7 +3463,7 @@ The late vicar stubb'd and burnt it, "
 
 when he was way-warden, regardless of the remonstrances of the bystanders, who interceded in vain for its preservation, urging its power and efficacy, and alleging that it had been Religione patrum multos servata per ann os. 
 
-LETTER LXXI. 
+#LETTER LXXI. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -3529,7 +3529,7 @@ containing perhaps not more than two or three hundred hogs- heads of water, yet 
 
 THE CUCKOO. 
 
-LETTER LXXII. 
+#LETTER LXXII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3557,7 +3557,7 @@ Now, as it appears that this bird, which is so well known to practise incubation
 
 We found the case to be the same with the ring-tail hawk, in respect to formation ; and, as far as I can recollect, with the swift ; and probably it is so with many more sorts of birds that are not granivorous. 
 
-LETTER LXXIII. TO THE HON. DAINES HARRINGTON. 
+#LETTER LXXIII. TO THE HON. DAINES HARRINGTON. 
 
 SELBORNE, April 29, 1776. 
 
@@ -3569,7 +3569,7 @@ To a thinking mind, nothing is more wonderful than that early instinct which imp
 
 There was little room to suppose that this brood had ever been in the open air before, and that they were taken in for refuge, at the mouth of the dam, when she perceived that danger was approaching ; because then, probably, we should have found them somewhere in the neck, and not in the abdomen. 
 
-LETTER LXXIV. TO THE HON. DAINES HARRINGTON. 
+#LETTER LXXIV. TO THE HON. DAINES HARRINGTON. 
 
 CASTRATION has a strange effect : it emasculates both man, beast, and bird, and brings them to a near resemblance of the other sex. Thus, eunuchs have smooth unmuscular arms, thighs, and legs ; and broad hips, and beardless chins, and squeaking voices. Gelt stags and bucks have hornless heads, like hinds and does. Thus wethers have small horns, like ewes ; and oxen large bent horns, and hoarse voices when they low, like cows : for bulls have short straight horns ; and though they mutter and grumble in a deep tremendous tone, yet they low in a shrill high key. Capons have small combs and gills, and look pallid about the head like pullets; they also walk without any parade, and hover chickens like hens. Barrow-hogs have also small tusks like sows. 
 
@@ -3581,7 +3581,7 @@ CASTRATION THE HOG.
 
 Thus far it is plain, that the deprivation of masculine vigour puts a stop to the growth of those parts or appendages that are looked upon as its insignia. But the ingenious Mr Lisle, in his book on husbandry, carries it much farther ; for he says, that the loss of those insignia alone has sometimes a strange effect on the ability itself. He had a boar so fierce and venereous that, to prevent mischief, orders were given for his tusks to be broken off. No sooner had the beast suffered this injury than his powers forsook him, and he neglected those females to whom before he was passionately attached, and from whom no fences could restrain him. 
 
-LETTER LXXV. 
+#LETTER LXXV. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -3595,7 +3595,7 @@ A LEVERET REARED BY A CAT.
 
 hundred pigs, a prodigious instance of fecundity in so large a quadruped! She was killed in spring, 1775.* 
 
-LETTER LXXVI. 
+#LETTER LXXVI. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3637,7 +3637,7 @@ The following is a still more extraordinary proof of the kindly feelings of the 
 
 WORMS. 
 
-LETTER LXXVII. TO THE HON. DAINES BARRINGTON. 
+#LETTER LXXVII. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE, May 20, 1777. 
 
@@ -3657,7 +3657,7 @@ These hints we think proper to throw out, in order to set the inquisitive and di
 
 A good monography of worms would afford much enter- tainment, and information at the same time ; and would open a large and new field in natural history. Worms work most in the spring, but by no means lie torpid in the dead months ; are out every mild night in the winter, as any person may be convinced that will take the pains to examine his grass plots with a candle ; are hermaphrodites, and much addicted to venery, and consequently very prolific. 
 
-LETTER LXXV1II. 
+#LETTER LXXVIII. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -3687,7 +3687,7 @@ had all departed about' the seventh of October, were seen again, for that one mo
 
 From all these circumstances laid together, it is obvious that torpid insects, reptiles, and quadrupeds, are awakened from their profoundest slumbers by a little untimely warmth ; and, therefore, that nothing so much promotes this deathlike stupor as a defect of heat. And farther, it is reasonable to suppose, that two whole species, or at least many individuals of these two species of British hirundines^ do never leave this island at all, but partake of the same benumbed state ; for we cannot suppose that, after a month's absence, house-martens can return from southern regions to appear for one morning in November, or that house-swallows should leave the districts of Africa to enjoy, in March, the transient summer of a couple of days. 
 
-LETTER LXXIX. TO THE HON. DAINES BARRINGTON. 
+#LETTER LXXIX. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE, January 8, 1778. 
 
@@ -3743,7 +3743,7 @@ A remark made by the excellent Mr Ray, in his Tour of Europe, at once surprises 
 
 ECHOES. 
 
-i LETTER LXXX. 
+#LETTER LXXX. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3811,7 +3811,7 @@ LUCEETIUS, lib. ir.
 
 SWIFTS. 
 
-LETTER LXXXI. 
+#LETTER LXXXI. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -3825,7 +3825,7 @@ Ever since I have attended to the subject of ornithology, I have always supposed
 
 BOTANY. 
 
-LETTER LXXXII. 
+#LETTER LXXXII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3849,7 +3849,7 @@ But of all sorts of vegetation, the grasses seem to be most neglected : neither 
 
 The study of grasses would be of great consequence to a northerly and grazing kingdom. The botanist that could improve the sward of the district where he lived, would be a useful member of society : to raise a thick turf on a naked soil, would be worth volumes of systematic knowledge ; and he would be the best commonwealth's man that could occasion the growth of "two blades of grass where one alone was seen before." 
 
-LETTER LXXXIII. 
+#LETTER LXXXIII. 
 
 TO THE HON. DANIES BARRINGTON. 
 
@@ -3931,7 +3931,7 @@ vernal and the autumnal crocus, which have such an affinity, that the best botan
 
 Say, what impels, amidst surrounding snow Congeal'd, the crocus' flamy bud to glow ? Say, what retards, amidst the summer's blaze, Th' autumnal bulb, till pale, declining days ? The GOD OF SEASONS, whose pervading power Controls the sun, or sheds the fleecy shower : He bids each flower his quickening word obey, Or to each lingering bloom enjoins delay. 
 
-LETTER LXXXIV. 
+#LETTER LXXXIV. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -3955,7 +3955,7 @@ FLIGHT AND LANGUAGE OF BIRDS.
 
 sweep over the surface of the ground and water, arid distinguish themselves by rapid turns and quick evolutions : swifts dash round in circles ; and the bank-marten moves with frequent vacillations like a butterfly. Most of the small birds fly by jerks, rising and falling as they advance. Most small birds hop ; but wagtails and larks walk, moving their legs alter- nately. Sky-larks rise and fall perpendicularly as they sing ; * woodlarks hang poised in the air ; and titlarks rise and fall in large curves, singing in their descent. The white-throat uses odd jerks and gesticulations over the tops of hedges and bushes. All the duck kind waddle ; divers and auks walk as fettered, and stand erect on their tails ; these are the compedes of LinnaBiis. Geese and cranes, and most wild owls, move in figured flights, often changing their position. The secondary remiges otring<z, wild ducks, and some others, are very long, and give their wings, when in motion, a hooked appearance. Dabchicks, moor-hens, and coots, fly erect, with their legs hanging down, and hardly make any despatch : the reason is plain, their wings are placed too forward out of the true centre of gravity ; as the legs of auks and divers are situated too backward. 
 
-LETTER LXXXV. TO THE HON. DAINES BARRINGTON. 
+#LETTER LXXXV. TO THE HON. DAINES BARRINGTON. 
 
 SELBOKNE, September 9, 1778. 
 
@@ -4008,7 +4008,7 @@ HELIOTROPES.
 
 matrons upbraided they execrated they insulted they triumphed. In a word, they never desisted from buffeting their adversary till they had torn him in a hundred pieces. 
 
-LETTER LXXXVI. TO THE HON. DAINES HARRINGTON. 
+#LETTER LXXXVI. TO THE HON. DAINES HARRINGTON. 
 
 SELBORNE. 
 
@@ -4036,7 +4036,7 @@ It is, perhaps, not generally known, that the conducting power of living plants,
 
 MOVING HILLS. 
 
-LETTER LXXXVII. 
+#LETTER LXXXVII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -4086,7 +4086,7 @@ FIELD-CRICKET.
 
 The perpendicular height of the precipice, in general, is twenty-three yards ; the length of the lapse, or slip, as seen from the fields below, one hundred and eighty-one ; and a partial fall, concealed in the coppice, extends seventy yards more : so that the total length of this fragment that fell was two hundred and fifty-one yards. About fifty acres of land suffered from this violent convulsion ; two houses were entirely destroyed ; one end of a new barn was left in ruins, the walls being cracked through the very stones that composed them ; a hanging coppice was changed to a naked rock ; and some grass grounds and an arable field so broken and rifted by the chasms, as to be rendered, for a time, neither fit for the plough, nor safe for pasturage, till considerable labour and expense had been bestowed in levelling the surface, and filling in the gap ing' fissures. 
 
-LETTER LXXXVIII. TO THE HON. DAINES BARRINGTON. 
+#LETTER LXXXVIII. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE. Resonant arbusta. 
 
@@ -4124,7 +4124,7 @@ HOUSE-CRICKET.
 
 set in the sun, and supplied with plants moistened with water , will feed and thrive, and become so merry and loud as to be irksome in the same room where a person is sitting : if the plants are not wetted, it will die. 
 
-LETTER LXXXIX. 
+#LETTER LXXXIX. 
 
 TO THE HON. DAINES BARR1NGTOX. 
 
@@ -4154,7 +4154,7 @@ When they increase to a great degree, as they did once in the house where I am n
 
 MOLE-CRICKET. 
 
-LETTER XC. TO THE HON. DAINES BARRINGTON. 
+#LETTER XC. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE. 
 
@@ -4183,7 +4183,7 @@ When mole-crickets fly, they move cursu undoso, rising and falling in curves, li
 
 Anatomists, who have examined the intestines of these insects, astonish me with their accounts : for they say, that from the structure, position, and number of their stomachs, or maws, there seems to be good reason to suppose that this and the two former species ruminate, or chew the cud like many quadrupeds ! 
 
-LETTER XCI. 
+#LETTER XCI. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -4207,7 +4207,7 @@ all Great Britain, but observed it often in the cabinets of the curious at Paris
 
 Our writers record it to have been found only twice in Great Britain. From all these relations it plainly appears, that these long-legged plovers are birds of South Europe, and rarely visit our island ; and when they do, are wanderers and stragglers, and impelled to make so distant and northern an excursion, from motives or accidents, for which we are not able to account. One thing may fairly be deduced, that these birds come over to us from the Continent, since nobody can suppose that a species not noticed once in an age, and of such a remarkable make, can constantly breed unobserved in this kingdom.* 
 
-LETTER XCII. TO THE HON. DAINES BARRINGTON. 
+#LETTER XCII. TO THE HON. DAINES BARRINGTON. 
 
 SELBORNE, April 21, 1780. 
 
@@ -4253,7 +4253,7 @@ Pitiable seems the condition of this poor embarrassed reptile ; to be cased in a
 
 HONEY-BUZZARD SPARROW-HAWK. 
 
-LETTER XCIII. 
+#LETTER XCIII. 
 
 TO THOMAS PENNANT, ESQ. 
 
@@ -4271,7 +4271,7 @@ DOVES.
 
 half devoured. * The old birds had been observed to make gad havoc for some days among the new-flown swallows and martens, which, being 'but lately out of their nests, had not acquired those powers and command of wing that enable them, when more mature, to set such enemies at defiance. 
 
-LETTER XCIV. TO THOMAS PENNANT, ESQ. 
+#LETTER XCIV. TO THOMAS PENNANT, ESQ. 
 
 SELBORNE, November 30, 1780. 
 
@@ -4317,7 +4317,7 @@ Qualis spelunca subito commota columba, Cui domus, et dulces latebroso in pumice
 
 As when the dove her rocky hold forsakes, Roused in a fright, her sounding wings she shakes ; The cavern rings with clattering j out she flies, And leaves her callow care, and cleaves the skies : At first she flutters ; but at length she springs To smoother flight, and shoots upon her wings. 
 
-LETTER XCV. 
+#LETTER XCV. 
 
 TO THE HON. DAINES BARRINGTON, 
 
@@ -4331,7 +4331,7 @@ In some former letters, I expressed my suspicions that many of the house-martens
 
 SWIFTS. 
 
-LETTER XCVI. TO THE HON. DAINES HARRINGTON. 
+#LETTER XCVI. TO THE HON. DAINES HARRINGTON. 
 
 SELBORNE, September 9, 1781. 
 
@@ -4341,7 +4341,7 @@ The following remarks on this'unusual incident are obvious : The first is, that 
 
 P.S. One swift was seen at Lyndon, in the county of Rut- land, in 1782j so late as the 3d of September. 
 
-LETTER XCVII. 
+#LETTER XCVII. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -4375,7 +4375,7 @@ As we have remarked above, that insects are often conveyed from one country to a
 
 At about three o'clock in the afternoon of that day, which was very hot, the people of this village were surprised by a shower of aphides, or smother-flies, which fell in these parts. * Those that were walking in the street at that juncture, found themselves covered with these insects, which settled also on the hedges and gardens, blackening all the vegetables where they alighted. My annuals were discoloured with them, and the stalks of a bed of onions were quite coated over for six days after. These armies were then, no doubt, in a state of emigration, and shifting their quarters ; and might have come, as far as we know, from the great hop plantations of Kent or Sussex, the wind being all that day in the easterly quarter. They were observed, at the same time, in great clouds about Farnham, and all along the vale from Farnham to Alton, 
 
-LETTER XCVIII. 
+#LETTER XCVIII. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -4407,7 +4407,7 @@ Some people exhibit this sort of fish in a very fanciful way ; for they cause a 
 
 Qui variare cupit rem prodigialitr unam. 
 
-LETTER XCIX. TO THE HON. DAINES BARRINGTON. 
+#LETTER XCIX. TO THE HON. DAINES BARRINGTON. 
 
 October 10, 1781. 
 
@@ -4445,7 +4445,7 @@ a sweet day, and in appearance exactly suited to my wishes, yet not a marten was
 
 I have only to add, that were the bushes, which cover some acres, and are not my own property, to be grubbed and care- fully examined, probably those late broods, and perhaps the whole aggregate body of the house-martens of this district, might be found there in different secret dormitories ; and that, so far from withdrawing into warmer climes, it would appear that they never depart three hundred yards from the village. 
 
-LETTER C. 
+#LETTER C. 
 
 TO THE HON. DA1NES HARRINGTON. 
 
@@ -4487,7 +4487,7 @@ j- A similar impulse was felt by Alfieri, who, in his life, written by himself, 
 
 PETTICHAPS. 
 
-LETTER CL 
+#LETTER CI. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -4517,7 +4517,7 @@ CHINESE DOGS.
 
 from the mountains of North Wales or Scotland, where they are known to breed, by rigorous weather and deep snows that had lately fallen. 
 
-LETTER CIL 
+#LETTER CII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -4545,7 +4545,7 @@ Now, that dogs should not be fond of the bones of such birds as they are not dis
 
 STONE-CURLEW ROOKS. 
 
-LETTER CIII. 
+#LETTER CIII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -4559,7 +4559,7 @@ RAIN.
 
 such an occurrence, in the true spirit of physico-theology, that the rooks were saying their prayers ; and yet this child was much too young to be aware that the Scriptures have said of the Deity that " He feedeth the ravens who call upon him."* 
 
-LETTER CIV. 
+#LETTER CIV. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -4585,7 +4585,7 @@ one-tenth of an inch for every hundred feet elevation, then the Newton barometer
 
 It may not be impertinent to add, that the barometers at Selborne stand three-tenths of an inch lower than the baro- meters at South Lambeth ; whence we may conclude, that the former place is about three hundred feet higher than the latter ; and with good reason, because the streams that rise with us run into the Thames at Weybridge, and so to London. Of course, therefore, there must be lower ground all the way from Selborne to South Lambeth ; the distance between which, all the windings and indentings of the streams considered, cannot be less than an hundred miles. * 
 
-LETTER CV. 
+#LETTER CV. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -4647,7 +4647,7 @@ WINTER OF 1776.
 
 By the fourteenth of January, the snow was entirely gone ; the turnips emerged, not damaged at all, save in sunny places ; the wheat looked delicately ; and the garden plants were well preserved; for snow is the most kindly mantle that infant vegetation can be wrapped in : were it not for that friendly meteor, no vegetable life could exist at all in northerly regions. Yet in Sweden, the earth in April is not divested of snow for more than a fortnight before the face of the country is covered with flowers. 
 
-LETTER CVI. 
+#LETTER CVI. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -4701,7 +4701,7 @@ time, it is possessed of a principle of vitality which prevents its destruc- tio
 
 WINTER OF 1784-5. 
 
-LETTER CVII. 
+#LETTER CVII. 
 
 TO THE HON. DAINES BARRINGTON. 
 
@@ -4745,7 +4745,7 @@ I forgot to mention before, that, during the two severe days, two men, who were 
 
 This frost killed all the furze and most of the ivy, and in many places stripped the hollies of all their leaves. It came at a very early time of the year, before old November ended, and may yet be allowed, from its effects, to have exceeded any since 1739-40.* 
 
-LETTER CVIIL 
+#LETTER CVIII. 
 
 TO THE HON. DAINES HARRINGTON, 
 
@@ -4775,7 +4775,7 @@ appearance seems to be this, that in hot weather, the effluvia of flowers in fie
 
 On chalky and sandy soils, and in the hot villages about London, the thermometer has been often observed to mount as high as eighty-three or eighty-four ; but with us, in this hilly and woody district, I have hardly ever seen it exceed eighty, nor does it often arrive at that pitch. The reason, I conclude, is, that our dense clayey soil, so much shaded by trees, is not so easily heated through as those above mentioned ; and, besides, our mountains cause currents of air and breezes ; and the vast effluvia from our woodlands temper and moderate our heats. 
 
-LETTER CIX. 
+#LETTER CIX. 
 
 TO THE HON. DAINES HARRINGTON. 
 
@@ -4791,7 +4791,7 @@ As when the sun, new risen,
 
 Looks through the horizontal, misty air, Shorn of his beams ; or, from behind the moon, In dim eclipse, disastrous twilight sheds On half the nations, and with fear of change Perplexes monarchs. 
 
-LETTER CX. 
+#LETTER CX. 
 
 TO THE HON. DAINES BARRINGTON. 
 
