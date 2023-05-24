@@ -5,7 +5,7 @@ Der Tunnel
 
 
 
-Erster Teil
+#Erster Teil
 
 
 
@@ -2313,7 +2313,7 @@ angeschlagen sind -- die Mündung des Tunnels.
 
 
 
-Zweiter Teil
+#Zweiter Teil
 
 
 
@@ -4124,7 +4124,7 @@ nicht mehr finden. Schön rauscht der Regen. Er gibt Frieden und Schlaf.
 
 
 
-Dritter Teil
+#Dritter Teil
 
 
 
@@ -5520,7 +5520,7 @@ ein Geheimnis zusammen hätten.
 
 
 
-Vierter Teil
+#Vierter Teil
 
 
 
@@ -8041,7 +8041,7 @@ Nur da und dort standen Milizsoldaten, das Gewehr im Arm.
 
 
 
-Fünfter Teil
+#Fünfter Teil
 
 
 
@@ -11191,7 +11191,7 @@ Er begab sich nach Mac City.
 
 
 
-Sechster Teil
+#Sechster Teil
 
 
 
@@ -12813,7 +12813,7 @@ schmälern.
 
 
 
-Schluß
+#Schluß
 
 
 Die Bohrmaschinen zermalmten den Berg in den atlantischen Stollen und
