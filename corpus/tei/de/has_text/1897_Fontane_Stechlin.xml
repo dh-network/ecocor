@@ -22,7 +22,7 @@
    </titleStmt>
    <extent>
     <measure unit="words">
-     125587
+     125495
     </measure>
    </extent>
    <publicationStmt>
@@ -97,12 +97,7 @@
    </p>
   </front>
   <body>
-   <div type="chapter">
-    <head>
-     1. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Erstes Kapitel
     </head>
@@ -248,12 +243,7 @@
      »Nein, nein, funfzig. Erst hat er ja doch was gebracht, und nu nimmt er wieder was mit. Das is ja so gut wie doppelt. Also funfzig. Knaps ihm nichts ab.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     2. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Zweites Kapitel
     </head>
@@ -423,12 +413,7 @@
      Ich werde ihn bei Tisch neben Lorenzen setzen; die mögen dann beide sehn, wie sie miteinander fertig werden. Vielleicht erleben wir 'ne Bekehrung. Das heißt, Rex den Pastor. Aber da höre ich eine Kutsche die Dorfstraße raufkommen. Das sind natürlich Gundermanns; die kommen immer zu früh. Der arme Kerl hat mal was von der Höflichkeit der Könige gehört und macht jetzt einen zu weitgehenden Gebrauch davon. Autodidakten übertreiben immer. Ich bin selber einer und kann also mitreden. Nun, wir sprechen morgen früh weiter; heute wird es nichts mehr. Du wirst dich auch noch ein bißchen striegeln müssen, und ich will mir 'nen schwarzen Rock anziehn. Das bin ich der guten Frau von Gundermann doch schuldig; sie putzt sich übrigens nach wie vor wie 'n Schlittenpferd und hat immer noch den merkwürdigen Federbusch in ihrem Zopf – das heißt, wenn's ihrer ist.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     3. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Drittes Kapitel
     </head>
@@ -568,12 +553,7 @@
      »Bravo. Da nehm ich alles zurück. Lassen Sie ihn. Zu Hause ist es am Ende wirklich am besten. Und gerade wir hier, die wir den Vorzug haben, in der Rheinsberger Gegend zu leben. Ja, wo ist so was? Erst der große König, und dann Prinz Heinrich, der nie 'ne Schlacht verloren. Und einige sagen, er wäre noch klüger gewesen als sein Bruder. Aber ich will so was nicht gesagt haben.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     4. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Viertes Kapitel
     </head>
@@ -806,12 +786,7 @@
      »Ach, die Geschichte von der kleinen Stubbe. Ja, hören Sie, Rex, das regt Sie aber auch auf. Und wenn man nicht schlafen kann, ist es am Ende gleich, ob wegen der Ratten oder wegen der Stubbe.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     5. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Fünftes Kapitel
     </head>
@@ -1116,12 +1091,7 @@
      Man fand sich in diesen Vorschlag, Krippenstapel öffnete die Kirche mit seinem Riesenschlüssel, und alle traten ein.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     6. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Sechstes Kapitel
     </head>
@@ -1492,12 +1462,7 @@
      Kloster Wutz
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     7. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Siebentes Kapitel
     </head>
@@ -1727,12 +1692,7 @@
      Im Nu war Rex an ihrer Seite, und gleich danach traten alle drei Paare in den Nebenraum ein, auf dessen gastlicher und nicht ohne Geschick hergerichteter Tafel zwei Blumenvasen und zwei silberne Doppelleuchter standen. Auch der Diener war schon in Aktion; er hatte sich inzwischen am Büfett in Front einer Meißner Suppenterrine aufgestellt, und indem er den Deckel (mit einem abgestoßenen Engel obenauf) abnahm, stieg der Wrasen wie Opferrauch in die Höhe.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     8. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Achtes Kapitel
     </head>
@@ -1872,12 +1832,7 @@
      »Sie siegen immer, meine Gnädigste.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     9. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Neuntes Kapitel
     </head>
@@ -2002,12 +1957,7 @@
      Und gleich darnach trat Fix ein.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     10. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Zehntes Kapitel
     </head>
@@ -2168,12 +2118,7 @@
      Nach dem »Eierhäuschen«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     11. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Elftes Kapitel
     </head>
@@ -2382,12 +2327,7 @@
      »Nein, nein, Herr Graf. Gott, man sagt so was bloß. Aber ein bißchen is es doch damit...«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     12. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Zwölftes Kapitel
     </head>
@@ -2434,12 +2374,7 @@
      Im Juli dreißig, gerade als die Franzosen Algier bombardierten und nebenher das Haus Bourbon endgültig beseitigten, war der Graf auf einem der an der mittleren Elbe gelegenen Barbyschen Güter geboren worden. Auf eben diesem Gute – das landwirtschaftlich einer von fremder Hand geführten Administration unterstand – vergingen ihm die Kinderjahre; mit zwölf kam er dann auf die Ritterakademie, mit achtzehn in das Regiment Garde du Corps, drin die Barbys standen, solang es ein Regiment Garde du Corps gab. Mit dreißig war er Rittmeister und führte eine Schwadron. Aber nicht lange mehr. Auf einem in der Nähe von Potsdam veranstalteten Kavalleriemanöver stürzte er unglücklich und brach den Oberschenkel, unmittelbar unter der Hüfte. Leidlich genesen, ging er nach Ragaz, um dort völlige Wiederherstellung zu suchen, und machte hier die Bekanntschaft eines alten Freiherrn von Planta, der ihn alsbald auf seine Besitzungen einlud. Weil diese ganz in der Nähe lagen, nahm er die Einladung nach Schloß Schuder an. Hier blieb er länger, als erwartet, und als er das schön gelegene Bergschloß wieder verließ, war er mit der Tochter und Erbin des Hauses verlobt. Es war eine große Neigung, was sie zusammenführte. Die junge Freiin drang alsbald in ihn, den Dienst zu quittieren, und er entsprach dem um so lieber, als er seiner völligen Wiederherstellung nicht ganz sicher war. Er nahm also den Abschied und trat aus dem militärischen in den diplomatischen Dienst über, wozu seine Bildung, sein Vermögen, seine gesellschaftliche Stellung ihn gleichmäßig geeignet erscheinen ließen. Noch im selben Jahre ging er nach London, erst als Attaché, wurde dann Botschaftsrat und blieb in dieser Stellung zunächst bis in die Tage der Aufrichtung des Deutschen Reichs. Seine Beziehungen sowohl zu der heimisch-englischen wie zu der außerenglischen Aristokratie waren jederzeit die besten, und sein Freundschaftsverhältnis zu Baron und Baronin Berchtesgaden entstammte jener Zeit. Er hing sehr an London. Das englische Leben, an dem er manches, vor allem die geschraubte Kirchlichkeit, beanstandete, war ihm trotzdem außerordentlich sympathisch, und er hatte sich daran gewöhnt, sich als verwachsen damit anzusehen. Auch seine Familie, die Frau und die zwei Töchter – beide, wenn auch in großem Abstande, während der Londoner Tage geboren –, teilten des Vaters Vorliebe für England und englisches Leben. Aber ein harter Schlag warf alles um, was der Graf geplant: die Frau starb plötzlich, und der Aufenthalt an der ihm so liebgewordenen Stätte war ihm vergällt. Er nahm in der ersten Hälfte der achtziger Jahre seine Demission, ging zunächst auf die Plantaschen Güter nach Graubünden und dann weiter nach Süden, um sich in Florenz seßhaft zu machen. Die Luft, die Kunst, die Heiterkeit der Menschen, alles tat ihm hier wohl, und er fühlte, daß er genas, soweit er wieder genesen konnte. Glückliche Tage brachen für ihn an, und sein Glück schien sich noch steigern zu sollen, als sich die ältere Tochter mit dem italienischen Grafen Ghiberti verlobte. Die Hochzeit folgte beinah unmittelbar. Aber die Fortdauer dieser Ehe stellte sich bald als eine Unmöglichkeit heraus, und ehe ein Jahr um war, war die Scheidung ausgesprochen. Kurze Zeit danach kehrte der Graf nach Deutschland zurück, das er, seit einem Vierteljahrhundert, immer nur flüchtig und besuchsweise wiedergesehen hatte. Sich auf das eine oder andre seiner Elbgüter zu begeben widerstand ihm auch jetzt noch, und so kam es, daß er sich für Berlin entschied. Er nahm Wohnung am Kronprinzenufer und lebte hier ganz sich, seinem Hause, seinen Töchtern. Von dem Verkehr mit der großen Welt hielt er sich so weit wie möglich fern, und nur ein kleiner Kreis von Freunden, darunter auch die durch einen glücklichen Zufall ebenfalls von London nach Berlin verschlagenen Berchtesgadens waren, versammelte sich um ihn. Außer diesen alten Freunden waren es vorzugsweise Hofprediger Frommel, Doktor Wrschowitz und seit letztem Frühjahr auch Rittmeister von Stechlin, die den Barbyschen Kreis bildeten. An Woldemar hatte man sich rasch attachiert, und die freundlichen Gefühle, denen er bei dem alten Grafen sowohl wie bei den Töchtern begegnete, wurden von allen Hausbewohnern geteilt. Selbst die Hartwigs interessierten sich für den Rittmeister, und wenn er abends an der Portierloge vorüberkam, guckte Hedwig neugierig durch das Fensterchen und sagte: »So einen – ja, das laß ich mir gefallen.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     13. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Dreizehntes Kapitel
     </head>
@@ -2726,12 +2661,7 @@
      Wrschowitz aber, dessen Augen immer größer geworden waren, murmelte vor sich hin: »Sehr warr, sehr warr.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     14. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Vierzehntes Kapitel
     </head>
@@ -3048,12 +2978,7 @@
      kenn ich. Robinson hat 'nen Sonnenschirm und ein Lama. Un der is auch schon lange dod.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     15. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Fünfzehntes Kapitel
     </head>
@@ -3337,12 +3262,7 @@
      Wahl in Rheinsberg-Wutz
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     16. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Sechzehntes Kapitel
     </head>
@@ -3422,12 +3342,7 @@
      Während er lachend so vor sich hin sprach, überflog er noch einmal den Brief und sah jetzt, daß eine Nachschrift an den Rand der vierten Seite gekritzelt war. »Eben war Katzler hier, der mir von der am Sonnabend in unserm Kreise stattfindenden Nachwahl erzählte. Dein Vater ist aufgestellt worden und hat auch angenommen. Er bleibt doch immer der alte. Gewiß wird er sich einbilden, ein Opfer zu bringen – er litt von Jugend auf an solchen Einbildungen. Aber was ihm ein Opfer bedünkte, waren, bei Lichte besehen, immer bloß Eitelkeiten. Deine A. von St.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     17. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Siebzehntes Kapitel
     </head>
@@ -3561,12 +3476,7 @@
      »Denk ich auch. Aber lieber laufen, als hier so stillestehen.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     18. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Achtzehntes Kapitel
     </head>
@@ -3790,12 +3700,7 @@
      Sie nickte zustimmend, während ein halb zärtlicher Blick den guten Katzler streifte, der, solange das ihm nur zu wohlbekannte Gespräch über Pflicht gedauert hatte, von Minute zu Minute verlegener geworden war.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     19. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Neunzehntes Kapitel
     </head>
@@ -3971,12 +3876,7 @@
      Prinz wäre...«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     20. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Zwanzigstes Kapitel
     </head>
@@ -4341,12 +4241,7 @@
      In Mission nach England
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     21. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Einundzwanzigstes Kapitel
     </head>
@@ -4480,12 +4375,7 @@
      »Und noch mehr die Barbys.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     22. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Zweiundzwanzigstes Kapitel
     </head>
@@ -4703,12 +4593,7 @@
      Stechlin legte den Brief unter den Briefbeschwerer und sagte: »Der gute Rex! Er überschätzt mich. Dissenterstudien. Es genügt mir, wenn ich einen einzigen Quäker sehe.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     23. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Dreiundzwanzigstes Kapitel
     </head>
@@ -4851,12 +4736,7 @@
      »'n Abend, jnäd'ger Herr.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     24. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Vierundzwanzigstes Kapitel
     </head>
@@ -5065,12 +4945,7 @@
      Verlobung, Weihnachtsreise nach Stechlin
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     25. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Fünfundzwanzigstes Kapitel
     </head>
@@ -5300,12 +5175,7 @@
      »Ich glaube fast, ich bin verlobt.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     26. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Sechsundzwanzigstes Kapitel
     </head>
@@ -5412,12 +5282,7 @@
      »Und zuletzt ein Pantoffel«, lachte Melusine.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     27. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Siebenundzwanzigstes Kapitel
     </head>
@@ -5530,12 +5395,7 @@
      »Nun gut, nun gut. Ich sehe wohl ein, daß das nicht gut geht. Aber was anders! Ich habe da vorhin eine Bibel oder vielleicht auch bloß ein Gesangbuch liegen sehn, da auf dem Brettchen, wo die kleine Puppe steht. Beiläufig auch was Sonderbares, diese Puppe. Bitte, nimm die Bibel von der Etagere fort und lege sie mir hier auf den Nachttisch. Und das Licht laß brennen. Und wenn du im Bett liegst, sprich immerzu, bis ich einschlafe.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     28. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Achtundzwanzigstes Kapitel
     </head>
@@ -5672,12 +5532,7 @@
      Der Himmel hatte aber ein Einsehn. Schon seit einer Viertelstunde lag ein grauer Ton über der Landschaft, und plötzlich fielen Flocken, erst vereinzelte, dann dicht und reichlich. Den Weg bis Globsow fortzusetzen, daran war unter diesen Umständen gar nicht mehr zu denken, und so brach man denn auf, um ins Schloß zurückzukehren. Auch auf einen Besuch in der Kirche, weil es da zu kalt sei, wurde verzichtet.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     29. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Neunundzwanzigstes Kapitel
     </head>
@@ -5814,12 +5669,7 @@
      »So heißt es immer. Und wir sind eitel genug, es zu glauben. Aber das führt uns auf ganz neue Gebiete. Vorläufig Ihre Hand zur Besieglung. Und nun erlauben Sie mir, nach diesem unserm revolutionären Diskurse, zu den Hütten friedlicher Menschen zurückzukehren. Ich habe mich bei dem alten Herrn nur auf eine halbe Stunde beurlaubt und rechne darauf, daß Sie mich, wenn nicht bis ins ›Museum‹ selbst (das dem Programm nach besucht werden sollte), so doch wenigstens bis auf die Schloßrampe begleiten.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     30. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Dreißigstes Kapitel
     </head>
@@ -5950,12 +5800,7 @@
      »Nein, gnädigste Gräfin. Nicht im geringsten. Ich nehme nicht vieles ernsthaft, und am wenigsten ernsthaft nehm ich mein Museum. Es ist freilich von mir ausgegangen und interessierte mich auch eine Weile, hinterher aber hat sich eigentlich alles ohne mich ge macht. Das ist so die Regel. Ist überhaupt erst ein Anfang da, so laufen die Dinge von selber weiter, und die Leute lassen einen nicht wieder los, halten einen fest, man mag wollen oder nicht. Ich hätte vielleicht alles schon längst wieder aufgegeben, man will's aber nicht. Einigen gereicht es zur Befriedigung, mich für einen Querkopf halten zu können, und andre sprechen wenigstens von Originalitätshascherei. Man muß eben allerhand über sich ergehen lassen.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     31. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Einunddreißigstes Kapitel
     </head>
@@ -6068,12 +5913,7 @@
      Hochzeit
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     32. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Zweiunddreißigstes Kapitel
     </head>
@@ -6201,12 +6041,7 @@
      , der diese Kompliziertheiten darstellt oder gar erst schaffen soll... Also, sei ruhig, freundlich Element.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     33. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Dreiunddreißigstes Kapitel
     </head>
@@ -6322,12 +6157,7 @@
      »Czako, Sie werden wieder frivol.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     34. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Vierunddreißigstes Kapitel
     </head>
@@ -6491,12 +6321,7 @@
      Baron Planta schwieg und schien seinen Begleiter im Stich lassen zu wollen. Aber er bekehrte sich, als er einen Augenblick danach von der Front her die mit immer steigender Heftigkeit ausgestoßenen Worte hörte: Kaschube, Wende, Böhmake.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     35. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Fünfunddreißigstes Kapitel
     </head>
@@ -6606,12 +6431,7 @@
      Sonnenuntergang
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     36. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Sechsunddreißigstes Kapitel
     </head>
@@ -6796,12 +6616,7 @@
      Ja, Baruch fühlte was wie Verstimmung. Aber Dubslav auch. Es war ihm zu Sinn, als hätt er seinen alten Granseer Geld- und Geschäftsfreund (trotzdem er dessen letzte Pläne nicht einmal ahnte) zum erstenmal auf etwas Heimlichem und Verstecktem ertappt, und als Engelke kam, um die Sherryflasche wieder wegzuräumen, sagte er: »Engelke, mit Baruch is es auch nichts. Ich dachte, wunder was das für ein Heiliger wär, und nun is der Pferdefuß doch schließlich rausgekommen. Wollte mir da Geld auf Hypothek beinah aufzwingen, als ob ich nicht schon genug davon hätte... Sonderbar, Uncke, mit seinem ewigen ›zweideutig‹, wird am Ende doch recht behalten. Überhaupt solche Polizeimenschen mit 'nem Karabiner über die Schulter, das sind, bei Lichte besehn, immer die feinsten Menschenkenner. Ich ärgere mich, daß ich's nicht eher gemerkt habe. So dumm zu sein! Aber das mit der ›Krankheit‹ heute, das war mir doch zuviel. Wenn sich die Menschen erst nach Krankheit erkundigen, dann ist es immer schlimm. Eigentlich is es jedem gleich, wie's einem geht. Und ich habe sogar welche gekannt, die sahen sich, wenn sie so fragten, immer schon die Möbel und Bilder an und dachten an nichts wie an Auktion.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     37. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Siebenunddreißigstes Kapitel
     </head>
@@ -7073,12 +6888,7 @@
      »Gott, nu fängt der auch noch an.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     38. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Achtunddreißigstes Kapitel
     </head>
@@ -7368,12 +7178,7 @@
      Dubslav sah vor sich hin. Er war augenscheinlich in einem Schwankezustand. Dann aber nahm er die Hand Lorenzens und sagte: »Sie sollen recht haben.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     39. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Neununddreißigstes Kapitel
     </head>
@@ -7609,12 +7414,7 @@
      Verweile doch. Tod - Begräbnis - Neue Tage
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     40. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Vierzigstes Kapitel
     </head>
@@ -7772,12 +7572,7 @@
      Dabei lachte der Alte. Dann rief er Engelke, daß er den Honig herausnehme. Krippenstapel aber verabschiedete sich, seine leere Terrine vorsichtig im Arm.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     41. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Einundvierzigstes Kapitel
     </head>
@@ -8055,12 +7850,7 @@
      Der Alte lächelte. »Ja, ja.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     42. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Zweiundvierzigstes Kapitel
     </head>
@@ -8161,12 +7951,7 @@
      »Dat sinn de ihrsten«, sagte Engelke, »un wihren ook woll de besten sinn.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     43. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Dreiundvierzigstes Kapitel
     </head>
@@ -8264,12 +8049,7 @@
      Bald danach hatte sich der Kirchhof geleert, und alles, was in der Grafschaft wohnte, war auf dem Heimwege. Nur die von Berlin her erschienenen Gäste, die den nächsten an Gransee vorüberkommenden Rostocker Zug abzuwarten hatten, waren in das Herrenhaus zurückgekehrt, wo mittlerweile für einen Imbiß Sorge getragen war. Rex und Czako, desgleichen auch die Berchtesgadens nahmen erst ein Glas Wein und dann eine Tasse Kaffee. Zwischen dem alten Grafen und Adelheid knüpfte sich ein mäßig belebtes Gespräch an, wobei der Graf der Vorzüge des Verstorbenen gedachte. Da Schwester Adelheid jedoch, wie so viele Schwestern, allerlei Zweifel und Bedenken hinsichtlich des Tuns und Treibens ihres Bruders hegte, so ging man bald zu den Kindern über und beklagte, daß sie bei einer so schönen Feier nicht hätten zugegen sein können. Dazwischen wurde dann freilich das fast entgegengesetzt klingende Bedauern laut, daß das junge Paar seinen Aufenthalt im Süden wohl werde abbrechen müssen. Der alte Graf in seiner Güte fand alles, was Adelheid sagte, sehr verständig, während sich Adelheids Gefühle mit der Anerkennung begnügten, daß sie sich den Alten eigentlich schlimmer gedacht habe.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     44. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Vierundvierzigstes Kapitel
     </head>
@@ -8376,12 +8156,7 @@
      »Sapristi, Rex, c'est une idée.«
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     45. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Fünfundvierzigstes Kapitel
     </head>
@@ -8488,12 +8263,7 @@
      Und unter diesen Worten reichte er Armgard die Hand.
     </p>
    </div>
-   <div type="chapter">
-    <head>
-     46. Kapitel
-    </head>
-   </div>
-   <div type="chapter">
+   <div type="group">
     <head>
      Sechsundvierzigstes Kapitel
     </head>
