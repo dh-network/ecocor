@@ -1,12 +1,12 @@
 ^
 Frankenstein or The Modern Prometheus
 
-Letter 1
+#Letter 1
 
 _To Mrs. Saville, England._
 
 
-St. Petersburgh, Dec. 11th, 17—.
+##St. Petersburgh, Dec. 11th, 17—.
 
 
 You will rejoice to hear that no disaster has accompanied the
@@ -127,7 +127,7 @@ R. Walton
 
 
 
-Letter 2
+#Letter 2
 
 
 
@@ -135,7 +135,7 @@ Letter 2
 _To Mrs. Saville, England._
 
 
-Archangel, 28th March, 17—.
+##Archangel, 28th March, 17—.
 
 
 How slowly the time passes here, encompassed as I am by frost and snow!
@@ -258,7 +258,7 @@ Your affectionate brother,
 
 
 
-Letter 3
+#Letter 3
 
 
 
@@ -266,7 +266,7 @@ Letter 3
 _To Mrs. Saville, England._
 
 
-July 7th, 17—.
+##July 7th, 17—.
 
 
 My dear Sister,
@@ -309,7 +309,7 @@ R.W.
 
 
 
-Letter 4
+#Letter 4
 
 
 
@@ -317,7 +317,7 @@ Letter 4
 _To Mrs. Saville, England._
 
 
-August 5th, 17—.
+##August 5th, 17—.
 
 
 So strange an accident has happened to us that I cannot forbear
@@ -464,7 +464,7 @@ should I have any fresh incidents to record.
 
 
 
-August 13th, 17—.
+##August 13th, 17—.
 
 
 My affection for my guest increases every day.  He excites at once my
@@ -546,7 +546,7 @@ voice whose varied intonations are soul-subduing music.
 
 
 
-August 19th, 17—.
+##August 19th, 17—.
 
 
 Yesterday the stranger said to me, “You may easily perceive, Captain
@@ -601,7 +601,7 @@ embraced the gallant vessel on its course and wrecked it—thus!
 
 
 
-Chapter 1
+###Chapter 1
 
 I am by birth a Genevese, and my family is one of the most
 distinguished of that republic.  My ancestors had been for many years
@@ -767,7 +767,7 @@ sister, since till death she was to be mine only.
 
 
 
-Chapter 2
+###Chapter 2
 
 We were brought up together; there was not quite a year difference in
 our ages.  I need not say that we were strangers to any species of
@@ -978,7 +978,7 @@ terrible destruction.
 
 
 
-Chapter 3
+###Chapter 3
 
 When I had attained the age of seventeen my parents resolved that I
 should become a student at the university of Ingolstadt.  I had
@@ -1233,7 +1233,7 @@ Thus ended a day memorable to me; it decided my future destiny.
 
 
 
-Chapter 4
+###Chapter 4
 
 From this day natural philosophy, and particularly chemistry, in the
 most comprehensive sense of the term, became nearly my sole occupation.
@@ -1469,7 +1469,7 @@ both of these when my creation should be complete.
 
 
 
-Chapter 5
+###Chapter 5
 
 It was on a dreary night of November that I beheld the accomplishment
 of my toils.  With an anxiety that almost amounted to agony, I
@@ -1707,7 +1707,7 @@ your cousin, I believe.”
 
 
 
-Chapter 6
+###Chapter 6
 
 Clerval then put the following letter into my hands.  It was from my
 own Elizabeth:
@@ -1973,7 +1973,7 @@ high, and I bounded along with feelings of unbridled joy and hilarity.
 
 
 
-Chapter 7
+###Chapter 7
 
 On my return, I found the following letter from my father:—
 
@@ -2342,7 +2342,7 @@ partiality.”
 
 
 
-Chapter 8
+###Chapter 8
 
 We passed a few sad hours until eleven o’clock, when the trial was to
 commence.  My father and the rest of the family being obliged to attend
@@ -2647,7 +2647,7 @@ Justine, the first hapless victims to my unhallowed arts.
 
 
 
-Chapter 9
+###Chapter 9
 
 Nothing is more painful to the human mind than, after the feelings have
 been worked up by a quick succession of events, the dead calmness of
@@ -2856,7 +2856,7 @@ the giver of oblivion.
 
 
 
-Chapter 10
+###Chapter 10
 
 I spent the following day roaming through the valley.  I stood beside
 the sources of the Arveiron, which take their rise in a glacier, that
@@ -3080,7 +3080,7 @@ his tale.
 
 
 
-Chapter 11
+###Chapter 11
 
 “It is with considerable difficulty that I remember the original era of
 my being; all the events of that period appear confused and indistinct.
@@ -3344,7 +3344,7 @@ extinguished their lights and retired, as I conjectured, to rest.”
 
 
 
-Chapter 12
+###Chapter 12
 
 “I lay on my straw, but I could not sleep.  I thought of the
 occurrences of the day.  What chiefly struck me was the gentle manners
@@ -3551,7 +3551,7 @@ and the future gilded by bright rays of hope and anticipations of joy.”
 
 
 
-Chapter 13
+###Chapter 13
 
 “I now hasten to the more moving part of my story.  I shall relate
 events that impressed me with feelings which, from what I had been,
@@ -3755,7 +3755,7 @@ an innocent, half-painful self-deceit, to call them).”
 
 
 
-Chapter 14
+###Chapter 14
 
 “Some time elapsed before I learned the history of my friends.  It was
 one which could not fail to impress itself deeply on my mind, unfolding
@@ -3939,7 +3939,7 @@ the cottage of her lover.”
 
 
 
-Chapter 15
+###Chapter 15
 
 “Such was the history of my beloved cottagers.  It impressed me deeply.
 I learned, from the views of social life which it developed, to admire
@@ -4248,7 +4248,7 @@ tumult escaped unperceived to my hovel.”
 
 
 
-Chapter 16
+###Chapter 16
 
 “Cursed, cursed creator!  Why did I live?  Why, in that instant, did I
 not extinguish the spark of existence which you had so wantonly
@@ -4562,7 +4562,7 @@ and have the same defects.  This being you must create.”
 
 
 
-Chapter 17
+###Chapter 17
 
 The being finished speaking and fixed his looks upon me in the
 expectation of a reply.  But I was bewildered, perplexed, and unable to
@@ -4745,7 +4745,7 @@ and that thought only had to me the reality of life.
 
 
 
-Chapter 18
+###Chapter 18
 
 Day after day, week after week, passed away on my return to Geneva; and
 I could not collect the courage to recommence my work.  I feared the
@@ -5028,7 +5028,7 @@ above all, and the Tower famed in English history.
 
 
 
-Chapter 19
+###Chapter 19
 
 London was our present point of rest; we determined to remain several
 months in this wonderful and celebrated city.  Clerval desired the
@@ -5279,7 +5279,7 @@ in my bosom.
 
 
 
-Chapter 20
+###Chapter 20
 
 I sat one evening in my laboratory; the sun had set, and the moon was just
 rising from the sea; I had not sufficient light for my employment, and I
@@ -5607,7 +5607,7 @@ recollection.
 
 
 
-Chapter 21
+###Chapter 21
 
 I was soon introduced into the presence of the magistrate, an old
 benevolent man with calm and mild manners.  He looked upon me, however,
@@ -5973,7 +5973,7 @@ susceptible.
 
 
 
-Chapter 22
+###Chapter 22
 
 The voyage came to an end.  We landed, and proceeded to Paris.  I soon
 found that I had overtaxed my strength and that I must repose before I
@@ -6314,7 +6314,7 @@ me and cling to me for ever.
 
 
 
-Chapter 23
+###Chapter 23
 
 It was eight o’clock when we landed; we walked for a short time on the
 shore, enjoying the transitory light, and then retired to the inn and
@@ -6562,7 +6562,7 @@ some other mode of action.
 
 
 
-Chapter 24
+###Chapter 24
 
 My present situation was one in which all voluntary thought was
 swallowed up and lost.  I was hurried away by fury; revenge alone
@@ -6834,7 +6834,7 @@ Justine, Clerval, Elizabeth, my father, and of the wretched Victor, and
 thrust your sword into his heart.  I will hover near and direct the
 steel aright.
 
-Walton, _in continuation._
+##Walton, _in continuation._
 
 
 August 26th, 17—.
@@ -6947,7 +6947,7 @@ utility to my fellow creatures, then could I live to fulfil it.  But
 such is not my destiny; I must pursue and destroy the being to whom I
 gave existence; then my lot on earth will be fulfilled and I may die.”
 
-My beloved Sister,
+##My beloved Sister,
 
 September 2d.
 
@@ -6981,7 +6981,7 @@ resolutions of man.  These feelings are transitory; each day of
 expectation delayed fills them with fear, and I almost dread a mutiny
 caused by this despair.
 
-September 5th.
+##September 5th.
 
 
 A scene has just passed of such uncommon interest that, although it is
@@ -7058,7 +7058,7 @@ return shamefully, my purpose unfulfilled.  Yet I fear such will be my
 fate; the men, unsupported by ideas of glory and honour, can never
 willingly continue to endure their present hardships.
 
-September 7th.
+##September 7th.
 
 
 The die is cast; I have consented to return if we are not destroyed.
@@ -7066,7 +7066,7 @@ Thus are my hopes blasted by cowardice and indecision; I come back
 ignorant and disappointed.  It requires more philosophy than I possess
 to bear this injustice with patience.
 
-September 12th.
+##September 12th.
 
 
 It is past; I am returning to England.  I have lost my hopes of utility
