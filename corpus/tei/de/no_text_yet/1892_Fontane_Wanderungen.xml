@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco000060" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_000060" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title ref="https://www.wikidata.org/wiki/Q316853">
+    <title ref="https://www.wikidata.org/entity/Q316853">
      Wanderungen durch die Mark Brandenburg
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q76632">
+    <author ref="https://www.wikidata.org/entity/Q76632">
      Theodor Fontane
     </author>
     <respStmt>
@@ -71,9 +71,6 @@
    </langUsage>
    <textDesc>
     <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
-    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
-    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
-    <timeSlot key="T1" xmlns="http://distantreading.net/eltec/ns"/>
    </textDesc>
   </profileDesc>
   <revisionDesc>

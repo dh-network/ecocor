@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_en_000019" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_en_000010" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title ref="https://www.wikidata.org/entity/Q129778">
-     Heart of Darkness
+    <title ref="https://www.wikidata.org/entity/Q794866">
+     Paris in the Twentieth Century
     </title>
-    <author ref="https://www.wikidata.org/entity/Q82925">
-     Joseph Conrad
+    <author ref="https://www.wikidata.org/entity/Q33977">
+     Jules Vernes
     </author>
     <respStmt>
      <resp>

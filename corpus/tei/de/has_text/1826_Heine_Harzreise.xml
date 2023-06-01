@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco000063" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_000063" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title ref="https://www.wikidata.org/wiki/Q323160">
+    <title ref="https://www.wikidata.org/entity/Q323160">
      Harzreise
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q44403">
+    <author ref="https://www.wikidata.org/entity/Q44403">
      Heinrich Heine
     </author>
     <respStmt>
@@ -71,9 +71,6 @@
    </langUsage>
    <textDesc>
     <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
-    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
-    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
-    <timeSlot key="T1" xmlns="http://distantreading.net/eltec/ns"/>
    </textDesc>
   </profileDesc>
   <revisionDesc>
@@ -84,12 +81,12 @@
  </teiHeader>
  <text>
   <front>
-   <p>
+   <p xml:id="eco_de_000063_10">
    </p>
-   <p>
+   <p xml:id="eco_de_000063_20">
     Die Harzreise
    </p>
-   <p>
+   <p xml:id="eco_de_000063_30">
     1824
    </p>
   </front>
@@ -97,1207 +94,1207 @@
    <div type="group">
     <head>
     </head>
-    <p>
+    <p xml:id="eco_de_000063_40">
      Nichts ist dauernd als der Wechsel; nichts beständig als der Tod. Jeder Schlag des Herzens schlägt uns eine Wunde, und das Leben wäre ein ewiges Verbluten, wenn nicht die Dichtkunst wäre. Sie gewährt uns, was uns die Natur versagt: eine goldene Zeit, die nicht rostet, einen Frühling, der nicht abblüht, wolkenloses Glück und ewige Jugend.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_50">
      Börne
     </p>
-    <p>
+    <p xml:id="eco_de_000063_70">
      Schwarze Röcke, seidne Strümpfe,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_80">
      Weiße, höfliche Manschetten,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_90">
      Sanfte Reden, Embrassieren –
     </p>
-    <p>
+    <p xml:id="eco_de_000063_100">
      Ach, wenn sie nur Herzen hätten!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_110">
      Herzen in der Brust, und Liebe,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_120">
      Warme Liebe in dem Herzen –
     </p>
-    <p>
+    <p xml:id="eco_de_000063_130">
      Ach, mich tötet ihr Gesinge
     </p>
-    <p>
+    <p xml:id="eco_de_000063_140">
      Von erlognen Liebesschmerzen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_150">
      Auf die Berge will ich steigen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_160">
      Wo die frommen Hütten stehen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_170">
      Wo die Brust sich frei erschließet,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_180">
      Und die freien Lüfte wehen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_190">
      Auf die Berge will ich steigen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_200">
      Wo die dunkeln Tannen ragen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_210">
      Bäche rauschen, Vögel singen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_220">
      Und die stolzen Wolken jagen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_240">
      Lebet wohl, ihr glatten Säle,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_250">
      Glatte Herren! Glatte Frauen!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_260">
      Auf die Berge will ich steigen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_270">
      Lachend auf euch niederschauen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_300">
      Die Stadt Göttingen, berühmt durch ihre Würste und Universität gehört dem Könige von Hannover und enthält 999 Feuerstellen, diverse Kirchen, eine Entbindungsanstalt, eine Sternwarte, einen Karzer, eine Bibliothek und einen Ratskeller, wo das Bier sehr gut ist. Der vorbeifließende Bach heißt »die Leine« und dient des Sommers zum Baden; das Wasser ist sehr kalt und an einigen Orten so breit, daß Lüder wirklich einen großen Anlauf nehmen mußte, als er hinübersprang. Die Stadt selbst ist schön und gefällt einem am besten, wenn man sie mit dem Rücken ansieht. Sie muß schon sehr lange stehen; denn ich erinnere mich, als ich vor fünf Jahren dort immatrikuliert und bald darauf konsiliiert wurde, hatte sie schon dasselbe graue, altkluge Ansehen und war schon vollständig eingerichtet mit Schnurren, Pudeln, Dissertationen, Teedansants, Wäscherinnen, Kompendien, Taubenbraten, Guelfenorden, Promotionskutschen, Pfeifenköpfen, Hofräten, Justizräten, Relegationsräten, Profaxen und anderen Faxen. Einige behaupten sogar, die Stadt sei zur Zeit der Völkerwanderung erbaut worden, jeder deutsche Stamm habe damals ein ungebundenes Exemplar seiner Mitglieder darin zurückgelassen, und davon stammten all die Vandalen, Friesen, Schwaben, Teutonen, Sachsen, Thüringer usw., die noch heutzutage in Göttingen, hordenweis und geschieden durch Farben der Mützen und der Pfeifenquäste, über die Weenderstraße einherziehen, auf den blutigen Walstätten der Rasenmühle, des Ritschenkrugs und Bovdens sich ewig untereinander herumschlagen, in Sitten und Gebräuchen noch immer wie zur Zeit der Völkerwanderung dahinleben und teils durch ihre Duces, welche Haupthähne heißen, teils durch ihr uraltes Gesetzbuch, welches Komment heißt und in den legibus barbarorum eine Stelle verdient, regiert werden.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_310">
      Im allgemeinen werden die Bewohner Göttingens eingeteilt in Studenten, Professoren, Philister und Vieh, welche vier Stände doch nichts weniger als streng geschieden sind. Der Viehstand ist der bedeutendste. Die Namen aller Studenten und aller ordentlichen und unordentlichen Professoren hier herzuzählen, wäre zu weitläuftig; auch sind mir in diesem Augenblick nicht alle Studentennamen im Gedächtnisse, und unter den Professoren sind manche, die noch gar keinen Namen haben. Die Zahl der Göttinger Philister muß sehr groß sein, wie Sand, oder besser gesagt, wie Kot am Meer; wahrlich, wenn ich sie des Morgens, mit ihren schmutzigen Gesichtern und weißen Rechnungen, vor den Pforten des akademischen Gerichtes aufgepflanzt sah, so mochte ich kaum begreifen, wie Gott nur soviel Lumpenpack erschaffen konnte.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_320">
      Ausführlicheres über die Stadt Göttingen läßt sich sehr bequem nachlesen in der Topographie derselben von K. F. H. Marx. Obzwar ich gegen den Verfasser, der mein Arzt war und mir viel Liebes erzeigte, die heiligsten Verpflichtungen hege, so kann ich doch sein Werk nicht unbedingt empfehlen, und ich muß tadeln, daß er jener falschen Meinung, als hätten die Göttingerinnen allzu große Füße, nicht streng genug widerspricht. Ja, ich habe mich sogar seit Jahr und Tag mit einer ernsten Widerlegung dieser Meinung beschäftigt, ich habe deshalb vergleichende Anatomie gehört, die seltensten Werke auf der Bibliothek exzerpiert, auf der Weenderstraße stundenlang die Füße der vorübergehenden Damen studiert, und in der grundgelehrten Abhandlung, so die Resultate dieser Studien enthalten wird, spreche ich 1. von den Füßen überhaupt, 2. von den Füßen bei den Alten, 3. von den Füßen der Elefanten, 4. von den Füßen der Göttingerinnen, 5. stelle ich alles zusammen, was über diese Füße auf Ullrichs Garten schon gesagt worden, 6. betrachte ich diese Füße in ihrem Zusammenhang und verbreite mich bei dieser Gelegenheit auch über Waden, Knie usw., und endlich 7., wenn ich nur so großes Papier auftreiben kann, füge ich noch hinzu einige Kupfertafeln mit dem Faksimile göttingischer Damenfüße.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_330">
      Es war noch sehr früh, als ich Göttingen verließ, und der gelehrte ** lag gewiß noch im Bette und träumte wie gewöhnlich, er wandle in einem schönen Garten, auf dessen Beeten lauter weiße, mit Zitaten beschriebene Papierchen wachsen, die im Sonnenlichte lieblich glänzen und von denen er hier und da mehrere pflückt und mühsam in ein neues Beet verpflanzt, während die Nachtigallen mit ihren süßesten Tönen sein altes Herz erfreuen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_340">
      Vor dem Weender Tore begegneten mir zwei eingeborne kleine Schulknaben, wovon der eine zum andern sagte: »Mit dem Theodor will ich gar nicht mehr umgehen, er ist ein Lumpenkerl, denn gestern wußte er nicht mal, wie der Genitiv von mensa heißt.« So unbedeutend diese Worte klingen, so muß ich sie doch wiedererzählen, ja, ich möchte sie als Stadtmotto gleich auf das Tor schreiben lassen; denn die Jungen piepen, wie die Alten pfeifen, und jene Worte bezeichnen ganz den engen, trocknen Notizenstolz der hochgelahrten Georgia Augusta.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_350">
      Auf der Chaussee wehte frische Morgenluft, und die Vögel sangen gar freudig, und auch mir wurde allmählich wieder frisch und freudig zumute. Eine solche Erquickung tat not. Ich war die letzte Zeit nicht aus dem Pandektenstall herausgekommen, römische Kasuisten hatten mir den Geist wie mit einem grauen Spinnweb überzogen, mein Herz war wie eingeklemmt zwischen den eisernen Paragraphen selbstsüchtiger Rechtssysteme, beständig klang es mir noch in den Ohren wie »Tribonian, Justinian, Hermogenian und Dummerjahn«, und ein zärtliches Liebespaar, das unter einem Baume saß, hielt ich gar für eine Corpus-juris-Ausgabe mit verschlungenen Händen. Auf der Landstraße fing es an, lebendig zu werden. Milchmädchen zogen vorüber; auch Eseltreiber mit ihren grauen Zöglingen. Hinter Weende begegneten mir der Schäfer und Doris. Dieses ist nicht das idyllische Paar, wovon Geßner singt, sondern es sind wohlbestallte Universitätspedelle, die wachsam aufpassen müssen, daß sich keine Studenten in Bovden duellieren und daß keine neue Ideen, die noch immer  einige Dezennien vor Göttingen Quarantäne halten müssen, von einem spekulierenden Privatdozenten eingeschmuggelt werden. Schäfer grüßte mich sehr kollegialisch; denn er ist ebenfalls Schriftsteller und hat meiner in seinen halbjährigen Schriften oft erwähnt; wie er mich denn auch außerdem oft zitiert hat und, wenn er mich nicht zu Hause fand, immer so gütig war, die Zitation mit Kreide auf meine Stubentür zu schreiben. Dann und wann rollte auch ein Einspänner vorüber, wohlbepackt mit Studenten, die für die Ferienzeit oder auch für immer wegreisten. In solch einer Universitätsstadt ist ein beständiges Kommen und Abgehen, alle drei Jahre findet man dort eine neue Studentengeneration, das ist ein ewiger Menschenstrom, wo eine Semesterwelle die andere fortdrängt, und nur die alten Professoren bleiben stehen in dieser allgemeinen Bewegung, unerschütterlich fest, gleich den Pyramiden Ägyptens – nur daß in diesen Universitätspyramiden keine Weisheit verborgen ist.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_360">
      Aus den Myrtenlauben bei Rauschenwasser sah ich zwei hoffnungsvolle Jünglinge hervorreiten. Ein Weibsbild, das dort sein horizontales Handwerk treibt, gab ihnen bis auf die Landstraße das Geleit, klätschelte mit geübter Hand die mageren Schenkel der Pferde, lachte laut auf, als der eine Reuter ihr hinten, auf die breite Spontaneität, einige Galanterien mit der Peitsche überlangte, und schob sich alsdann gen Bovden. Die Jünglinge aber jagten nach Nörten und johlten gar geistreich und sangen gar lieblich das Rossinische Lied: »Trink Bier, liebe, liebe Liese!« Diese Töne hörte ich noch lange in der Ferne; doch die holden Sänger selbst verlor ich bald völlig aus dem Gesichte, sintemal sie ihre Pferde, die im Grunde einen deutsch langsamen Charakter zu haben schienen, gar entsetzlich anspornten und vorwärtspeitschten. Nirgends wird die Pferdeschinderei stärker getrieben als in Göttingen, und oft, wenn ich sah, wie solch eine schweißtriefende, lahme Kracke für das bißchen Lebensfutter von unsern Rauschenwasserrittern abgequält ward oder wohl gar einen ganzen Wagen voll Studenten fortziehen mußte, so dachte ich auch: ›O du armes  Tier, gewiß haben deine Voreltern im Paradiese verbotenen Hafer gefressen!‹
     </p>
-    <p>
+    <p xml:id="eco_de_000063_370">
      Im Wirtshause zu Nörten traf ich die beiden Jünglinge wieder. Der eine verzehrte einen Heringsalat, und der andere unterhielt sich mit der gelbledernen Magd, Fusia Canina, auch Trittvogel genannt. Er sagte ihr einige Anständigkeiten, und am Ende wurden sie handgemein. Um meinen Ranzen zu erleichtern, nahm ich die eingepackten blauen Hosen, die in geschichtlicher Hinsicht sehr merkwürdig sind, wieder heraus und schenkte sie dem kleinen Kellner, den man Kolibri nennt. Die Bussenia, die alte Wirtin, brachte mir unterdessen ein Butterbrot und beklagte sich, daß ich sie jetzt so selten besuche; denn sie liebt mich sehr.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_380">
      Hinter Nörten stand die Sonne hoch und glänzend am Himmel. Sie meinte es recht ehrlich mit mir und erwärmte mein Haupt, daß alle unreife Gedanken darin zur Vollreife kamen. Die liebe Wirtshaussonne in Nordheim ist auch nicht zu verachten; ich kehrte hier ein und fand das Mittagessen schon fertig. Alle Gerichte waren schmackhaft zubereitet und wollten mir besser behagen als die abgeschmackten akademischen Gerichte, die salzlosen, ledernen Stockfische mit ihrem alten Kohl, die mir in Göttingen vorgesetzt wurden. Nachdem ich meinen Magen etwas beschwichtigt hatte, bemerkte ich in derselben Wirtsstube einen Herrn mit zwei Damen, die im Begriff waren abzureisen. Dieser Herr war ganz grün gekleidet, trug sogar eine grüne Brille, die auf seine rote Kupfernase einen Schein wie Grünspan warf, und sah aus, wie der König Nebukadnezar in seinen spätern Jahren ausgesehen hat, als er, der Sage nach, gleich einem Tiere des Waldes, nichts als Salat aß. Der Grüne wünschte, daß ich ihm ein Hotel in Göttingen empfehlen möchte, und ich riet ihm, dort von dem ersten besten Studenten das Hotel de Brühbach zu erfragen. Die eine Dame war die Frau Gemahlin, eine gar große, weitläuftige Dame, ein rotes Quadratmeilengesicht mit Grübchen in den Wangen, die wie Spucknäpfe für Liebesgötter aussahen, ein langfleischig herabhängendes Unterkinn, das eine schlechte Fortsetzung des Gesichtes  zu sein schien, und ein hochaufgestapelter Busen, der mit steifen Spitzen und vielzackig festonierten Krägen wie mit Türmchen und Bastionen umbaut war und einer Festung glich, die gewiß ebensowenig wie jene anderen Festungen, von denen Philipp von Mazedonien spricht, einem mit Gold beladenen Esel widerstehen würde. Die andere Dame, die Frau Schwester, bildete ganz den Gegensatz der eben beschriebenen. Stammte jene von Pharaos fetten Kühen, so stammte diese von den magern. Das Gesicht nur ein Mund zwischen zwei Ohren, die Brust trostlos öde, wie die Lüneburger Heide; die ganze ausgekochte Gestalt glich einem Freitisch für arme Theologen. Beide Damen fragten mich zu gleicher Zeit, ob im Hotel de Brühbach auch ordentliche Leute logierten. Ich bejahte es mit gutem Gewissen, und als das holde Kleeblatt abfuhr, grüßte ich nochmals zum Fenster hinaus. Der Sonnenwirt lächelte gar schlau und mochte wohl wissen, daß der Karzer von den Studenten in Göttingen Hotel de Brühbach genannt wird.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_390">
      Hinter Nordheim wird es schon gebirgig, und hier und da treten schöne Anhöhen hervor. Auf dem Wege traf ich meistens Krämer, die nach der Braunschweiger Messe zogen, auch einen Schwarm Frauenzimmer, deren jede ein großes, fast häuserhohes, mit weißem Leinen überzogenes Behältnis auf dem Rücken trug. Darin saßen allerlei eingefangene Singvögel, die beständig piepsten und zwitscherten, während ihre Trägerinnen lustig dahinhüpften und schwatzten. Mir kam es gar närrisch vor, wie so ein Vogel den andern zu Markte trägt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_400">
      In pechdunkler Nacht kam ich an zu Osterode. Es fehlte mir der Appetit zum Essen, und ich legte mich gleich zu Bette. Ich war müde wie ein Hund und schlief wie ein Gott. Im Traume kam ich wieder nach Göttingen zurück, und zwar nach der dortigen Bibliothek. Ich stand in einer Ecke des juristischen Saals, durchstöberte alte Dissertationen, vertiefte mich im Lesen, und als ich aufhörte, bemerkte ich zu meiner Verwunderung, daß es Nacht war und herabhängende Kristalleuchter den Saal erhellten. Die nahe Kirchenglocke schlug eben zwölf, die Saaltüre  öffnete sich langsam, und herein trat eine stolze, gigantische Frau, ehrfurchtsvoll begleitet von den Mitgliedern und Anhängern der Juristischen Fakultät. Das Riesenweib, obgleich schon bejahrt, trug dennoch im Antlitz die Züge einer strengen Schönheit, jeder ihrer Blicke verriet die hohe Titanin, die gewaltige Themis, Schwert und Waage hielt sie nachlässig zusammen in der einen Hand, in der andern hielt sie eine Pergamentrolle, zwei junge Doctores juris trugen die Schleppe ihres grau verblichenen Gewandes; an ihrer rechten Seite sprang windig hin und her der dünne Hofrat Rusticus, der Lykurg Hannovers, und deklamierte aus seinem neuen Gesetzentwurf; an ihrer linken Seite humpelte, gar galant und wohlgelaunt, ihr Cavaliere servente, der Geheime Justizrat Cujacius, und riß beständig juristische Witze und lachte selbst darüber so herzlich, daß sogar die ernste Göttin sich mehrmals lächelnd zu ihm herabbeugte, mit der großen Pergamentrolle ihm auf die Schulter klopfte und freundlich flüsterte: »Kleiner, loser Schalk, der die Bäume von oben herab beschneidet!« Jeder von den übrigen Herren trat jetzt ebenfalls näher und hatte etwas hinzubemerken und hinzulächeln, etwa ein neu ergrübeltes Systemchen oder Hypotheschen oder ähnliches Mißgebürtchen des eigenen Köpfchens. Durch die geöffnete Saaltüre traten auch noch mehrere fremde Herren herein, die sich als die andern großen Männer des illustren Ordens kundgaben, meistens eckige, lauernde Gesellen, die mit breiter Selbstzufriedenheit gleich drauflos definierten und distinguierten und über jedes Titelchen eines Pandektentitels disputierten. Und immer kamen noch neue Gestalten herein, alte Rechtsgelehrten, in verschollenen Trachten, mit weißen Allongeperücken und längst vergessenen Gesichtern und sehr erstaunt, daß man sie, die Hochberühmten des verflossenen Jahrhunderts, nicht sonderlich regardierte; und diese stimmten nun ein, auf ihre Weise, in das allgemeine Schwatzen und Schrillen und Schreien, das, wie Meeresbrandung, immer verwirrter und lauter, die hohe Göttin umrauschte, bis diese die Geduld verlor und in einem Tone des entsetzlichsten Riesenschmerzes  plötzlich aufschrie: »Schweigt! schweigt! ich höre die Stimme des teuren Prometheus, die höhnende Kraft und die stumme Gewalt schmieden den Schuldlosen an den Marterfelsen, und all euer Geschwätz und Gezänke kann nicht seine Wunden kühlen und seine Fesseln zerbrechen!« So rief die Göttin, und Tränenbäche stürzten aus ihren Augen, die ganze Versammlung heulte wie von Todesangst ergriffen, die Decke des Saales krachte, die Bücher taumelten herab von ihren Brettern, vergebens trat der alte Münchhausen aus seinem Rahmen hervor, um Ruhe zu gebieten, es tobte und kreischte immer wilder – und fort aus diesem drängenden Tollhauslärm rettete ich mich in den historischen Saal, nach jener Gnadenstelle, wo die heiligen Bilder des Belvederischen Apolls und der Mediceischen Venus nebeneinanderstehen, und ich stürzte zu den Füßen der Schönheitsgöttin, in ihrem Anblick vergaß ich all das wüste Treiben, dem ich entronnen, meine Augen tranken entzückt das Ebenmaß und die ewige Lieblichkeit ihres hochgebenedeiten Leibes, griechische Ruhe zog durch meine Seele, und über mein Haupt, wie himmlischen Segen, goß seine süßesten Lyraklänge Phöbus Apollo.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_410">
      Erwachend hörte ich noch immer ein freundliches Klingen. Die Herden zogen auf die Weide, und es läuteten ihre Glöckchen. Die liebe, goldene Sonne schien durch das Fenster und beleuchtete die Schildereien an den Wänden des Zimmers. Es waren Bilder aus dem Befreiungskriege, worauf treu dargestellt stand, wie wir alle Helden waren, dann auch Hinrichtungsszenen aus der Revolutionszeit, Ludwig XVI. auf der Guillotine und ähnliche Kopfabschneidereien, die man gar nicht ansehen kann, ohne Gott zu danken, daß man ruhig im Bette liegt und guten Kaffee trinkt und den Kopf noch so recht komfortabel auf den Schultern sitzen hat.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_420">
      Nachdem ich Kaffee getrunken, mich angezogen, die Inschriften auf den Fensterscheiben gelesen und alles im Wirtshause berichtigt hatte, verließ ich Osterode.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_430">
      Diese Stadt hat soundso viel Häuser, verschiedene Einwohner, worunter auch mehrere Seelen, wie in Gottschalks »Taschenbuch  für Harzreisende« genauer nachzulesen ist. Ehe ich die Landstraße einschlug, bestieg ich die Trümmer der uralten Osteroder Burg. Sie bestehen nur noch aus der Hälfte eines großen, dickmaurigen, wie von Krebsschäden angefressenen Turms. Der Weg nach Klaustal führte mich wieder bergauf, und von einer der ersten Höhen schaute ich nochmals hinab in das Tal, wo Osterode mit seinen roten Dächern aus den grünen Tannenwäldern hervorguckt, wie eine Moosrose. Die Sonne gab eine gar liebe, kindliche Beleuchtung. Von der erhaltenen Turmhälfte erblickt man hier die imponierende Rückseite.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_440">
      Nachdem ich eine Strecke gewandert, traf ich zusammen mit einem reisenden Handwerksburschen, der von Braunschweig kam und mir als ein dortiges Gerücht erzählte, der junge Herzog sei auf dem Wege nach dem Gelobten Lande von den Türken gefangen worden und könne nur gegen ein großes Lösegeld freikommen. Die große Reise des Herzogs mag diese Sage veranlaßt haben. Das Volk hat noch immer den traditionell fabelhaften Ideengang, der sich so lieblich ausspricht in seinem »Herzog Ernst«. Der Erzähler jener Neuigkeit war ein Schneidergesell, ein niedlicher, kleiner junger Mensch, so dünn, daß die Sterne durchschimmern konnten, wie durch Ossians Nebelgeister, und im ganzen eine volkstümlich barocke Mischung von Laune und Wehmut. Dieses äußerte sich besonders in der drollig rührenden Weise, womit er das wunderbare Volkslied sang: »Ein Käfer auf dem Zaune saß; summ, summ!« Das ist schön bei uns Deutschen; keiner ist so verrückt, daß er nicht einen noch Verrückteren fände, der ihn versteht. Nur ein Deutscher kann jenes Lied nachempfinden und sich dabei totlachen und totweinen. Wie tief das Goethesche Wort ins Leben des Volks gedrungen, bemerkte ich auch hier. Mein dünner Weggenosse trillerte ebenfalls zuweilen vor sich hin: »Leidvoll und freudvoll, Gedanken sind frei!« Solche Korruption des Textes ist beim Volke etwas Gewöhnliches. Er sang auch ein Lied, wo »Lottchen bei dem Grabe ihres Werthers« trauert. Der Schneider zerfloß vor Sentimentalität bei den Worten:  »Einsam wein ich an der Rosenstelle, wo uns oft der späte Mond belauscht! Jammernd irr ich an der Silberquelle, die uns lieblich Wonne zugerauscht.« Aber bald darauf ging er in Mutwillen über und erzählte mir: »Wir haben einen Preußen in der Herberge zu Kassel, der ebensolche Lieder selbst macht; er kann keinen seligen Stich nähen; hat er einen Groschen in der Tasche, so hat er für zwei Groschen Durst, und wenn er im Tran ist, hält er den Himmel für ein blaues Kamisol und weint wie eine Dachtraufe und singt ein Lied mit der doppelten Poesie!« Von letzterem Ausdruck wünschte ich eine Erklärung, aber mein Schneiderlein, mit seinen Ziegenhainer Beinchen, hüpfte hin und her und rief beständig: »Die doppelte Poesie ist die doppelte Poesie!« Endlich brachte ich es heraus, daß er doppelt gereimte Gedichte, namentlich Stanzen, im Sinne hatte. – Unterdes, durch die große Bewegung und durch den konträren Wind, war der Ritter von der Nadel sehr müde geworden. Er machte freilich noch einige große Anstalten zum Gehen und bramarbasierte: »Jetzt will ich den Weg zwischen die Beine nehmen!«, doch bald klagte er, daß er sich Blasen unter die Füße gegangen und die Welt viel zu weitläuftig sei; und endlich, bei einem Baumstamme, ließ er sich sachte niedersinken, bewegte sein zartes Häuptlein wie ein betrübtes Lämmerschwänzchen, und wehmütig lächelnd rief er: »Da bin ich armes Schindluderchen schon wieder marode!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_450">
      Die Berge wurden hier noch steiler, die Tannenwälder wogten unten wie ein grünes Meer, und am blauen Himmel oben schifften die weißen Wolken. Die Wildheit der Gegend war durch ihre Einheit und Einfachheit gleichsam gezähmt. Wie ein guter Dichter liebt die Natur keine schroffen Übergänge. Die Wolken, so bizarr gestaltet sie auch zuweilen erscheinen, tragen ein weißes oder doch ein mildes, mit dem blauen Himmel und der grünen Erde harmonisch korrespondierendes Kolorit, so daß alle Farben einer Gegend wie leise Musik ineinanderschmelzen und jeder Naturanblick krampfstillend und gemütberuhigend wirkt. – Der selige Hoffmann würde die Wolken buntscheckig bemalt haben. – Eben wie ein großer Dichter weiß die Natur auch mit den wenigsten Mitteln die größten Effekte hervorzubringen. Da sind nur eine Sonne, Bäume, Blumen, Wasser und Liebe. Freilich, fehlt letztere im Herzen des Beschauers, so mag das Ganze wohl einen schlechten Anblick gewähren, und die Sonne hat dann bloß soundso viel Meilen im Durchmesser, und die Bäume sind gut zum Einheizen, und die Blumen werden nach den Staubfäden klassifiziert, und das Wasser ist naß.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_460">
      Ein kleiner Junge, der für seinen kranken Oheim im Walde Reisig suchte, zeigte mir das Dorf Lerbach, dessen kleine Hütten, mit grauen Dächern, sich über eine halbe Stunde durch das Tal hinziehen. »Dort«, sagte er, »wohnen dumme Kropfleute und weiße Mohren« – mit letzterem Namen werden die Albinos vom Volke benannt. Der kleine Junge stand mit den Bäumen in gar eigenem Einverständnis; er grüßte sie wie gute Bekannte, und sie schienen rauschend seinen Gruß zu erwidern. Er pfiff wie ein Zeisig, ringsum antworteten zwitschernd die andern Vögel, und ehe ich mich dessen versah, war er mit seinen nackten Füßchen und seinem Bündel Reisig ins Walddickicht fortgesprungen. Die Kinder, dacht ich, sind jünger als wir, können sich noch erinnern, wie sie ebenfalls Bäume oder Vögel waren, und sind also noch imstande, dieselben zu verstehen; unsereins aber ist schon alt und hat zuviel Sorgen, Jurisprudenz und schlechte Verse im Kopf. Jene Zeit, wo es anders war, trat mir bei meinem Eintritt in Klaustal wieder recht lebhaft ins Gedächtnis. In dieses nette Bergstädtchen, welches man nicht früher erblickt, als bis man davorsteht, gelangte ich, als eben die Glocke zwölf schlug und die Kinder jubelnd aus der Schule kamen. Die lieben Knaben, fast alle rotbäckig, blauäugig und flachshaarig, sprangen und jauchzten und weckten in mir die wehmütig heitere Erinnerung, wie ich einst selbst, als ein kleines Bübchen, in einer dumpfkatholischen Klosterschule zu Düsseldorf den ganzen lieben Vormittag von der hölzernen Bank nicht aufstehen durfte und soviel Latein, Prügel und Geographie ausstehen mußte und dann ebenfalls unmäßig jauchzte und jubelte, wenn die alte Franziskanerglocke  endlich zwölf schlug. Die Kinder sahen an meinem Ranzen, daß ich ein Fremder sei, und grüßten mich recht gastfreundlich. Einer der Knaben erzählte mir, sie hätten eben Religionsunterricht gehabt, und er zeigte mir den Königl. Hannöv. Katechismus, nach welchem man ihnen das Christentum abfragt. Dieses Büchlein war sehr schlecht gedruckt, und ich fürchte, die Glaubenslehren machen dadurch schon gleich einen unerfreulich löschpapierigen Eindruck auf die Gemüter der Kinder; wie es mir denn auch erschrecklich mißfiel, daß das Einmaleins, welches doch mit der heiligen Dreiheitslehre bedenklich kollidiert, im Katechismus selbst, und zwar auf dem letzten Blatte desselben, abgedruckt ist und die Kinder dadurch schon frühzeitig zu sündhaften Zweifeln verleitet werden können. Da sind wir im Preußischen viel klüger, und bei unserem Eifer zur Bekehrung jener Leute, die sich so gut aufs Rechnen verstehen, hüten wir uns wohl, das Einmaleins hinter dem Katechismus abdrucken zu lassen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_470">
      In der »Krone« zu Klaustal hielt ich Mittag. Ich bekam frühlingsgrüne Petersiliensuppe, veilchenblauen Kohl, einen Kalbsbraten, groß wie der Chimborazo in Miniatur, sowie auch eine Art geräucherter Heringe, die Bückinge heißen, nach dem Namen ihres Erfinders, Wilhelm Bücking, der 1447 gestorben und um jener Erfindung willen von Karl V. so verehrt wurde, daß derselbe Anno 1556 von Middelburg nach Bievlied in Seeland reiste, bloß um dort das Grab dieses großen Mannes zu sehen. Wie herrlich schmeckt doch solch ein Gericht, wenn man die historischen Notizen dazu weiß und es selbst verzehrt! Nur der Kaffee nach Tische wurde mir verleidet, indem sich ein junger Mensch diskursierend zu mir setzte und so entsetzlich schwadronierte, daß die Milch auf dem Tische sauer wurde. Es war ein junger Handlungsbeflissener mit fünfundzwanzig bunten Westen und ebensoviel goldenen Petschaften, Ringen, Brustnadeln usw. Er sah aus wie ein Affe, der eine rote Jacke angezogen hat und nun zu sich selber sagt: Kleider machen Leute. Eine ganze Menge Scharaden wußte er auswendig sowie auch Anekdoten, die er immer da anbrachte, wo sie am wenigsten  paßten. Er fragte mich, was es in Göttingen Neues gäbe, und ich erzählte ihm, daß vor meiner Abreise von dort ein Dekret des akademischen Senats erschienen, worin bei drei Taler Strafe verboten wird, den Hunden die Schwänze ab zuschneiden, indem die tollen Hunde in den Hundstagen die Schwänze zwischen den Beinen tragen und man sie dadurch von den nichttollen unterscheidet, was doch nicht geschehen könnte, wenn sie gar keine Schwänze haben. – Nach Tische machte ich mich auf den Weg, die Gruben, die Silberhütten und die Münze zu besuchen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_480">
      In den Silberhütten habe ich, wie oft im Leben, den Silberblick verfehlt. In der Münze traf ich es schon besser und konnte zusehen, wie das Geld gemacht wird. Freilich, weiter hab ich es auch nie bringen können. Ich hatte bei solcher Gelegenheit immer das Zusehen, und ich glaube, wenn mal die Taler vom Himmel herunter regneten, so bekäme ich davon nur Löcher in den Kopf, während die Kinder Israel die silberne Manna mit lustigem Mute einsammeln würden. Mit einem Gefühle, worin gar komisch Ehrfurcht und Rührung gemischt waren, betrachtete ich die neugebornen blanken Taler, nahm einen, der eben vom Prägstocke kam, in die Hand und sprach zu ihm: »Junger Taler! welche Schicksale erwarten dich! wieviel Gutes und wieviel Böses wirst du stiften! wie wirst du das Laster beschützen und die Tugend flicken, wie wirst du geliebt und dann wieder verwünscht werden! wie wirst du schwelgen, kuppeln, lügen und morden helfen! wie wirst du rastlos umherirren, durch reine und schmutzige Hände, jahrhundertelang, bis du endlich, schuldbeladen und sündenmüd, versammelt wirst zu den Deinigen im Schoße Abrahams, der dich einschmelzt und läutert und umbildet zu einem neuen besseren Sein.«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_490">
      Das Befahren der zwei vorzüglichsten Klaustaler Gruben, der »Dorothea« und »Karolina«, fand ich sehr interessant, und ich muß ausführlich davon erzählen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_500">
      Eine halbe Stunde vor der Stadt gelangt man zu zwei großen schwärzlichen Gebäuden. Dort wird man gleich von den Bergleuten in Empfang genommen. Diese tragen dunkle, gewöhnlich  stahlblaue, weite, bis über den Bauch herabhängende Jacken, Hosen von ähnlicher Farbe, ein hinten aufgebundenes Schurzfell und kleine grüne Filzhüte, ganz randlos, wie ein abgekappter Kegel. In eine solche Tracht, bloß ohne Hinterleder, wird der Besuchende ebenfalls eingekleidet, und ein Bergmann, ein Steiger, nachdem er sein Grubenlicht angezündet, führt ihn nach einer dunkeln Öffnung, die wie ein Kaminfegeloch aussieht, steigt bis an die Brust hinab, gibt Regeln, wie man sich an den Leitern festzuhalten habe, und bittet, angstlos zu folgen. Die Sache selbst ist nichts weniger als gefährlich; aber man glaubt es nicht im Anfang, wenn man gar nichts vom Bergwerkswesen versteht. Es gibt schon eine eigene Empfindung, daß man sich ausziehen und die dunkle Delinquententracht anziehen muß. Und nun soll man auf allen vieren hinabklettern, und das dunkle Loch ist so dunkel, und Gott weiß, wie lang die Leiter sein mag. Aber bald merkt man doch, daß es nicht eine einzige, in die schwarze Ewigkeit hinablaufende Leiter ist, sondern daß es mehrere von funfzehn bis zwanzig Sprossen sind, deren jede auf ein kleines Brett führt, worauf man stehen kann und worin wieder ein neues Loch nach einer neuen Leiter hinableitet. Ich war zuerst in die »Karolina« gestiegen. Das ist die schmutzigste und unerfreulichste Karolina, die ich je kennengelernt habe. Die Leitersprossen sind kotig naß. Und von einer Leiter zur andern geht's hinab, und der Steiger voran, und dieser beteuert immer, es sei gar nicht gefährlich, nur müsse man sich mit den Händen fest an den Sprossen halten und nicht nach den Füßen sehen und nicht schwindlicht werden und nur beileibe nicht auf das Seitenbrett treten, wo jetzt das schnurrende Tonnenseil heraufgeht und wo, vor vierzehn Tagen, ein unvorsichtiger Mensch hinuntergestürzt und leider den Hals gebrochen. Da unten ist ein verworrenes Rauschen und Summen, man stößt beständig an Balken und Seile, die in Bewegung sind, um die Tonnen mit geklopften Erzen oder das hervorgesinterte Wasser heraufzuwinden. Zuweilen gelangt man auch in durchgehauene Gänge, Stollen genannt, wo man das Erz wachsen sieht und wo der  einsame Bergmann den ganzen Tag sitzt und mühsam mit dem Hammer die Erzstücke aus der Wand herausklopft. Bis in die unterste Tiefe, wo man, wie einige behaupten, schon hören kann, wie die Leute in Amerika »Hurra Lafayette!« schreien, bin ich nicht gekommen; unter uns gesagt, dort, bis wohin ich kam, schien es mir bereits tief genug: – immerwährendes Brausen und Sausen, unheimliche Maschinenbewegung, unterirdisches Quellengeriesel, von allen Seiten herabtriefendes Wasser, qualmig aufsteigende Erddünste und das Grubenlicht immer bleicher hineinflimmernd in die einsame Nacht. Wirklich, es war betäubend, das Atmen wurde mir schwer, und mit Mühe hielt ich mich an den glitschrigen Leitersprossen. Ich habe keinen Anflug von sogenannter Angst empfunden, aber, seltsam genug, dort unten in der Tiefe erinnerte ich mich, daß ich im vorigen Jahre, ungefähr um dieselbe Zeit, einen Sturm auf der Nordsee erlebte, und ich meinte jetzt, es sei doch eigentlich recht traulich angenehm, wenn das Schiff hin und her schaukelt, die Winde ihre Trompeterstückchen losblasen, zwischendrein der lustige Matrosenlärmen erschallt und alles frisch überschauert wird von Gottes lieber, freier Luft. Ja, Luft! – Nach Luft schnappend, stieg ich einige Dutzend Leitern wieder in die Höhe, und mein Steiger führte mich durch einen schmalen, sehr langen, in den Berg gehauenen Gang nach der Grube »Dorothea«. Hier ist es luftiger und frischer, und die Leitern sind reiner, aber auch länger und steiler als in der »Karolina«. Hier wurde mir auch besser zumute, besonders da ich wieder Spuren lebendiger Menschen gewahrte. In der Tiefe zeigten sich nämlich wandelnde Schimmer; Bergleute mit ihren Grubenlichtern kamen allmählich in die Höhe, mit dem Gruße »Glückauf!«, und mit demselben Widergruße von unserer Seite stiegen sie an uns vorüber; und wie eine befreundet ruhige und doch zugleich quälend rätselhafte Erinnerung trafen mich, mit ihren tiefsinnig klaren Blicken, die ernstfrommen, etwas blassen und vom Grubenlicht geheimnisvoll beleuchteten Gesichter dieser jungen und alten Männer, die in ihren dunkeln, einsamen Bergschachten den ganzen Tag gearbeitet  hatten und sich jetzt hinaufsehnten nach dem lieben Tageslicht und nach den Augen von Weib und Kind.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_510">
      Mein Cicerone selbst war eine kreuzehrliche, pudeldeutsche Natur. Mit innerer Freudigkeit zeigte er mir jene Stolle, wo der Herzog von Cambridge, als er die Grube befahren, mit seinem ganzen Gefolge gespeist hat und wo noch der lange hölzerne Speisetisch steht sowie auch der große Stuhl von Erz, worauf der Herzog gesessen. Dieser bleibe zum ewigen Andenken stehen, sagte der gute Bergmann, und mit Feuer erzählte er, wie viele Festlichkeiten damals stattgefunden, wie der ganze Stollen mit Lichtern, Blumen und Laubwerk verziert gewesen, wie ein Bergknappe die Zither gespielt und gesungen, wie der vergnügte, liebe, dicke Herzog sehr viele Gesundheiten ausgetrunken habe und wie viele Bergleute, und er selbst ganz besonders, sich gern würden totschlagen lassen für den lieben, dicken Herzog und das ganze Haus Hannover. – Innig rührt es mich jedesmal, wenn ich sehe, wie sich dieses Gefühl der Untertanstreue in seinen einfachen Naturlauten ausspricht. Es ist ein so schönes Gefühl! Und es ist ein so wahrhaft deutsches Gefühl! Andere Völker mögen gewandter sein und witziger und ergötzlicher, aber keines ist so treu wie das treue deutsche Volk. Wüßte ich nicht, daß die Treue so alt ist wie die Welt, so würde ich glauben, ein deutsches Herz habe sie erfunden. Deutsche Treue! sie ist keine moderne Adressenfloskel. An euren Höfen, ihr deutschen Fürsten, sollte man singen und wieder singen das Lied von dem getreuen Eckart und dem bösen Burgund, der ihm die lieben Kinder töten lassen und ihn alsdann doch noch immer treu befunden hat. Ihr habt das treueste Volk, und ihr irrt, wenn ihr glaubt, der alte, verständige, treue Hund sei plötzlich toll geworden und schnappe nach euern geheiligten Waden.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_520">
      Wie die deutsche Treue, hatte uns jetzt das kleine Grubenlicht, ohne viel Geflacker, still und sicher geleitet durch das Labyrinth der Schachten und Stollen; wir stiegen hervor aus der dumpfigen Bergnacht, das Sonnenlicht strahlt' – Glückauf!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_530">
      Die meisten Bergarbeiter wohnen in Klaustal und in dem damit verbundenen Bergstädtchen Zellerfeld. Ich besuchte mehrere dieser wackern Leute, betrachtete ihre kleine häusliche Einrichtung, hörte einige ihrer Lieder, die sie mit der Zither, ihrem Lieblingsinstrumente, gar hübsch begleiten, ließ mir alte Bergmärchen von ihnen erzählen und auch die Gebete hersagen, die sie in Gemeinschaft zu halten pflegen, ehe sie in den dunkeln Schacht hinuntersteigen, und manches gute Gebet habe ich mitgebetet. Ein alter Steiger meinte sogar, ich sollte bei ihnen bleiben und Bergmann werden; und als ich dennoch Abschied nahm, gab er mir einen Auftrag an seinen Bruder, der in der Nähe von Goslar wohnt, und viele Küsse für seine liebe Nichte.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_540">
      So stillstehend ruhig auch das Leben dieser Leute erscheint, so ist es dennoch ein wahrhaftes, lebendiges Leben. Die steinalte, zitternde Frau, die, dem großen Schranke gegenüber, hinterm Ofen saß, mag dort schon ein Vierteljahrhundert lang gesessen haben, und ihr Denken und Fühlen ist gewiß innig verwachsen mit allen Ecken dieses Ofens und allen Schnitzeleien dieses Schrankes. Und Schrank und Ofen leben, denn ein Mensch hat ihnen einen Teil seiner Seele eingeflößt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_550">
      Nur durch solch tiefes Anschauungsleben, durch die »Unmittelbarkeit« entstand die deutsche Märchenfabel, deren Eigentümlichkeit darin besteht, daß nicht nur die Tiere und Pflanzen, sondern auch ganz leblos scheinende Gegenstände sprechen und handeln. Sinnigem, harmlosem Volke in der stillen, umfriedeten Heimlichkeit seiner niedern Berg- oder Waldhütten offenbarte sich das innere Leben solcher Gegenstände, diese gewannen einen notwendigen, konsequenten Charakter, eine süße Mischung von phantastischer Laune und rein menschlicher Gesinnung; und so sehen wir im Märchen, wunderbar und doch als wenn es sich von selbst verstände: Nähnadel und Stecknadel kommen von der Schneiderherberge und verirren sich im Dunkeln; Strohhalm und Kohle wollen über den Bach setzen und verunglücken; Schippe und Besen stehen  auf der Treppe und zanken und schmeißen sich; der befragte Spiegel zeigt das Bild der schönsten Frau; sogar die Blutstropfen fangen an zu sprechen, bange, dunkle Worte des besorglichsten Mitleids. – Aus demselben Grunde ist unser Leben in der Kindheit so unendlich bedeutend, in jener Zeit ist uns alles gleich wichtig, wir hören alles, wir sehen alles, bei allen Eindrücken ist Gleichmäßigkeit, statt daß wir späterhin absichtlicher werden, uns mit dem einzelnen ausschließlicher beschäftigen, das klare Gold der Anschauung für das Papiergeld der Bücherdefinitionen mühsam einwechseln und an Lebensbreite gewinnen, was wir an Lebenstiefe verlieren. Jetzt sind wir ausgewachsene, vornehme Leute; wir beziehen oft neue Wohnungen, die Magd räumt täglich auf und verändert nach Gutdünken die Stellung der Möbeln, die uns wenig interessieren, da sie entweder neu sind oder heute dem Hans, morgen dem Isaak gehören; selbst unsere Kleider bleiben uns fremd, wir wissen kaum, wieviel Knöpfe an dem Rocke sitzen, den wir eben jetzt auf dem Leibe tragen; wir wechseln ja so oft als möglich mit Kleidungsstücken, keines derselben bleibt im Zusammenhange mit unserer inneren und äußeren Geschichte; – kaum vermögen wir uns zu erinnern, wie jene braune Weste aussah, die uns einst soviel Gelächter zugezogen hat und auf deren breiten Streifen dennoch die liebe Hand der Geliebten so lieblich ruhte!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_560">
      Die alte Frau, dem großen Schrank gegenüber, hinterm Ofen, trug einen geblümten Rock von verschollenem Zeuge, das Brautkleid ihrer seligen Mutter. Ihr Urenkel, ein als Bergmann gekleideter, blonder, blitzäugiger Knabe, saß zu ihren Füßen und zählte die Blumen ihres Rockes, und sie mag ihm von diesem Rocke wohl schon viele Geschichtchen erzählt haben, viele ernsthafte, hübsche Geschichten, die der Junge gewiß nicht so bald vergißt, die ihm noch oft vorschweben werden, wenn er bald, als ein erwachsener Mann, in den nächtlichen Stollen der »Karolina« einsam arbeitet, und die er vielleicht wiedererzählt, wenn die liebe Großmutter längst tot ist und er selber, ein silberhaariger, erloschener Greis, im Kreise  seiner Enkel sitzt, dem großen Schranke gegenüber, hinterm Ofen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_570">
      Ich blieb die Nacht ebenfalls in der »Krone«, wo unterdessen auch der Hofrat B. aus Göttingen angekommen war. Ich hatte das Vergnügen, dem alten Herrn meine Aufwartung zu machen. Als ich mich ins Fremdenbuch einschrieb und im Monat Juli blätterte, fand ich auch den vielteuern Namen Adelbert von Chamisso, den Biographen des unsterblichen Schlemihl. Der Wirt erzählte mir, dieser Herr sei in einem unbeschreibbar schlechten Wetter angekommen und in einem ebenso schlechten Wetter wieder abgereist.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_580">
      Den andern Morgen mußte ich meinen Ranzen nochmals erleichtern, das eingepackte Paar Stiefel warf ich über Bord, und ich hob auf meine Füße und ging nach Goslar. Ich kam dahin, ohne zu wissen wie. Nur soviel kann ich mich erinnern: Ich schlenderte wieder bergauf, bergab; schaute hinunter in manches hübsche Wiesental; silberne Wasser brausten, süße Waldvögel zwitscherten, die Herdenglöckchen läuteten, die mannigfaltig grünen Bäume wurden von der lieben Sonne goldig angestrahlt, und oben war die blauseidene Decke des Himmels so durchsichtig, daß man tief hineinschauen konnte, bis ins Allerheiligste, wo die Engel zu den Füßen Gottes sitzen und in den Zügen seines Antlitzes den Generalbaß studieren. Ich aber lebte noch in dem Traum der vorigen Nacht, den ich nicht aus meiner Seele verscheuchen konnte. Es war das alte Märchen, wie ein Ritter hinabsteigt in einen tiefen Brunnen, wo unten die schönste Prinzessin zu einem starren Zauberschlafe verwünscht ist. Ich selbst war der Ritter und der Brunnen die dunkle Klaustaler Grube, und plötzlich erschienen viele Lichter, aus allen Seitenlöchern stürzten die wachsamen Zwerglein, schnitten zornige Gesichter, hieben nach mir mit ihren kurzen Schwertern, bliesen gellend ins Horn, daß immer mehr und mehre herzueilten, und es wackelten entsetzlich ihre breiten Häupter. Wie ich darauf zuschlug und das Blut herausfloß, merkte ich erst, daß es die rotblühenden, langbärtigen Distelköpfe waren, die ich den Tag vorher an der Landstraße mit  dem Stocke abgeschlagen hatte. Da waren sie auch gleich alle verscheucht, und ich gelangte in einen hellen Prachtsaal; in der Mitte stand, weiß verschleiert und wie eine Bildsäule starr und regungslos, die Herzgeliebte, und ich küßte ihren Mund, und, beim lebendigen Gott! ich fühlte den beseligenden Hauch ihrer Seele und das süße Beben der lieblichen Lippen. Es war mir, als hörte ich, wie Gott rief: »Es werde Licht!«, blendend schoß herab ein Strahl des ewigen Lichts; aber in demselben Augenblick wurde es wieder Nacht, und alles rann chaotisch zusammen in ein wildes, wüstes Meer. Ein wildes, wüstes Meer! über das gärende Wasser jagten ängstlich die Gespenster der Verstorbenen, ihre weißen Totenhemde flatterten im Winde, hinter ihnen her, hetzend, mit klatschender Peitsche lief ein buntscheckiger Harlekin, und dieser war ich selbst – und plötzlich aus den dunkeln Wellen reckten die Meerungetüme ihre mißgestalteten Häupter und langten nach mir mit ausgebreiteten Krallen, und vor Entsetzen erwacht ich.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_590">
      Wie doch zuweilen die allerschönsten Märchen verdorben werden! Eigentlich muß der Ritter, wenn er die schlafende Prinzessin gefunden hat, ein Stück aus ihrem kostbaren Schleier herausschneiden; und wenn durch seine Kühnheit ihr Zauberschlaf gebrochen ist und sie wieder in ihrem Palast auf dem goldenen Stuhle sitzt, muß der Ritter zu ihr treten und sprechen: »Meine allerschönste Prinzessin, kennst du mich?« Und dann antwortet sie: »Mein allertapferster Ritter, ich kenne dich nicht.« Und dieser zeigt ihr alsdann das aus ihrem Schleier herausgeschnittene Stück, das just in denselben wieder hineinpaßt, und beide umarmen sich zärtlich, und die Trompeter blasen, und die Hochzeit wird gefeiert.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_600">
      Es ist wirklich ein eigenes Mißgeschick, daß meine Liebesträume selten ein so schönes Ende nehmen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_610">
      Der Name Goslar klingt so erfreulich, und es knüpfen sich daran so viele uralte Kaisererinnerungen, daß ich eine imposante, stattliche Stadt erwartete. Aber so geht es, wenn man die Berühmten in der Nähe besieht! Ich fand ein Nest mit meistens schmalen, labyrinthisch krummen Straßen, allwo  mittendurch ein kleines Wasser, wahrscheinlich die Gose, fließt, verfallen und dumpfig, und ein Pflaster, so holprig wie Berliner Hexameter. Nur die Altertümlichkeiten der Einfassung, nämlich Reste von Mauern, Türmen und Zinnen, geben der Stadt etwas Pikantes. Einer dieser Türme, der Zwinger genannt, hat so dicke Mauern, daß ganze Gemächer darin ausgehauen sind. Der Platz vor der Stadt, wo der weitberühmte Schützenhof gehalten wird, ist eine schöne große Wiese, ringsum hohe Berge. Der Markt ist klein, in der Mitte steht ein Springbrunnen, dessen Wasser sich in ein großes Metallbecken ergießt. Bei Feuersbrünsten wird einigemal daran geschlagen; es gibt dann einen weitschallenden Ton. Man weiß nichts vom Ursprunge dieses Beckens. Einige sagen, der Teufel habe es einst, zur Nachtzeit, dort auf den Markt hingestellt. Damals waren die Leute noch dumm, und der Teufel war auch dumm, und sie machten sich wechselseitig Geschenke.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_620">
      Das Rathaus zu Goslar ist eine weiß angestrichene Wachtstube. Das daneben stehende Gildenhaus hat schon ein besseres Ansehen. Ungefähr von der Erde und vom Dach gleich weit entfernt stehen da die Standbilder deutscher Kaiser, räucherig schwarz und zum Teil vergoldet, in der einen Hand das Zepter, in der andern die Weltkugel; sehen aus wie gebratene Universitätspedelle. Einer dieser Kaiser hält ein Schwert statt des Zepters. Ich konnte nicht erraten, was dieser Unterschied sagen soll; und es hat doch gewiß seine Bedeutung, da die Deutschen die merkwürdige Gewohnheit haben, daß sie bei allem, was sie tun, sich auch etwas denken.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_630">
      In Gottschalks »Handbuch« hatte ich von dem uralten Dom und von dem berühmten Kaiserstuhl zu Goslar viel gelesen. Als ich aber beides besehen wollte, sagte man mir, der Dom sei niedergerissen und der Kaiserstuhl nach Berlin gebracht worden. Wir leben in einer bedeutungschweren Zeit: tausendjährige Dome werden abgebrochen und Kaiserstühle in die Rumpelkammer geworfen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_640">
      Einige Merkwürdigkeiten des seligen Doms sind jetzt in der Stephanskirche aufgestellt. Glasmalereien, die wunderschön  sind, einige schlechte Gemälde, worunter auch ein Lukas Cranach sein soll, ferner ein hölzerner Christus am Kreuz und ein heidnischer Opferaltar aus unbekanntem Metall; er hat die Gestalt einer länglich viereckigen Lade und wird von vier Karyatiden getragen, die, in geduckter Stellung, die Hände stützend über dem Kopfe halten und unerfreulich häßliche Gesichter schneiden. Indessen noch unerfreulicher ist das dabeistehende, schon erwähnte große hölzerne Kruzifix. Dieser Christuskopf mit natürlichen Haaren und Dornen und blutbeschmiertem Gesichte zeigt freilich höchst meisterhaft das Hinsterben eines Menschen, aber nicht eines gottgebornen Heilands. Nur das materielle Leiden ist in dieses Gesicht hineingeschnitzelt, nicht die Poesie des Schmerzes. Solch Bild gehört eher in einen anatomischen Lehrsaal als in ein Gotteshaus.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_650">
      Ich logierte in einem Gasthofe nahe dem Markte, wo mir das Mittagessen noch besser geschmeckt haben würde, hätte sich nur nicht der Herr Wirt mit seinem langen, überflüssigen Gesichte und seinen langweiligen Fragen zu mir hingesetzt; glücklicherweise ward ich bald erlöst durch die Ankunft eines andern Reisenden, der dieselben Fragen in derselben Ordnung aushalten mußte: quis? quid? ubi? quibus auxiliis? cur? quomodo? quando? Dieser Fremde war ein alter, müder, abgetragener Mann, der, wie aus seinen Reden hervorging, die ganze Welt durchwandert, besonders lang auf Batavia gelebt, viel Geld erworben und wieder alles verloren hatte und jetzt, nach dreißigjähriger Abwesenheit, nach Quedlinburg, seiner Vaterstadt, zurückkehrte – »denn«, setzte er hinzu, »unsere Familie hat dort ihr Erbbegräbnis«. Der Herr Wirt machte die sehr aufgeklärte Bemerkung, daß es doch für die Seele gleichgültig sei, wo unser Leib begraben wird. »Haben Sie es schriftlich?« antwortete der Fremde, und dabei zogen sich unheimlich schlaue Ringe um seine kümmerlichen Lippen und verblichenen Äugelein. »Aber«, setzte er ängstlich begütigend hinzu, »ich will darum über fremde Gräber doch nichts Böses gesagt haben; – die Türken begraben ihre Toten noch weit schöner als wir, ihre Kirchhöfe sind ordentlich Gärten, und da sitzen  sie auf ihren weißen, beturbanten Grabsteinen, unter dem Schatten einer Zypresse, und streichen ihre ernsthaften Bärte und rauchen ruhig ihren türkischen Tabak, aus ihren langen türkischen Pfeifen; – und bei den Chinesen gar ist es eine ordentliche Lust zuzusehen, wie sie auf den Ruhestätten ihrer Toten manierlich herumtänzeln und beten und Tee trinken und die Geige spielen und die geliebten Gräber gar hübsch zu verzieren wissen mit allerlei vergoldetem Lattenwerk, Porzellanfigürchen, Fetzen von buntem Seidenzeug, künstlichen Blumen und farbigen Laternchen – alles sehr hübsch – wie weit hab ich noch bis Quedlinburg?«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_660">
      Der Kirchhof in Goslar hat mich nicht sehr angesprochen. Desto mehr aber jenes wunderschöne Lockenköpfchen, das bei meiner Ankunft in der Stadt aus einem etwas hohen Parterrefenster lächelnd herausschaute. Nach Tische suchte ich wieder das liebe Fenster; aber jetzt stand dort nur ein Wasserglas mit weißen Glockenblümchen. Ich kletterte hinauf, nahm die artigen Blümchen aus dem Glase, steckte sie ruhig auf meine Mütze und kümmerte mich wenig um die aufgesperrten Mäuler, versteinerten Nasen und Glotzaugen, womit die Leute auf der Straße, besonders die alten Weiber, diesem qualifizierten Diebstahle zusahen. Als ich eine Stunde später an demselben Hause vorbeiging, stand die Holde am Fenster, und wie sie die Glockenblümchen auf meiner Mütze gewahrte, wurde sie blutrot und stürzte zurück. Ich hatte jetzt das schöne Antlitz noch genauer gesehen; es war eine süße, durchsichtige Verkörperung von Sommerabendhauch, Mondschein, Nachtigallenlaut und Rosenduft. – Später, als es ganz dunkel geworden, trat sie vor die Türe. Ich kam – ich näherte mich – sie zieht sich langsam zurück in den dunkeln Hausflur – ich fasse sie bei der Hand und sage: »Ich bin ein Liebhaber von schönen Blumen und Küssen, und was man mir nicht freiwillig gibt, das stehle ich« – und ich küßte sie rasch – und wie sie entfliehen will, flüstere ich beschwichtigend: »Morgen reis ich fort und komme wohl nie wieder« – und ich fühle den geheimen Widerdruck der lieblichen Lippen und der kleinen Hände – und lachend  eile ich von hinnen. Ja, ich muß lachen, wenn ich bedenke, daß ich unbewußt jene Zauberformel ausgesprochen, wodurch unsere Rot- und Blauröcke öfter als durch ihre schnurrbärtige Liebenswürdigkeit, die Herzen der Frauen bezwingen. »Ich reise morgen fort und komme wohl nie wieder!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_670">
      Mein Logis gewährte eine herrliche Aussicht nach dem Rammelsberg. Es war ein schöner Abend. Die Nacht jagte auf ihrem schwarzen Rosse, und die langen Mähnen flatterten im Winde. Ich stand am Fenster und betrachtete den Mond. Gibt es wirklich einen Mann im Monde? Die Slawen sagen, er heiße Chlotar, und das Wachsen des Mondes bewirke er durch Wasseraufgießen. Als ich noch klein war, hatte ich gehört, der Mond sei eine Frucht, die, wenn sie reif geworden, vom lieben Gott abgepflückt und zu den übrigen Vollmonden in den großen Schrank gelegt werde, der am Ende der Welt steht, wo sie mit Brettern zugenagelt ist. Als ich größer wurde, bemerkte ich, daß die Welt nicht so eng begrenzt ist und daß der menschliche Geist die hölzernen Schranken durchbrochen und mit einem riesigen Petrischlüssel, mit der Idee der Unsterblichkeit, alle sieben Himmel aufgeschlossen hat. Unsterblichkeit! schöner Gedanke! wer hat dich zuerst erdacht? War es ein Nürnberger Spießbürger, der, mit weißer Nachtmütze auf dem Kopfe und weißer Tonpfeife im Maule, am lauen Sommerabend vor seiner Haustüre saß und recht behaglich meinte, es wäre doch hübsch, wenn er nun so immer fort, ohne daß sein Pfeifchen und sein Lebensatemchen ausgingen, in die liebe Ewigkeit hineinvegetieren könnte! Oder war es ein junger Liebender, der in den Armen seiner Geliebten jenen Unsterblichkeitsgedanken dachte, und ihn dachte, weil er ihn fühlte und weil er nichts anders fühlen und denken konnte! – Liebe! Unsterblichkeit! – in meiner Brust ward es plötzlich so heiß, daß ich glaubte, die Geographen hätten den Äquator verlegt und er laufe jetzt gerade durch mein Herz. Und aus meinem Herzen ergossen sich die Gefühle der Liebe, ergossen sich sehnsüchtig in die weite Nacht. Die Blumen im Garten unter meinem Fenster dufteten stärker. Düfte sind die Gefühle der Blumen, und  wie das Menschenherz in der Nacht, wo es sich einsam und unbelauscht glaubt, stärker fühlt, so scheinen auch die Blumen, sinnig verschämt, erst die umhüllende Dunkelheit zu erwarten, um sich gänzlich ihren Gefühlen hinzugeben und sie auszuhauchen in süßen Düften. – Ergießt euch, ihr Düfte meines Herzens! und sucht hinter jenen Bergen die Geliebte meiner Träume! Sie liegt jetzt schon und schläft; zu ihren Füßen knien Engel, und wenn sie im Schlafe lächelt, so ist es ein Gebet, das die Engel nachbeten; in ihrer Brust liegt der Himmel mit allen seinen Seligkeiten, und wenn sie atmet, so bebt mein Herz in der Ferne; hinter den seidnen Wimpern ihrer Augen ist die Sonne untergegangen, und wenn sie die Augen wieder aufschlägt, so ist es Tag, und die Vögel singen, und die Herdenglöckchen läuten, und die Berge schimmern in ihren smaragdenen Kleidern, und ich schnüre den Ranzen und wandre.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_680">
      In jener Nacht, die ich in Goslar zubrachte, ist mir etwas höchst Seltsames begegnet. Noch immer kann ich nicht ohne Angst daran zurückdenken. Ich bin von Natur nicht ängstlich, aber vor Geistern fürchte ich mich fast so sehr wie der »Östreichische Beobachter«. Was ist Furcht? Kommt sie aus dem Verstande oder aus dem Gemüt? Über diese Frage disputierte ich so oft mit dem Doktor Saul Ascher, wenn wir zu Berlin, im »Café Royal«, wo ich lange Zeit meinen Mittagstisch hatte, zufällig zusammentrafen. Er behauptete immer, wir fürchten etwas, weil wir es durch Vernunftschlüsse für furchtbar erkennen. Nur die Vernunft sei eine Kraft, nicht das Gemüt. Während ich gut aß und gut trank, demonstrierte er mir fortwährend die Vorzüge der Vernunft. Gegen das Ende seiner Demonstration pflegte er nach seiner Uhr zu sehen, und immer schloß er damit: »Die Vernunft ist das höchste Prinzip!« – Vernunft! Wenn ich jetzt dieses Wort höre, so sehe ich noch immer den Doktor Saul Ascher mit seinen abstrakten Beinen, mit seinem engen, transzendentalgrauen Leibrock und mit seinem schroffen, frierend kalten Gesichte, das einem Lehrbuche der Geometrie als Kupfertafel dienen konnte. Dieser Mann, tief in den Funfzigern, war eine personifizierte grade Linie.  In seinem Streben nach dem Positiven hatte der arme Mann sich alles Herrliche aus dem Leben herausphilosophiert, alle Sonnenstrahlen, allen Glauben und alle Blumen, und es blieb ihm nichts übrig als das kalte, positive Grab. Auf den Apoll von Belvedere und auf das Christentum hatte er eine spezielle Malice. Gegen letzteres schrieb er sogar eine Broschüre, worin er dessen Unvernünftigkeit und Unhaltbarkeit bewies. Er hat überhaupt eine ganze Menge Bücher geschrieben, worin immer die Vernunft von ihrer eigenen Vortrefflichkeit renommiert und wobei es der arme Doktor gewiß ernsthaft genug meinte und also in dieser Hinsicht alle Achtung verdiente. Darin aber bestand ja eben der Hauptspaß, daß er ein so ernsthaft närrisches Gesicht schnitt, wenn er dasjenige nicht begreifen konnte, was jedes Kind begreift, eben weil es ein Kind ist. Einigemal besuchte ich auch den Vernunftdoktor in seinem eigenen Hause, wo ich schöne Mädchen bei ihm fand; denn die Vernunft verbietet nicht die Sinnlichkeit. Als ich ihn einst ebenfalls besuchen wollte, sagte mir sein Bedienter: »Der Herr Doktor ist eben gestorben.« Ich fühlte nicht viel mehr dabei, als wenn er gesagt hätte: Der Herr Doktor ist ausgezogen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_690">
      Doch zurück nach Goslar. »Das höchste Prinzip ist die Vernunft!« sagte ich beschwichtigend zu mir selbst, als ich ins Bett stieg. Indessen, es half nicht. Ich hatte eben in Varnhagen von Enses »Deutsche Erzählungen«, die ich von Klaustal mitgenommen hatte, jene entsetzliche Geschichte gelesen, wie der Sohn, den sein eigener Vater ermorden wollte, in der Nacht von dem Geiste seiner toten Mutter gewarnt wird. Die wunderbare Darstellung dieser Geschichte bewirkte, daß mich während des Lesens ein inneres Grauen durchfröstelte. Auch erregen Gespenstererzählungen ein noch schauerlicheres Gefühl, wenn man sie auf der Reise liest, und zumal des Nachts, in einer Stadt, in einem Hause, in einem Zimmer, wo man noch nie gewesen. ›Wieviel Gräßliches mag sich schon zugetragen haben auf diesem Flecke, wo du eben liegst?‹ so denkt man unwillkürlich. Überdies schien jetzt der Mond so zweideutig ins Zimmer herein, an der Wand bewegten sich allerlei unberufene  Schatten, und als ich mich im Bett aufrichtete, um hinzusehen, erblickte ich –
     </p>
-    <p>
+    <p xml:id="eco_de_000063_700">
      Es gibt nichts Unheimlicheres, als wenn man bei Mondschein das eigene Gesicht zufällig im Spiegel sieht. In demselben Augenblicke schlug eine schwerfällige, gähnende Glocke, und zwar so lang und langsam, daß ich nach dem zwölften Glockenschlage sicher glaubte, es seien unterdessen volle zwölf Stunden verflossen und es müßte wieder von vorn anfangen, zwölf zu schlagen. Zwischen dem vorletzten und letzten Glockenschlage schlug noch eine andere Uhr, sehr rasch, fast keifend gell und vielleicht ärgerlich über die Langsamkeit ihrer Frau Gevatterin. Als beide eiserne Zungen schwiegen und tiefe Todesstille im ganzen Hause herrschte, war es mir plötzlich, als hörte ich auf dem Korridor, vor meinem Zimmer, etwas schlottern und schlappen, wie der unsichere Gang eines alten Mannes. Endlich öffnete sich meine Tür, und langsam trat herein der verstorbene Doktor Saul Ascher. Ein kaltes Fieber rieselte mir durch Mark und Bein, ich zitterte wie Espenlaub, und kaum wagte ich das Gespenst anzusehen. Er sah aus wie sonst, derselbe transzendentalgraue Leibrock, dieselben abstrakten Beine und dasselbe mathematische Gesicht; nur war dieses etwas gelblicher als sonst, auch der Mund, der sonst zwei Winkel von 22.1/2 Grad bildete, war zusammengekniffen, und die Augenkreise hatten einen größern Radius. Schwankend und wie sonst sich auf sein spanisches Röhrchen stützend, näherte er sich mir, und in seinem gewöhnlichen mundfaulen Dialekte sprach er freundlich: »Fürchten Sie sich nicht, und glauben Sie nicht, daß ich ein Gespenst sei. Es ist Täuschung Ihrer Phantasie, wenn Sie mich als Gespenst zu sehen glauben. Was ist ein Gespenst? Geben Sie mir eine Definition. Deduzieren Sie mir die Bedingungen der Möglichkeit eines Gespenstes. In welchem vernünftigen Zusammenhange stände eine solche Erscheinung mit der Vernunft? Die Vernunft, ich sage die Vernunft –« Und nun schritt das Gespenst zu einer Analyse der Vernunft, zitierte Kants »Kritik der reinen Vernunft«, 2. Teil, 1. Abschnitt, 2. Buch, 3. Hauptstück, die Unterscheidung von  Phänomena und Noumena, konstruierte alsdann den problematischen Gespensterglauben, setzte einen Syllogismus auf den andern und schloß mit dem logischen Beweise, daß es durchaus keine Gespenster gibt. Mir unterdessen lief der kalte Schweiß über den Rücken, meine Zähne klapperten wie Kastagnetten, aus Seelenangst nickte ich unbedingte Zustimmung bei jedem Satz, womit der spukende Doktor die Absurdität aller Gespensterfurcht bewies, und derselbe demonstrierte so eifrig, daß er einmal in der Zerstreuung statt seiner goldenen Uhr eine Handvoll Würmer aus der Uhrtasche zog und, seinen Irrtum bemerkend, mit possierlich ängstlicher Hastigkeit wieder einsteckte. »Die Vernunft ist das höchste –«, da schlug die Glocke eins, und das Gespenst verschwand.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_710">
      Von Goslar ging ich den andern Morgen weiter, halb auf Geratewohl, halb in der Absicht, den Bruder des Klaustaler Bergmanns aufzusuchen. Wieder schönes, liebes Sonntagswetter. Ich bestieg Hügel und Berge, betrachtete, wie die Sonne den Nebel zu verscheuchen suchte, wanderte freudig durch die schauernden Wälder, und um mein träumendes Haupt klingelten die Glockenblümchen von Goslar. In ihren weißen Nachtmänteln standen die Berge, die Tannen rüttelten sich den Schlaf aus den Gliedern, der frische Morgenwind frisierte ihnen die herabhängenden, grünen Haare, die Vöglein hielten Betstunde, das Wiesental blitzte wie eine diamantenbesäete Golddecke, und der Hirt schritt darüber hin mit seiner läutenden Herde. Ich mochte mich wohl eigentlich verirrt haben. Man schlägt immer Seitenwege und Fußsteige ein und glaubt dadurch näher zum Ziele zu gelangen. Wie im Leben überhaupt, geht's uns auch auf dem Harze. Aber es gibt immer gute Seelen, die uns wieder auf den rechten Weg bringen; sie tun es gern und finden noch obendrein ein besonderes Vergnügen daran, wenn sie uns mit selbstgefälliger Miene und wohlwollend lauter Stimme bedeuten, welche große Umwege wir gemacht, in welche Abgründe und Sümpfe wir versinken konnten und welch ein Glück es sei, daß wir so wegkundige Leute, wie sie sind, noch zeitig angetroffen. Einen solchen Berichtiger fand ich unweit  der Harzburg. Es war ein wohlgenährter Bürger von Goslar, ein glänzend wampiges, dummkluges Gesicht; er sah aus, als habe er die Viehseuche erfunden. Wir gingen eine Strecke zusammen, und er erzählte mir allerlei Spukgeschichten, die hübsch klingen konnten, wenn sie nicht alle darauf hinausliefen, daß es doch kein wirklicher Spuk gewesen, sondern daß die weiße Gestalt ein Wilddieb war und daß die wimmernden Stimmen von den eben geworfenen Jungen einer Bache (wilden Sau) und das Geräusch auf dem Boden von der Hauskatze herrührte. »Nur wenn der Mensch krank ist«, setzte er hinzu, »glaubt er Gespenster zu sehen«; was aber seine Wenigkeit anbelange, so sei er selten krank, nur zuweilen leide er an Hautübeln, und dann kuriere er sich jedesmal mit nüchternem Speichel. Er machte mich auch aufmerksam auf die Zweckmäßigkeit und Nützlichkeit in der Natur. Die Bäume sind grün, weil Grün gut für die Augen ist. Ich gab ihm recht und fügte hinzu, daß Gott das Rindvieh erschaffen, weil Fleischsuppen den Menschen stärken, daß er die Esel erschaffen, damit sie den Menschen zu Vergleichungen dienen können, und daß er den Menschen selbst erschaffen, damit er Fleischsuppen essen und kein Esel sein soll. Mein Begleiter war entzückt, einen Gleichgestimmten gefunden zu haben, sein Antlitz erglänzte noch freudiger, und bei dem Abschiede war er gerührt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_720">
      Solange er neben mir ging, war gleichsam die ganze Natur entzaubert, sobald er aber fort war, fingen die Bäume wieder an zu sprechen, und die Sonnenstrahlen erklangen, und die Wiesenblümchen tanzten, und der blaue Himmel umarmte die grüne Erde. Ja, ich weiß es besser: Gott hat den Menschen er schaffen, damit er die Herrlichkeit der Welt bewundere. Jeder Autor, und sei er noch so groß, wünscht, daß sein Werk gelobt werde. Und in der Bibel, den Memoiren Gottes, steht ausdrücklich, daß er die Menschen erschaffen zu seinem Ruhm und Preis.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_730">
      Nach einem langen Hin- und Herwandern gelangte ich zu der Wohnung des Bruders meines Klaustaler Freundes, übernachtete alldort und erlebte folgendes schöne Gedicht:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_750">
      I
     </p>
-    <p>
+    <p xml:id="eco_de_000063_770">
      Auf dem Berge steht die Hütte,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_780">
      Wo der alte Bergmann wohnt;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_790">
      Dorten rauscht die grüne Tanne,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_800">
      Und erglänzt der goldne Mond.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_810">
      In der Hütte steht ein Lehnstuhl,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_820">
      Reich geschnitzt und wunderlich,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_830">
      Der darauf sitzt, der ist glücklich,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_840">
      Und der Glückliche bin ich!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_850">
      Auf dem Schemel sitzt die Kleine,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_860">
      Stützt den Arm auf meinen Schoß;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_870">
      Äuglein wie zwei blaue Sterne,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_880">
      Mündlein wie die Purpurros'.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_890">
      Und die lieben, blauen Sterne
     </p>
-    <p>
+    <p xml:id="eco_de_000063_900">
      Schaun mich an so himmelgroß,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_910">
      Und sie legt den Lilienfinger
     </p>
-    <p>
+    <p xml:id="eco_de_000063_920">
      Schalkhaft auf die Purpurros'.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_930">
      Nein, es sieht uns nicht die Mutter,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_940">
      Denn sie spinnt mit großem Fleiß,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_950">
      Und der Vater spielt die Zither,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_960">
      Und er singt die alte Weis'.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_970">
      Und die Kleine flüstert leise,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_980">
      Leise, mit gedämpftem Laut;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_990">
      Manches wichtige Geheimnis
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1000">
      Hat sie mir schon anvertraut.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1010">
      »Aber seit die Muhme tot ist,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1020">
      Können wir ja nicht mehr gehn
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1030">
      Nach dem Schützenhof zu Goslar,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1040">
      Und dort ist es gar zu schön.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1060">
      Hier dagegen ist es einsam,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1070">
      Auf der kalten Bergeshöh',
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1080">
      Und des Winters sind wir gänzlich
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1090">
      Wie vergraben in dem Schnee.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1100">
      Und ich bin ein banges Mädchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1110">
      Und ich fürcht mich wie ein Kind
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1120">
      Vor den bösen Bergesgeistern,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1130">
      Die des Nachts geschäftig sind.«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1140">
      Plötzlich schweigt die liebe Kleine,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1150">
      Wie vom eignen Wort erschreckt,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1160">
      Und sie hat mit beiden Händchen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1170">
      Ihre Äugelein bedeckt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1180">
      Lauter rauscht die Tanne draußen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1190">
      Und das Spinnrad schnarrt und brummt,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1200">
      Und die Zither klingt dazwischen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1210">
      Und die alte Weise summt:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1220">
      »Fürcht dich nicht, du liebes Kindchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1230">
      Vor der bösen Geister Macht;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1240">
      Tag und Nacht, du liebes Kindchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1250">
      Halten Englein bei dir Wacht!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1260">
      II
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1280">
      Tannenbaum, mit grünen Fingern,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1290">
      Pocht ans niedre Fensterlein,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1300">
      Und der Mond, der gelbe Lauscher,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1310">
      Wirft sein süßes Licht herein.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1320">
      Vater, Mutter schnarchen leise
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1330">
      In dem nahen Schlafgemach,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1340">
      Doch wir beide, selig schwatzend,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1350">
      Halten uns einander wach.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1370">
      »Daß du gar zu oft gebetet,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1380">
      Das zu glauben wird mir schwer,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1390">
      Jenes Zucken deiner Lippen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1400">
      Kommt wohl nicht vom Beten her.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1410">
      Jenes böse, kalte Zucken,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1420">
      Das erschreckt mich jedesmal,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1430">
      Doch die dunkle Angst beschwichtigt
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1440">
      Deiner Augen frommer Strahl.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1450">
      Auch bezweifl' ich, daß du glaubest,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1460">
      Was so rechter Glauben heißt,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1470">
      Glaubst wohl nicht an Gott den Vater,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1480">
      An den Sohn und Heil'gen Geist?«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1490">
      »Ach, mein Kindchen, schon als Knabe,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1500">
      Als ich saß auf Mutters Schoß,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1510">
      Glaubte ich an Gott den Vater,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1520">
      Der da waltet gut und groß;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1530">
      Der die schöne Erd' erschaffen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1540">
      Und die schönen Menschen drauf,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1550">
      Der den Sonnen, Monden, Sternen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1560">
      Vorgezeichnet ihren Lauf.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1570">
      Als ich größer wurde, Kindchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1580">
      Noch viel mehr begriff ich schon,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1590">
      Und begriff, und ward vernünftig,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1600">
      Und ich glaub auch an den Sohn;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1610">
      An den lieben Sohn, der liebend
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1620">
      Uns die Liebe offenbart,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1630">
      Und zum Lohne, wie gebräuchlich,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1640">
      Von dem Volk gekreuzigt ward.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1660">
      Jetzo, da ich ausgewachsen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1670">
      Viel gelesen, viel gereist,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1680">
      Schwillt mein Herz, und ganz von Herzen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1690">
      Glaub ich an den Heil'gen Geist.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1700">
      Dieser tat die größten Wunder,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1710">
      Und viel größre tut er noch;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1720">
      Er zerbrach die Zwingherrnburgen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1730">
      Und zerbrach des Knechtes Joch.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1740">
      Alte Todeswunden heilt er,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1750">
      Und erneut das alte Recht:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1760">
      Alle Menschen, gleichgeboren,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1770">
      Sind ein adliges Geschlecht.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1780">
      Er verscheucht die bösen Nebel
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1790">
      Und das dunkle Hirngespinst,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1800">
      Das uns Lieb' und Lust verleidet,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1810">
      Tag und Nacht uns angegrinst.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1820">
      Tausend Ritter, wohlgewappnet,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1830">
      Hat der Heil'ge Geist erwählt,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1840">
      Seinen Willen zu erfüllen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1850">
      Und er hat sie mutbeseelt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1860">
      Ihre teuern Schwerter blitzen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1870">
      Ihre guten Banner wehn;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1880">
      Ei, du möchtest wohl, mein Kindchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1890">
      Solche stolze Ritter sehn?
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1900">
      Nun, so schau mich an, mein Kindchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1910">
      Küsse mich und schaue dreist;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1920">
      Denn ich selber bin ein solcher
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1930">
      Ritter von dem Heil'gen Geist.«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1940">
      III
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1960">
      Still versteckt der Mond sich draußen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1970">
      Hinterm grünen Tannenbaum,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1980">
      Und im Zimmer unsre Lampe
     </p>
-    <p>
+    <p xml:id="eco_de_000063_1990">
      Flackert matt und leuchtet kaum.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2000">
      Aber meine blauen Sterne
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2010">
      Strahlen auf in hellerm Licht,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2020">
      Und es glüht die Purpurrose,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2030">
      Und das liebe Mädchen spricht:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2040">
      »Kleines Völkchen, Wichtelmännchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2050">
      Stehlen unser Brot und Speck,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2060">
      Abends liegt es noch im Kasten,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2070">
      Und des Morgens ist es weg.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2080">
      Kleines Völkchen, unsre Sahne
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2090">
      Nascht es von der Milch, und läßt
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2100">
      Unbedeckt die Schüssel stehen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2110">
      Und die Katze säuft den Rest.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2120">
      Und die Katz' ist eine Hexe,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2130">
      Denn sie schleicht, bei Nacht und Sturm,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2140">
      Drüben nach dem Geisterberge,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2150">
      Nach dem altverfallnen Turm.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2160">
      Dort hat einst ein Schloß gestanden,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2170">
      Voller Lust und Waffenglanz;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2180">
      Blanke Ritter, Fraun und Knappen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2190">
      Schwangen sich im Fackeltanz.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2200">
      Da verwünschte Schloß und Leute
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2210">
      Eine böse Zauberin,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2220">
      Nur die Trümmer blieben stehen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2230">
      Und die Eulen nisten drin.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2250">
      Doch die sel'ge Muhme sagte:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2260">
      Wenn man spricht das rechte Wort,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2270">
      Nächtlich zu der rechten Stunde,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2280">
      Drüben an dem rechten Ort:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2290">
      So verwandeln sich die Trümmer
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2300">
      Wieder in ein helles Schloß,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2310">
      Und es tanzen wieder lustig Ritter,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2320">
      Fraun und Knappentroß;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2330">
      Und wer jenes Wort gesprochen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2340">
      Dem gehören Schloß und Leut',
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2350">
      Pauken und Trompeten huld'gen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2360">
      Seiner jungen Herrlichkeit.«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2370">
      Also blühen Märchenbilder
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2380">
      Aus des Mundes Röselein,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2390">
      Und die Augen gießen drüber
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2400">
      Ihren blauen Sternenschein.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2410">
      Ihre goldnen Haare wickelt
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2420">
      Mir die Kleine um die Händ',
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2430">
      Gibt den Fingern hübsche Namen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2440">
      Lacht und küßt, und schweigt am End'.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2450">
      Und im stillen Zimmer alles
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2460">
      Blickt mich an so wohlvertraut;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2470">
      Tisch und Schrank, mir ist, als hätt ich
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2480">
      Sie schon früher mal geschaut.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2490">
      Freundlich ernsthaft schwatzt die Wanduhr,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2500">
      Und die Zither, hörbar kaum,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2510">
      Fängt von selber an zu klingen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2520">
      Und ich sitze wie im Traum.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2540">
      »Jetzo ist die rechte Stunde,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2550">
      Und es ist der rechte Ort;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2560">
      Staunen würdest du, mein Kindchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2570">
      Spräch ich aus das rechte Wort.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2580">
      Sprech ich jenes Wort, so dämmert
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2590">
      Und erbebt die Mitternacht,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2600">
      Bach und Tannen brausen lauter,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2610">
      Und der alte Berg erwacht.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2620">
      Zitherklang und Zwergenlieder
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2630">
      Tönen aus des Berges Spalt,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2640">
      Und es sprießt, wie 'n toller Frühling,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2650">
      Draus hervor ein Blumenwald;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2660">
      Blumen, kühne Wunderblumen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2670">
      Blätter, breit und fabelhaft,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2680">
      Duftig bunt und hastig regsam,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2690">
      Wie gedrängt von Leidenschaft.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2700">
      Rosen, wild wie rote Flammen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2710">
      Sprühn aus dem Gewühl hervor;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2720">
      Lilien, wie kristallne Pfeiler,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2730">
      Schießen himmelhoch empor.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2740">
      Und die Sterne, groß wie Sonnen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2750">
      Schaun herab mit Sehnsuchtglut;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2760">
      In der Lilien Riesenkelche
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2770">
      Strömet ihre Strahlenflut.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2780">
      Doch wir selber, süßes Kindchen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2790">
      Sind verwandelt noch viel mehr;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2800">
      Fackelglanz und Gold und Seide
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2810">
      Schimmern lustig um uns her.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2830">
      Du, du wurdest zur Prinzessin,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2840">
      Diese Hütte ward zum Schloß,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2850">
      Und da jubeln und da tanzen Ritter,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2860">
      Fraun und Knappentroß.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2870">
      Aber ich, ich hab erworben
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2880">
      Dich und alles, Schloß und Leut';
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2890">
      Pauken und Trompeten huld'gen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2900">
      Meiner jungen Herrlichkeit!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2910">
      Die Sonne ging auf. Die Nebel flohen, wie Gespenster beim dritten Hahnenschrei. Ich stieg wieder bergauf und bergab, und vor mir schwebte die schöne Sonne, immer neue Schönheiten beleuchtend. Der Geist des Gebirges begünstigte mich ganz offenbar; er wußte wohl, daß so ein Dichtermensch viel Hübsches wiedererzählen kann, und er ließ mich diesen Morgen seinen Harz sehen, wie ihn gewiß nicht jeder sah. Aber auch mich sah der Harz, wie mich nur wenige gesehen, in meinen Augenwimpern flimmerten ebenso kostbare Perlen wie in den Gräsern des Tals. Morgentau der Liebe feuchtete meine Wangen, die rauschenden Tannen verstanden mich, ihre Zweige taten sich voneinander, bewegten sich herauf und herab, gleich stummen Menschen, die mit den Händen ihre Freude bezeigen, und in der Ferne klang's wunderbar geheimnisvoll, wie Glockengeläute einer verlornen Waldkirche. Man sagt, das seien die Herdenglöckchen, die im Harz so lieblich, klar und rein gestimmt sind.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2920">
      Nach dem Stand der Sonne war es Mittag, als ich auf eine solche Herde stieß, und der Hirt, ein freundlich blonder junger Mensch, sagte mir, der große Berg, an dessen Fuß ich stände, sei der alte, weltberühmte Brocken. Viele Stunden ringsum liegt kein Haus, und ich war froh genug, daß mich der junge Mensch einlud, mit ihm zu essen. Wir setzten uns nie der zu einem Déjeuner dînatoire, das aus Käse und Brot bestand; die Schäfchen erhaschten die Krumen, die lieben, blanken Kühlein sprangen um uns herum und klingelten schelmisch mit  ihren Glöckchen und lachten uns an mit ihren großen, vergnügten Augen. Wir tafelten recht königlich; überhaupt schien mir mein Wirt ein echter König, und weil er bis jetzt der einzige König ist, der mir Brot gegeben hat, so will ich ihn auch königlich besingen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2940">
      König ist der Hirtenknabe,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2950">
      Grüner Hügel ist sein Thron,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2960">
      Über seinem Haupt die Sonne
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2970">
      Ist die schwere, goldne Kron'.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2980">
      Ihm zu Füßen liegen Schafe,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_2990">
      Weiche Schmeichler, rotbekreuzt;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3000">
      Kavaliere sind die Kälber,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3010">
      Und sie wandeln stolzgespreizt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3020">
      Hofschauspieler sind die Böcklein,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3030">
      Und die Vögel und die Küh',
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3040">
      Mit den Flöten, mit den Glöcklein,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3050">
      Sind die Kammermusici.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3060">
      Und das klingt und singt so lieblich,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3070">
      Und so lieblich rauschen drein
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3080">
      Wasserfall und Tannenbäume,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3090">
      Und der König schlummert ein.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3100">
      Unterdessen muß regieren
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3110">
      Der Minister, jener Hund,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3120">
      Dessen knurriges Gebelle
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3130">
      Widerhallet in der Rund'.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3140">
      Schläfrig lallt der junge König:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3150">
      »Das Regieren ist so schwer,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3160">
      Ach, ich wollt, daß ich zu Hause
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3170">
      Schon bei meiner Kön'gin wär!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3190">
      In den Armen meiner Kön'gin
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3200">
      Ruht mein Königshaupt so weich,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3210">
      Und in ihren lieben Augen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3220">
      Liegt mein unermeßlich Reich!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3250">
      Wir nahmen freundschaftlich Abschied, und fröhlich stieg ich den Berg hinauf. Bald empfing mich eine Waldung himmelhoher Tannen, für die ich, in jeder Hinsicht, Respekt habe. Diesen Bäumen ist nämlich das Wachsen nicht so ganz leicht gemacht worden, und sie haben es sich in der Jugend sauer werden lassen. Der Berg ist hier mit vielen großen Granitblöcken übersäet, und die meisten Bäume mußten mit ihren Wurzeln diese Steine umranken oder sprengen und mühsam den Boden suchen, woraus sie Nahrung schöpfen können. Hier und da liegen die Steine, gleichsam ein Tor bildend, übereinander, und oben darauf stehen die Bäume, die nackten Wurzeln über jene Steinpforte hinziehend und erst am Fuße derselben den Boden erfassend, so daß sie in der freien Luft zu wachsen scheinen. Und doch haben sie sich zu jener gewaltigen Höhe emporgeschwungen, und mit den umklammerten Steinen wie zusammengewachsen, stehen sie fester als ihre bequemen Kollegen im zahmen Forstboden des flachen Landes. So stehen auch im Leben jene großen Männer, die durch das Überwinden früher Hemmungen und Hindernisse sich erst recht gestärkt und befestigt haben. Auf den Zweigen der Tannen kletterten Eichhörnchen, und unter denselben spazierten die gelben Hirsche. Wenn ich solch ein liebes, edles Tier sehe, so kann ich nicht begreifen, wie gebildete Leute Vergnügen daran finden, es zu hetzen und zu töten. Solch ein Tier war barmherziger als die Menschen und säugte den schmachtenden Schmerzenreich der heiligen Genoveva.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3260">
      Allerliebst schossen die goldenen Sonnenlichter durch das dichte Tannengrün. Eine natürliche Treppe bildeten die Baumwurzeln. Überall schwellende Moosbänke; denn die Steine sind fußhoch von den schönsten Moosarten, wie mit hellgrünen Sammetpolstern, bewachsen. Liebliche Kühle und träumerisches Quellengemurmel. Hier und da sieht man, wie das Wasser unter den Steinen silberhell hinrieselt und die nackten Baumwurzeln und Fasern bespült. Wenn man sich nach diesem Treiben hinabbeugt, so belauscht man gleichsam die geheime Bildungsgeschichte der Pflanzen und das ruhige Herzklopfen des Berges. An manchen Orten sprudelt das Wasser aus den Steinen und Wurzeln stärker hervor und bildet kleine Kaskaden. Da läßt sich gut sitzen. Es murmelt und rauscht so wunderbar, die Vögel singen abgebrochene Sehnsuchtslaute, die Bäume flüstern wie mit tausend Mädchenzungen, wie mit tausend Mädchenaugen schauen uns an die seltsamen Bergblumen, sie strecken nach uns aus die wundersam breiten, drollig gezackten Blätter, spielend flimmern hin und her die lustigen Sonnenstrahlen, die sinnigen Kräutlein erzählen sich grüne Märchen, es ist alles wie verzaubert, es wird immer heimlicher und heimlicher, ein uralter Traum wird lebendig, die Geliebte erscheint – ach, daß sie so schnell wieder verschwindet!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3270">
      Je höher man den Berg hinaufsteigt, desto kürzer, zwerghafter werden die Tannen, sie scheinen immer mehr und mehr zusammenzuschrumpfen, bis nur Heidelbeer- und Rotbeersträuche und Bergkräuter übrigbleiben. Da wird es auch schon fühlbar kälter. Die wunderlichen Gruppen der Granitblöcke werden hier erst recht sichtbar; diese sind oft von erstaunlicher Größe. Das mögen wohl die Spielbälle sein, die sich die bösen Geister einander zuwerfen in der Walpurgisnacht, wenn hier die Hexen auf Besenstielen und Mistgabeln einhergeritten kommen und die abenteuerlich verruchte Lust beginnt, wie die glaubhafte Amme es erzählt und wie es zu schauen ist auf den hübschen Faustbildern des Meister Retzsch. Ja, ein junger Dichter, der auf einer Reise von Berlin nach Göttingen in der ersten Mainacht am Brocken vorbeiritt, bemerkte sogar, wie einige belletristische Damen auf einer Bergecke ihre ästhetische Teegesellschaft hielten, sich gemütlich die »Abendzeitung« vorlasen, ihre poetischen Ziegenböckchen, die meckernd den Teetisch umhüpften, als Universalgenies priesen und über alle  Erscheinungen in der deutschen Literatur ihr Endurteil fällten; doch als sie auch auf den »Ratcliff« und »Almansor« gerieten und dem Verfasser alle Frömmigkeit und Christlichkeit absprachen, da sträubte sich das Haar des jungen Mannes, Entsetzen ergriff ihn – ich gab dem Pferde die Sporen und jagte vorüber.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3280">
      In der Tat, wenn man die obere Hälfte des Brockens besteigt, kann man sich nicht erwehren, an die ergötzlichen Blocksbergsgeschichten zu denken und besonders an die große, mystische, deutsche Nationaltragödie vom Doktor Faust. Mir war immer, als ob der Pferdefuß neben mir hinaufklettere und jemand humoristisch Atem schöpfe. Und ich glaube, auch Mephisto muß mit Mühe Atem holen, wenn er seinen Lieblingsberg ersteigt; es ist ein äußerst erschöpfender Weg, und ich war froh, als ich endlich das langersehnte Brockenhaus zu Gesicht bekam.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3290">
      Dieses Haus, das, wie durch vielfache Abbildungen bekannt ist, bloß aus einem Parterre besteht und auf der Spitze des Berges liegt, wurde erst 1800 vom Grafen Stolberg-Wernigerode erbaut, für dessen Rechnung es auch, als Wirtshaus, verwaltet wird. Die Mauern sind erstaunlich dick, wegen des Windes und der Kälte im Winter; das Dach ist niedrig, in der Mitte desselben steht eine turmartige Warte, und bei dem Hause liegen noch zwei kleine Nebengebäude, wovon das eine, in frühern Zeiten, den Brockenbesuchern zum Obdach diente.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3300">
      Der Eintritt in das Brockenhaus erregte bei mir eine etwas ungewöhnliche, märchenhafte Empfindung. Man ist nach einem langen, einsamen Umhersteigen durch Tannen und Klippen plötzlich in ein Wolkenhaus versetzt; Städte, Berge und Wälder blieben unten liegen, und oben findet man eine wunderlich zusammengesetzte, fremde Gesellschaft, von welcher man, wie es an dergleichen Orten natürlich ist, fast wie ein erwarteter Genosse, halb neugierig und halb gleichgültig, empfangen wird. Ich fand das Haus voller Gäste, und wie es einem klugen Manne geziemt, dachte ich schon an die Nacht, an die Unbehaglichkeit eines Strohlagers; mit hinsterbender Stimme verlangte  ich gleich Tee, und der Herr Brockenwirt war vernünftig genug, einzusehen, daß ich kranker Mensch für die Nacht ein ordentliches Bett haben müsse. Dieses verschaffte er mir in einem engen Zimmerchen, wo schon ein junger Kaufmann, ein langes Brechpulver in einem braunen Oberrock, sich etabliert hatte.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3310">
      In der Wirtsstube fand ich lauter Leben und Bewegung. Studenten von verschiedenen Universitäten. Die einen sind kurz vorher angekommen und restaurieren sich, andere bereiten sich zum Abmarsch, schnüren ihre Ranzen, schreiben ihre Namen ins Gedächtnisbuch, erhalten Brockensträuße von den Hausmädchen; da wird in die Wangen gekniffen, gesungen, gesprungen, gejohlt, man fragt, man antwortet, gut Wetter, Fußweg, Prosit, Adieu. Einige der Abgehenden sind auch etwas angesoffen, und diese haben von der schönen Aussicht einen doppelten Genuß, da ein Betrunkener alles doppelt sieht.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3320">
      Nachdem ich mich ziemlich rekreiert, bestieg ich die Turmwarte und fand daselbst einen kleinen Herrn mit zwei Damen, einer jungen und einer ältlichen. Die junge Dame war sehr schön. Eine herrliche Gestalt, auf dem lockigen Haupte ein helmartiger, schwarzer Atlashut, mit dessen weißen Federn die Winde spielten, die schlanken Glieder von einem schwarzseidenen Mantel so fest umschlossen, daß die edlen Formen hervortraten, und das freie, große Auge ruhig hinabschauend in die freie, große Welt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3330">
      Als ich noch ein Knabe war, dachte ich an nichts als an Zauber- und Wundergeschichten, und jede schöne Dame, die Straußfedern auf dem Kopfe trug, hielt ich für eine Elfenkönigin, und bemerkte ich gar, daß die Schleppe ihres Kleides naß war, so hielt ich sie für eine Wassernixe. Jetzt denke ich anders, seit ich aus der Naturgeschichte weiß, daß jene symbolischen Federn von dem dümmsten Vogel herkommen und daß die Schleppe eines Damenkleides auf sehr natürliche Weise naß werden kann. Hätte ich mit jenen Knabenaugen die erwähnte junge Schöne, in erwähnter Stellung, auf dem Brocken gesehen, so würde ich sicher gedacht haben: das ist die Fee des  Berges, und sie hat eben den Zauber ausgesprochen, wodurch dort unten alles so wunderbar erscheint. Ja, in hohem Grade wunderbar erscheint uns alles beim ersten Hinabschauen vom Brocken, alle Seiten unseres Geistes empfangen neue Eindrücke, und diese, meistens verschiedenartig, sogar sich widersprechend, verbinden sich in unserer Seele zu einem großen, noch unentworrenen, unverstandenen Gefühl. Gelingt es uns, dieses Gefühl in seinem Begriffe zu erfassen, so erkennen wir den Charakter des Berges. Dieser Charakter ist ganz deutsch, sowohl in Hinsicht seiner Fehler als auch seiner Vorzüge. Der Brocken ist ein Deutscher. Mit deutscher Gründlichkeit zeigt er uns, klar und deutlich, wie ein Riesenpanorama, die vielen hundert Städte, Städtchen und Dörfer, die meistens nördlich liegen, und ringsum alle Berge, Wälder, Flüsse, Flächen, unendlich weit. Aber eben dadurch erscheint alles wie eine scharf gezeichnete, rein illuminierte Spezialkarte, nirgends wird das Auge durch eigentlich schöne Landschaften erfreut; wie es denn immer geschieht, daß wir deutschen Kompilatoren wegen der ehrlichen Genauigkeit, womit wir alles und alles hingeben wollen, nie daran denken können, das einzelne auf eine schöne Weise zu geben. Der Berg hat auch so etwas Deutschruhiges, Verständiges, Tolerantes; eben weil er die Dinge so weit und klar überschauen kann. Und wenn solch ein Berg seine Riesenaugen öffnet, mag er wohl noch etwas mehr sehen als wir Zwerge, die wir mit unsern blöden Äuglein auf ihm herumklettern. Viele wollen zwar behaupten, der Brocken sei sehr philiströse, und Claudius sang: »Der Blocksberg ist der lange Herr Philister!« Aber das ist Irrtum. Durch seinen Kahlkopf, den er zuweilen mit einer weißen Nebelkappe bedeckt, gibt er sich zwar einen Anstrich von Philiströsität; aber wie bei manchen andern großen Deutschen geschieht es aus purer Ironie. Es ist sogar notorisch, daß der Brocken seine burschikosen, phantastischen Zeiten hat, z.B. die erste Mainacht. Dann wirft er seine Nebelkappe jubelnd in die Lüfte und wird, ebensogut wie wir übrigen, recht echtdeutsch romantisch verrückt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3340">
      Ich suchte gleich die schöne Dame in ein Gespräch zu verflechten:  denn Naturschönheiten genießt man erst recht, wenn man sich auf der Stelle darüber aussprechen kann. Sie war nicht geistreich, aber aufmerksam sinnig. Wahrhaft vornehme Formen. Ich meine nicht die gewöhnliche, steife, negative Vornehmheit, die genau weiß, was unterlassen werden muß, sondern jene seltnere, freie, positive Vornehmheit, die uns genau sagt, was wir tun dürfen, und die uns bei aller Unbefangenheit die höchste gesellige Sicherheit gibt. Ich entwickelte, zu meiner eigenen Verwunderung, viele geographische Kenntnisse, nannte der wißbegierigen Schönen alle Namen der Städte, die vor uns lagen, suchte und zeigte ihr dieselben auf meiner Landkarte, die ich über den Steintisch, der in der Mitte der Turmplatte steht, mit echter Dozentenmiene ausbreitete. Manche Stadt konnte ich nicht finden, vielleicht weil ich mehr mit den Fingern suchte als mit den Augen, die sich unterdessen auf dem Gesicht der holden Dame orientierten und dort schönere Partien fanden als »Schierke« und »Elend«. Dieses Gesicht gehörte zu denen, die nie reizen, selten entzücken und immer gefallen. Ich liebe solche Gesichter, weil sie mein schlimmbewegtes Herz zur Ruhe lächeln.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3350">
      In welchem Verhältnis der kleine Herr, der die Damen begleitete, zu denselben stehen mochte, konnte ich nicht erraten. Es war eine dünne, merkwürdige Figur. Ein Köpfchen, sparsam bedeckt mit grauen Härchen, die über die kurze Stirn bis an die grünlichen Libellenaugen reichten, die runde Nase weit hervortretend, dagegen Mund und Kinn sich wieder ängstlich nach den Ohren zurückziehend. Dieses Gesichtchen schien aus einem zarten, gelblichen Tone zu bestehen, woraus die Bildhauer ihre ersten Modelle kneten; und wenn die schmalen Lippen zusammenkniffen, zogen sich über die Wangen einige tausend halbkreisartige, feine Fältchen. Der kleine Mann sprach kein Wort, und nur dann und wann, wenn die ältere Dame ihm etwas Freundliches zuflüsterte, lächelte er wie ein Mops, der den Schnupfen hat.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3360">
      Jene ältere Dame war die Mutter der jüngeren, und auch sie besaß die vornehmsten Formen. Ihr Auge verriet einen  krankhaft schwärmerischen Tiefsinn, um ihren Mund lag strenge Frömmigkeit, doch schien mir's, als ob er einst sehr schön gewesen sei und viel gelacht und viele Küsse empfangen und viele erwidert habe. Ihr Gesicht glich einem Codex palimpsestus, wo, unter der neuschwarzen Mönchsschrift eines Kirchenvatertextes, die halberloschenen Verse eines altgriechischen Liebesdichters hervorlauschen. Beide Damen waren mit ihrem Begleiter dieses Jahr in Italien gewesen und erzählten mir allerlei Schönes von Rom, Florenz und Venedig. Die Mutter erzählte viel von den Raffaelschen Bildern in der Peterskirche; die Tochter sprach mehr von der Oper im Theater Fenice.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3370">
      Derweilen wir sprachen, begann es zu dämmern; die Luft wurde noch kälter, die Sonne neigte sich tiefer, und die Turmplatte füllte sich mit Studenten, Handwerksburschen und einigen ehrsamen Bürgerleuten samt deren Ehefrauen und Töchtern, die alle den Sonnenuntergang sehen wollten. Es ist ein erhabener Anblick, der die Seele zum Gebet stimmt. Wohl eine Viertelstunde standen alle ernsthaft schweigend und sahen, wie der schöne Feuerball im Westen allmählich versank; die Gesichter wurden vom Abendrot angestrahlt, die Hände falteten sich unwillkürlich; es war, als ständen wir, eine stille Gemeinde, im Schiffe eines Riesendoms und der Priester erhöbe jetzt den Leib des Herrn und von der Orgel herab ergösse sich Palestrinas ewiger Choral.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3380">
      Während ich so in Andacht versunken stehe, höre ich, daß neben mir jemand ausruft: »Wie ist die Natur doch im allgemeinen so schön!« Diese Worte kamen aus der gefühlvollen Brust meines Zimmergenossen, des jungen Kaufmanns. Ich gelangte dadurch wieder zu meiner Werkeltagsstimmung, war jetzt imstande, den Damen über den Sonnenuntergang recht viel Artiges zu sagen und sie ruhig, als wäre nichts passiert, nach ihrem Zimmer zu führen. Sie erlaubten mir auch, sie noch eine Stunde zu unterhalten. Wie die Erde selbst drehte sich unsre Unterhaltung um die Sonne. Die Mutter äußerte, die in Nebel versinkende Sonne habe ausgesehen wie eine rotglühende Rose, die der galante Himmel herabgeworfen in den  weit ausgebreiteten, weißen Brautschleier seiner geliebten Erde. Die Tochter lächelte und meinte, der öftere Anblick solcher Naturerscheinungen schwäche ihren Eindruck. Die Mutter berichtigte diese falsche Meinung durch eine Stelle aus Goethes Reisebriefen und frug mich, ob ich den »Werther« gelesen. Ich glaube, wir sprachen auch von Angorakatzen, etruskischen Vasen, türkischen Schals, Makkaroni und Lord Byron, aus dessen Gedichten die ältere Dame einige Sonnenuntergangsstellen, recht hübsch lispelnd und seufzend, rezitierte. Der jüngern Dame, die kein Englisch verstand und jene Gedichte kennenlernen wollte, empfahl ich die Übersetzungen meiner schönen, geistreichen Landsmännin, der Baronin Elise von Hohenhausen, bei welcher Gelegenheit ich nicht ermangelte, wie ich gegen junge Damen zu tun pflege, über Byrons Gottlosigkeit, Lieblosigkeit, Trostlosigkeit, und der Himmel weiß, was noch mehr, zu eifern.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3390">
      Nach diesem Geschäfte ging ich noch auf dem Brocken spazieren; denn ganz dunkel wird es dort nie. Der Nebel war nicht stark, und ich betrachtete die Umrisse der beiden Hügel, die man den Hexenaltar und die Teufelskanzel nennt. Ich schoß meine Pistolen ab, doch es gab kein Echo. Plötzlich aber höre ich bekannte Stimmen und fühle mich umarmt und geküßt. Es waren meine Landsleute, die Göttingen vier Tage später verlassen hatten und bedeutend erstaunt waren, mich ganz allein auf dem Blocksberge wiederzufinden. Da gab es ein Erzählen und Verwundern und Verabreden, ein Lachen und Erinnern, und im Geiste waren wir wieder in unserem gelehrten Sibirien, wo die Kultur so groß ist, daß die Bären in den Wirtshäusern angebunden werden und die Zobel dem Jäger guten Abend wünschen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3400">
      Im großen Zimmer wurde eine Abendmahlzeit gehalten. Ein langer Tisch mit zwei Reihen hungriger Studenten. Im Anfange gewöhnliches Universitätsgespräch: Duelle, Duelle und wieder Duelle. Die Gesellschaft bestand meistens aus Hallensern, und Halle wurde daher Hauptgegenstand der Unterhaltung. Die Fensterscheiben des Hofrats Schütz wurden  exegetisch beleuchtet. Dann erzählte man, daß die letzte Cour bei dem König von Zypern sehr glänzend gewesen sei, daß er einen natürlichen Sohn erwählt, daß er sich eine lichtensteinsche Prinzessin ans linke Bein antrauen lassen, daß er die Staatsmätresse abgedankt und daß das ganze gerührte Ministerium vorschriftmäßig geweint habe. Ich brauche wohl nicht zu erwähnen, daß sich dieses auf hallesche Bierwürden bezieht. Hernach kamen die zwei Chinesen aufs Tapet, die sich vor zwei Jahren in Berlin sehen ließen und jetzt in Halle zu Privatdozenten der chinesischen Ästhetik abgerichtet werden. Nun wurden Witze gerissen. Man setzte den Fall, ein Deutscher ließe sich in China für Geld sehen; und zu diesem Zwecke wurde ein Anschlagzettel geschmiedet, worin die Mandarinen Tsching-Tschang-Tschung und Hi-Ha-Ho begutachteten, daß es ein echter Deutscher sei, worin ferner seine Kunststücke aufgerechnet wurden, die hauptsächlich in Philosophieren, Tabakrauchen und Geduld bestanden, und worin noch schließlich bemerkt wurde, daß man um zwölf Uhr, welches die Fütterungsstunde sei, keine Hunde mitbringen dürfe, indem diese dem armen Deutschen die besten Brocken wegzuschnappen pflegten.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3410">
      Ein junger Burschenschafter, der kürzlich zur Purifikation in Berlin gewesen, sprach viel von dieser Stadt, aber sehr einseitig. Er hatte Wisotzki und das Theater besucht; beide beurteilte er falsch. »Schnell fertig ist die Jugend mit dem Wort« usw. Er sprach von Garderobeaufwand, Schauspieler- und Schauspielerinnenskandal usw. Der junge Mensch wußte nicht, daß, da in Berlin überhaupt der Schein der Dinge am meisten gilt, was schon die allgemeine Redensart »man so duhn« hinlänglich andeutet, dieses Scheinwesen auf den Brettern erst recht florieren muß und daß daher die Intendanz am meisten zu sorgen hat für die »Farbe des Barts, womit eine Rolle gespielt wird«, für die Treue der Kostüme, die von beeidigten Historikern vorgezeichnet und von wissenschaftlich gebildeten Schneidern genäht werden. Und das ist notwendig. Denn trüge mal Maria Stuart eine Schürze, die schon zum Zeitalter der Königin Anna gehört, so würde gewiß der Bankier Christian  Gumpel sich mit Recht beklagen, daß ihm dadurch alle Illusion verlorengehe; und hätte mal Lord Burleigh aus Versehen die Hosen von Heinrich IV. angezogen, so würde gewiß die Kriegsrätin von Steinzopf, geb. Lilientau, diesen Anachronismus den ganzen Abend nicht aus den Augen lassen. Solche täuschende Sorgfalt der Generalintendant erstreckt sich aber nicht bloß auf Schürzen und Hosen, sondern auch auf die darin verwickelten Personen. So soll künftig der Othello von einem wirklichen Mohren gespielt werden, den Professor Lichtenstein schon zu diesem Behufe aus Afrika verschrieben hat; in »Menschenhaß und Reue« soll künftig die Eulalia von einem wirklich verlaufenen Weibsbilde, der Peter von einem wirklich dummen Jungen und der Unbekannte von einem wirklich geheimen Hahnrei gespielt werden, die man alle drei nicht erst aus Afrika zu verschreiben braucht. Hatte nun obenerwähnter junger Mensch die Verhältnisse des Berliner Schauspiels schlecht begriffen, so merkte er noch viel weniger, daß die Spontinische Janitscharenoper, mit ihren Pauken, Elefanten, Trompeten und Tamtams, ein heroisches Mittel ist, um unser erschlafftes Volk kriegerisch zu stärken, ein Mittel, das schon Plato und Cicero staatspfiffig empfohlen haben. Am allerwenigsten begriff der junge Mensch die diplomatische Bedeutung des Balletts. Mit Mühe zeigte ich ihm, wie in Hoguets Füßen mehr Politik sitzt als in Buchholz' Kopf, wie alle seine Tanztouren diplomatische Verhandlungen bedeuten, wie jede seiner Bewegungen eine politische Beziehung habe, so z.B., daß er unser Kabinett meint, wenn er, sehnsüchtig vorgebeugt, mit den Händen weit ausgreift; daß er den Bundestag meint, wenn er sich hundertmal auf einem Fuße herumdreht, ohne vom Fleck zu kommen; daß er die kleinen Fürsten im Sinne hat, wenn er wie mit gebundenen Beinen herumtrippelt; daß er das europäische Gleichgewicht bezeichnet, wenn er wie ein Trunkener hin und her schwankt; daß er einen Kongreß andeutet, wenn er die gebogenen Arme knäuelartig ineinander verschlingt; und endlich, daß er unsern allzu großen Freund im Osten darstellt, wenn er in allmählicher Entfaltung sich in  die Höhe hebt, in dieser Stellung lange ruht und plötzlich in die erschrecklichsten Sprünge ausbricht. Dem jungen Manne fielen die Schuppen von den Augen, und jetzt merkte er, warum Tänzer besser honoriert werden als große Dichter, warum das Ballett beim diplomatischen Korps ein unerschöpflicher Gegenstand des Gesprächs ist und warum oft eine schöne Tänzerin noch privatim von dem Minister unterhalten wird, der sich gewiß Tag und Nacht abmüht, sie für sein politisches Systemchen empfänglich zu machen. Beim Apis! wie groß ist die Zahl der exoterischen und wie klein die Zahl der esoterischen Theaterbesucher! Da steht das blöde Volk und gafft und bewundert Sprünge und Wendungen und studiert Anatomie in den Stellungen der Lemiere und applaudiert die Entrechats der Röhnisch und schwatzt von Grazie, Harmonie und Lenden – und keiner merkt, daß er in getanzten Chiffren das Schicksal des deutschen Vaterlandes vor Augen hat.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3420">
      Während solcherlei Gespräche hin- und herflogen, verlor man doch das Nützliche nicht aus den Augen, und den großen Schüsseln, die mit Fleisch, Kartoffeln usw. ehrlich angefüllt waren, wurde fleißig zugesprochen. Jedoch das Essen war schlecht. Dieses erwähnte ich leichthin gegen meinen Nachbar, der aber, mit einem Akzente, woran ich den Schweizer erkannte, gar unhöflich antwortete, daß wir Deutschen, wie mit der wahren Freiheit, so auch mit der wahren Genügsamkeit unbekannt seien. Ich zuckte die Achseln und bemerkte, daß die eigentlichen Fürstenknechte und Leckerkramverfertiger überall Schweizer sind und vorzugsweise so genannt werden und daß überhaupt die jetzigen schweizerischen Freiheitshelden, die soviel Politisch-Kühnes ins Publikum hineinschwatzen, mir immer vorkommen wie Hasen, die auf öffentlichen Jahrmärkten Pistolen abschießen, alle Kinder und Bauern durch ihre Kühnheit in Erstaunen setzen und dennoch Hasen sind.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3430">
      Der Sohn der Alpen hatte es gewiß nicht böse gemeint, »es war ein dicker Mann, folglich ein guter Mann«, sagt Cervantes. Aber mein Nachbar von der andern Seite, ein Greifswalder, war durch jene Äußerung sehr pikiert; er beteuerte, daß deutsche  Tatkraft und Einfältigkeit noch nicht erloschen sei, schlug sich dröhnend auf die Brust und leerte eine ungeheure Stange Weißbier. Der Schweizer sagte: »Nu! Nu!« Doch je beschwichtigender er dieses sagte, desto eifriger ging der Greifswalder ins Geschirr. Dieser war ein Mann aus jenen Zeiten, als die Läuse gute Tage hatten und die Friseure zu verhungern fürchteten. Er trug herabhängend langes Haar, ein ritterliches Barett, einen schwarzen, altdeutschen Rock, ein schmutziges Hemd, das zugleich das Amt einer Weste versah, und darunter ein Medaillon mit einem Haarbüschel von Blüchers Schimmel. Er sah aus wie ein Narr in Lebensgröße. Ich mache mir gern einige Bewegung beim Abendessen und ließ mich daher von ihm in einen patriotischen Streit verflechten. Er war der Meinung, Deutschland müsse in dreiunddreißig Gauen geteilt werden. Ich hingegen behauptete, es müßten achtundvierzig sein, weil man alsdann ein systematischeres Handbuch über Deutschland schreiben könne und es doch notwendig sei, das Leben mit der Wissenschaft zu verbinden. Mein Greifswalder Freund war auch ein deutscher Barde, und wie er mir vertraute, arbeitete er an einem Nationalheldengedicht zur Verherrlichung Hermanns und der Hermannsschlacht. Manchen nützlichen Wink gab ich ihm für die Anfertigung dieses Epos. Ich machte ihn darauf aufmerksam, daß er die Sümpfe und Knüppelwege des Teutoburger Waldes sehr onomatopöisch durch wäßrige und holprige Verse andeuten könne und daß es eine patriotische Feinheit wäre, wenn er den Varus und die übrigen Römer lauter Unsinn sprechen ließe. Ich hoffe, dieser Kunstkniff wird ihm, ebenso erfolgreich wie andern Berliner Dichtern, bis zur bedenklichsten Illusion gelingen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3440">
      An unserem Tische wurde es immer lauter und traulicher, der Wein verdrängte das Bier, die Punschbowlen dampften, es wurde getrunken, smolliert und gesungen. Der alte Landesvater und herrliche Lieder von W. Müller, Rückert, Uhland usw. erschollen. Schöne Methfesselsche Melodien. Am allerbesten erklangen unseres Arndts deutsche Worte: »Der Gott, der Eisen wachsen ließ, der wollte keine Knechte!« Und draußen  brauste es, als ob der alte Berg mitsänge, und einige schwankende Freunde behaupteten sogar, er schüttle freudig sein kahles Haupt und unser Zimmer werde dadurch hin und her bewegt. Die Flaschen wurden leerer und die Köpfe voller. Der eine brüllte, der andere fistulierte, ein dritter deklamierte aus der »Schuld«, ein vierter sprach Latein, ein fünfter predigte von der Mäßigkeit, und ein sechster stellte sich auf den Stuhl und dozierte: »Meine Herren! Die Erde ist eine runde Walze, die Menschen sind einzelne Stiftchen darauf, scheinbar arglos zerstreut; aber die Walze dreht sich, die Stiftchen stoßen hier und da an und tönen, die einen oft, die andern selten, das gibt eine wunderbare, komplizierte Musik, und diese heißt Weltgeschichte. Wir sprechen also erst von der Musik, dann von der Welt und endlich von der Geschichte; letztere aber teilen wir ein in Positiv und spanische Fliegen –« Und so ging's weiter mit Sinn und Unsinn.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3450">
      Ein gemütlicher Mecklenburger, der seine Nase im Punschglase hatte und selig lächelnd den Dampf einschnupfte, machte die Bemerkung, es sei ihm zumute, als stände er wieder vor dem Theaterbüfett in Schwerin! Ein anderer hielt sein Weinglas wie ein Perspektiv vor die Augen und schien uns aufmerksam damit zu betrachten, während ihm der rote Wein über die Backen ins hervortretende Maul hinablief. Der Greifswalder, plötzlich begeistert, warf sich an meine Brust und jauchzte: »Oh, verständest du mich, ich bin ein Liebender, ich bin ein Glücklicher, ich werde wiedergeliebt, und, Gott verdamm mich! es ist ein gebildetes Mädchen, denn sie hat volle Brüste und trägt ein weißes Kleid und spielt Klavier!« – Aber der Schweizer weinte und küßte zärtlich meine Hand und wimmerte beständig: »O Bäbeli! O Bäbeli!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3460">
      In diesem verworrenen Treiben, wo die Teller tanzen und die Gläser fliegen lernten, saßen mir gegenüber zwei Jünglinge, schön und blaß wie Marmorbilder, der eine mehr dem Adonis, der andere mehr dem Apollo ähnlich. Kaum bemerkbar war der leichte Rosenhauch, den der Wein über ihre Wangen hinwarf. Mit unendlicher Liebe sahen sie sich einander an,  als wenn einer lesen könnte in den Augen des andern, und in diesen Augen strahlte es, als wären einige Lichttropfen hineingefallen aus jener Schale voll lodernder Liebe, die ein frommer Engel dort oben von einem Stern zum andern hinüberträgt. Sie sprachen leise, mit sehnsuchtbebender Stimme, und es waren traurige Geschichten, aus denen ein wunderschmerzlicher Ton hervorklang. »Die Lore ist jetzt auch tot!« sagte der eine und seufzte, und nach einer Pause erzählte er von einem halleschen Mädchen, das in einen Studenten verliebt war und, als dieser Halle verließ, mit niemand mehr sprach und wenig aß und Tag und Nacht weinte und immer den Kanarienvogel betrachtete, den der Geliebte ihr einst geschenkt hatte. »Der Vogel starb, und bald darauf ist auch die Lore gestorben!« so schloß die Erzählung, und beide Jünglinge schwiegen wieder und seufzten, als wollte ihnen das Herz zerspringen. Endlich sprach der andere: »Meine Seele ist traurig! Komm mit hinaus in die dunkle Nacht! Einatmen will ich den Hauch der Wolken und die Strahlen des Mondes. Genosse meiner Wehmut! ich liebe dich, deine Worte tönen wie Rohrgeflüster, wie gleitende Ströme, sie tönen wider in meiner Brust, aber meine Seele ist traurig!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3470">
      Nun erhoben sich die beiden Jünglinge, einer schlang den Arm um den Nacken des andern, und sie verließen das tosende Zimmer. Ich folgte ihnen nach und sah, wie sie in eine dunkle Kammer traten, wie der eine, statt des Fensters, einen großen Kleiderschrank öffnete, wie beide vor demselben, mit sehnsüchtig ausgestreckten Armen, stehenblieben und wechselweise sprachen. »Ihr Lüfte der dämmernden Nacht!« rief der erste, »wie erquickend kühlt ihr meine Wangen! Wie lieblich spielt ihr mit meinen flatternden Locken! Ich steh auf des Berges wolkigem Gipfel, unter mir liegen die schlafenden Städte der Menschen und blinken die blauen Gewässer. Horch! dort unten im Tale rauschen die Tannen! Dort über die Hügel ziehen, in Nebelgestalten, die Geister der Väter. Oh, könnt ich mit euch jagen, auf dem Wolkenroß, durch die stürmische Nacht, über die rollende See, zu den Sternen hinauf! Aber ach!  ich bin beladen mit Leid, und meine Seele ist traurig!« – Der andere Jüngling hatte ebenfalls seine Arme sehnsuchtsvoll nach dem Kleiderschrank ausgestreckt, Tränen stürzten aus seinen Augen, und zu einer gelbledernen Hose, die er für den Mond hielt, sprach er mit wehmütiger Stimme: »Schön bist du, Tochter des Himmels! Holdselig ist deines Antlitzes Ruhe! Du wandelst einher in Lieblichkeit! Die Sterne folgen deinen blauen Pfaden im Osten. Bei deinem Anblick erfreuen sich die Wolken, und es lichten sich ihre düstern Gestalten. Wer gleicht dir am Himmel, Erzeugte der Nacht? Beschämt in deiner Gegenwart sind die Sterne und wenden ab die grünfunkelnden Augen. Wohin, wenn des Morgens dein Antlitz erbleicht, entfliehst du von deinem Pfade? Hast du gleich mir deine Halle? Wohnst du im Schatten der Wehmut? Sind deine Schwestern vom Himmel gefallen? Sie, die freudig mit dir die Nacht durchwallten, sind sie nicht mehr? Ja, sich fielen herab, o schönes Licht, und du verbirgst dich oft, sie zu betrauern. Doch einst wird kommen die Nacht, und du, auch du bist vergangen und hast deine blauen Pfade dort oben verlassen. Dann erheben die Sterne ihre grünen Häupter, die einst deine Gegenwart beschämt, sich werden sich freuen. Doch jetzt bist du gekleidet in deiner Strahlenpracht und schaust herab aus den Toren des Himmels. Zerreißt die Wolken, o Winde, damit die Erzeugte der Nacht hervorzuleuchten vermag und die buschigen Berge erglänzen und das Meer seine schäumenden Wogen rolle in Licht!«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3480">
      Ein wohlbekannter, nicht sehr magerer Freund, der mehr getrunken als gegessen hatte, obgleich er auch heute abend, wie gewöhnlich, eine Portion Rindfleisch verschlungen, wovon sechs Gardeleutnants und ein unschuldiges Kind satt geworden wären, dieser kam jetzt in allzu gutem Humor, d.h. ganz en Schwein, vorbeigerannt, schob die beiden elegischen Freunde etwas unsanft in den Schrank hinein, polterte nach der Haustüre und wirtschaftete draußen ganz mörderlich. Der Lärm im Saal wurde auch immer verworrener und dumpfer. Die beiden Jünglinge im Schranke jammerten und wimmerten, sie lägen  zerschmettert am Fuße des Berges; aus dem Hals strömte ihnen der edle Rotwein, sie überschwemmten sich wechselseitig, und der eine sprach zum andern: »Lebe wohl! Ich fühle, daß ich verblute. Warum weckst du mich, Frühlingsluft? Du buhlst und sprichst: Ich betaue dich mit Tropfen des Himmels. Doch die Zeit meines Welkens ist nahe, nahe der Sturm, der meine Blätter herabstört! Morgen wird der Wanderer kom men, kommen, der mich sah in meiner Schönheit, ringsum wird sein Auge im Felde mich suchen und wird mich nicht finden.« – Aber alles übertobte die wohlbekannte Baßstimme, die draußen vor der Türe, unter Fluchen und Jauchzen, sich gottlästerlich beklagte, daß auf der ganzen dunkeln Weenderstraße keine einzige Laterne brenne und man nicht einmal sehen könne, bei wem man die Fensterscheiben eingeschmissen habe.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3490">
      Ich kann viel vertragen – die Bescheidenheit erlaubt mir nicht, die Bouteillenzahl zu nennen –, und ziemlich gut konditioniert gelangte ich nach meinem Schlafzimmer. Der junge Kaufmann lag schon im Bette, mit seiner kreideweißen Nachtmütze und safrangelben Jacke von Gesundheitsflanell. Er schlief noch nicht und suchte ein Gespräch mit mir anzuknüpfen. Er war ein Frankfurt-am-Mainer, und folglich sprach er gleich von den Juden, die alles Gefühl für das Schöne und Edle verloren haben und die englischen Waren 25 Prozent unter dem Fabrikpreise verkaufen. Es ergriff mich die Lust, ihn etwas zu mystifizieren; deshalb sagte ich ihm, ich sei ein Nachtwandler und müsse im voraus um Entschuldigung bitten, für den Fall, daß ich ihn etwa im Schlafe stören möchte. Der arme Mensch hat deshalb, wie er mir den andern Tag gestand, die ganze Nacht nicht geschlafen, da er die Besorgnis hegte, ich könnte mit meinen Pistolen, die vor meinem Bette lagen, im Nachtwandlerzustande ein Malheur anrichten. Im Grunde war es mir nicht viel besser als ihm gegangen, ich hatte sehr schlecht geschlafen. Wüste, beängstigende Phantasiegebilde. Ein Klavierauszug aus Dantes »Hölle«. Am Ende träumte mir gar, ich sähe die Aufführung einer juristischen Oper, die »Falcidia« geheißen, erbrechtlicher Text von Gans und Musik von  Spontini. Ein toller Traum. Das römische Forum leuchtete prächtig, Serv. Asinius Göschenus als Prätor auf seinem Stuhle, die Toga in stolze Falten werfend, ergoß sich in polternden Rezitativen; Marcus Tullius Elversus, als Primadonna legataria, all seine holde Weiblichkeit offenbarend, sang die liebeschmelzende Bravourarie »Quicunque civis romanus«; ziegelrot geschminkte Referendarien brüllten als Chor der Unmündigen; Privatdozenten, als Genien in fleischfarbigen Trikot gekleidet, tanzten ein antejustinianeisches Ballett und bekränzten mit Blumen die zwölf Tafeln; unter Donner und Blitz stieg aus der Erde der beleidigte Geist der römischen Gesetzgebung, hierauf Posaunen, Tamtam, Feuerregen, cum omni causa.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3500">
      Aus diesem Lärmen zog mich der Brockenwirt, indem er mich weckte, um den Sonnenaufgang anzusehen. Auf dem Turm fand ich schon einige Harrende, die sich die frierenden Hände rieben, andere, noch den Schlaf in den Augen, taumelten herauf. Endlich stand die stille Gemeinde von gestern abend wieder ganz versammelt, und schweigend sahen wir, wie am Horizonte die kleine karmoisinrote Kugel emporstieg, eine winterlich dämmernde Beleuchtung sich verbreitete, die Berge wie in einem weißwallenden Meere schwammen und bloß die Spitzen derselben sichtbar hervortraten, so daß man auf einem kleinen Hügel zu stehen glaubte, mitten auf einer überschwemmten Ebene, wo nur hier und da eine trockene Erdscholle hervortritt. Um das Gesehene und Empfundene in Worten festzuhalten, zeichnete ich folgendes Gedicht:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3520">
      Heller wird es schon im Osten
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3530">
      Durch der Sonne kleines Glimmen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3540">
      Weit und breit die Bergesgipfel
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3550">
      In dem Nebelmeere schwimmen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3560">
      Hätt ich Siebenmeilenstiefel,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3570">
      Lief' ich mit der Hast des Windes,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3580">
      Über jene Bergesgipfel,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3590">
      Nach dem Haus des lieben Kindes.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3610">
      Von dem Bettchen, wo sie schlummert,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3620">
      Zög ich leise die Gardinen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3630">
      Leise küßt' ich ihre Stirne,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3640">
      Leise ihres Munds Rubinen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3650">
      Und noch leiser wollt' ich flüstern
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3660">
      In die kleinen Lilienohren
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3670">
      »Denk im Traum, daß wir uns lieben,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3680">
      Und daß wir uns nie verloren.«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3710">
      Indessen, meine Sehnsucht nach einem Frühstück war ebenfalls groß, und nachdem ich meinen Damen einige Höflichkeiten gesagt, eilte ich hinab, um in der warmen Stube Kaffee zu trinken. Es tat not; in meinem Magen sah es so nüchtern aus wie in der Goslarschen Stephanskirche. Aber mit dem arabischen Trank rieselte mir auch der warme Orient durch die Glieder, östliche Rosen umdufteten mich, süße Bulbullieder erklangen, die Studenten verwandelten sich in Kamele, die Brockenhausmädchen, mit ihren Congrevischen Blicken, wurden zu Huris, die Philisternasen wurden Minaretts usw.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3720">
      Das Buch, das neben mir lag, war aber nicht der Koran. Unsinn enthielt es freilich genug. Es war das sogenannte Brockenbuch, worin alle Reisende, die den Berg erstiegen, ihre Namen schreiben und die meisten noch einige Gedanken und, in Ermangelung derselben, ihre Gefühle hinzunotieren. Viele drücken sich sogar in Versen aus. In diesem Buche sieht man, welche Greuel entstehen, wenn der große Philistertroß bei gebräuchlichen Gelegenheiten, wie hier auf dem Brocken, sich vorgenommen hat, poetisch zu werden. Der Palast des Prinzen von Pallagonia enthält keine so große Abgeschmacktheiten wie dieses Buch, wo besonders hervorglänzen die Herren Akziseeinnehmer mit ihren verschimmelten Hochgefühlen, die Kontorjünglinge mit ihren pathetischen Seelenergüssen, die altdeutschen Revolutionsdilettanten mit ihren Turngemeinplätzen, die Berliner Schullehrer mit ihren verunglückten Entzückungsphrasen usw. Herr Johannes Hagel will sich auch mal  als Schriftsteller zeigen. Hier wird des Sonnenaufgangs majestätische Pracht beschrieben; dort wird geklagt über schlechtes Wetter, über getäuschte Erwartungen, über den Nebel, der alle Aussicht versperrt. »Benebelt heraufgekommen und benebelt hinuntergegangen!« ist ein stehender Witz, der hier von Hunderten nachgerissen wird.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3730">
      Das ganze Buch riecht nach Käse, Bier und Tabak; man glaubt, einen Roman von Clauren zu lesen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3740">
      Während ich nun besagtermaßen Kaffee trank und im Brockenbuche blätterte, trat der Schweizer mit hochroten Wangen herein, und voller Begeisterung erzählte er von dem erhabenen Anblick, den er oben auf dem Turm genossen, als das reine, ruhige Licht der Sonne, Sinnbild der Wahrheit, mit den nächtlichen Nebelmassen gekämpft, daß es ausgesehen habe wie eine Geisterschlacht, wo zürnende Riesen ihre langen Schwerter ausstrecken, geharnischte Ritter, auf bäumenden Rossen, einherjagen, Streitwagen, flatternde Banner, abenteuerliche Tierbildungen aus dem wildesten Gewühle hervortauchen, bis endlich alles in den wahnsinnigsten Verzerrungen zusammenkräuselt, blasser und blasser zerrinnt und spurlos verschwindet. Diese demagogische Naturerscheinung hatte ich versäumt, und ich kann, wenn es zur Untersuchung kommt, eidlich versichern, daß ich von nichts weiß als vom Geschmack des guten braunen Kaffees. Ach, dieser war sogar schuld, daß ich meine schöne Dame vergessen, und jetzt stand sie vor der Tür, mit Mutter und Begleiter, im Begriff, den Wagen zu besteigen. Kaum hatte ich noch Zeit, hinzueilen und ihr zu versichern, daß es kalt sei. Sie schien unwillig, daß ich nicht früher gekommen; doch ich glättete bald die mißmütigen Falten ihrer schönen Stirn, indem ich ihr eine wunderliche Blume schenkte, die ich den Tag vorher, mit halsbrechender Gefahr, von einer steilen Felsenwand gepflückt hatte. Die Mutter verlangte den Namen der Blume zu wissen, gleichsam als ob sie es unschicklich fände, daß ihre Tochter eine fremde, unbekannte Blume vor die Brust stecke – denn wirklich, die Blume erhielt diesen beneidenswerten Platz, was sie sich gewiß gestern auf ihrer  einsamen Höhe nicht träumen ließ. Der schweigsame Begleiter öffnete jetzt auf einmal den Mund, zählte die Staubfäden der Blume und sagte ganz trocken: »Sie gehört zur achten Klasse.«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3750">
      Es ärgert mich jedesmal, wenn ich sehe, daß man auch Gottes liebe Blumen, ebenso wie uns, in Kasten geteilt hat, und nach ähnlichen Äußerlichkeiten, nämlich nach Staubfädenverschiedenheit. Soll doch mal eine Einteilung stattfinden, so folge man dem Vorschlage Theophrasts, der die Blumen mehr nach dem Geiste, nämlich nach ihrem Geruch, einteilen wollte. Was mich betrifft, so habe ich in der Naturwissenschaft mein eigenes System, und demnach teile ich alles ein: in dasjenige, was man essen kann, und in dasjenige, was man nicht essen kann.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3760">
      Jedoch der ältern Dame war die geheimnisvolle Natur der Blumen nichts weniger als verschlossen, und unwillkürlich äußerte sie, daß sie von den Blumen, wenn sie noch im Garten oder im Topfe wachsen, recht erfreut werde, daß hingegen ein leises Schmerzgefühl, traumhaft beängstigend, ihre Brust durchzittere, wenn sie eine abgebrochene Blume sehe – da eine solche doch eigentlich eine Leiche sei und so eine gebrochene, zarte Blumenleiche ihr welkes Köpfchen recht traurig herabhängen lasse, wie ein totes Kind. Die Dame war fast erschrocken über den trüben Widerschein ihrer Bemerkung, und es war meine Pflicht, denselben mit einigen Voltaireschen Versen zu verscheuchen. Wie doch ein paar französische Worte uns gleich in die gehörige Konvenienzstimmung zurückversetzen können! Wir lachten, Hände wurden geküßt, huldreich wurde gelächelt, die Pferde wieherten, und der Wagen holperte, langsam und beschwerlich, den Berg hinunter.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3770">
      Nun machten auch die Studenten Anstalt zum Abreisen, die Ranzen wurden geschnürt, die Rechnungen, die über alle Erwartung billig ausfielen, berichtigt; die empfänglichen Hausmädchen, auf deren Gesichtern die Spuren glücklicher Liebe, brachten, wie gebräuchlich ist, die Brockensträußchen, halfen solche auf die Mützen befestigen, wurden dafür mit einigen Küssen oder Groschen honoriert, und so stiegen wir alle den Berg hinab, indem die einen, wobei der Schweizer und Greifswalder,  den Weg nach Schierke einschlugen und die andern, ungefähr zwanzig Mann, wobei auch meine Landsleute und ich, angeführt von einem Wegweiser, durch die sogenannten Schneelöcher hinabzogen nach Ilsenburg.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3780">
      Das ging über Hals und Kopf. Hallesche Studenten marschieren schneller als die östreichische Landwehr. Ehe ich mich dessen versah, war die kahle Partie des Berges mit den darauf zerstreuten Steingruppen schon hinter uns, und wir kamen durch einen Tannenwald, wie ich ihn den Tag vorher gesehen. Die Sonne goß schon ihre festlichsten Strahlen herab und beleuchtete die humoristisch buntgekleideten Burschen, die so munter durch das Dickicht drangen, hier verschwanden, dort wieder zum Vorschein kamen, bei Sumpfstellen über die quergelegten Baumstämme liefen, bei abschüssigen Tiefen an den rankenden Wurzeln kletterten, in den ergötzlichsten Tonarten emporjohlten und ebenso lustige Antwort zurückerhielten von den zwitschernden Waldvögeln, von den rauschenden Tannen, von den unsichtbar plätschernden Quellen und von dem schallenden Echo. Wenn frohe Jugend und schöne Natur zusammenkommen, so freuen sie sich wechselseitig.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3790">
      Je tiefer wir hinabstiegen, desto lieblicher rauschte das unterirdische Gewässer, nur hier und da, unter Gestein und Gestrippe, blinkte es hervor und schien heimlich zu lauschen, ob es ans Licht treten dürfe, und endlich kam eine kleine Welle entschlossen hervorgesprungen. Nun zeigt sich die gewöhnliche Erscheinung: ein Kühner macht den Anfang, und der große Troß der Zagenden wird plötzlich, zu seinem eigenen Erstaunen, von Mut ergriffen und eilt, sich mit jenem ersten zu vereinigen. Eine Menge anderer Quellen hüpften jetzt hastig aus ihrem Versteck, verbanden sich mit der zuerst hervorgesprungenen, und bald bildeten sie zusammen ein schon bedeutendes Bächlein, das in unzähligen Wasserfällen und in wunderlichen Windungen das Bergtal hinabrauscht. Das ist nun die Ilse, die liebliche, süße Ilse. Sie zieht sich durch das gesegnete Ilsetal, an dessen beiden Seiten sich die Berge allmählich höher erheben, und diese sind, bis zu ihrem Fuße, meistens  mit Buchen, Eichen und gewöhnlichem Blattgesträuche bewachsen, nicht mehr mit Tannen und anderm Nadelholz. Denn jene Blätterholzart wird vorherrschend auf dem »Unterharze«, wie man die Ostseite des Brockens nennt, im Gegensatz zur Westseite desselben, die der »Oberharz« heißt und wirklich viel höher ist und also auch viel geeigneter zum Gedeihen der Nadelhölzer.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3800">
      Es ist unbeschreibbar, mit welcher Fröhlichkeit, Naivetät und Anmut die Ilse sich hinunterstürzt über die abenteuerlich gebildeten Felsstücke, die sie in ihrem Laufe findet, so daß das Wasser hier wild emporzischt oder schäumend überläuft, dort aus allerlei Steinspalten, wie aus tollen Gießkannen, in reinen Bögen sich ergießt und unten wieder über die kleinen Steine hintrippelt, wie ein munteres Mädchen. Ja, die Sage ist wahr, die Ilse ist eine Prinzessin, die lachend und blühend den Berg hinabläuft. Wie blinkt im Sonnenschein ihr weißes Schaumgewand! Wie flattern im Winde ihre silbernen Busenbänder! Wie funkeln und blitzen ihre Diamanten! Die hohen Buchen stehen dabei gleich ernsten Vätern, die verstohlen lächelnd dem Mutwillen des lieblichen Kindes zusehen; die weißen Birken bewegen sich tantenhaft vergnügt und doch zugleich ängstlich über die gewagten Sprünge; der stolze Eichbaum schaut drein wie ein verdrießlicher Oheim, der das schöne Wetter bezahlen soll; die Vögelein in den Lüften jubeln ihren Beifall, die Blumen am Ufer flüstern zärtlich: »Oh, nimm uns mit, nimm uns mit, lieb Schwesterchen!« – aber das lustige Mädchen springt unaufhaltsam weiter, und plötzlich ergreift sie den träumenden Dichter, und es strömt auf mich herab ein Blumenregen von klingenden Strahlen und strahlenden Klängen, und die Sinne vergehen mir vor lauter Herrlichkeit, und ich höre nur noch die flötensüße Stimme:
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3820">
      »Ich bin die Prinzessin Ilse,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3830">
      Und wohne im Ilsenstein;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3840">
      Komm mit nach meinem Schlosse,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3850">
      Wir wollen selig sein.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3870">
      Dein Haupt will ich benetzen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3880">
      Mit meiner klaren Well',
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3890">
      Du sollst deine Schmerzen vergessen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3900">
      Du sorgenkranker Gesell!
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3910">
      In meinen weißen Armen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3920">
      An meiner weißen Brust,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3930">
      Da sollst du liegen und träumen
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3940">
      Von alter Märchenlust.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3950">
      Ich will dich küssen und herzen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3960">
      Wie ich geherzt und geküßt
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3970">
      Den lieben Kaiser Heinrich,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3980">
      Der nun gestorben ist.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_3990">
      Es bleiben tot die Toten,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4000">
      Und nur der Lebendige lebt;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4010">
      Und ich bin schön und blühend,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4020">
      Mein lachendes Herze bebt.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4030">
      Und bebt mein Herz dort unten,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4040">
      So klingt mein kristallenes Schloß,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4050">
      Es tanzen die Fräulein und Ritter,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4060">
      Es jubelt der Knappentroß.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4070">
      Es rauschen die seidenen Schleppen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4080">
      Es klirren die Eisenspor'n,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4090">
      Die Zwerge trompeten und pauken,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4100">
      Und fiedeln und blasen das Horn.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4110">
      Doch dich soll mein Arm umschlingen,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4120">
      Wie er Kaiser Heinrich umschlang;
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4130">
      Ich hielt ihm zu die Ohren,
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4140">
      Wenn die Trompet' erklang.«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4170">
      Unendlich selig ist das Gefühl, wenn die Erscheinungswelt mit unserer Gemütswelt zusammenrinnt und grüne Bäume, Gedanken, Vögelgesang, Wehmut, Himmelsbläue, Erinnerung und Kräuterduft sich in süßen Arabesken verschlingen. Die Frauen kennen am besten dieses Gefühl, und darum mag auch ein so holdselig ungläubiges Lächeln um ihre Lippen schweben, wenn wir mit Schulstolz unsere logischen Taten rühmen, wie wir alles so hübsch eingeteilt in objektiv und subjektiv, wie wir unsere Köpfe apothekenartig mit tausend Schubladen versehen, wo in der einen Vernunft, in der andern Verstand, in der dritten Witz, in der vierten schlechter Witz und in der fünften gar nichts, nämlich die Idee, enthalten ist.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4180">
      Wie im Traume fortwandelnd, hatte ich fast nicht bemerkt, daß wir die Tiefe des Ilsetales verlassen und wieder bergauf stiegen. Dies ging sehr steil und mühsam, und mancher von uns kam außer Atem. Doch wie unser seliger Vetter, der zu Mölln begraben liegt, dachten wir im voraus ans Bergabsteigen und waren um so vergnügter. Endlich gelangten wir auf den Ilsenstein.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4190">
      Das ist ein ungeheurer Granitfelsen, der sich lang und keck aus der Tiefe erhebt. Von drei Seiten umschließen ihn die hohen, waldbedeckten Berge, aber die vierte, die Nordseite, ist frei, und hier schaut man das unten liegende Ilsenburg und die Ilse, weit hinab ins niedere Land. Auf der turmartigen Spitze des Felsens steht ein großes, eisernes Kreuz, und zur Not ist da noch Platz für vier Menschenfüße.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4200">
      Wie nun die Natur, durch Stellung und Form, den Ilsenstein mit phantastischen Reizen geschmückt, so hat auch die Sage ihren Rosenschein darüber ausgegossen. Gottschalk berichtet: »Man erzählt, hier habe ein verwünschtes Schloß gestanden, in welchem die reiche, schöne Prinzessin Ilse gewohnt, die sich noch jetzt jeden Morgen in der Ilse bade; und wer so glücklich ist, den rechten Zeitpunkt zu treffen, werde von ihr in den Felsen, wo ihr Schloß sei, geführt und königlich belohnt!« Andere erzählen von der Liebe des Fräuleins Ilse und des Ritters von Westenberg eine hübsche Geschichte, die einer unserer  bekanntesten Dichter romantisch in der »Abendzeitung« besungen hat. Andere wieder erzählen anders: Es soll der altsächsische Kaiser Heinrich gewesen sein, der mit Ilse, der schönen Wasserfee, in ihrer verzauberten Felsenburg die kaiserlichsten Stunden genossen. Ein neuerer Schriftsteller, Herr Niemann, Wohlgeb., der ein Harzreisebuch geschrieben, worin er die Gebirgshöhen, Abweichungen der Magnetnadel, Schulden der Städte und dergleichen mit löblichem Fleiße und genauen Zahlen angegeben, behauptet indes: »Was man von der schönen Prinzessin Ilse erzählt, gehört dem Fabelreiche an.« So sprechen alle diese Leute, denen eine solche Prinzessin niemals erschienen ist, wir aber, die wir von schönen Damen besonders begünstigt werden, wissen das besser. Auch Kaiser Heinrich wußte es. Nicht umsonst hingen die altsächsischen Kaiser so sehr an ihrem heimischen Harze. Man blättere nur in der hübschen »Lüneburger Chronik«, wo die guten alten Herren in wunderlich treuherzigen Holzschnitten abkonterfeit sind, wohlgeharnischt, hoch auf ihrem gewappneten Schlachtroß, die heilige Kaiserkrone auf dem teuren Haupte, Zepter und Schwert in festen Händen; und auf den lieben, knebelbärtigen Gesichtern kann man deutlich lesen, wie oft sie sich nach den süßen Herzen ihrer Harzprinzessinnen und dem traulichen Rauschen der Harzwälder zurücksehnten, wenn sie in der Fremde weilten, wohl gar in dem zitronen- und giftreichen Welschland, wohin sie und ihre Nachfolger so oft verlockt wurden von dem Wunsche, römische Kaiser zu heißen, einer echtdeutschen Titelsucht, woran Kaiser und Reich zugrunde gingen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4210">
      Ich rate aber jedem, der auf der Spitze des Ilsensteins steht, weder an Kaiser und Reich noch an die schöne Ilse, sondern bloß an seine Füße zu denken. Denn als ich dort stand, in Gedanken verloren, hörte ich plötzlich die unterirdische Musik des Zauberschlosses, und ich sah, wie sich die Berge ringsum auf die Köpfe stellten und die roten Ziegeldächer zu Ilsenburg anfingen zu tanzen und die grünen Bäume in der blauen Luft herumflogen, daß es mir blau und grün vor den Augen wurde  und ich sicher, vom Schwindel erfaßt, in den Abgrund gestürzt wäre, wenn ich mich nicht, in meiner Seelennot, ans eiserne Kreuz festgeklammert hätte. Daß ich, in so mißlicher Stellung, dieses letztere getan habe, wird mir gewiß niemand verdenken.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4240">
      Die »Harzreise« ist und bleibt Fragment, und die bunten Fäden, die so hübsch hineingesponnen sind, um sich im Ganzen harmonisch zu verschlingen, werden plötzlich, wie von der Schere der unerbittlichen Parze, abgeschnitten. Vielleicht verwebe ich sie weiter in künftigen Liedern, und was jetzt kärglich verschwiegen ist, wird alsdann vollauf gesagt. Am Ende kommt es auch auf eins heraus, wann und wo man etwas ausgesprochen hat, wenn man es nur überhaupt einmal ausspricht. Mögen die einzelnen Werke immerhin Fragmente bleiben, wenn sie nur in ihrer Vereinigung ein Ganzes bilden. Durch solche Vereinigung mag hier und da das Mangelhafte ergänzt, das Schroffe ausgeglichen und das Allzuherbe gemildert werden. Dieses würde vielleicht schon bei den ersten Blättern der »Harzreise« der Fall sein, und sie könnten wohl einen minder sauern Eindruck hervorbringen, wenn man anderweitig erführe, daß der Unmut, den ich gegen Göttingen im allgemeinen hege, obschon er noch größer ist, als ich ihn ausgesprochen, doch lange nicht so groß ist wie die Verehrung, die ich für einige Individuen dort empfinde. Und warum sollte ich es verschweigen: Ich meine hier ganz besonders jenen viel teueren Mann, der schon in frühern Zeiten sich so freundlich meiner annahm, mir schon damals eine innige Liebe für das Studium der Geschichte einflößte, mich späterhin in dem Eifer für dasselbe bestärkte und dadurch meinen Geist auf ruhigere Bahnen führte, meinem Lebensmute heilsamere Richtungen anwies und mir überhaupt jene historischen Tröstungen bereitete, ohne welche ich die qualvollen Erscheinungen des Tages nimmermehr ertragen würde. Ich spreche von Georg Sartorius, dem großen Geschichtsforscher und Menschen, dessen Auge ein klarer Stern ist in unserer dunkeln Zeit und dessen gastliches  Herz offensteht für alle fremde Leiden und Freuden, für die Besorgnisse des Bettlers und des Königs und für die letzten Seufzer untergehender Völker und ihrer Götter.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4250">
      Ich kann nicht umhin, hier ebenfalls anzudeuten, daß der Oberharz, jener Teil des Harzes, den ich bis zum Anfang des Ilsetals beschrieben habe, bei weitem keinen so erfreulichen Anblick wie der romantisch malerische Unterharz gewährt und in seiner wildschroffen, tannendüstern Schönheit gar sehr mit demselben kontrastiert; so wie ebenfalls die drei von der Ilse, von der Bode und von der Selke gebildeten Täler des Unterharzes gar anmutig untereinander kontrastieren, wenn man den Charakter jedes Tales zu personifizieren weiß. Es sind drei Frauengestalten, wovon man nicht so leicht zu entscheiden vermag, welche die schönste sei.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4260">
      Von der lieben, süßen Ilse, und wie süß und lieblich sie mich empfangen, habe ich schon gesagt und gesungen. Die düstere Schöne, die Bode, empfing mich nicht so gnädig, und als ich sie im schmiededunkeln Rübeland zuerst erblickte, schien sie gar mürrisch und verhüllte sich in einen silbergrauen Regenschleier. Aber mit rascher Liebe warf sie ihn ab, als ich auf die Höhe der Roßtrappe gelangte, ihr Antlitz leuchtete mir entgegen in sonnigster Pracht, aus allen Zügen hauchte eine kolossale Zärtlichkeit, und aus der bezwungenen Felsenbrust drang es hervor wie Sehnsuchtseufzer und schmelzende Laute der Wehmut. Minder zärtlich, aber fröhlicher, zeigte sich mir die schöne Selke, die schöne, liebenswürdige Dame, deren edle Einfalt und heitre Ruhe alle sentimentale Familiarität entfernt hält, die aber doch durch ein halbverstecktes Lächeln ihren neckenden Sinn verrät; und diesem möchte ich es wohl zuschreiben, daß mich im Selketal gar mancherlei kleines Ungemach heimsuchte, daß ich, indem ich über das Wasser springen wollte, just in die Mitte hineinplumpste, daß nachher, als ich das nasse Fußzeug mit Pantoffeln vertauscht hatte, einer derselben mir abhanden oder vielmehr abfüßen kam, daß mir ein Windstoß die Mütze entführte, daß mir Walddorne die Beine zerfetzten, und leider so weiter. Doch all dieses Ungemach  verzeihe ich gern der schönen Dame, denn sie ist schön. Und jetzt steht sie vor meiner Einbildung mit all ihrem stillen Liebreiz und scheint zu sagen: »Wenn ich auch lache, so meine ich es doch gut mit Ihnen, und ich bitte Sie, besingen Sie mich.« Die herrliche Bode tritt ebenfalls hervor in meiner Erinnerung, und ihr dunkles Auge spricht: »Du gleichst mir im Stolz und im Schmerze, und ich will, daß du mich liebst.« Auch die schöne Ilse kommt herangesprungen, zierlich und bezaubernd in Miene, Gestalt und Bewegung; sie gleicht ganz dem holden Wesen, das meine Träume beseligt, und ganz wie sie schaut sie mich an, mit unwiderstehlicher Gleichgültigkeit und doch zugleich so innig, so ewig, so durchsichtig wahr – Nun, ich bin Paris, die drei Göttinnen stehen vor mir, und den Apfel gebe ich der schönen Ilse.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4270">
      Es ist heute der erste Mai; wie ein Meer des Lebens ergießt sich der Frühling über die Erde, der weiße Blütenschaum bleibt an den Bäumen hängen, ein weiter, warmer Nebelglanz verbreitet sich überall; in der Stadt blitzen freudig die Fensterscheiben der Häuser, an den Dächern bauen die Spatzen wieder ihre Nestchen, auf der Straße wandeln die Leute und wundern sich, daß die Luft so angreifend und ihnen selbst so wunderlich zumute ist; die bunten Vierlanderinnen bringen Veilchensträußer; die Waisenkinder, mit ihren blauen Jäckchen und ihren lieben, unehelichen Gesichtchen, ziehen über den Jungfernstieg und freuen sich, als sollten sie heute einen Vater wiederfinden; der Bettler an der Brücke schaut so vergnügt, als hätte er das Große Los gewonnen; sogar den schwarzen, noch ungehenkten Makler, der dort mit seinem spitzbübischen Manufakturwarengesicht einherläuft, bescheint die Sonne mit ihren tolerantesten Strahlen – ich will hinauswandern vor das Tor.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4280">
      Es ist der erste Mai, und ich denke deiner, du schöne Ilse – oder soll ich dich »Agnes« nennen, weil dir dieser Name am besten gefällt? –, ich denke deiner, und ich möchte wieder zusehen, wie du leuchtend den Berg hinabläufst. Am liebsten aber möchte ich unten im Tale stehen und dich auffangen in  meine Arme. – Es ist ein schöner Tag! Überall sehe ich die grüne Farbe, die Farbe der Hoffnung. Überall, wie holde Wunder, blühen hervor die Blumen, und auch mein Herz will wieder blühen. Dieses Herz ist auch eine Blume, eine gar wunderliche. Es ist kein bescheidenes Veilchen, keine lachende Rose, keine reine Lilie oder sonstiges Blümchen, das mit artiger Lieblichkeit den Mädchensinn erfreut und sich hübsch vor den hübschen Busen stecken läßt und heute welkt und morgen wieder blüht. Dieses Herz gleicht mehr jener schweren, abenteuerlichen Blume aus den Wäldern Brasiliens, die der Sage nach alle hundert Jahre nur einmal blüht. Ich erinnere mich, daß ich als Knabe eine solche Blume gesehen. Wir hörten in der Nacht einen Schuß, wie von einer Pistole, und am folgenden Morgen erzählten mir die Nachbarskinder, daß es ihre Aloe gewesen, die mit solchem Knalle plötzlich aufgeblüht sei. Sie führten mich in ihren Garten, und da sah ich zu meiner Verwunderung, daß das niedrige, harte Gewächs mit den närrisch breiten, scharfgezackten Blättern, woran man sich leicht verletzen konnte, jetzt ganz in die Höhe geschossen war und oben, wie eine goldene Krone, die herrlichste Blüte trug. Wir Kinder konnten nicht mal so hoch hinaufsehen, und der alte, schmunzelnde Christian, der uns liebhatte, baute eine hölzerne Treppe um die Blume herum, und da kletterten wir hinauf, wie die Katzen, und schauten neugierig in den offenen Blumenkelch, woraus die gelben Strahlenfäden und wildfremden Düfte mit unerhörter Pracht hervordrangen.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4290">
      Ja, Agnes, oft und leicht kommt dieses Herz nicht zum Blühen; soviel ich mich erinnere, hat es nur ein einziges Mal geblüht, und das mag schon lange her sein, gewiß schon hundert Jahr. Ich glaube, so herrlich auch damals seine Blüte sich entfaltete, so mußte sie doch aus Mangel an Sonnenschein und Wärme elendiglich verkümmern, wenn sie nicht gar von einem dunkeln Wintersturme gewaltsam zerstört worden. Jetzt aber regt und drängt es sich wieder in mei ner Brust, und hörst du plötzlich den Schuß – Mädchen, erschrick nicht! ich hab mich nicht totgeschossen, sondern meine Liebe sprengt ihre Knospe  und schießt empor in strahlenden Liedern, in ewigen Dithyramben, in freudigster Sangesfülle.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4300">
      Ist dir aber diese hohe Liebe zu hoch, Mädchen, so mach es dir bequem und besteige die hölzerne Treppe und schaue von dieser hinab in mein blühendes Herz.
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4310">
      Es ist noch früh am Tage, die Sonne hat kaum die Hälfte ihres Weges zurückgelegt, und mein Herz duftet schon so stark, daß es mir betäubend zu Kopfe steigt, daß ich nicht mehr weiß, wo die Ironie aufhört und der Himmel anfängt, daß ich die Luft mit meinen Seufzern bevölkere und daß ich selbst wieder zerrinnen möchte in süße Atome, in die unerschaffene Gottheit; – wie soll das erst gehen, wenn es Nacht wird und die Sterne am Himmel erscheinen, »die unglücksel'gen Sterne, die dir sagen können – –«
     </p>
-    <p>
+    <p xml:id="eco_de_000063_4320">
      Es ist der erste Mai, der lumpigste Ladenschwengel hat heute das Recht, sentimental zu werden, und dem Dichter wolltest du es verwehren?
     </p>
    </div>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco000001" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_en_000001" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title ref="https://www.wikidata.org/wiki/Q404158">
+    <title ref="https://www.wikidata.org/entity/Q404158">
      Utopia
     </title>
-    <author ref="https://www.wikidata.org/wiki/Q42544">
+    <author ref="https://www.wikidata.org/entity/Q42544">
      Thomas Morus
     </author>
     <respStmt>
@@ -71,9 +71,6 @@
    </langUsage>
    <textDesc>
     <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
-    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
-    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
-    <timeSlot key="T1" xmlns="http://distantreading.net/eltec/ns"/>
    </textDesc>
   </profileDesc>
   <revisionDesc>

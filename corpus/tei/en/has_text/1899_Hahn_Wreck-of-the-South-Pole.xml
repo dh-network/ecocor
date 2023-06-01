@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco000018" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_en_000018" xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title ref="No Wiki-Data ID">
      The Wreck of the South Pole, or the Great Dissembler
     </title>
-    <author ref="https://www.wikidata.org/wiki/No Wiki-Data ID">
+    <author ref="https://www.wikidata.org/entity/No Wiki-Data ID">
      Charles Curtz Hahn
     </author>
     <respStmt>
@@ -71,9 +71,6 @@
    </langUsage>
    <textDesc>
     <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
-    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
-    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
-    <timeSlot key="T1" xmlns="http://distantreading.net/eltec/ns"/>
    </textDesc>
   </profileDesc>
   <revisionDesc>
@@ -84,9 +81,9 @@
  </teiHeader>
  <text>
   <front>
-   <p>
+   <p xml:id="eco_en_000018_10">
    </p>
-   <p>
+   <p xml:id="eco_en_000018_20">
     THE WRECK OF THE SOUTH POLE
    </p>
   </front>
@@ -95,49 +92,49 @@
     <head>
      CHAPTER I.—MERELY INTRODUCTORY.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_40">
      Readers may remember the story told by an ancient mariner which was published last November. This was an account of a cruise which Capt. Reynolds, of New London, Conn., made in the South Seas twenty-six years ago. This voyage, so far as the South Seas were concerned, ended at the South Georgia Islands, where the captain and his crew remained until driven out by the ice.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_60">
      These islands are situated exactly 1,000 miles east of Cape Horn, with an oceanic current running directly from the southern end of the American Continent to them. Here is the most beautiful harbor in the world—the Cumberland. It is surrounded on three sides by lofty mountains which rear their heads straight upward 16,000 feet above the sea, and down whose sides five cataracts flow. But wild and rugged as are those mountain peaks and tempestuous as may be the ocean out beyond, no storms are ever felt within the harbor, although looking upward the sailor can see them raging around the mountain tops.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_80">
      Resting on the bosom of the placid waters, his ship scarcely moving by the gentle waves, with golden sunshine falling all around, looking upward tornadoes, rain and snow will be seen raging among the upper cliffs.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_100">
      But there is another harbor on this island of quite a different character.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_120">
      Capt. Reynolds and his crew anchored in Frenchman's Bay and there found a house built of ship's cabin timber, every inch of which was carved with the history of four men, who had been lost off Cape Horn and their vessel carried by the current to this island. They had been lost twenty years before, and had lived in this house for seventeen years, according to the records which they carved upon its walls.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_140">
      After the seal rookery had been visited, the captain organized a volunteer investigation party to explore the interior. Coming to the top of a mountain range, they let down John Sands, who was lost in the Arctic Ocean on the ill-fated Narvach, to find a path for them. He called back that he thought a way could be found, but they had better leave the rope hanging in case they were obliged to return by it. The whole party descended, but soon were obliged to repeat the performance, and when they reached the valley, half a dozen ropes were hanging down the mountain side.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_160">
      It was well they left them, for on examining the valley into which they had descended, they found that it was walled in by precipitous mountains, and that this one point upon which they had stumbled by accident or by fate was the only place they could be crossed. And if those ropes had not been left, they probably would have died in that lonely place, for this cave was cut off from the ocean, as well as from the rest of the island. All along in front were breakers which rendered the approach of any boat impossible. The beach was thirty miles wide and was strewn with the wrecks of a thousand ships, which had been lost off Cape Horn and drifted to this place with the current. Once in this cove, it was impossible to leave it.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_180">
      During the afternoon of the first day which the party passed in this place, one of those thrilling occurrences which sailors, in either the Arctic or Antarctic Oceans, are always on the lookout for, happened.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_200">
      As the little party of adventurous men were exploring the valley, Capt. Reynolds saw in the distance what he thought was the work of human hands, but whether it was the portion of a ship which had escaped the anger of the breakers and been tossed up on the shore, or was really a human habitation, he could not say. But, approaching, they found that it was a hut, rudely and imperfectly yet warmly constructed out of ship's timber. Many a time, and in most unlikely places, had such habitations been found by the crew during this cruise. The first thought of every man was to examine and see if there was any one living in it, although with but little hope, for if the four men who had been cast in Frenchman's Valley could not survive, what chance could there be for any one in this deserted spot?
     </p>
-    <p>
+    <p xml:id="eco_en_000018_220">
      And yet it was inhabited. As they drew near the cabin, a man, bearing no evidence of starvation or of hardship, and with the manners of a refined gentleman, came out and addressed them. There was nothing in his conversation or his actions which would indicate a shipwrecked man, or one pining in loneliness in that solitary place.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_240">
      On the contrary, he had the appearance of a man well satisfied with his surroundings, and he greeted the men politely and cheerily, but not with that joyous gratefulness which they were accustomed to find in men rescued from such a situation.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_260">
      He received their salutations there as coolly as if the meeting had occurred in the center of civilization. They entered his hut and he entertained them frugally, of course, but as politely as if the meeting had been in New York.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_280">
      Of course, their first inquiry was as to how he came there, and from what ship he was lost, and to these queries he replied briefly:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_300">
      "My name is George Wilding. I was shipwrecked off Cape Horn a year ago. Our ship was a whaler, homeward bound. Ten of us escaped in the long boat, but I alone survived. After weeks of drifting, my boat was thrown upon the reefs in front of this cove, smashed to pieces, and I borne in to shore by the tide."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_320">
      This was all he told them then, but he afterward left this record of strange adventure.
     </p>
    </div>
@@ -145,82 +142,82 @@
     <head>
      CHAPTER II.—THE FIGURE OF A MAN.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_340">
      As to who I am, a very few words will be sufficient. Three years ago I left a seaport town on the Atlantic Coast for a whaling voyage in the South Seas. When in latitude 65, and almost directly south of Cape Horn, our ship was wrecked, and after various disasters I found myself alone in a boat drifting rapidly southward. Icebergs could be seen in every direction, and on the tenth day after the wreck I sighted one straight ahead which appeared immovable and extending to the horizon on the east and west. All day I floated in sight of this towering mass of ice, each hour some feature of it growing more and more distinct, until at last, as night came, I feared, with good reason, that my frail boat would be dashed against it and I lost.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_360">
      All that night I remained awake, watching the great mass as it drew nearer and nearer, or rather as I drew nearer to it. But the contact did not come that night. When morning broke I was still at some distance from it, and could now see that instead of an iceberg floating in the sea, it was all one solid mass, its cold peaks of glittering ice towering mountain high before me.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_380">
      In many places these peaks arose precipitously from the ocean, against which the long billows broke themselves with steady sweep. But here and there I could detect openings which had all the appearance of bays, or inlets, into a continent of ice.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_400">
      I managed to row into one of these, and found that the ice sloped gradually down to the level of the water as on a beach. I landed, and drawing my boat up, fastened it to a jagged piece of ice, and started out upon an exploring expedition.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_420">
      Climbing to the highest elevation, I found in front of me a long, level plain of ice, extending as far as the eye could reach, and I determined upon exploring it. So, returning to my boat, I managed by pushing and hauling, to draw it far enough up the sloping ice to be above the tide, and there left it in a sort of cove, which was so shaped as to block it from slipping back into the ocean and becoming lost. For I never dreamed but that I would soon return to the boat, possibly for the purpose of rowing out to some whaler which might drift into this latitude.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_440">
      And yet I knew ours was the only ship which ever had come that far south, and it was driven there by the storm. However, living is hope in the human breast!
     </p>
-    <p>
+    <p xml:id="eco_en_000018_460">
      There was I, a thousand miles from any known land! Out of the track of vessels. All alone on a great continent of ice, with scarcely provision to last a week, and yet making fast my boat for a return to an unknown ship which common sense should have told me would never come.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_480">
      Having then made my boat safe, I tied together a cask of water and some provisions and started on my exploration, dragging them over the slippery ice behind me. I chose my direction as nearly south as was possible, for what reason or why I was moved to do so I could not then have told, but I learned later. I had traveled probably five miles, and the polar sun was sinking down for a few hours, dip below the horizon, for this was the season of long days and short nights, when I was startled by seeing far ahead, in the dusky twilight, what appeared to be a rude hut.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_500">
      Could it be that other unfortunates had been wrecked on this part of the great iceberg? flashed through my mind. Anyway, I resolved to push forward as rapidly as possible and see. Even should I find no inhabitant, the hut would at least provide me shelter and a chance for rest and sleep.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_520">
      And here, the first of the strange happenings which occurred to me in this strange land, was brought to my attention. I plainly heard in my ears, as if some one standing close to me had spoken, the words:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_540">
      "Courage. Seek the house and all will be well."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_560">
      Those who have seen the great fur coats and caps which Arctic whalers wear, will readily understand how a person might slip up near another from behind, or the side, without being seen, and I turned around to look at the person who spoke. But, although I turned completely around and surveyed all points of the compass, I could see nothing but ice.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_580">
      Not a living being of any kind was in sight.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_600">
      At first I was overwhelmed with astonishment, then the astonishment turned into gray fear.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_620">
      "The cold and the trials and the weariness of the journey had affected my brain," was the thought which came to me.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_640">
      A few minutes came another shock which nearly completed the work of terror the first had begun.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_660">
      Ahead of me, not more than fifty paces, I saw the figure of a man standing out clear and distinct against the boundless expanse of white snow and ice.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_680">
      But the next instant it was gone! It did not move from the place it was standing, did not disappear behind a hillock of ice, for the great plain was as smooth as a floor. It simply disappeared.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_700">
      I was so overcome with fear—not at any idea of ghost, although sailors are notoriously superstitious—but from fear that my mind was wandering. I was so overcome, I say, that I stood stock still, and this exhibition of terror, I afterward learned, was the means of saving me from seeing the apparition again—a sight which, I believe, would have completely crazed me. But although I saw nothing again, I heard the voice a second time bidding me press on to the hut with all haste, and at the same time, I cannot tell how, there came new strength in my body and new vigor in my brain. I walked rapidly on, and within half an hour reached the hut.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_720">
      It was a veritable house that I saw as I drew nearer. But so strange had been my journey that at no time would I have been surprised to see it suddenly disappear from the icy plain and leave nothing but a mound of ice to mark the goal of my pilgrimage.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_740">
      It was a small building, not more than 10x12 in dimensions, but strongly built of logs, a fact which surprised me greatly, as there certainly was no timber in that icy region.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_760">
      The interior was comfortably fitted up with a bed, a table, some chairs and a stove, in which a hot fire was burning. To the latter I rushed and held my benumbed hands close to its comfortable sides.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_780">
      I tell you, after days of drifting on a stormy polar sea, and a day's travel over frozen fields of ice, a fire is a rare comfort.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_800">
      After getting the chill off the outside of me, and my joints loosened up a little, I took a more careful look at the cabin, and then noticed that the table was laid for supper and that there was only one plate. But this was no time for ceremony. The man for whom the meal was provided would well excuse a shipwrecked mariner for devouring it. I sat down with a clear conscience and did so.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_820">
      After my hunger was satisfied I sat thinking. It is a true fact that a man seldom thinks until his animal wants are satisfied. I mean, think in the common use of the word, which is merely recalling memories. When he is in a tight place he reasons. I am using these words now in the vulgar, not the scientific sense.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_840">
      So I sat thinking. The man whom I thought I saw must have been the owner of this place and no doubt he had stepped behind some icy hillock and so disappeared. But the words I heard? Well, I was too tired to speculate upon them, and after waiting a decent length of time for the owner of the hut to return, I threw myself upon the bed and fell asleep.
     </p>
    </div>
@@ -228,97 +225,97 @@
     <head>
      CHAPTER III.—I WISH TO TURN BACK.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_860">
      When I awoke, after ten hours of sleep, such as I had not enjoyed for many a day, the cabin was as I had left it when I turned in, except that the fire was burning low. Everything else remained the same. No one had entered while I slept. Food for breakfast I found in a cupboard behind the stove, and as I was preparing my meal I saw a placard on the wall which I was quite certain had not been there the night before. It read:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_880">
      "This hut was erected for shipwrecked mariners. When you have rested, travel due south."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_900">
      That was all, but the meaning was plain. There must be people living somewhere in this country. Hence I was on what many geographers had supposed this great mass of ice to be—a frozen continent.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_920">
      But if there were people living on it, then some portion of it cannot be covered with ice.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_940">
      After preparing and eating a hearty breakfast, I set out for the south, guided by my pocket compass, which, fortunately, I had placed in the boat before we left the ship. I traveled ten hours that day, and again came to a cabin which I entered and found provisions for a meal. No one met me, and a second time I lay down and slept. A similar placard was on the walls of this hut also, directing me to continue my journey southward.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_960">
      After five days of travel over the snow, I thought I could notice a change in the atmosphere for the warmer, and in a couple of days more saw unmistakable evidences of a change of climate. By and by the snow and ice disappeared and bushes sprang up just as I had found them doing in going south when exploring the north polar zone, and coming down the shores of Alaska. And at regular intervals, during all this journey, I found huts furnished with a bed, a fire, provisions, and the usual placard.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_980">
      One morning, after I had been traveling over ground, instead of ice, for several days, a startling thing happened to me. I had found my cabin, as usual, eaten and slept in it. But in the morning, after breakfast, I was astonished to see a small slip of paper lying on the table, where I had eaten a few minutes before. I was quite certain it was not there while I ate, as I had sat at the table for quite a while. Who, then, could have placed it there? So far in my journey I had met no one, neither had I seen any evidence of human beings. I opened the paper and found it was a note, saying:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1000">
      "At your next station you will meet a guide who will conduct you to the city."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1020">
      Very kind and hospitable of them, I thought to myself. And from the wording of the note and the placards on the cabin walls no doubt they are civilized.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1040">
      The information that another day's journey would bring me, if not to the end of my travels, yet at least to the beginning of the end, and that I would meet with human beings, spurred me on and I walked more rapidly than any previous day.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1060">
      Queer things had happened to me during my brief sojourn to this ice-bound continent, but a stranger event still was to happen this day, an event which, perhaps, had much to do with molding my life, perhaps the future of a great nation I was approaching. Indeed, I am almost inclined to believe its effects may possibly, as I was afterward told, be so far reaching as to include the whole globe.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1080">
      It is thus that at every turn in life the little things bear in their turn incalculable results.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1100">
      You will not have forgotten the man whom I saw for a moment that first day on the summit of the iceberg, but who disappeared so suddenly that I was feign to believe him an image of my demented brain. You may remember, also, the voices which I heard speaking to me in the awful silence of glittering ice and infinite depths of sky. And the cottages, or huts, strung at regular intervals in which I was fed by mysterious hands! But the most mysterious of all to me was the finding of the note upon the table, where, half an hour before, I knew it had not been. All these were full of mystery, but the crowning mystery and, I may add, crowning glory, came to me this last day of isolation.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1120">
      When I had walked for probably five hours, and the landscape was growing more and more like that of an inhabitable country, with here and there struggling trees and shrubs, I saw in the distance a human being—a woman.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1140">
      She was standing still, out on the plain, which was now no longer a field of ice, and looking toward the north. At first I stopped in amazement, and then quickening my pace, hurried on toward her. She remained motionless, as if awaiting my coming, and when I approached to within a few rods, so that her face could be distinguished, she smiled a welcome and lifted her hand, as if beckoning me to her.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1160">
      Let me pause here and describe this image, which, from that moment, became my ideal of womanhood and which since then has ever been enshrined in my heart.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1180">
      She was tall. Not the tallest woman in the world I had ever seen, but slightly above the common height. Her figure was compactly built, with hips slender as a boy's and as graceful, and with the bust rounded out in the curves of budding womanhood.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1200">
      As to her face! It was long and oval, but not with a high brow. Her complexion clear pink and white, and her hair the softest of dark brown, fine spun and floating. And her eyes—not brown nor black nor blue, but of that clear gray which are the most beautiful God ever made. They are so beautiful that He entrusts them to but few, even of women.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1220">
      I loved her from the first moment her face appeared to me on that barren plain.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1240">
      As I drew nearer to her she smiled again and said in a sweet voice:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1260">
      "Welcome to our land," and although it was the most commonplace phrase, no music ever sounded sweeter in my ears. For had her voice not been most musical and her face and form perfection of artistic grace, these were the first human words I had heard since the day of the shipwreck. The first human words, I say, because those I heard out on the ice fields, coming from no visible person, I could not reckon as human.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1280">
      I never have been very forward with women—on the contrary, rather diffident—but I felt no bashfulness with her. Instead, I rapidly stepped up to her side and asked her one question after another as to where I was and what land I was approaching, all of which she answered, still smiling my heart into her own keeping.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1300">
      "I am Winnifred, and you are approaching the city of Theon, the capital of the state, and will reach it to-night. You are now in the borderland between the state and the land of the ice. Follow me. I came to lead you."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1320">
      We walked along after that side by side, she plying me with questions as to my journey across the ice, although even then I had an impression that she was doing so merely to hear me talk, rather than because she did not know every detail of it already. I noticed, also, that while she talked with me freely and with perfect ease, she kept, with what I considered needless prudery at the time, several feet away, and never allowed me to approach near enough to touch her.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1340">
      After we had traveled together for an hour or more, we came to the summit of a range of mountains which sloped gently downward to a great, level plain, filled with luxuriant vegetation, and in the center of which stood as fair a city as ever I set eyes upon. This mountain range appeared circular in shape, surrounding the plain on all sides, except that far to the south there appeared on the horizon what looked like the ocean.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1360">
      Noticing my expression of wonder, she explained:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1380">
      "You are looking down into the land which surrounds the south pole, and which contains the oldest nation on the face of the earth. So old is it that all of art and science which man has ever been able to think out is there treasured. And it is as you suspect, surrounded by a wall of mountains, and then of eternal ice. And the water which you see in the distance is really a great inland sea, salt as the ocean, although seemingly entirely cut off from it. Yet it is not cut off. There is a small outlet, that is, small compared with the great ocean outside, where the water passes in and out underneath a glacier which towers miles high and from which are continually dropping the giant icebergs which float in the southern seas."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1400">
      "Winnie, Winnie," I repeated half to myself, as we stood looking down upon the fair valley below. "What a pretty name. But it is so English that I am surprised. Are some of the inhabitants of this country of yours descended from the English?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1420">
      "Oh, no," she replied, looking at me with her gray eyes in a way which made my heart beat faster. "You will find all nationalities represented here in names, for, as I told you, we combine all of art and learning of all ages of the world. That surprises you, does it not? You will understand it when you have been with us a few days. My name was chosen for me by my mother because she fancied it as a quaint old-fashioned name in an English book she was reading when I was born."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1440">
      At this moment I drew nearer and attempted to take her hand in mine. I did grasp it, but when I did so found I was clasping empty air.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1460">
      I stepped back in horror. Was this a land of ghouls that I had come to? She stood for a moment looking at me at first in surprise and then in sorrow, and then faded quickly from my sight.
     </p>
    </div>
@@ -326,91 +323,91 @@
     <head>
      CHAPTER IV.—MORE CONFUSED THAN EVER.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_1480">
      When the figure of the girl who had been walking and talking but a moment before disappeared, I will confess that I was afraid. Imagine a shipwrecked man who had drifted for days on an angry ocean, who had climbed icebergs and traveled over ice fields for days, who had heard mysterious voices, been mysteriously provided with food and shelter, seen that which he could explain in no other way than as spirit, who had received notes in places where no human hands could have placed them. A man alone in a mysterious land which civilized portions of the globe had not believed to exist.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1500">
      What could the strongest man, under such circumstances, do but stand in fear and anguish? What was this strange land; was it the entrance to the infernal regions, or peopled with shades of the departed? Or was I losing my mind and imagining all these things?
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1520">
      The latter I rejected after the first thought, for the food and the lodging were too substantial for me to have dreamed them. And the first was almost as unreasonable, for with whatever this land was peopled they certainly had no evil intention toward me.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1540">
      I stood there on the summit of the mountain range for half an hour meditating upon these strange things and turning over in my mind what to do. To turn back I was most strongly inclined, but there was something which drew me down the valley. What that was I could not say then, although I learned afterward. In spite of prospective dangers and mysteries, I felt impelled to proceed instead of going back.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1560">
      Step by step I went down the valley, noting at almost every step new indications of a different clime. Vegetation began to spring up and the air assumed a softer temper. Animals and birds could be seen, flowers appeared, and as I descended farther I came to cattle grazing and fields of grain and corn.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1580">
      As I reached the last descent before coming into the valley, or down to the plain, I saw a man approaching, a man who seemed in figure strangely like the one I saw for a brief time out on the ice fields, and I will confess to a feeling of fear again. But this time there was no disappearance. We gradually drew near each other until within hailing distance, when he called out in a cheery voice in English telling me to hasten and bidding me welcome. But while I did not stop, yet I did not hasten, and I viewed him with ill-concealed suspicion until he reached out and grasped my hand in a hearty handshake.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1600">
      Then I realized that whatever mysterious experiences I had gone through I had met at last a human being, and then—all the strength which had held me up for days gave way and I sank down upon the ground and cried. Yes, cried. And any one else would have done the same thing under similar circumstances.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1620">
      "Poor fellow," I heard the stranger saying in a sympathetic voice. "The strain has been too great upon him," and he walked a little ways from me until I recovered myself. Then he returned.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1640">
      "Never mind, my friend. You have had a hard time of it, but we will soon be at home, where you can rest. You shall go direct to my house and remain in absolute seclusion until you are thoroughly yourself again, which I do not believe will be many days."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1660">
      "But where am I? What is this country? We never believed there were human beings around the south pole."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1680">
      "You are really in an inhabited country, and you will find it equally as attractive as your own, I hope. But it may be as well for us to talk of these things later. Come, let us go home."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1700">
      I arose and with him continued my journey for half an hour more, when we came to a mansion in the center of a well-kept park. We entered the house and proceeded at once to a large, comfortable bed chamber, where he left me, saying:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1720">
      "You had better lie down for a while. I will have some refreshments sent to you," and with these words withdrew.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1740">
      That hour of rest I can never forget, although it was disturbed by many queries as to my surrounding. Have you ever gone through a long mental strain, of fear, of danger, of expectation? And then, when all was over, how peaceful was the relaxation! I gave myself up to the enjoyment of it; lay back upon the couch and rested, gazing idly out at the branches of the trees in the park gently swaying with the breeze.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1760">
      A servant entered with a lunch and a strong cup of coffee, and after I had eaten and drank he returned again with a suit of clothes of American cut which fitted me very nicely. And again at the end of an hour, when my host supposed I was sufficiently rested, the same servant appeared and invited me to descend to the parlor, which I did.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1780">
      It was a quietly, comfortably furnished room, with a curtain suspended across the entrance to another, and as I stood in the center surveying the apartment the curtains parted and Winnie, the beautiful figure I had seen that afternoon, appeared between them.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1800">
      She was smiling as when I first saw her out on the barren plain, and came forward with hand extended to greet me. But noticing that I drew a step back and, as she afterward told me, that my face grew pale, she cried out in a cheery voice:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1820">
      "Will you not allow me to welcome you to our home? I am Winnifred, your host's daughter," and coming close to me took my hand in hers.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1840">
      I could say nothing, only looked at her in astonishment. There could be no doubt but this was the exact image of the girl I had seen on the barren mountain plain, and I defy any man not to have been completely nonplussed under the circumstances.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1860">
      "Are you not satisfied that I am I? and that you see very flesh and blood?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1880">
      "But," I stammered, "this afternoon I saw some one so like you that I thought for a moment that you were she."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1900">
      "Ah. You have been meeting ladies already, have you? Tell me who this one was. What was her name? Where did you meet her? And was she really anything like me?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1920">
      "The exact image, and she told me her name was Winnifred."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1940">
      "That is strange. I must inquire who this double of mine is," and she laughed it off quite sweetly, although the laugh was the same as my Winnie's of the afternoon.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1960">
      "But which of the two do you like the better?" she asked after a moment.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_1980">
      "My Winnie of the afternoon," I replied. "But you are so near alike that I will always confound you."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2000">
      She looked thoughtful at this, but at the same time pleased, and said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2020">
      "I like your answer, and some day may tell you why."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2040">
      And that also puzzled me.
     </p>
    </div>
@@ -418,163 +415,163 @@
     <head>
      CHAPTER V.—ENTIRELY EXPLANATORY.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_2060">
      Of course I was all on the qui vive until I could have a private talk with my host, whose name I had learned was Costa, and hear from him, if he would give it, an explanation of the mysterious country in which I had landed. For by this time I had given over all idea of fear. There was a soothing presence in the very atmosphere about me, and I could not believe that any harm was meant me. And yet all these mysterious events called for an explanation.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2080">
      Consequently the next morning I took advantage of a quiet hour in which we were walking through the park, smelling the fragrance of the trees and flowers, that I asked him:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2100">
      "Mr. Costa, will you please relieve me from this suspense which you must know is weighing upon me, and tell me where I am and who you are?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2120">
      He smiled at the question, but replied:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2140">
      "Yes. I think you are so far recovered from your terrible experiences in shipwreck and crossing the ice land, that I may. To be brief and to the point, you are on the South Polar continent—a land I know your geographers have often conceived, but have believed uninhabited, even if it really existed, which the most learned of them doubted. What you want to know next, is how you were rescued. I will tell you.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2160">
      "Every now and then ships have ventured or been blown by storm to our part of the world, and occasionally some of the mariners have ventured upon the icebergs. To save them we have established outposts along the edge of the icebergs, houses where men, such as you, may find shelter, till we can rescue them."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2180">
      "But do you keep fires burning continually in them? If not, who lights them? And how is it that I never saw the attendant who looked after my wants?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2200">
      "I see, Mr. Wilding, that I must enter into my explanation more deeply than I had intended at first, hoping to wait a few days and let the information gradually sift into your mind, until you should learn more of us and our manners by observation.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2220">
      "My daughter told you you were in a land where all art and science of the world was treasured. If you are a student your mind will at once revert to Egyptian and Assyrian learning, which is supposed to have been lost. It was lost to the outside world, but treasured up here. Your mind will dwell upon the ages when man, looking up into the deep, clear blue sky, studied God's work in them. You may think of Joseph, the dreamer. You may think of the stars and their influence upon man."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2240">
      "I don't believe they have any," I replied.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2260">
      "We will let that pass," he said with a smile. "This is merely incidental anyway. I do not mean to tell you of a star gazing or a dream explaining people, only to remind you that there was a high civilization in the past which vanished from the knowledge of your races in other climes.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2280">
      "Coming further down the history of nations you will recall the Hindoos, the people who 'think,' who withdraw themselves into themselves and spend long years in meditation. You have heard that they have power to do queer things—almost miracles.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2300">
      "They can. This is nothing but the power of thought—of mind. The man who thinks is able to do all things. For mind is supreme. God is mind. The more freedom, the more power you develop in mind, and the nearer you are to God. That is——"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2320">
      "That is?" I repeated.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2340">
      He passed over my repetition and continued:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2360">
      "If morality is considered also, soul power is developed by purity."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2380">
      He said this as if he were reverently quoting from the Bible. And I afterward learned that this strange people considered purity as one of the essentials of man as well as woman, and practiced it.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2400">
      "But," I exclaimed, "you tell me nothing of the strange things which have happened to me in this strange land. Pardon me, but I do not see the connection between your remarks on mind and morals and my being fed and warmed on an iceberg. It does not tell me where I am and who you are."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2420">
      "You are in the land of Theos. In the suburbs of the capital city of Theon. I am the 'Costa.' There you have your answer." He stopped as if he proposed to leave me in darkness if he was not allowed his own way of explaining.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2440">
      "But I heard voices."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2460">
      "Yes, you heard voices, or rather one voice—mine.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2480">
      "I was the guard, if so you choose to call it—I who was on guard watching for shipwrecked mariners from the ship which was storm tossed upon our shores.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2500">
      "I saw you out on the ocean. I saw your boat driven toward a certain part of our coast and made ready for you. It was I who lighted the fires and who warned you which way to travel to reach the nearest hut."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2520">
      "Why did you never appear to me?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2540">
      "I did once, and it caused such fright in you that I never did so again."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2560">
      "But the voices, you seem to know I heard them, as you say the words were from you. How could you speak and I not see you? Were you hidden any place near? But the voices seemed at my very ear. You have not explained the mystery yet? How could you speak and I not see you? How could you attend to my wants, light my fires and cook my suppers and I not see you?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2580">
      "Yet I was ever close by your side. I spoke to you. I was your guard."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2600">
      "Then you must be a spirit," I fairly shouted.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2620">
      "Yes, I am," he calmly replied.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2640">
      After a moment he continued, having seen the effect his remark that he was a spirit had made upon me.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2660">
      "Every man is spiritual as well as physical. He has both the eternal and the mortal in him. Could the spirit but secure control over the mortal it would be free. By long years of study, of culture and privation, men in your lands have secured this freedom from the body. We, in a sense, inherit it. Have you never heard of those wise men of all ages, who, at the present time, so far as your people know, are confined to the thoughtful Hindoo race? Have you never heard of those inhabitants of India, who, after long study and privation, have been able to separate their souls from their bodies, and send them wheresoever they will?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2680">
      I had heard some such stories, although I never had believed them, and I told him so.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2700">
      "What those few men can do," Costa replied, "we do. You have come to a nation of men and women, adepts in all the intricacies of the occult sciences. We have gained such power over our bodies that we can leave them at any time and in our astral bodies fly in an instant of time to any quarter of the globe. Many of those adepts of India visit us and are visited by us in return. It is as easy, nay easier, than a journey in one of your ships which any storm may wreck. No storm ever wrecks the soul of the mahatma in its flight.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2720">
      "Are you not gaining any idea of the land to which you have come? It is a land of theosophists, a land in which each inhabitant possesses greater power than those few men we have spoken of. Why? Because we and our forefathers have been studying, learning, practicing for centuries, yea, for centuries before the present history of man evolved itself from Myth, according to your feeble reading of history. It is but the work of a moment to disconnect the soul from the body and allow it to wander at will through space. This is why we are able to watch over and save you.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2740">
      "When in one of my astral flights I saw your ship beaten by the storm and drifting this way, I paused to watch your course, as in your small boat you drifted against the icy guardians of our land.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2760">
      "We are a people of mercy, else we could not retain our power. A selfish man gives hostages to the flesh and loses in spiritual power. I saw you land upon the icy coast and at once, by the odylic force which each of us possesses, kindled the fires in the hut for you. Then, still in my astral body and invisible, I drew you toward it, whispering in your ear words of encouragement and advice. Then, when you were safe in the first hut and in condition to make your way unaided to our land, I left you and in an instant was in my home."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2780">
      "And did you tell them of my coming?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2800">
      "Tell them of your coming? There was no need, for was I not in constant communication with them?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2820">
      "In communication with them? How could that be? There was no one to carry a message, and surely you have no telegraph across those icy fields?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2840">
      Costa smiled.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2860">
      "Have I talked so vainly? Or is the thought so foreign to you that you cannot grasp it? What can fly swifter than thought? What is more powerful in the universe than mind? Then how could man have better means for communicating with another than when his soul, freed from his body, is left at liberty to exercise all its power untrammeled?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2880">
      "When I returned home we watched your course, and at the last hut in which you slept, projected a note which fell upon your table and told you that would be your last stopping place."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2900">
      "And the placards?" I gasped.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2920">
      "Projected in the same manner."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2940">
      "Then my daughter, Winnifred, who had taken a great interest in your journey, wished to become your guide the rest of the way, to make your acquaintance as it were, and I consented that she should project her astral body to the borderland and conduct you to our home. But you, you touched her notwithstanding all her precaution, became frightened and she was obliged to leave you. Then, so great was your fear, I believe you would have turned back had I not exercised my will to draw you onward."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2960">
      "That, then," I muttered, "was the force that drew me on."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_2980">
      "Yes. Then I met you in the flesh, reassured you and conducted you home."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3000">
      "Then it was really your daughter who met me on the barren plain? But—but——"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3020">
      "But what?" he asked smiling, as I hesitated.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3040">
      "But I understood her to say it was not she who so met me."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3060">
      "Did she really deny it?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3080">
      "No," I replied after considering. "She did not in so many words, but at least she gave me that impression."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3100">
      "Sometimes it is necessary to veil the truth for a moment until the pupil is strong enough to bear it. Had she acknowledged her identity last night when you met at my house the effect upon you might have been disastrous. A falsehood is a great crime. But under the circumstances I connived at the concealment of the truth. It was nothing more."
     </p>
    </div>
@@ -582,88 +579,88 @@
     <head>
      CHAPTER VI.—I GO HUNTING.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_3120">
      During my visit I had noticed that every day we were bountifully supplied with fresh fish and game, and one day, commenting upon its excellent quality, asked my host if he never indulged in the fascinating sport of angling or hunting. The blank look of astonishment with which he received my question, and replied that such work was left to the servants, surprised me, and I changed the subject. However, a few days later I broached the subject to Manuel, the servant who supplied the table from the market, and stated that I would like to go out fishing some day, if he would tell me where would be a good place. He also looked astonished, but not so much from the fact that I wished to go fishing as that I should ask where a good place could be found.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3140">
      "Any place where there is water," he replied, "but, of course, the work is more difficult where there are no fish than when you go to a place where they are plentiful." And he readily made arrangements for me to accompany a fisherman the next day.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3160">
      We started with a fish basket, and I supposed my companion would secure lines and bait or a net as we went through the town, but he did not, and then I conjectured that there was some one on the seashore who made a business of providing them. But in this also I was mistaken.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3180">
      At the seashore he sat down upon a rock and fell into what I took for a very peculiar fit of absent-mindedness, as he said not a word, neither did he make any attempt to begin fishing. In the meantime, I walked up and down the shore in some astonishment.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3200">
      After sitting in this position for some time he arose, and, wading out into the water for a short distance, picked up a fine fish with his hand. It must have weighed about ten pounds, and was what I would have called a small-mouthed bass at home. Throwing it up on the bank, he picked up another, and still another, until he had enough to fill the basket. Then he waded out and announced that we would return.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3220">
      So puzzling was his whole demeanor that when I reached home I sought my host and eagerly asked him for an explanation. He seemed surprised at first, but, smiling, replied:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3240">
      "Your pardon, my friend. I forgot that you did not understand many of our ways. We are so accustomed to them that I forgot. When we need fish for food we send our servant to get them, because it is considered beneath us to do that kind of work."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3260">
      "But I want to know why and how he picked up those fish with his hands, as if it was the most common thing in the world."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3280">
      "He did as all do when fish is needed for food. He went out, sat down on the seashore and hypnotized the fish. When they are near it is an easy matter, but when they are at a distance the work is difficult, and sometimes he is away half a day before he can fill his basket."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3300">
      "I do not understand."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3320">
      "He hypnotizes them. Gets them under the influence of his will, compels them to come to shore, when he picks them up."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3340">
      This was quite a puzzle to me for several days, but at last I began to understand both what my host told me and also how the fisherman caught his fish with neither net nor hook.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3360">
      In connection with this I might mention a similar incident with regard to hunting. When at home I had been fond of this kind of sport, and whenever on land took a trip through the woods for squirrels and along the waterways for water fowl. This may seem a queer pastime for a sailor, but for thirty years I was a landsman and during that time acquired a love for sports which any number of years on the seas would never take away.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3380">
      Consequently after being in Theon a few weeks and becoming fully rested and restored to health, my old longing returned. But by this time I knew that it would be accounted, if not sacrilege, at least a very low down enjoyment, to go out hunting with my guns, even if they would be of any use, so I decided merely to go along with a hunter of the country and watch his manner of taking game.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3400">
      Arrangements were made this time by my host, who was thoughtful, and after the fishing episode, remembered that I was desirous of learning all the ways of the country. He even went a short distance with us and honored us by bringing down a fine partridge himself. I call it a partridge because that was what it looked most like, but the natives gave it an entirely different name.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3420">
      As upon the fishing occasion, we took with us nothing but a bag for carrying the game, and as we went along my host explained to me as he did with regard to the fish, that none but the lower classes made a living in this manner. When they acquired a greater degree of will power they gave it up and entered upon a more honorable business. This, he explained, was because it was easier to work upon animals than intelligent human beings.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3440">
      After walking out of the city about a mile we stopped and sat down under a tree bearing a resemblance to our oaks. Here my host and the hunter immediately fell into an abstracted condition and at the expiration of about five minutes I observed a well made hare approaching us. It stopped within a rod, and the hunter, after making a few passes with his hands, caught it. After killing it he placed it in the bag and sat down for more game.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3460">
      At this point my host, who had in the meantime brought down a very fine specimen of wild turkey, asked me if there was any particular animal I would like to have caught. After thinking it over a little I expressed a desire to secure a specimen of native monkeys which I had seen springing from tree to tree over our heads. This desire, I explained, was not from a wish to taste monkey flesh, but to tame the animal. My host replied:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3480">
      "You have asked me to do an almost impossible thing. The monkey is one of the most intelligent of the lower animals. At first, centuries ago, our records tell us many of them were caught, but after a time they began to combat our will power with their own, and now have become almost impervious to our efforts. However, I will make a trial. In fact, it would be quite a triumph over the lower animals if I could secure one, and so I am very glad to make the attempt, knowing there will be no disgrace in failure."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3500">
      This speech greatly interested me, and I asked:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3520">
      "Are there any other animals which thus combat your superior intelligence?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3540">
      "Yes," replied my host, "there are several. One species of bear has developed its will power until it is rare that we ever ensnare one. However, they have become so much under our influence that there is no danger from them. While we cannot compel one in the wild state to come to us, yet the mental force has proven so great that if one meets us face to face we are able to exert enough influence to keep it from harming us."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3560">
      With this he stopped talking and concentrated all his efforts upon one sprightly little monkey which he pointed out skipping from branch to branch over our heads and chattering as if all the gossip of a sewing society had to be retailed before we got away.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3580">
      "Please note that one," my host said, "for while I cannot say that I have much hope of bringing it down, yet I expect to exert some influence over it, and you may be interested in noting the effect."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3600">
      We then remained silent, and I kept pretty close watch upon the animal. Soon its chatter grew less and it became more quiet in its movements.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3620">
      "That," said my host, "is the first step in monkey hypnotism—to get it to stop talking. And I might observe it is the same in affecting the human mind. The first step with a chatterbox is to get it to stop its chatter. Just what connection there is between this and the intellect you may figure out yourself. But the conclusion is quite evident. Mesmerism works on the brain and you must get the brain to work on first."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3640">
      Again he lapsed into silence and I watched the monkey. Its chatter ceased entirely and it became motionless. But at this stage the other monkeys to whom it had been talking noticed the change and gathered around it. At first they had paid no attention to its silence; for even a monkey does not talk all the time. But when it ceased talking entirely they knew something was wrong, and being aware, of course, of our presence, suspected that one of us was working upon their companion. At first they chattered to him and, gaining no answer, at length fell upon him tooth and nail and gave him such a pulling as no monkey could stand and not resist. He resisted. He fought. His friends made it a running fight, and in this way our victim was drawn away. My host's mind could have worked at any distance, he explained to me, and at another time he might continue the experiment even after his victim had disappeared, but just now he had an engagement in the city and was obliged to leave. He also explained that in such cases absence from sight was a disadvantage, as one was obliged to bring mesmerism into play also.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3660">
      After my friend left I paid more attention to the hunter who already had his game bag half full. On our way home he told me that hunters were examined once a year as to their fitness for the work, and were appointed to the position by the government. They had rules and regulations as we have in our country and which we call game laws. Thus a hunter is obliged to hunt so many hours a day and so many days a week to supply the patrons who are allotted to him, the whole city being divided into districts. If he should fail to secure the required amount of game in that time he was known to be failing in power and was censured, and if his decline continued, was degraded to some more menial work. But this rarely happened, as the exercise of the will power, like the exercise of the muscle, causes it to grow so that hunters frequently graduate into higher trades. Fishermen were of a lower grade, as were some classes of shepherds. Those who had care of sheep were of the very lowest class, it requiring very little brain to control and keep them in bounds. On the other hand, a herder of cattle or hogs was of higher class, as requiring more brain power, and ranked next below the hunters in point of intelligence.
     </p>
    </div>
@@ -671,151 +668,151 @@
     <head>
      CHAPTER VII.—A SOUTH POLAR WEATHER BUREAU.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_3680">
      A few days after my fishing and hunting excursions some one spoke of a trip to an island about ten miles from Theon, which was described as very beautiful by a young man whom I had met several times, and I expressed a desire to visit it.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3700">
      Or, no, was it I or the young man whom I just mentioned? Judging from what I learned afterward I am now half inclined to think it was his suggestion.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3720">
      This young fellow, who was known by the euphonious name of Buda Earn, was a handsome fellow, clean built and pleasant in his manners. He had been extremely agreeable to me at all times and evinced a great interest in my welfare. Consequently I was surprised to see that both Costa and his daughter seemed at all times averse to our intercourse.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3740">
      When the subject of visiting this island was broached I was eager to go, and at first it seemed as if my desire would be gratified. But after a moment's consideration Mr. Costa said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3760">
      "It would be a delightful trip, but really, we have no way, on the spur of the moment, of getting there, and will have to postpone the trip a few days."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3780">
      "Will not your boat hold me as well as you?" I inquired.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3800">
      "Not the boat we travel in," he replied with a smile. "Do you know, Mr. Wilding, that there is not a boat, a railroad or a carriage in this whole country?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3820">
      "Do you never travel about? But of course you do, for you have just been speaking of taking a trip to this island. Really, Mr. Costa, you talk in enigmas."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3840">
      "After all I have explained to you!" he exclaimed in mild reproach. "Pause and think, my friend. What need have we of carriages or railroads? When we wish to take a journey, we step into our bed chamber, lock the door to prevent intrusion and possible disaster, lie down on our couch and project our astral body whithersoever we wish. Now, if it were not for you, we would each do this and, in a second of time, gather upon that delightful island where I and my family have passed many a happy day. By the way, Winnie, did you send that message to Ackra?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3860">
      "No, father, I was so busy that I did not get time to do so."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3880">
      "Never mind now. I will send a letter instead. My agent must have it this morning."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3900">
      Now I had heard that Ackra was fully sixty miles from Theon and was curious to know what my host meant by sending a letter, after telling me there was no such thing as railroads. Perhaps, however, he meant a telegram. So I asked:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3920">
      "But you have the telegraph here, I suppose, or you could not communicate——"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3940">
      He looked at me as a master might at a very dull pupil with whom he wished to be indulgent.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3960">
      "Again, Mr. Wilding, again? Have you forgotten your experience on the ice fields and the messages sent to and from them? This is a land of no telegraph, for the simple reason that we need none. When we wish to communicate with friends or business connections in distant cities we merely fix our minds upon the message to be sent and it is at once transmitted and impressed upon the mind of the one for whom it is meant."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_3980">
      "But you spoke of a letter."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4000">
      "Yes, and to explain to you our primitive postal system I will send one now. I wish to communicate with one of my agents in Ackra. If you will excuse me for a moment I will write it." And seating himself at a desk he wrote for a few minutes and then, turning to me, said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4020">
      "Here is a note I have just written to my agent asking him to come to Theon to-morrow on a matter of business. We will receive an answer in a few minutes, as I know he is always at his office at this time of day and will receive my note at once."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4040">
      So saying, he arose and, holding the letter lightly in one hand above his head, stood in silence. I watched him closely out of curiosity, for I thought he was acting strangely. He stood there for a moment and then—the letter disappeared.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4060">
      "There, it is gone," he said, sitting down. "In five minutes we should have an answer."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4080">
      Then we chatted together about a variety of things and I had nearly let the incident slip from my mind when a note fluttered down from I know not where, and fell at his feet.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4100">
      "Ah, there it is," he said, opening it. "Yes, he will be here to-morrow," and passed the note to me. It was not in Costa's handwriting.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4120">
      The agent really did appear the next day and I met him, although Mr. Costa warned me not to approach near or attempt to touch him. From which I gathered that his visit to us was made in his astral body.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4140">
      A land without railroad and without telegraph and yet where business was carried on as rapidly as in my own land. No conveyances because people had no need of them. Messages were sent swifter than by electricity, for what can fly faster than one's thoughts? Notes were projected by some mysterious force to their destination, even though it were miles away. I alone was isolated and cut off from communication with the rest of the world.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4160">
      It was decided that by the third day a boat could be built to make the trip to the island, and that day being fixed upon for the excursion, Winnie asked the next morning before the agent arrived:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4180">
      "Father, have you noticed what kind of weather we will have that day? It would never do to start out on a pleasure excursion and have it rain."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4200">
      "Yes, dear," Costa replied, "I looked last night. It will be a fair day."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4220">
      I smiled at their childlike trust in the weather prophet, and said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4240">
      "So you have almanacs and weather prophets in this country, too?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4260">
      "Yes," he replied. "We could do nothing without our weather bureau."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4280">
      "Do you really believe that they can predict the kind of weather you will have on a certain day?" I asked.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4300">
      "No, certainly not," Costa replied. "They do not predict. They make the weather."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4320">
      "Make the weather?" and I laughed, thinking he meant his remark as a joke.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4340">
      "Yes," he continued, quite seriously. "Our weather bureau has quite different duties from those in your country. There they study conditions and predict what may possibly come. Here the bureau is composed of the strongest minds in the nation, and their duty is to decide upon the proper kind of weather for certain seasons and days and then see that the country has it."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4360">
      My smile at his speech was so pronounced that he could not help noticing my skepticism and entered into an explanation.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4380">
      "The matter is quite simple and entirely in line with theosophy. The human mind can control the elements, bring storm or sunshine as it wills. Hence our bureau is chosen with direct reference to ability of mind. It decides upon the proper kind of weather for certain seasons, and all is worked out with mathematical precision. For instance, we have found that a certain amount of rain is necessary for growing crops. The ground should have sufficient moisture in it before planting and then at regular intervals thereafter rain should fall if the crop is to be a success. We have no droughts as in your land, where it may be a month or two before rain falls. Our bureau looks over the country, learns what kind of grain is to be grown in different sections, and decides upon the amount of rain needed for the sections. Another point in our favor. Sometimes your lands are swept by hot winds just as the grain is ripening. We never allow them here. You can see the benefit of such a system. We wish to go upon a pleasure excursion day after to-morrow, and I had but to look in the report of our weather bureau to learn whether the bureau had decided upon rain or sunshine for this part of the nation on that day."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4400">
      The third day our boat was finished, and in it I made the journey with Costa and Winnie. At first Buda Earn had insisted that he and I go alone, but this proposal was rejected emphatically by both my host and his daughter. When we were on the water, I rowing, Costa said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4420">
      "My friend, I wish to warn you against that young man. He means to do you an injury. Avoid him as much as possible, and no account ever trust yourself with him alone."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4440">
      I looked my surprise before I replied:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4460">
      "You astonish me. He has been so pleasant and agreeable. He would be the last one I would suspect of doing or wishing me an injury. Are you sure you are not mistaken."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4480">
      "As sure as fate. We have read his mind ever since you came to our home, and there is nothing but evil in it for you. But he is trying to deceive us. None but the Great Dissembler could do that."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4500">
      "I have heard you mention that person several times and I am curious to know who he is and why he bears that name. You always speak of him in the highest terms as to ability, and yet with a tone in your voice as if he was not—what shall I call it—quite as you would like him to be."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4520">
      "The Great Dissembler is the greatest man in the state, and if you ever have need of help in this country which I cannot give I advise you to go to him. At the earliest opportunity I will introduce you, for I fear you may have need of him before we are through with Earn. That fellow surely means you mischief. And the trouble is, he has ability."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4540">
      Long I pondered over the reasons for this young man's enmity to me. That evening as Costa and I were walking upon the shore of the little island the mystery was partially explained. Borne to us on the evening breeze came the words:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4560">
      "Winnifred, you cannot deny that you might have become my wife if this stranger had not come between us."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4580">
      The words were Harn's. What her answer was I did not hear, for very promptly my host turned away, so that we heard no more.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4600">
      Earn was jealous.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4620">
      Had he any reason for it?
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4640">
      My heart beat a trifle faster as I meditated upon the supposition.
     </p>
    </div>
@@ -823,130 +820,130 @@
     <head>
      CHAPTER VIII.—SOUTH POLAR POLICE BUREAU.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_4660">
      Next morning my host told me that a gang of robbers had been arrested the evening before, and if I cared to do so we would go to the police court to witness the trial.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4680">
      "Whose house did they break into?" I cried.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4700">
      He looked at me in astonishment for a moment, and then, remembering how ignorant I was of the customs of Theon very courteously concealed his astonishment and explained to me:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4720">
      "There is seldom any crime committed in this country. The great mistake nations in other parts of the world make is in waiting until a crime is committed before steps are taken to prevent it. You have a proverb about it in your language—'Locking the stable after the horse is stolen.'"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4740">
      "But how can you prevent it?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4760">
      "Have you been so long with us and not learned that we are all mind readers?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4780">
      "But," I queried, still far at sea, "you have police patrolling the streets. I have seen them, and a fine looking body of men they are."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4800">
      "Yes, of course. We have our police system, and it is very nearly perfect. But policemen here are to prevent crime, not to catch the criminal after it is committed."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4820">
      "I am sure I do not follow you."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4840">
      "It is very simple. As I said, we are all mind readers. Now, if we always knew what man was inclined to rob us we could read his mind and learn when. But take my case. I cannot spend my time reading the minds of every person in the city to see if my property is safe. So we have police to do it for us. They constantly patrol the streets, reading the minds of those they meet, and a report is made of each suspect when guard is relieved, which occurs about every three hours. Of course they do not mentally interrogate every one they meet on the street, that would be impossible; but in the course of a month, with the help of the reserve guard, which is stationed in the inner court, every person in the city passes under their scrutiny.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4860">
      "But this attention is centered chiefly upon the 'suspects.' When a person falls under suspicion he is kept under constant surveillance. To make it plain to you: While we are sitting here, suppose I read in your mind that you had a desire to steal my watch. (I beg your pardon for even hinting at it in way of illustration.) I would report the fact to the chief of police, and an officer would be detailed to take you under his surveillance. Not one thought of yours could be concealed from him, and if you determined upon the theft, you most likely would be arrested before you could commit the crime."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4880">
      "But what would you do with me? I would have done nothing that a court could sentence me for!"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4900">
      "You would not be punished. We seldom are called upon to do that, and when we are, the ceremony is made a very solemn one, indeed."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4920">
      "But you have judges and courts equal to any I have ever seen in America."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4940">
      "Yes, but not for the same purpose. Let us follow the illustration of yourself. When you were arrested you would be taken into the court and your record produced by the policeman who had been watching you. From this the judge would decide, not as to your guilt, but as to how far inclined towards crime your intellect had become, and would sentence you accordingly."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4960">
      "Still I do not see how that would not be punishing me for something I had not done."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_4980">
      "Not at all, I assure you. If you were shown to be not really bad, you would be committed to reformatory No. I, as it is called. You would not be imprisoned. On the contrary, you would at once be set at liberty and no restrictions whatever placed upon you. But you would be under the tutelage of the reserve judges of the inner court. They are chosen from the purest men and most powerful minds in the country. In other words, they are the clergy of the land. To them your case would be made known and your record given. Each one would take you under his supervision for an hour a day and would, during that hour, direct the whole power of his mind upon yours to drive from it every evil thought. There would not be a moment of the day when their minds were not working upon yours. It is very seldom that this course does not succeed in reclaiming the suspect."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5000">
      "But if it should not?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5020">
      "This is seldom the case. But when it does fail, if the man grows worse, he is committed to the mental hospital and there given a course of treatment."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5040">
      "I am curious to hear more."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5060">
      "He is committed to the hospital for a certain length of time which the judge determines upon, according to the violence of his disease. But he is not punished. On the contrary, his surroundings are the most pleasant. He has pure companions, and is treated according to his disease."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5080">
      "His disease? May I ask what you mean?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5100">
      "Suppose his disease is drunkenness. The disgrace of it is placed before him by one physician for an hour. Then succeeds another who impresses upon his mind the respectability of sobriety. Other physicians give him general moral tone."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5120">
      "O, you mean he must spend his time listening to lectures. I shouldn't think that would be a very good way of reforming a criminal."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5140">
      "No, no. Lectures would be the last thing we would think of. The patient knows nothing of his treatment except that it is going on. He seldom, if ever, sees his physicians. They, as the judges in the first case, work upon his mind entirely and try to drive out the evil and fill it with good thoughts."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5160">
      "And do they always succeed?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5180">
      "If a man sets his will against them he can combat the wills of his physicians and receive no benefit from their treatment—if his will is stronger than theirs. We have had a few such instances."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5200">
      "And then?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5220">
      "They redouble the corps of physicians."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5240">
      "You spoke of his pleasant surroundings."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5260">
      "Yes. That is under the supervision of his nurses. Each nurse has one or more patients under his or her care. They look after the surroundings, the environments, see that they are proper and conducive to his reform. And to them a great deal is due. They become his friends, and attempt to lead him by moral suasion away from evil. They look after his books. They see to it that time does not drag or the life in the hospital prove irksome. They look after his amusement and see that his mind is kept in a healthy condition, so as to be receptive of good thoughts from his physicians."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5280">
      "It all seems very strange to me."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5300">
      "Yes, no doubt it must to one who has never been taught that all crime and all evil is a disease which must be treated as such as much as any ailment of the body."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5320">
      During this conversation we had been preparing to leave the house, and at the conclusion of my host's last remark were walking down the broad path to the gate. As we pursued our way along the street my mind was busy revolving the things he had told me. One point seemed a little incongruous, where so much pains was taken to reform a criminal before he had committed a crime, it did not seem quite consistent that his case should be tried in open court and visitors allowed to be present to hear the evidence, for in my own land when we wish to save a young man who has been tempted we try most of all to keep his fault from becoming known. The more I thought of this the more inconsistent it became and my friend, no doubt reading my thoughts, said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5340">
      "Were these not old offenders who are to be tried to-day we would not be permitted to witness the examination, for when a man is first brought before the court and sent to reformatory No. I, the whole proceeding is managed so very quietly that few need know of it. But after a man has been under the supervision of the seven judges of the inner court and then turns out bad, we consider it for the best interests of society that the public at large know what disease he is inclined to in order to protect itself against him. The men whose trial we are about to witness have passed through this stage, and hence their trial will be public."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5360">
      When we reached the temple of justice I found a large marble structure, the interior of which, while very simple in design, gave one the idea of loftiness and grandeur. At one end, upon a platform, stood the judge's desk, behind which sat one of the criminal judges, of which there were ten in the state.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5380">
      The prisoners were seated in front of him, with no guards near, at which I expressed my surprise. But my host told me in a low tone that the odylic force which was being concentrated upon them was of such power that they could move only as the judge desired.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5400">
      There was really little examination of the witnesses themselves, the principal part of the trial consisting of the policemen's testimony. As we entered, the sergeant of the platoon which had the burglars in surveillance was speaking.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5420">
      "Six months ago," he said, "these men were brought into the inner court and the records read concerning them. Three at that time were friends and conspiring to rob. The minds of the others were tainted with the same disease, but as yet had formed no combination. Since then I and my division have been keeping them under constant surveillance. Each possesses a strong will, which he placed in opposition to that of the seven judges. Three months ago the whole band drew closer together. They had not at that time settled upon any particular house to rob, but frequently held communication with one another upon the injustice of some men being rich while others were poor, and some men honored with office while others were but common citizens in a land which teaches the equality of man. Gradually this idea grew in their minds until they determined upon an equal division of wealth, and to carry out this idea decided upon robbing the wealthiest man in the city. Every preparation had been made and the robbery would have occurred last night had we not arrested them."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5440">
      "Is this true?" asked the judge of the prisoners.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5460">
      "It is," they replied. For in court where there can be no deceit and where mind reads mind, there are no spoken lies.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5480">
      Sentence was immediately passed by the judge. The three original conspirators were committed to ward I of the burglary hospital, two of the others to ward 2 of the same institution, and the rest, whose minds were not so badly diseased, to ward 3. As soon as sentence was passed the men arose and, without guards, marched directly to the hospital, the odylic force, my host explaining, compelling them to do so.
     </p>
    </div>
@@ -954,244 +951,244 @@
     <head>
      CHAPTER IX.—THE GREAT DISSEMBLER APPEARS.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_5500">
      I had an illustration of how Buda Earn loved me before we left the island that day, but I did not realize it until we had returned home.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5520">
      We four had been standing together upon a hill sloping down toward the sea when Earn turned the conversation toward the power of mind over nature. I was somewhat skeptical, although Costa had hinted at it several times.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5540">
      "Do you mean to tell me or try to make me believe you have any power over that tree yonder, other than physical?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5560">
      "Certainly we do," replied Costa. "You shall see an exhibition of it at once. I shall not leave your side, and yet that tree shall fall to the earth. Be silent."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5580">
      We all remained for the space of a couple of minutes, and I knew Costa was concentrating his mind upon something, and I imagined it was the work he had laid out. In a moment more the tree began to lean heavily toward the south, and then came down with a crash.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5600">
      "You see," was all Costa said, and I was dumfounded.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5620">
      Soon after that I strayed away from the others for a moment and stood alone a few rods from there and was gazing out over the water. Suddenly I heard a cry of warning, and was just in time to spring away from a giant boulder which was rolling down upon me.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5640">
      "Whatever loosened that?" I asked in some surprise as it rolled by me and plunged into the sea.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5660">
      The faces of both Costa and Winnie grew grave, and they looked at Earn suspiciously, but said nothing. Soon after they proposed that we start upon our return to Theon.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5680">
      Nothing was said about the narrow escape I had from death during the journey, but after we had reached home Costa drew me into the parlor and said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5700">
      "Wilding, it is as I feared. Your life is in danger as long as you remain in this land."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5720">
      "I see nothing in the rolling of a boulder more than I might expect in any land," I replied.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5740">
      "And yet there was more. And sometimes I grow almost impatient with your obtuseness. After the exhibition I gave you of the power of mind over nature, has not the suspicion come to you that that rock was rolled downward on purpose to cause your death?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5760">
      "Well, no, I can't say that it has."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5780">
      "Well, I am certain that it was. In fact, I have very good proof that it was."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5800">
      "And, of course, you suspect Earn?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5820">
      "I do."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5840">
      "But if he was exerting his mind to encompass my death at that particular moment, why was it that you could not read it in his thoughts and so prevent it?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5860">
      "Because he was not the direct cause, which makes your danger all the greater."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5880">
      "If he was not the direct cause, then who was? I confess my obtuseness allows me to be puzzled by your explanation."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5900">
      "Either Winnie or I was reading his thoughts the whole day. Only once was there anything suspicious in it, and that was a moment before the rock fell. Then he sent a message to some one, I know not whom, which merely said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5920">
      "'Now is the time.'
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5940">
      "What those words meant we would have been unable to guess if it had not been that the rock came crashing down the instant after."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5960">
      "My dear sir," I interrupted, "are you not too suspicious?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_5980">
      Costa's face clouded.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6000">
      "Really, you irritate me. Perhaps it would be as well to leave you alone to your destruction."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6020">
      His manner was so pained that I at once was sorry to have offended so good a friend, and pleaded with him to bear with my stupidity and I would try not to offend him again.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6040">
      "What we fear," he continued, "is that he is in collusion with a band of men which the police has had an inkling of for some time, a sort of revolutionary club which has sprung up during the last ten years. I have pretty good evidence that he is a leader in it, and we fear that he has enlisted it or some of its members to assist him in compassing your destruction. If this were the case it would have been easy for him to have arranged for several of them to be on the island that day waiting an opportunity to kill you in a manner which could not be laid upon him. As he was with us, he knew we would be upon the alert, and would know that he exerted no power himself. Then if his friends could accomplish his purpose no charge could be made against him."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6060">
      "But if others were there on the island, how could they conceal themselves so effectually? You saw no one when the rock fell?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6080">
      "You forget that they were all in their astral bodies, and that the astral body is invisible at will."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6100">
      "To-day I will make an investigation and learn if any of the people I suspect were away on a journey to-day, and if so, will consider my suspicions correct."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6120">
      The next evening Costa came to my room and said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6140">
      "Mr. Wilding, six of the revolutionary society I spoke of were absent yesterday. This affair of yours has become so complicated that there is only one help for you. We must apply to the Great Dissembler. I will introduce you to him this evening."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6160">
      Accordingly we sallied out and walked to a villa about a mile from the Costa residence. We found a man whose head and face denoted power more strongly than any head and face I had ever seen. And yet the face was a perfect blank, as to expression. It was a sphinx head. I could no more have told from it what the man was thinking of or whether we were welcome or the contrary than, to use a common expression, I could fly.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6180">
      Costa stated the case to him and he said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6200">
      "I will take the matter under advisement and let you know from time to time what not to do."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6220">
      "What not to do?" I exclaimed.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6240">
      "Yes. In your case there is nothing to do. The thing is to avoid doing anything. There will be a pretty stiff fight, and just what the end will be I cannot tell. It may overturn the world."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6260">
      This time it was Costa who was shocked.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6280">
      "I mean it," the Great Dissembler reaffirmed. "This is not a little love affair between two men and a girl. We have the whole revolutionary society arrayed against the state for its overthrow. Your matter is but an incident in the war which is coming upon us as fast as mundane affairs can come. But I will keep an eye upon you, and I would recommend that you never venture out without my friend Costa or his daughter, for a time. You see, you cannot fight with the weapons of Theos, where 100 minds may be concentrated upon you, moving even the rocks and trees for your destruction. Why, man, those fellows could lure you to your destruction and you never realize it. Have you never had any longing to return to your boat on the icebergs?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6300">
      "Yes, strange to say, that has been in my mind almost continually for the past three days."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6320">
      "I thought so. Well, forewarned is forearmed. They would entice you away to perish of cold in the ice fields. But we will see to that."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6340">
      All this was Greek to me and I said so.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6360">
      "Influence of mind upon mind, my child," the Great Dissembler replied. "With 100 minds willing you to go wandering out on the barren ice fields, how can your one poor, weak mind resist? Costa, you must help him counteract this force."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6380">
      It will be needless to follow all the machinations of Earn and his friends against me, for they were, as the Great Dissembler said, but incidents in the great war which was gathering. It is enough to say that for weeks there was not an hour of the day in which some new danger did not menace me. And how nobly Costa and his daughter stood by me, words cannot express. It was after one of these trials that Winnie said to me:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6400">
      "Do you remember the first conversation we had when you arrived at our home? You told me you liked the Winnie of the plains, the Winnie who faded away from you better than the one you saw before you in flesh and blood then. And I told you I was glad you did. You did not understand it then."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6420">
      "No."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6440">
      "It was because you loved my soul, as it was, free from the body, better than with its earthly casing. That meant that you cared more for me, myself, as I really am. For the soul without the body shows what one really is, better than when hidden by the body."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6460">
      That night I wrote this:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6480">
      SONG TO WINNIE.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6500">
      Dear gracious hand I bend o'er thee
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6510">
      With reverence deep as ever knee
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6520">
      Was bent before the virgin's shrine
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6530">
      By devotee of her divine.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6550">
      With reverent heart I bend over thee,
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6560">
      Dear gracious hand so kind to me,
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6570">
      And love's sweet kiss on the impress;
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6580">
      I dare no more, I can no less.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6600">
      Dear gracious hand of fairest shape,
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6610">
      O dear, white hand, whose fingers tape;
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6620">
      May that day come, full soon, I pray,
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6630">
      When you may never slip away.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6650">
      One day I called upon the Great Dissembler and in the course of our conversation asked him:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6670">
      "How have you succeeded in eluding the surveillance of the police and the judges of the inner court?" I asked of the dissembler. He laughed lightly and replied:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6690">
      "It is almost suicidal for me to tell you, for in order to do so it will be necessary for me to keep my mind on the business, in which case the officers who may have their minds directed to me may read the whole story. But I will chance it. I am known as the Great Dissembler because no one has ever yet been able to make out what I was thinking of or what I proposed doing. My plan is this: Early in life I saw that for a bright young man to succeed in this benighted country, it would be necessary for him to have his wits about him, and to be able to dissemble his thoughts. For, suppose I should invent a life-saving or a labor-saving machine, what was to keep some other fellow from stealing my idea before it was perfected? Or, suppose I should write a beautiful poem. There is no law in this country for copyrighting one's thoughts, and so any one who was keeping tab on me could write the same poem and either get it printed first or claim mine was a forgery. You see the difficulties which meet a talented young man in this country."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6710">
      I intimated that I did.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6730">
      "So, in early life, as I observed a few minutes ago, I decided to put my wits to work to outwit every other man in the land. It was a big undertaking, but I did it by concentrating my will and learning to think one thing when I meant something exactly opposite, and learning to think of half a dozen things at the same time. Thus, when I have been planning any particular work of devilment, I give it only a moment's thought at a time, and then let my mind wander off into the paths of virtue. Unless I happen to be under the surveillance of the police, the chances are one in a thousand that any one should be reading my mind at the exact time that thought flashes through it. And if they do, as it is succeeded almost immediately by the most beautiful and virtuous thoughts, they take it as merely a temptation of the evil one which I have nobly driven away. In this manner I have no doubt I have often won the respect and regard of those high up in morals and the state.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6750">
      "Then I cultivated the habit of jumbling up my thoughts into the worst mess you could imagine, and would let them fly from philosophy to poetry and from morals to immortality and back again that no one could fasten upon them. One second I would be planning to stop the moon in her career, and the next formulating a new prayer for the temple or an ode to purity. In this way I secured the name of the Great Dissembler.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6770">
      "You wonder that I did not go crazy. Well, an ordinary mind would. But I had so strengthened mine by every known means that it stood the strain, and now if any weak mortal has a bit of deviltry he wants done, he comes to me and I do it for him. But always with the understanding that he never thinks of me or it again. To insure this, I tell him I will have nothing to do with it.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6790">
      "And I don't, unless it is something that will give me amusement.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6810">
      "If, however, a person comes to me a second time and I know he cannot keep his mind off the subject, I put him into a hypnotic sleep until the business is over.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6830">
      "It helped me in politics, too, as none of my opponents could ever tell what I was going to say or do. In this way I won my way to the leadership of politics and became a power in the state. It is true that many people have suspicions of me, and look upon me askance. But what of that? They never can catch me. For weeks at a stretch I have had officers on my trail and, well, I led them a merry dance. I believe their brains were somewhat jumbled up at the end of the week. Yes, I rather believe so. How I kept their poor brains on the rack! One minute it would be an abstract problem in mathematics, and the next one in philosophy. Then a line or so of poetry, and next a dip into morals and theology. They never could catch me. And then I had the pleasure of laughing at them the next time we met and pointing out a few mistakes they had made in their report to the chief. Oh, yes, this life of mine has had its relaxations, if it is a hard one.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6850">
      "Then, too, I have a contrivance into which I can retire whenever it is necessary for any prolonged thinking. I will show it to you."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6870">
      Opening a door, he conducted me into a small room, and closing the entrance, bid me sit down.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6890">
      "This room," he explained, "is thought proof. As you must have learned by this time, thought messages travel through a thin, imponderable ether, which fills all space; travels as sound and light do through air. Now, if you can create a perfect vacuum, there could be no sound. So, if you could create a perfect vacuum as to this ether of which I speak—and which I call ether, because there is no other name by which you would understand me as well—if we could create such a vacuum, then no thought could pass through it. This is one of my early inventions. There is a perfect vacuum all around this room, which is built of glass. Whenever I have a particularly difficult problem to study out, I retire into this room. Then 'my friends' who are keeping tab on me to catch me, are dumfounded, for I have mysteriously disappeared!
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6910">
      "There have been many of these mysterious disappearances lately. When I retire into this room, not all the police and inner judges in the world can trace me. They do not know whether I am on the confines of the earth, floating through space, or down at the south pole. It always amuses me after one of these periods of retirement to pay a visit to the police court and have a chat with 'my friends' and ask them how things have been going while I was away. It amuses me and does no harm."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6930">
      All this was so confusing, coming upon the heels of the display of power I had seen in arresting criminals before they committed the crime, that I asked the Great Dissembler:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6950">
      "Why do not the police detect these fellows?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6970">
      "Because the police belong to their club. Half the judges are with them."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_6990">
      Then I realized that my case was precarious. The Great Dissembler said the state of the state was desperate.
     </p>
    </div>
@@ -1199,115 +1196,115 @@
     <head>
      CHAPTER X.—I LEAVE THEOS.
     </head>
-    <p>
+    <p xml:id="eco_en_000018_7010">
      But from that time on to the end events moved rapidly.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7030">
      The revolutionary club gathered themselves for a grand, final effort, coming out from their secret working, if such a thing could be said to exist in that country, and plainly hurled defiance at the rest of the state. It was then found that they numbered, as was stated, many of the police force and several judges of the country.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7050">
      But I can only describe the warfare as a gigantic battle of the elements, for not a sword was flashed, not a gun was fired, and there was no political wrangling. To a stranger visiting the country it would seem as if nothing was going on.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7070">
      And yet there was a strange force at work throughout the whole state, mind working upon mind, all the rest and quiet overturned, and men's worst passions brought to the surface.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7090">
      It was like the atmosphere, hot and oppressive, charged with electricity before a thunderstorm.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7110">
      But after the battle had been waged for several days, whether by choice of force, the revolutionary club and its followers retired to the opposite side of the inland sea and encamped upon a charming plain directly across from Theon.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7130">
      Then came the Great Dissembler's final move, a move worthy of a great general. One evening, when I called upon him, he said, with as much of a gleam in his eye as he would allow, that he had the enemy exactly where he wanted them.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7150">
      "They are located exactly across from us, the South Pole being directly between us and them. Are you enough of an astronomer to know concerning the precession of the equinoxes as it is commonly called, by which the direction of the poles to the earth's plane is changed? This also causes a change in the zones of the earth. In the legends of the earth there have been one of these, at least. Ages ago the North Temperate zone was a barren ice field, and countries now covered with ice were inhabited. The change which is about to take place will bring back the old order of things. Climate will change all over the world.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7170">
      "The wrench here at the pole will be sudden, but the changes in other parts of the world be more gradual. In your own home in the United States there will be cyclones and tornadoes and earthquakes. These will gradually increase in number and intensity until the climate becomes warmer and at last merges into the tropical.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7190">
      "But all this has nothing to do with the state of affairs here. What it means is that by the position of the revolutionary force it will be utterly destroyed. They are on the side of the pole where the reaction will come when we jar the pole from its mooring.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7210">
      "There will be a general breaking up of the ice barriers in that direction and a change in the surface of this inland sea, which will wash that shore with tidal waves against which none can stand."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7230">
      "Not even a spirit?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7250">
      "Oh, yes, if those rascals wish to project their astral bodies out into space they can do so, but that will really mean passing into the spirit world. With life once gone from their bodies, they can never re-enter them."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7270">
      "But will not they know of the change?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7290">
      "They know it may come soon, but not that it will come to-day. I alone of this whole people really know the exact hour in which this change will come, for the reason that during all these ages a discrepancy of several days has come in our method of keeping time. Neither do I think that those fellows have any idea of its suddenness. Few of us were living when the last one came!"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7310">
      "When do you calculate it will occur?"
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7330">
      "In just one hour from now."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7350">
      I was startled, but he assured me there was no need of fear. "I will look after you, but you may be obliged to leave here."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7370">
      Winnie and I had been a little more confidential than usual the evening before, and in the course of the conversation she said:
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7390">
      "I feel as if I ought to warn you of the Great Dissembler. We really know not on which side he is."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7410">
      "Have you any cause to doubt him?" I asked.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7430">
      "No, that is just the trouble. No one ever has. But this we do know, that the revolutionary forces count him on their side. He is playing a deep game."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7450">
      But we were wrong in our suspicion. The Great Dissembler was truly our friend, although he failed in his calculation, and the wreck of the South Pole did not come as he expected. The day passed and no change came. Then we found that those rascals on the other side had a purpose in going to the place they did. They proposed to keep the pole where it was! And were making a combined effort with the odylic force at the command of each to retain it in position. Whether they had any power, or whether the time had not yet come when the precession of the equinoxes should get down to work, I cannot say. But it was not until the next day that the change came, and then the Great Dissembler had his forces arranged in Theos and was fighting his great battle.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7470">
      The wreck came, and with it the defeat of the revolutionists. They perished to a man. But in the great commotion of which was to change the climate of the whole world, turn ice fields into pastures and green fields into barren wastes, just as had been done ages ago, there was such a tremendous earthquake that a rift was made in the ice walls around us and after days of terror and suffering, I found myself once more near the place where I had first landed. There was a ship near, which had landed a boat and was exploring the bergs for seal. They were from New London, and took me aboard, much against my will. I protested that I wished to return to the city of Theos, but they took this merely as the ravings of a shipwrecked mariner who had been wandering upon the ice. And recent events had so dazed me that there was some excuse for their belief.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7490">
      We sailed north at once, and after touching at a few islands between the great Antarctic continent and the Horn, met a severe storm which wrecked our ship. We put off in the boats, but for all I have ever heard they were wrecked also, except the one I was in. It carried me here to this harbor, my mates dying before we reached it.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7510">
      You will wonder why I have been so resigned on this island.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7530">
      I was right. They began their search almost as soon as I disappeared, and shortly after I arrived at this island the Great Dissembler located me and appeared in his astral body one afternoon.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7550">
      "My boy," he said, and there was no coldness in his tones. "I am glad to see you. We have been hunting for you ever since you disappeared." And then he related to me in detail the story of Theon after the great revolution and of the daily solicitude of Winnie and Costa for my welfare.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7570">
      "You have won the love of a noble woman, my boy, and we must get you back to us."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7590">
      Some time later both Winnie and her father visited me, and their visits have been continued at frequent intervals, sometimes the Great Dissembler coming with them, and sometimes alone. They provided me with means of living and keeping warm, and with their frequent visits my sojourn in this place has not been lonely.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7610">
      But when I will find means of joining them I cannot say, although the Great Dissembler bids me hope that it will not be long now until they will have built some kind of a ship or contrived some other means of getting me back to Theos.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7630">
      "And when you are once there, a day shall not pass until Winnie is your wife."
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7650">
      And as both Costa and his daughter have intimated their full acquiescence in this proposition, I have no doubt but that it will be so.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7670">
      Of course, these dear friends can visit me in their astral bodies, and, perhaps, in time, might teach me how to exercise the same freedom. But that would not bring us really any nearer together. For theosophists have no way of transporting the material body.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7690">
      But, as I said, the Great Dissembler is confident that he will have me with them soon, and I have learned to have confidence in him.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7710">
      And so, here's waiting for her, Winnie.
     </p>
-    <p>
+    <p xml:id="eco_en_000018_7740">
      The End.
     </p>
    </div>
