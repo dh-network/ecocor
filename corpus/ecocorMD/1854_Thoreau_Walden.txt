@@ -3,7 +3,7 @@ Walden, or Life in the Woods
 
 WALDEN
 
-Economy
+##Economy
 
 When I wrote the following pages, or rather the bulk of them, I lived
 alone, in the woods, a mile from any neighbor, in a house which I had
@@ -2286,7 +2286,7 @@ to give away, be an azad, or free man, like the cypress.”
                                     T. CAREW
 
 
-Where I Lived, and What I Lived For
+##Where I Lived, and What I Lived For
 
 At a certain season of our life we are accustomed to consider every
 spot as the possible site of a house. I have thus surveyed the country
@@ -2802,7 +2802,7 @@ somewhere hereabouts; so by the divining-rod and thin rising vapors I
 judge; and here I will begin to mine.
 
 
-Reading
+##Reading
 
 With a little more deliberation in the choice of their pursuits, all
 men would perhaps become essentially students and observers, for
@@ -3127,7 +3127,7 @@ one bridge over the river, go round a little there, and throw one arch
 at least over the darker gulf of ignorance which surrounds us.
 
 
-Sounds
+##Sounds
 
 But while we are confined to books, though the most select and classic,
 and read only particular written languages, which are themselves but
@@ -3636,7 +3636,7 @@ gate in the Great Snow,—no gate,—no front-yard,—and no path to the
 civilized world!
 
 
-Solitude
+##Solitude
 
 This is a delicious evening, when the whole body is one sense, and
 imbibes delight through every pore. I go and come with a strange
@@ -3935,7 +3935,7 @@ sound-conditioned, healthy, and robust young lady that ever walked the
 globe, and wherever she came it was spring.
 
 
-Visitors
+##Visitors
 
 I think that I love society as much as most, and am ready enough to
 fasten myself like a bloodsucker for the time to any full-blooded man
@@ -4354,7 +4354,7 @@ behind, I was ready to greet with,—“Welcome, Englishmen! welcome,
 Englishmen!” for I had had communication with that race.
 
 
-The Bean-Field
+##The Bean-Field
 
 Meanwhile my beans, the length of whose rows, added together, was seven
 miles already planted, were impatient to be hoed, for the earliest had
@@ -4708,7 +4708,7 @@ all claim to the produce of his fields, and sacrificing in his mind not
 only his first but his last fruits also.
 
 
-The Village
+##The Village
 
 After hoeing, or perhaps reading and writing, in the forenoon, I
 usually bathed again in the pond, swimming across one of its coves for
@@ -4877,7 +4877,7 @@ of a superior man are like the wind; the virtues of a common man are
 like the grass; the grass, when the wind passes over it, bends.”
 
 
-The Ponds
+##The Ponds
 
 Sometimes, having had a surfeit of human society and gossip, and worn
 out all my village friends, I rambled still farther westward than I
@@ -5657,7 +5657,7 @@ Nature? She flourishes most alone, far from the towns where they
 reside. Talk of heaven! ye disgrace earth.
 
 
-Baker Farm
+##Baker Farm
 
 Sometimes I rambled to pine groves, standing like temples, or like
 fleets at sea, full-rigged, with wavy boughs, and rippling with light,
@@ -5899,7 +5899,7 @@ rise in this world, he nor his posterity, till their wading webbed
 bog-trotting feet get _talaria_ to their heels.
 
 
-Higher Laws
+##Higher Laws
 
 As I came home through the woods with my string of fish, trailing my
 pole, it being now quite dark, I caught a glimpse of a woodchuck
@@ -6264,7 +6264,7 @@ some new austerity, to let his mind descend into his body and redeem
 it, and treat himself with ever increasing respect.
 
 
-Brute Neighbors
+##Brute Neighbors
 
 Sometimes I had a companion in my fishing, who came through the village
 to my house from the other side of the town, and the catching of the
@@ -6668,7 +6668,7 @@ Walden I do not know, unless they love its water for the same reason
 that I do.
 
 
-House-Warming
+##House-Warming
 
 In October I went a-graping to the river meadows, and loaded myself
 with clusters more precious for their beauty and fragrance than for
@@ -7169,7 +7169,7 @@ new force.—
 
 
 
-Former Inhabitants and Winter Visitors
+##Former Inhabitants and Winter Visitors
 
 I weathered some merry snow storms, and spent some cheerful winter
 evenings by my fire-side, while the snow whirled wildly without, and
@@ -7588,7 +7588,7 @@ duty of hospitality, waited long enough to milk a whole herd of cows,
 but did not see the man approaching from the town.
 
 
-Winter Animals
+##Winter Animals
 
 When the ponds were firmly frozen, they afforded not only new and
 shorter routes to many points, but new views from their surfaces of the
@@ -7897,7 +7897,7 @@ every swamp may be seen the partridge or rabbit walk, beset with twiggy
 fences and horse-hair snares, which some cow-boy tends.
 
 
-The Pond in Winter
+##The Pond in Winter
 
 After a still winter night I awoke with the impression that some
 question had been put to me, which I had been endeavoring in vain to
@@ -8350,7 +8350,7 @@ tropic gales of the Indian seas, and is landed in ports of which
 Alexander only heard the names.
 
 
-Spring
+##Spring
 
 The opening of large tracts by the ice-cutters commonly causes a pond
 to break up earlier; for the water, agitated by the wind, even in cold
@@ -8936,7 +8936,7 @@ Thus was my first year’s life in the woods completed; and the second
 year was similar to it. I finally left Walden September 6th, 1847.
 
 
-Conclusion
+##Conclusion
 
 To the sick the doctors wisely recommend a change of air and scenery.
 Thank Heaven, here is not all the world. The buck-eye does not grow in
