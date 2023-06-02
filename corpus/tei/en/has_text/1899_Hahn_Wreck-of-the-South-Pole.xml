@@ -27,12 +27,12 @@
    </extent>
    <publicationStmt>
     <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
-     DH Network Uni Potsdam
+     Digital Humanities Network at the University of Potsdam
     </publisher>
-    <distributor ref="https://zenodo.org/communities/eltec/">
-     Zenodo.org
+    <distributor ref="https://ecocor.org">
+     ecocor.org
     </distributor>
-    <date when="2023-04-09"/>
+    <date when="2023-06-01"/>
     <availability>
      <licence target="https://creativecommons.org/licenses/by/4.0/"/>
     </availability>
