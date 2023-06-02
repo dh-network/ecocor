@@ -1,6 +1,6 @@
 ^
 Der Hochwald
-#1. Waldburg
+##1. Waldburg
 
 An der Mitternachtseite des Ländchens Oesterreich zieht ein Wald an die dreißig Meilen lang seinen Dämmerstreifen westwärts, beginnend an den Quellen des Flusses Thaia, und fortstrebend bis zu jenem Gränzknoten, wo das böhmische Land mit Oesterreich und Baiern zusammenstößt. Dort, wie oft die Nadeln bei Kristallbildungen, schoß ein Gewimmel mächtiger Joche und Rücken gegen einander, und schob einen derben Gebirgsstock empor, der nun den drei Landen weithin sein Waldesblau zeigt, und ihnen allerseits wogiges Hügelland und strömende Bäche absendet. Er beugt, wie Seinesgleichen öfter, den Lauf der Bergeslinie ab, und sie geht dann mitternachtwärts viele Tagreisen weiter.
 
@@ -134,7 +134,7 @@ Sie eilten, da sie endlich fertig waren, in das rothe Zimmer, und trafen dort de
 Der Jäger ging und der Vater wendete sich äußerst vergnügt an die Mädchen. »Ei, ei, ihr seid ja sehr bald fertig geworden; schau wie schön – jetzt wollen wir das Rohr aufstellen, und durchsehen.«
 
 Und so geschah es.
-#2. Waldwanderung
+##2. Waldwanderung
 
 Es sind noch heutzutage ausgebreitete Wälder und Forste um das Quellengebiet der Moldau, daß ein Bär keine Seltenheit ist, und wohl auch noch Luchse getroffen werden: aber in der Zeit unserer Erzählung waren diese Wälder über alle jene bergigen Landstriche gedeckt, auf denen jetzt gereutet ist und die Walddörfer stehen mit ihren kleingetheilten Feldern, weißen Kirchen, rothen Kreuzen und Gärtchen voll blühender Waldbüsche. Wohl acht bis zehn Wegestunden gingen sie damals in die Breite, ihre Länge beträgt noch heute viele Tagreisen.
 
@@ -221,7 +221,7 @@ Das Reiseziel war erreicht. Weibliche Diener der Mädchen stürzten gegen das Uf
 Aber als bei den Mädchen Thränen und Kosen in Ruhe übergegangen, traten sie auf den hölzernen Söller, der vor ihren Fenstern lief, heraus, und blickten noch, ehe sie schlafen gingen, in die kühle beruhigende Nacht. Der See lag zu ihren Füßen, Stücke schwarzer Schatten und glänzenden Himmels unbeweglich haltend, wie erstarrte Schlacken – der Wald dehnte seine Glieder weithin im Nachtschlummer, die feuchten Mondesstrahlen spannen von Berg zu Berg, und in dem Thale, woher die Wanderer gekommen sein mochten, blickte ruhender Nebel auf.
 
 Gute Nacht, ihr lieben schönen fürchtenden Herzen, gute Nacht!
-#3. Waldhaus
+##3. Waldhaus
 
 Des andern Tages Morgens nahm der Vater, der Bruder und der Ritter Abschied. Der Freiherr erklärte, daß er es für Pflicht halte, zu seinem Schlosse zurückzukehren, um es, falls es nur eine streifende Rotte berührte, gegen selbe zu halten, oder wenn ein Hauptschlachthaufe einträfe, es ehrenvoll und vielleicht vortheilhaft zu übergeben, und dadurch, daß er sich der kriegerischen Ehre der Schweden als Gefangenen überliefere, die Forschung nach andern Bewohnern des Schlosses zu vereiteln, da es Niemanden einfallen werde, weiter nach Mädchen zu fragen, wenn der Gebieter der Burg in ihren Händen sei. Felix, trotz der Bitten der Schwestern und des Vaters, konnte nicht bewogen werden, sich von letzterem zu trennen. Was die beweglichen Güter, Geld und Geldeswerth, anlangte, eröffnete ihnen der Freiherr, daß er dasselbe dem Schooße der Erde anvertraut habe, und daß, wenn man von dem Muttergottesbilde an der großen Buche im Wittinghauser Forste abwärts stiege, und den Stein der neunten Stufe aufhöbe, dort in einer blechernen Kapsel sich Auskunft darüber vorfände. Er eröffnete ihnen dieses, falls Gott etwas Menschliches über ihn verhänge. – Mitwisser seien übrigens nur noch Felix und der Ritter.
 
@@ -259,7 +259,7 @@ Aber vielmehr sie waren ein Märchen für die ringsum staunende Wildniß. Wenn s
 
 Oder noch märchenhafter war es, wenn eine schöne Vollmondnacht über dem ungeheuren dunklen Schlummerkissen des Waldes stand, und leise, daß nichts erwache, die weißen Traumkörner ihres Lichtes darauf niederfallen ließ, und nun Clarissens Harfe plötzlich ertönte – man wußte nicht woher, denn das lichtgraue Haus lag auf diesen großen Massen nur wie ein silberner Punkt – und wenn die leichten einzelnen Töne wie ein süßer Pulsschlag durch die schlafende Mitternachtluft gingen, die weithin glänzend, elektrisch, unbeweglich auf den weiten schwarzen Forsten lag: so war es nicht anders, als ginge sachte ein neues Fühlen durch den ganzen Wald, und die Töne waren, als rühre er hie und da ein klingend Glied, – das Reh trat heraus, die schlummernden Vögel nickten auf ihren Zweigen und träumten von neuen Himmelsmelodieen, die sie morgen nicht werden singen können, – und das Echo versuchte sogleich das goldne Räthsel nachzulallen. – – Und als die Harfe längst schwieg, das schöne Haupt schon auf seinem Kissen ruhte – – horchte noch die Nacht; der senkrecht stehende Vollmond hing lange Strahlen in die Fichtenzweige, und säumte das Wasser mit stummen Blitzen – indessen ging die Wucht und Wölbung der Erde, unempfunden und ungehört von ihren Bewohnern, stürmend dem Osten zu – der Mond wurde gegen Westen geschleudert, die alten Sterne mit, neue zogen in Osten auf – – – und so immer fort, bis endlich mitten unter ihnen am Waldrande ein blasser milchiger Lichtstreifen aufblühte – ein frisches Lüftchen an die Wipfel stieß – und der erste Morgenschrei aus der Kehle eines Vogels drang! – – –
 
-#4. Waldsee
+##4. Waldsee
 
 Es waren schon viele Tage und Wochen vergangen – Erwarten und Fürchten, keines war um die Breite eines Haares vorgerückt! – In gleicher Schönheit, so oft sie es suchten, stand das Vaterhaus in dem Glase ihres Rohres, in gleichem tiefem Frieden lagen die an ihren Wald gränzenden bewohnten Länder, obgleich sie recht gut wußten, daß draußen, wohin ihr Blick nicht mehr reiche, der Qualm des Krieges liege, der jeden Augenblick an ihrem Gesichtskreise sichtbar werden könne.
 
@@ -350,7 +350,7 @@ Und somit stiegen die Schwestern die Treppe zu ihrem Gemache hinan, angstvollen 
 Clarissa ließ sie sanft auf die Kissen gleiten, und suchte auch ihr Lager; – noch hörte sie in ihre beginnenden Träume hinein das Jauchzen der zurückkehrenden Knechte jenseits des See's herüber, und das Plätschern des abfahrenden Gregor's, der sie holte.
 
 Dann sank tiefe, feste Ruhe über die schönen Augenlieder.
-#5. Waldwiese
+##5. Waldwiese
 
 Des andern Tages stand schon die Sonne am Morgenhimmel, als Clarissa erwachte, und an das Bett Johannens trat, die noch tief schlummerte, und sich ein ganzes Morgenroth auf ihre unschuldigen Wangen geschlafen hatte. Da ging sie leise an das Fenster, das im Morgengold wallte, sah einige Augenblicke auf den Wald, der mit Reif bedeckt war, und Funken warf, und kniete endlich auf ihren Schemel nieder, um ihr Morgengebet zu verrichten. Als sie aufstand, sah sie auch Johannen an ihrem Schemel knien; daher wartete sie ruhig, bis auch diese aufgestanden war, und dann, noch den Abglanz des gläubigen Gebetes in den Augen, grüßten sie sich heiter und freudig, und scherzten fast über ihre gestrige Angst. Man ließ die klopfende Magd herein, und diese berichtete, daß die Knechte erzählt hätten, wie draußen bereits Kriegsvölker ziehen, und daß es über die Wasserscheide oft wie Ameisenzüge gehe, alles gegen die oberen Donauländer. An den Waldrändern ist es so einsam und stille wie immer. Von Wittinghausen wußten sie nichts. Man beschloß, Gregor zu bitten, daß er sie, sobald die Gräser und Gebüsche etwas trocken geworden wären, auf den Blockenfels geleiten möge.
 
@@ -534,7 +534,7 @@ Diese Worte waren die einzigen, die von der Gesellschaft über die seltsame Verl
 Die im Hause sahen gegen Abend den Jäger und die Mädchen von ihrem Spaziergange aus dem Ahornwäldchen zurückkehren, und wunderten sich nur über die eigensinnige Vorsicht des Alten, daß er sie Alle zur Bewachung des Hauses innerhalb der Pflöke hereingesperrt habe.
 
 Sie traten von der Waldwiese in das Haus. – Clarissa war nicht mehr ruhig – Johanna nicht mehr glücklich.
-#6. Waldfels
+##6. Waldfels
 
 Und die alte Ruhe war wieder über dem Walde. – – Zuweilen, wenn das silberne Schiff, die Wolke einzeln durch die Bläue zieht, so geht unten ein Schatten über den Wald, und dann steht wieder dasselbe feste Licht auf seiner ganzen Breite – – oder wenn das Stahlgrau des Spätherbstes fest über die ganze Himmelskuppel gegossen liegt, so tritt ein Sonnenstrahl heraus, und küsset aus dem fernen Buchenhange ein goldnes Fleck chen, das gegen den Rand zieht, und von ihm unsichtbar in die Luft tritt, nachher ist dasselbe Grau über alle Weiten. Und so war es mit den Schwestern.
 
@@ -653,7 +653,7 @@ Und so verging Tag um Tag, bis ihrer eilf vorüber waren, ohne daß Botschaft ge
 Endlich sanken die ersten weißen zarten Schneeflocken in den dunklen See – und man hatte nun doch einen Knecht auf Kundschaft ausgesendet – –
 
 Aber auch er ist nicht wieder gekommen.
-#7. Waldruine
+##7. Waldruine
 
 Auf grünem Weidegrunde stand ein gewaltiger viereckiger Thurm, von zerfallendem Außenwerke umgeben. Er hatte kein Dach, und seine Ringmauern hatten keine Thore, gerade, wie er noch heutzutage steht – aber er trug noch nicht die verwitterte graue Farbe seiner bloßgelegten Steinmauern, wie heute; sondern war noch bekleidet mit Anwurf und Tünche, nur war deren Reinheit beschmutzt mit häßlichen Brandflecken, aus den Fenstern ausgehend, und wie Kometenfahnen aufwärts zielend. Auch war in dem äußern Mauerwerke manch tiefe Verwundung ersichtlich. Der Rasen umher war verschwunden, und glich einer gestampften Tenne, von tiefen Räderspuren durchfurcht, und hie und da mit einem verkohlten Baume oder Trümmern unbekannter Geräthe bedeckt. Die größte Stille und ein reiner Himmel mit freundlicher Novembersonne schaute auf diese Todesstelle nieder. Kein Gedanke eines Feindes war ringsum zu erschauen, aber auch kein einzig anderes lebendes Wesen stundenweit in die Runde; die Hütten waren verbrannt, und der Ort Friedberg lag in Trümmern. Gleichwohl stieg ein dünner blauer Rauchfaden aus der Ruine zu dem dunklen Himmel hinauf, als wäre sie von irgend einem menschlichen Wesen bewohnt. Ja man sah sogar über den Weideboden, der zwar noch nicht beschneit, aber fest gefroren war, einen Reiter eilig dem Trümmerwerke zureiten. Er zwang das Pferd durch den weit klaffenden Thorweg über herabgestürzte Steintrümmer hinein, band es, nachdem er abgestiegen, an die Stange eines eisernen Fenstergitters, von dessen Simse noch das geschmolzene Glas wie schmutziges Eis herabhing, wandte sich dann schnell weg, und drang durch das halbverschüttete Thor in das Innere des Thurmes. Hier durch ausgebrannte Thüren und Fenster glotzten ihn Gänge und Gemächer an, die ihm schauerlich fremd vorkamen, und aus ihren Höhlungen wehte eine ungastliche Luft. Dennoch entdeckte er bald eine hölzerne Treppe, aus noch frischen Bäumen gezimmert, und mit gehauenen Pfosten überdeckt. Er stieg sie hinan, und gelangte in einen Gang und in ein Vorgemach, dessen Decke nicht eingestürzt war. Wie er durch den finstern Gang schritt, sah er einen alten Mann stehen, aber er achtete dessen nicht, sondern pochte an das Gemach. Ein weibliches Gesicht wurde durch das geöffnete Schubfach der Thüre sichtbar.
 
