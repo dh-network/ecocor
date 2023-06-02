@@ -1,7 +1,7 @@
 ^
 The Life and Adventures of Robinson Crusoe 
 
-#CHAPTER I—START IN LIFE 
+##CHAPTER I—START IN LIFE 
 
 
 I was born in the year 1632, in the city of York, of a good family, though not 
@@ -429,7 +429,7 @@ looked out for a voyage.
 
 
 
-#CHAPTER II—SLAVERY AND ESCAPE 
+##CHAPTER II—SLAVERY AND ESCAPE 
 
 
 That evil influence which carried me first away from my father’s house— 
@@ -856,7 +856,7 @@ lie upon.
 
 
 
-#CHAPTER III—WRECKED ON A DESERT 
+##CHAPTER III—WRECKED ON A DESERT 
 
 ISLAND 
 
@@ -1490,7 +1490,7 @@ it than, I think, I ever was on such an occasion.
 
 
 
-#CHAPTER IV—FIRST WEEKS ON THE ISLAND 
+##CHAPTER IV—FIRST WEEKS ON THE ISLAND 
 
 
 When I waked it was broad day, the weather clear, and the storm abated, so 
@@ -2278,7 +2278,7 @@ again) as long as it lasted; for having no more ink, I was forced to leave it of
 
 
 
-#CHAPTER V—BUILDS A HOUSE—THE 
+##CHAPTER V—BUILDS A HOUSE—THE 
 
 JOURNAL 
 
@@ -2766,7 +2766,7 @@ ship, to look for more.
 
 
 
-#CHAPTER VI—ILL AND CONSCIENCE- 
+##CHAPTER VI—ILL AND CONSCIENCE- 
 
 STRICKEN 
 
@@ -3246,7 +3246,7 @@ September and October.
 
 
 
-#CHAPTER VII—AGRICULTURAL 
+##CHAPTER VII—AGRICULTURAL 
 EXPERIENCE 
 
 
@@ -3564,7 +3564,7 @@ imagined I could spare.
 
 
 
-#CHAPTER VIII—SURVEYS HIS POSITION 
+##CHAPTER VIII—SURVEYS HIS POSITION 
 
 
 I mentioned before that I had a great mind to see the whole island, and that I 
@@ -3921,7 +3921,7 @@ had it, fit for my use.
 
 
 
-#CHAPTER IX—A BOAT 
+##CHAPTER IX—A BOAT 
 
 
 But first I was to prepare more land, for I had now seed enough to sow above 
@@ -4483,7 +4483,7 @@ of human society in the world?
 
 
 
-#CHAPTER X—TAMES GOATS 
+##CHAPTER X—TAMES GOATS 
 
 
 I cannot say that after this, for five years, any extraordinary thing happened to 
@@ -4896,7 +4896,7 @@ where I saw nothing at first but to perish for hunger!
 
 
 
-#CHAPTER XI—FINDS PRINT OF MAN’S FOOT 
+##CHAPTER XI—FINDS PRINT OF MAN’S FOOT 
 
 ON THE SAND 
 
@@ -5354,7 +5354,7 @@ fear suggested to me.
 
 
 
-#CHAPTER XII—A CAVE RETREAT 
+##CHAPTER XII—A CAVE RETREAT 
 
 
 While this was doing, I was not altogether careless of my other affairs; for I 
@@ -5910,7 +5910,7 @@ so I interred him there, to prevent offence to my nose.
 
 
 
-#CHAPTER XIII—WRECK OF A SPANISH SHIP 
+##CHAPTER XIII—WRECK OF A SPANISH SHIP 
 
 
 I was now in the twenty-third year of my residence in this island, and was so 
@@ -6339,7 +6339,7 @@ escape to England, it might lie here safe enough till I come again and fetch it.
 
 
 
-#CHAPTER XIV—A DREAM REALISED 
+##CHAPTER XIV—A DREAM REALISED 
 
 
 Having now brought all my things on shore and secured them, I went back to 
@@ -6875,7 +6875,7 @@ to remove from the place where I lived.
 
 
 
-#CHAPTER XV—FRIDAY’S EDUCATION 
+##CHAPTER XV—FRIDAY’S EDUCATION 
 
 
 After I had been two or three days returned to my castle, I thought that, in 
@@ -7383,7 +7383,7 @@ bread;” this was his way of talking.
 
 
 
-#CHAPTER XVI—RESCUE OF PRISONERS 
+##CHAPTER XVI—RESCUE OF PRISONERS 
 FROM CANNIBALS 
 
 
@@ -7940,7 +7940,7 @@ hundred of them, fairly in the open field, at any time.
 
 
 
-#CHAPTER XVII—VISIT OF MUTINEERS 
+##CHAPTER XVII—VISIT OF MUTINEERS 
 
 
 In a little time, however, no more canoes appearing, the fear of their coming 
@@ -8452,7 +8452,7 @@ in my thoughts.
 
 
 
-#CHAPTER XVIII—THE SHIP RECOVERED 
+##CHAPTER XVIII—THE SHIP RECOVERED 
 
 
 While we were thus preparing our designs, and had first, by main strength, 
@@ -9002,7 +9002,7 @@ brought me to eat, and bade them be sure to sow and increase them.
 
 
 
-#CHAPTER XIX—RETURN TO ENGLAND 
+##CHAPTER XIX—RETURN TO ENGLAND 
 
 
 Having done all this I left them the next day, and went on board the ship. We 
@@ -9513,7 +9513,7 @@ what kind of creature it was he had killed.
 
 
 
-#CHAPTER XX—FIGHT BETWEEN FRIDAY 
+##CHAPTER XX—FIGHT BETWEEN FRIDAY 
 
 AND A BEAR 
 
