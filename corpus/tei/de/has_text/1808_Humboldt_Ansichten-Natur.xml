@@ -56,7 +56,9 @@
     </bibl>
     <bibl type="firstEdition">
      <pubPlace/>
-     <date/>
+     <date when="1808">
+      1808
+     </date>
     </bibl>
    </sourceDesc>
   </fileDesc>
@@ -133,7 +135,7 @@
    </p>
   </front>
   <body>
-   <div type="group">
+   <div type="chapter">
     <head>
      Über die Steppen und Wüsten
     </head>
@@ -300,7 +302,7 @@
      Darum versenkt, wer im ungeschlichteten Zwist der Völker nach geistiger Ruhe strebt, gern den Blick in das stille Leben der Pflanzen und in der heiligen Naturkraft inneres Wirken; oder, hingegeben dem angestammten Triebe, der seit Jahrtausenden der Menschen Brust durchglüht, blickt er ahndungsvoll aufwärts zu den hohen Gestirnen, welche in ungestörtem Einklang die alte, ewige Bahn vollenden.
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Über die Wasserfälle des Orinoco bei Atures und Maipures
     </head>
@@ -482,7 +484,7 @@
      So sterben dahin die Geschlechter der Menschen. Es verhallt die rühmliche Kunde der Völker. Doch wenn jede Blüte des Geistes welkt, wenn im Sturm der Zeiten die Werke schaffender Kunst zerstieben, so entsprießt ewig neues Leben aus dem Schoße der Erde. Rastlos entfaltet ihre Knospen die zeugende Natur: unbekümmert, ob der frevelnde Mensch (ein nie versöhntes Geschlecht) die reifende Frucht zertritt.
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Das nächtliche Tierleben im Urwalde
     </head>
@@ -529,7 +531,7 @@
      Mit den Naturszenen, die ich hier schildere und die sich oft für uns wiederholten, kontrastiert wundersam die Stille, welche unter den Tropen an einem ungewöhnlich heißen Tage in der Mittagsstunde herrscht. Ich entlehne demselben Tagebuche eine Erinnerung an die Flußenge des Baraguan. Hier bahnt sich der Orinoco einen Weg durch den westlichen Teil des Gebirges Parime. Was man an diesem merkwürdigen Paß eine Flußenge (Angostura del Baraguan) nennt, ist ein Wasserbecken von noch 890 Toisen (5340 Fuß) Breite. Außer einem alten dürren Stamme der Aubletia (Apeiba Tiburbu) und einer neuen Apozinee, Allamanda salicifolia, waren an dem nackten Felsen kaum einige silberglänzende Croton-Sträucher zu finden. Ein Thermometer, im Schatten beobachtet, aber bis auf einige Zolle der Granitmasse turmartiger Felsen genähert, stieg auf mehr als 40° Réaumur. Alle ferne Gegenstände hatten wellenförmig wogende Umrisse, eine Folge der Spiegelung oder optischen Kimmung (mirage). Kein Lüftchen bewegte den staubartigen Sand des Bodens. Die Sonne stand im Zenit, und die Lichtmasse, die sie auf den Strom ergoß und die von diesem, wegen einer schwachen Wellenbewegung funkelnd, zurückstrahlt, machte bemerkbarer noch die nebelartige Röte, welche die Ferne umhüllte. Alle Felsblöcke und nackten Steingerölle waren mit einer Unzahl von großen, dickschuppigen Iguanen, Gecko-Eidechsen und buntgefleckten Salamandern bedeckt. Unbeweglich, den Kopf erhebend, den Mund weit geöffnet, scheinen sie mit Wonne die heiße Luft einzuatmen. Die größeren Tiere verbergen sich dann in das Dickicht der Wälder, die Vögel unter das Laub der Bäume oder in die Klüfte der Felsen; aber lauscht man bei dieser scheinbaren Stille der Natur auf die schwächsten Töne, die uns zukommen, so vernimmt man ein dumpfes Geräusch, ein Schwirren und Sumsen der Insekten, dem Boden nahe und in den unteren Schichten des Luftkreises. Alles verkündigt eine Welt tätiger, organischer Kräfte. In jedem Strauche, in der gespaltenen Rinde des Baumes, in der von Hymenoptern bewohnten, aufgelockerten Erde regt sich hörbar das Leben. Es ist wie eine der vielen Stimmen der Natur, vernehmbar dem frommen, empfänglichen Gemüte des Menschen.
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Ideen zu einer Physiognomik der Gewächse
     </head>
@@ -648,7 +650,7 @@
      Diesen und so manchen anderen Naturgenuß entbehren die nordischen Völker. Viele Gestirne und viele Pflanzenformen, von diesen gerade die schönsten (Palmen, hochstämmige Farren und Pisanggewächse, baumartige Gräser und feingefiederte Mimosen), bleiben ihnen ewig unbekannt. Die krankenden Gewächse, welche unsere Treibhäuser einschließen, gewähren nur ein schwaches Bild von der Majestät der Tropenvegetation. Aber in der Ausbildung unserer Sprache, in der glühenden Phantasie des Dichters, in der darstellenden Kunst der Maler ist eine reiche Quelle des Ersatzes geöffnet. Aus ihr schöpft unsere Einbildungskraft die lebendigen Bilder einer exotischen Natur. Im kalten Norden, in der öden Heide kann der einsame Mensch sich aneignen, was in den fernsten Erdstrichen erforscht wird, und so in seinem Innern eine Welt sich schaffen, welche das Werk seines Geistes, frei und unvergänglich wie dieser, ist.
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Über den Bau und die Wirkungsart der Vulkane in den verschiedenen Erdstrichen
     </head>
@@ -752,7 +754,7 @@
      Ich habe am Schluß dieser Abhandlung den Tatsachen, die in den verschiedensten Weltgegenden gesammelt worden sind, unsichere hypothetische Vermutungen angereiht. Die philosophische Naturkunde erhebt sich über die Bedürfnisse einer bloßen Naturbeschreibung. Sie besteht nicht in einer sterilen Anhäufung isolierter Tatsachen. Dem neugierig regsamen Geiste des Menschen sei es erlaubt, bisweilen aus der Gegenwart in das Dunkel der Vorzeit hinüberzuschweifen, zu ahnden, was noch nicht klar erkannt werden kann und sich so an den alten, unter vielerlei Formen wiederkehrenden Mythen der Geognosie zu ergötzen.
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Die Lebenskraft oder der modische Genius
     </head>
@@ -796,7 +798,7 @@
      Geh, Polykles, und sage dem Tyrannen, was du gehört hast! Und ihr, meine Lieben, Euryphamos, Lysis und Skopas, tretet näher und näher zu mir! Ich fühle, daß die schwache Lebenskraft auch in mir den irdischen Stoff nicht lange mehr beherrschen wird. Er fordert seine Freiheit wieder. Führt mich noch einmal in die Poikile, und von da ans offene Gestade. Bald werdet ihr meine Asche sammeln!«
     </p>
    </div>
-   <div type="group">
+   <div type="chapter">
     <head>
      Das Hochland von Caxamarca, der alten Residenzstadt des Inka Atahualpa
     </head>

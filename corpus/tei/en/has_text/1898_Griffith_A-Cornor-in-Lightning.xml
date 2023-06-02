@@ -56,7 +56,9 @@
     </bibl>
     <bibl type="firstEdition">
      <pubPlace/>
-     <date/>
+     <date when="1898">
+      1898
+     </date>
     </bibl>
    </sourceDesc>
   </fileDesc>
