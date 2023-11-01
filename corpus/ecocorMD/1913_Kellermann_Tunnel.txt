@@ -1,10 +1,10 @@
 ^
 Der Tunnel
 
- #Erster Teil
+#Erster Teil
 
- ##1.
- Das Einweihungskonzert des neuerbauten Madison-Square-Palastes bildete den Höhepunkt der Saison. Es war eines der außerordentlichsten Konzerte aller Zeiten. Das Orchester umfaßte zweihundertundzwanzig Musiker, und jedes einzelne Instrument war mit einem Künstler von Weltruf besetzt. Als Dirigent war der gefeiertste lebende Komponist, ein Deutscher, gewonnen worden, der für den einen Abend das unerhörte Honorar von sechstausend Dollar erhielt.
+##1.
+Das Einweihungskonzert des neuerbauten Madison-Square-Palastes bildete den Höhepunkt der Saison. Es war eines der außerordentlichsten Konzerte aller Zeiten. Das Orchester umfaßte zweihundertundzwanzig Musiker, und jedes einzelne Instrument war mit einem Künstler von Weltruf besetzt. Als Dirigent war der gefeiertste lebende Komponist, ein Deutscher, gewonnen worden, der für den einen Abend das unerhörte Honorar von sechstausend Dollar erhielt.
 Die Eintrittspreise verblüfften selbst New York. Unter dreißig Dollar war kein Platz zu haben, und die Billettspekulanten hatten die Preise für eine Loge bis auf zweihundert Dollar und höher getrieben. Wer irgendwie etwas sein wollte, durfte nicht fehlen.
 Um acht Uhr abends waren 26., 27. und 28. Straße und Madison Avenue von knatternden, ungeduldig bebenden Automobilen blockiert. Die Billetthändler, die ihr Leben zwischen den Pneumatiken von sausenden Automobilen verbringen, stürzten sich, schweißtriefend trotz einer Temperatur von zwölf Grad Kälte, Bündel von Dollarscheinen in den Händen, tollkühn mitten in den endlos heranrollenden Strom wütend donnernder Wagen. Sie schwangen sich auf die Trittbretter, Führersitze und selbst Dächer der Cars und versuchten das Schnellfeuer der Motoren mit ihren heiser heulenden Stimmen zu überbrüllen. »~Here you are! Here you are!~ Zwei Parkettsitze, zehnte Reihe! Ein Logenplatz! Zwei Parkettsitze ...!!« Ein schräger Hagel von Eiskörnern fegte wie Maschinengewehrfeuer auf die Straße nieder.
 Sobald ein Wagenfenster klappte -- »Hierher!« -- warfen sie sich blitzschnell wie Taucher wieder zwischen die Wagen. Während sie aber ihr Geschäft abschlossen, Geld in die Taschen stopften, gefroren ihnen die Schweißtropfen auf der Stirn.
