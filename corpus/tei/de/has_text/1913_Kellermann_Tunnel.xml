@@ -83,11 +83,10 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000053_10">
-   </p>
-   <p xml:id="eco_de_000053_20">
-    Der Tunnel
-   </p>
+   <div type="front">
+    <head>Kellermann, Bernhard</head>
+    <head>Der Tunnel</head>
+   </div>
   </front>
   <body>
    <div type="group">
