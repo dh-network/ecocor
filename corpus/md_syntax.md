@@ -3,13 +3,13 @@ This document describes the markdown-like syntax for encoding novel structure in
 
 ## Operators:
 
-`#` - means here begins a new highest-order division of a book. If the book is divided in chapter -- then any chapter should begin with that. The first occurrence of a # marks the end of the front matter and the beginning of the text proper. If the book has no divisions, there should still be on e first #. If the division has a title (e.g. Kapitel 1 or  'Der Kampf mit dem Höhlenlöwen', it should be in the same line as the # symbol)
+`#` - means here begins a new highest-order division of a book. If the book is divided in chapter -- then any chapter should begin with that. The first occurrence of a # marks the end of the front matter and the beginning of the text proper. If the book has no divisions, there should still be one first #. If the division has a title (e.g. Kapitel 1 or  'Der Kampf mit dem Höhlenlöwen', it should be in the same line as the # symbol)
 
 Examples:
 
 
 
-1. First division in Rulaman:
+1. First division in [Rulaman](ecocorMD/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt):
 ```
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -25,7 +25,7 @@ war ein Meer, wo heute die Schwäbische Alb sich erhebt.
 ```
 
 
-2. First (and only) division in Theodor Storm's 'Von Kindern und Katzen, und wie sie die Nine begruben' -- here we just mark the beginning of the text proper, it will be the only division of the text:
+2. First (and only) division in [Theodor Storm's 'Von Kindern und Katzen, und wie sie die Nine begruben'](ecocorMD/EzProse_Example_Theodor_Storm_-_Von_Kindern_und_Katzen_und_wie_sie_die_Nine_begruben_(1876).txt) -- here we just mark the beginning of the text proper, it will be the only division of the text:
 ```
 
 Theodor Storm
@@ -42,7 +42,7 @@ bring ich was zur Aussteuer!«
 
 ```
 
-1. Fifth chapter in Rulaman:
+1. Fifth chapter in [Rulaman](ecocorMD/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt):
 ```
 
 Sicher und ohne Zaudern schritt Rul voran, denn er
@@ -66,7 +66,7 @@ N.B. that in the original `5` and  `Der Kampf mit dem Höhlenlöwen` were two se
 
 `$` - means here ends the text proper (if there is some back-matter that should be left outside the body of text and be sent to the `<back>` element). For example : 
 
-End of the text in Rulaman: 
+End of the text in [Rulaman](ecocorMD/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt): 
 
 ```
 
