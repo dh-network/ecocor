@@ -382,9 +382,16 @@ class TEI:
         """
         Parse the EcoCor markdown source and build the ``<text>`` subtree.
 
-        Reads the source file line by line.  A ``^^^`` sentinel is always
-        prepended as line 0 so that any content before the first ``#`` marker
-        is correctly wrapped in a ``<front>`` element.
+        A ``^^^`` sentinel is always prepended so that any content before
+        the first ``#`` marker ends up inside a ``<front>`` element.
+
+        The source files use soft line-wrapping: a single newline within a
+        paragraph is merely a typographic break in the editor, not a semantic
+        boundary.  A blank line marks the end of a logical paragraph, and a
+        structural marker line always ends the current paragraph too — even
+        when it appears directly after body text with only a single newline
+        (e.g. ``"ENDE\\n$"``).  Within a paragraph, soft-wrapped lines are
+        joined with a single space before the text is inserted into ``<p>``.
 
         Structural logic
         ----------------
@@ -397,11 +404,9 @@ class TEI:
           chapter.
         - ``$``   → open a ``<back>`` element; plain text after it goes into
           ``<p>`` children of ``<back>``.
-        - Any other non-empty line → ``<p xml:id="...">`` appended to the
+        - Any other non-empty block → one ``<p xml:id="...">`` appended to the
           currently active container element (front, group, chapter,
           subchapter, or back).
-
-        Empty lines (after stripping whitespace) are silently skipped.
 
         After parsing, the method appends ``<body>`` (and ``<back>`` if
         present) to the ``<text>`` element of the stub tree, and stores
@@ -436,22 +441,60 @@ class TEI:
             self.empty = True
             return "NoText"
 
-        # Read the full source text as a list of lines
+        # Read the entire file as a single string
         with open(self.sourcetxtpath) as source_file:
-            text_to_insert = source_file.readlines()
+            raw_content = source_file.read()
 
         # Always prepend the front-matter sentinel.  This ensures that
         # everything before the first '#' marker ends up inside <front>.
-        text_to_insert.insert(0, "^^^")
+        raw_content = "^^^\n" + raw_content
 
         # Word count is measured on the entire raw text (including markers)
-        text_raw       = "\n".join(text_to_insert)
-        self.len_words = self.measure_length(text_raw)
+        self.len_words = self.measure_length(raw_content)
+
+        # Build the list of logical units to iterate over using a small
+        # state machine that walks the text line by line.  Three rules apply:
+        #
+        #   1. Blank line → flush whatever paragraph text has accumulated so far.
+        #   2. Structural marker line (#, ##, ###, ^^^, $) → flush any pending
+        #      paragraph text, then add the marker as its own standalone entry.
+        #      This guarantees markers are always isolated even when the source
+        #      file places them immediately after body text with only a single
+        #      newline (e.g. "ENDE\n$").
+        #   3. Any other line → append to the current paragraph accumulator;
+        #      it will be joined with the preceding lines using a space, so
+        #      soft editor line-wraps do not produce spurious <p> elements.
+        lines = raw_content.split("\n")
+        paragraphs = []
+        current_lines = []   # lines being accumulated for the current paragraph
+
+        for line in lines:
+            stripped = line.strip()
+            is_marker = stripped.startswith(("#", "^^^", "$"))
+
+            if not stripped:
+                # Blank line — end of the current paragraph (if any)
+                if current_lines:
+                    paragraphs.append(" ".join(current_lines))
+                    current_lines = []
+            elif is_marker:
+                # Marker line — flush pending text, then add marker on its own
+                if current_lines:
+                    paragraphs.append(" ".join(current_lines))
+                    current_lines = []
+                paragraphs.append(stripped)
+            else:
+                # Regular text line — accumulate (joined with space on flush)
+                current_lines.append(stripped)
+
+        # Flush any remaining text at the end of the file
+        if current_lines:
+            paragraphs.append(" ".join(current_lines))
 
         # Paragraph counter — used to generate unique xml:id values
         pcount = 1
 
-        for paragraph in text_to_insert:
+        for paragraph in paragraphs:
 
             if self.checksubchapterheader(paragraph):
                 # ### → <div type="subchapter"> inside the current chapter
@@ -511,12 +554,13 @@ class TEI:
                 currentdiv = back
 
             else:
-                # Plain text line → wrap in <p> and append to current container
+                # Plain text block → one <p> in the current container.
+                # Blank blocks are already excluded by the pre-processing above,
+                # but the strip-guard is kept as a safety net.
                 p = self.tree.new_tag("p")
                 p["xml:id"] = self.get_paragraph_id(pcount)
                 pcount += 1
                 p.append(paragraph)
-                # Skip blank lines
                 if len(paragraph.strip()) > 0:
                     currentdiv.append(p)
 
