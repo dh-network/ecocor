@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_000002" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title ref>
+     Von Kindern und Katzen, und wie sie die Nine begruben
+    </title>
+    <author ref="https://www.wikidata.org/entity/Q26993">
+     Storm, Theodor (1817-1888)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     2030
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1876">
+      1876
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2023-03-31">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000002_20">
+    Theodor Storm
+   </p>
+   <p xml:id="eco_de_000002_40">
+    Von Kindern und Katzen, und wie sie die Nine begruben
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_000002_70">
+     Mit Katzen ist es in früherer Zeit in unserem Hause sehr »begänge« gewesen.
+    </p>
+    <p xml:id="eco_de_000002_80">
+     Noch vor meiner Hochzeit wurde mir von einem alten Hofbesitzer ein kleines
+    </p>
+    <p xml:id="eco_de_000002_90">
+     kaninchengraues Kätzchen ins Haus gebracht; er nahm es sorgsam aus seinem
+    </p>
+    <p xml:id="eco_de_000002_100">
+     zusammengeknüpften Schnupftuch, setzte es vor mir auf den Tisch und sagte: »Da
+    </p>
+    <p xml:id="eco_de_000002_110">
+     bring ich was zur Aussteuer!«
+    </p>
+    <p xml:id="eco_de_000002_130">
+     Diese Katze, welche einen weißen Kragen und vier weiße Pfötchen hatte, hieß die
+    </p>
+    <p xml:id="eco_de_000002_140">
+     »Manschettenmieße«. Während ihrer Kindheit hatte ich sie oft, wenn ich
+    </p>
+    <p xml:id="eco_de_000002_150">
+     arbeitete, vorn in meinem Schlafrock sitzen, so daß nur der kleine hübsche Kopf
+    </p>
+    <p xml:id="eco_de_000002_160">
+     hervorguckte. Höchst aufmerksam folgten ihre Augen meiner schreibenden Feder,
+    </p>
+    <p xml:id="eco_de_000002_170">
+     die bei dem melodischen Spinnerlied des Kätzchens gar munter hin und wider
+    </p>
+    <p xml:id="eco_de_000002_180">
+     glitt. Oftmals, als wolle sie meinen gar zu großen Eifer zügeln, streckte sie
+    </p>
+    <p xml:id="eco_de_000002_190">
+     wohl auch das Pfötchen aus und hielt die Feder an, was mich dann stets
+    </p>
+    <p xml:id="eco_de_000002_200">
+     bedenklich machte und wodurch mancher Gedankenstrich in meine nachher
+    </p>
+    <p xml:id="eco_de_000002_210">
+     gedruckten Schriften gekommen ist.
+    </p>
+    <p xml:id="eco_de_000002_230">
+     Die Manschettenmieße selber ist, wie ich fürchte, durch diesen Verkehr etwas
+    </p>
+    <p xml:id="eco_de_000002_240">
+     gar zu gebildet geworden; denn da sie endlich groß und dann auch Mutter manches
+    </p>
+    <p xml:id="eco_de_000002_250">
+     allerliebsten kaninchengrauen Kätzchens geworden war, verlangte sie, gleich den
+    </p>
+    <p xml:id="eco_de_000002_260">
+     feinen Damen, allezeit eine Amme für ihre Kinder; und da die Nachbarskatzen
+    </p>
+    <p xml:id="eco_de_000002_270">
+     sich nur selten zu diesem Dienst verstehen wollten, so sind fast alle ihre
+    </p>
+    <p xml:id="eco_de_000002_280">
+     kleinen Ebenbilder elendiglich zugrunde gegangen. Nur einen kleinen weißen
+    </p>
+    <p xml:id="eco_de_000002_290">
+     Kater zog sie wirklich groß, welcher wegen seines grimmigen Aussehens »der
+    </p>
+    <p xml:id="eco_de_000002_300">
+     weiße Bär« genannt wurde und nachher aber eine Katze war.
+    </p>
+    <p xml:id="eco_de_000002_320">
+     Später, da schon zwei kleine Buben lustig durch Haus und Garten tobten, waren
+    </p>
+    <p xml:id="eco_de_000002_330">
+     zwei Katzen in der Wirtschaft; nämlich außer den vorbenannten noch ein Sohn des
+    </p>
+    <p xml:id="eco_de_000002_340">
+     weißen Bären, genannt »der schwarze Kater«, ein großer ungebärdiger Geselle;
+    </p>
+    <p xml:id="eco_de_000002_350">
+     vielleicht ein Held, aber jedenfalls ein Scheusal, von dem nicht viel zu sagen,
+    </p>
+    <p xml:id="eco_de_000002_360">
+     als daß er, besonders in der schönen Frühlingszeit, unter schauderhaftem Geheul
+    </p>
+    <p xml:id="eco_de_000002_370">
+     gegen alle Nachbarskater zu Felde lag, daß er stets mit einem blutigen Auge und
+    </p>
+    <p xml:id="eco_de_000002_380">
+     zerfetztem Fell umherlief und außerdem noch seine kleinen Herren biß und
+    </p>
+    <p xml:id="eco_de_000002_390">
+     kratzte.
+    </p>
+    <p xml:id="eco_de_000002_410">
+     Von der Großmutter, der Manschettenmieße, die nachmals ganz berühmt geworden
+    </p>
+    <p xml:id="eco_de_000002_420">
+     ist, wäre noch vielerlei zu berichten; da sie aber in der Geschichte, die ich
+    </p>
+    <p xml:id="eco_de_000002_430">
+     hier am Schluß erzählen will, nur ein einzigmal »Miau« zu sagen hat, so soll's
+    </p>
+    <p xml:id="eco_de_000002_440">
+     für eine schicklichere Gelegenheit verspart sein.
+    </p>
+    <p xml:id="eco_de_000002_460">
+     Es geschah aber, daß unser mit drei Katzen also stattlich begründetes Heimwesen
+    </p>
+    <p xml:id="eco_de_000002_470">
+     durch den hereingebrochenen Dänenkrieg gar jämmerlich zugrunde ging; meine
+    </p>
+    <p xml:id="eco_de_000002_480">
+     beiden Knaben und noch ein kleiner dritter, der hinzugekommen war, mußten mit
+    </p>
+    <p xml:id="eco_de_000002_490">
+     mir und ihrer Mutter in die Fremde wandern, und, so gastlich man uns draußen
+    </p>
+    <p xml:id="eco_de_000002_500">
+     aufnahm, es war doch in den ersten Jahren eine trübe, katzenlose Zeit.
+    </p>
+    <p xml:id="eco_de_000002_520">
+     Zwar hatten wir ein Kindermädchen, welches Anna hieß; ihr gutes rundes Gesicht
+    </p>
+    <p xml:id="eco_de_000002_530">
+     sah allzeit aus, als wäre sie eben vom Torfabladen hergekommen, weshalb die
+    </p>
+    <p xml:id="eco_de_000002_540">
+     Kinder sie die »schwarze Anna« nannten; aber eine Katze in unser gemietetes
+    </p>
+    <p xml:id="eco_de_000002_550">
+     Haus zu nehmen, konnten wir noch immer nicht den Mut gewinnen. Da – drei Jahre
+    </p>
+    <p xml:id="eco_de_000002_560">
+     waren so vergangen – kam von selber eine zugelaufen, ein weiß und schwarz
+    </p>
+    <p xml:id="eco_de_000002_570">
+     geflecktes Tierchen, schon wohlerzogen und von anschmiegsamer Gemütsart.
+    </p>
+    <p xml:id="eco_de_000002_590">
+     Was ist von diesem Käterchen zu sagen? – Zum mindesten der Pyramidenritt.
+    </p>
+    <p xml:id="eco_de_000002_610">
+     Da nämlich den beiden größeren Buben das gewöhnliche Zubettegehen doch gar zu
+    </p>
+    <p xml:id="eco_de_000002_620">
+     simpel war, so hatten sie's erfunden, auf der schwarzen Anna zu Bett zu reiten;
+    </p>
+    <p xml:id="eco_de_000002_630">
+     derart, daß sie dabei auf ihrer Schulter saßen und die kleinen Kinderbeinchen
+    </p>
+    <p xml:id="eco_de_000002_640">
+     vorn herunterbaumelten. Jetzt aber wurde das um vieles stattlicher; denn eines
+    </p>
+    <p xml:id="eco_de_000002_650">
+     Abends, da sich die Tür der Schlafkammer öffnete, kam in das Wohnzimmer zum
+    </p>
+    <p xml:id="eco_de_000002_660">
+     Gutenachtsagen eine vollständige Pyramide hereingeritten: über dem großen Kopf
+    </p>
+    <p xml:id="eco_de_000002_670">
+     der schwarzen Anna der kleinere des lachenden Jungen, über diesem dann der noch
+    </p>
+    <p xml:id="eco_de_000002_680">
+     viel kleinere Kopf des Käterchens, das sich ruhig bei den Vorderpfötchen halten
+    </p>
+    <p xml:id="eco_de_000002_690">
+     und dabei ein gar behaglich und vernehmbares Spinnen ausgehen ließ. – Dreimal
+    </p>
+    <p xml:id="eco_de_000002_700">
+     ritt diese Pyramide die Runde in der Stube und dann zu Bett.
+    </p>
+    <p xml:id="eco_de_000002_720">
+     Es war sehr hübsch; aber es wurde der Tod des kleinen Katers. Die guten
+    </p>
+    <p xml:id="eco_de_000002_730">
+     Stunden, die er nach solchem Ritt zur Belohnung im Federbett bei seinem jungen
+    </p>
+    <p xml:id="eco_de_000002_740">
+     Freunde zubringen durfte, hatten ihn so verwöhnt, daß er eines scharfen
+    </p>
+    <p xml:id="eco_de_000002_750">
+     Wintermorgens, da er am Abend ausgeschlossen worden, tot und steifgefroren im
+    </p>
+    <p xml:id="eco_de_000002_760">
+     Waschhause aufgefunden wurde.
+    </p>
+    <p xml:id="eco_de_000002_780">
+     Und wieder kam eine stille, katzenlose Zeit.
+    </p>
+    <p xml:id="eco_de_000002_800">
+     Aber wo fände sich nicht eine Aushilfe! Ich konnte ja vortrefflich Katzen
+    </p>
+    <p xml:id="eco_de_000002_810">
+     zeichnen; – und ich zeichnete! Freilich nur mit Feder und Tinte; aber sie
+    </p>
+    <p xml:id="eco_de_000002_820">
+     wurden ausgeschnitten und aus dem Tuschkasten sauber angemalt: Katzen von allen
+    </p>
+    <p xml:id="eco_de_000002_830">
+     Farben und Arten, sitzende und springende, auf vieren und auf zweien gehend,
+    </p>
+    <p xml:id="eco_de_000002_840">
+     Katzen mit einer Maus im Maule und einem Milchtopf in der Pfote, Katzen mit
+    </p>
+    <p xml:id="eco_de_000002_850">
+     Kätzchen auf dem Arme und einem bunten Vöglein in der Tatze; den Preis über
+    </p>
+    <p xml:id="eco_de_000002_860">
+     alle aber gewann ein würdig blickender grauer Kater mit rauhem, bärtigem
+    </p>
+    <p xml:id="eco_de_000002_870">
+     Antlitz. Ihm wurde in einer Kammer, wo die Kinder spielten, aus Bauholz ein
+    </p>
+    <p xml:id="eco_de_000002_880">
+     eigenes Haus mit Wohn- und Staatsgemächern aufgebaut. Viel Zeit und Mühe war
+    </p>
+    <p xml:id="eco_de_000002_890">
+     darauf verwandt worden; deshalb erhielt es aber auch das Vorrecht, vor dem
+    </p>
+    <p xml:id="eco_de_000002_900">
+     zerstörenden Eulbesen der Köchin durch strenges Verbot geschützt zu werden. Es
+    </p>
+    <p xml:id="eco_de_000002_910">
+     hieß »das Hotel zur schwarzen Anna«; und »der alte Herr«, welchen Namen der
+    </p>
+    <p xml:id="eco_de_000002_920">
+     Graue sich gar bald erworben hatte, hat lange darin gewohnt. Selten nur verließ
+    </p>
+    <p xml:id="eco_de_000002_930">
+     er seine angenehmen Räume; desto lieber, da es ihm an Dienerschaft nicht
+    </p>
+    <p xml:id="eco_de_000002_940">
+     fehlte, versammelte er bei sich die Gesellschaft seiner Freunde und
+    </p>
+    <p xml:id="eco_de_000002_950">
+     Freundinnen. Dann ging es hoch her; wir haben oft durchs Fenster geguckt.
+    </p>
+    <p xml:id="eco_de_000002_960">
+     Fetter Rahm in Tassenschälchen, Bratwürstchen und gebratene Lerchen wurden
+    </p>
+    <p xml:id="eco_de_000002_970">
+     immer aufgetragen; den Ehrenplatz zur Rechten des Gastgebers aber hatte allzeit
+    </p>
+    <p xml:id="eco_de_000002_980">
+     ein allerliebstes weißes Kätzchen mit einem roten Bändchen um den Hals; ob es
+    </p>
+    <p xml:id="eco_de_000002_990">
+     eine Verwandte oder gar die Tochter desselben gewesen, haben wir nicht erfahren
+    </p>
+    <p xml:id="eco_de_000002_1000">
+     können.
+    </p>
+    <p xml:id="eco_de_000002_1020">
+     Außer solchen Festen lebte übrigens der alte Herr still für sich weg; nur
+    </p>
+    <p xml:id="eco_de_000002_1030">
+     manchmal liebte er es, aus seinem Hause auf die Spiele der Kinder in der Kammer
+    </p>
+    <p xml:id="eco_de_000002_1040">
+     hinabzublicken, wozu er die bequemste Gelegenheit hatte, da das Hotel »Zur
+    </p>
+    <p xml:id="eco_de_000002_1050">
+     schwarzen Anna« auf einer Fensterbank erbaut war. Dann stieß wohl eins der
+    </p>
+    <p xml:id="eco_de_000002_1060">
+     Kinder das andre an und flüsterte: »Seht, seht! Der alte Herr steht wieder
+    </p>
+    <p xml:id="eco_de_000002_1070">
+     einmal am Fenster!«
+    </p>
+    <p xml:id="eco_de_000002_1090">
+     Auch seinen Geburtstag sollte er noch erleben. Zu diesem Feste, an welchem alle
+    </p>
+    <p xml:id="eco_de_000002_1100">
+     Kater und Katzen sich zur Gratulation versammeln sollten, bekam ich den
+    </p>
+    <p xml:id="eco_de_000002_1110">
+     Auftrag, sein Brustbild in Lebensgröße zu malen, was dann auch wirklich am
+    </p>
+    <p xml:id="eco_de_000002_1120">
+     Morgen des Festtages, in einen breiten Goldrahmen gefaßt, im Saale des Hotels
+    </p>
+    <p xml:id="eco_de_000002_1130">
+     aufgehangen wurde.
+    </p>
+    <p xml:id="eco_de_000002_1150">
+     Aber es nimmt alles einmal ein Ende. – Da wir eines Morgens aufgestanden waren,
+    </p>
+    <p xml:id="eco_de_000002_1160">
+     fanden wir ihn tot in seinem Bette. Ob er bei dem letzten leckeren Mahle sich
+    </p>
+    <p xml:id="eco_de_000002_1170">
+     zu viel getan, ob die ihm zugemessene Lebensdauer abgelaufen war; – soviel
+    </p>
+    <p xml:id="eco_de_000002_1180">
+     steht fest, was wir hier vor uns sahen, war nur noch seine entseelte Hülle.
+    </p>
+    <p xml:id="eco_de_000002_1200">
+     Also wurde ein Schächtelchen mit schwarzem Papier beklebt und ausgeschlagen und
+    </p>
+    <p xml:id="eco_de_000002_1210">
+     so ein Sarg daraus gemacht. Der alte Herr wurde hineingelegt und stand zur
+    </p>
+    <p xml:id="eco_de_000002_1220">
+     Parade in dem großen Saale des Hotels, wo von der Wand sein noch in aller
+    </p>
+    <p xml:id="eco_de_000002_1230">
+     Lebensfülle gemaltes Bildnis auf den Sarg herabsah.
+    </p>
+    <p xml:id="eco_de_000002_1250">
+     Endlich wurde er auf dem Steinhofe – ach, einen Garten hatten wir da draußen
+    </p>
+    <p xml:id="eco_de_000002_1260">
+     nicht! – in das für ihn gegrabene Grab gesenkt und mit einem schweren Steine
+    </p>
+    <p xml:id="eco_de_000002_1270">
+     fest und dauerhaft bedeckt.
+    </p>
+    <p xml:id="eco_de_000002_1290">
+     – Aber wer möchte nicht gern wissen, wie die Toten aussehen. – Natürlich wurde
+    </p>
+    <p xml:id="eco_de_000002_1300">
+     der alte Herr nach einem halben Jahr wieder ausgegraben, sehr mit Schimmel
+    </p>
+    <p xml:id="eco_de_000002_1310">
+     überzogen vorgefunden, schaudernd und ganz genau betrachtet und dann endlich
+    </p>
+    <p xml:id="eco_de_000002_1320">
+     noch einmal und auch zum allerletzten Mal begraben.
+    </p>
+    <p xml:id="eco_de_000002_1340">
+     Für Kinder und alte Leute, welch ein erlösender Zauber liegt in dem Begraben!
+    </p>
+    <p xml:id="eco_de_000002_1360">
+     In der Heimat zur Zeit der Manschettenmieße, als die zwei ältesten Knaben ihre
+    </p>
+    <p xml:id="eco_de_000002_1370">
+     ersten Kittel noch nicht ausgetragen hatten, als sie für den großen Garten, der
+    </p>
+    <p xml:id="eco_de_000002_1380">
+     am Hause war, mit eignem »Schmierzeug« noch versehen waren – in jener
+    </p>
+    <p xml:id="eco_de_000002_1390">
+     glücklichen Zeit gab es außer Katzen auch noch andres Getier im Hause. Da war
+    </p>
+    <p xml:id="eco_de_000002_1400">
+     ein kleiner weißer Pudel, welcher »Bube« hieß, aber leider trotz des Tierarztes
+    </p>
+    <p xml:id="eco_de_000002_1410">
+     schon früh an einer Hunde-Kinderkrankheit sterben mußte; dann war ein weißes
+    </p>
+    <p xml:id="eco_de_000002_1420">
+     Kaninchen, welches »Nine« hieß, und außerdem noch eine weiße Taube, welche
+    </p>
+    <p xml:id="eco_de_000002_1430">
+     keinen Namen hatte, sonst aber sehr wohl »Federlos« hätte heißen können.
+    </p>
+    <p xml:id="eco_de_000002_1450">
+     In dem geräumigen Taubenschlage auf dem Hausboden hatte sie einst mit vielen
+    </p>
+    <p xml:id="eco_de_000002_1460">
+     schönen Gefährten, Hahnenschwänzen und Mohrenköpfen, gewohnt und sich von dort
+    </p>
+    <p xml:id="eco_de_000002_1470">
+     aus lustig mit ihnen über den grünen Gärten in der Luft getummelt; aber eines
+    </p>
+    <p xml:id="eco_de_000002_1480">
+     Nachts war der Marder eingebrochen, und sie allein blieb die Überlebende. Damit
+    </p>
+    <p xml:id="eco_de_000002_1490">
+     sie in dem großen leeren Schlage nicht allzusehr die Einsamkeit empfinde, wurde
+    </p>
+    <p xml:id="eco_de_000002_1500">
+     das Kaninchen ihr zum Gesellen beigegeben, und da weder dieses von ihren
+    </p>
+    <p xml:id="eco_de_000002_1510">
+     Erbsen, noch sie die Hundeblumenblätter des Kaninchens begehrte, so lebten sie
+    </p>
+    <p xml:id="eco_de_000002_1520">
+     wie Geschwister einträchtiglich beisammen. Wenn die Taube von ihren Ausflügen
+    </p>
+    <p xml:id="eco_de_000002_1530">
+     heimkam, klappte Nine allzeit freudig mit den Hinterkäufen; denn sie spielten
+    </p>
+    <p xml:id="eco_de_000002_1540">
+     dann Greif oder Haschemännchen miteinander, und da das Kaninchen sehr gut
+    </p>
+    <p xml:id="eco_de_000002_1550">
+     greifen konnte, so geschah es dabei ganz von selber, daß es seiner Freundin
+    </p>
+    <p xml:id="eco_de_000002_1560">
+     einen Mund voll Federn nach dem andern abbiß. – So wurde sie das Täubchen
+    </p>
+    <p xml:id="eco_de_000002_1570">
+     »Federlos« und konnte nur noch mit den Posen fliegen.
+    </p>
+    <p xml:id="eco_de_000002_1590">
+     Aber weiter kam es nicht; die Posen sollte sie behalten. Denn da die Knaben
+    </p>
+    <p xml:id="eco_de_000002_1600">
+     eines Morgens in den Schalg hinanstiegen, flatterte das Täubchen Federlos zwar
+    </p>
+    <p xml:id="eco_de_000002_1610">
+     noch um sie herum, Nine aber lag mit ausgestreckten vieren tot und platt am
+    </p>
+    <p xml:id="eco_de_000002_1620">
+     Boden.
+    </p>
+    <p xml:id="eco_de_000002_1640">
+     Eilig stürmten sie die Treppen hinab und verkündeten im Wohnzimmer ihre
+    </p>
+    <p xml:id="eco_de_000002_1650">
+     Trauerkunde, wo ich ahnungslos bei meiner Tasse Tee saß.
+    </p>
+    <p xml:id="eco_de_000002_1670">
+     Wahrscheinlich hatte Nine sich an Taubenfedern totgegessen; indessen ich
+    </p>
+    <p xml:id="eco_de_000002_1680">
+     bedachte solches nicht und sagte ohne viele Umstände: »Da habt ihr's wohl
+    </p>
+    <p xml:id="eco_de_000002_1690">
+     verhungern lassen!«
+    </p>
+    <p xml:id="eco_de_000002_1710">
+     Ob das Gewissen der beiden dennoch nicht ganz rein gewesen? – Aber – hilf
+    </p>
+    <p xml:id="eco_de_000002_1720">
+     Himmel! wie huben auf dieses Wort die kleinen Kerle an zu schreien! Kein Trost,
+    </p>
+    <p xml:id="eco_de_000002_1730">
+     kein Zuspruch half, die Tränen liefen ihnen stromweis über die Backen.
+    </p>
+    <p xml:id="eco_de_000002_1750">
+     Da trat mein Freund, der Doktor – der als Primaner einst so schön die
+    </p>
+    <p xml:id="eco_de_000002_1760">
+     Klarinette spielte – in die Tür. »Hallo! Junges, was ist da los?«
+    </p>
+    <p xml:id="eco_de_000002_1780">
+     Die Augen wandten sich zu dem Sprecher, und einen Augenblick lang stockte das
+    </p>
+    <p xml:id="eco_de_000002_1790">
+     Geheul. »Doktor«, rief der eine im wehmütigsten Klagelaut, »unser Nine ist tot!
+    </p>
+    <p xml:id="eco_de_000002_1800">
+     «
+    </p>
+    <p xml:id="eco_de_000002_1820">
+     »Und wir haben es verhungern lassen!« schrie der andre. – Dann heulten sie
+    </p>
+    <p xml:id="eco_de_000002_1830">
+     beide wieder mit vereinten Kräften.
+    </p>
+    <p xml:id="eco_de_000002_1850">
+     »Jungens!« rief der Doktor. »Euer Nine wird nicht mehr lebendig! Aber wißt ihr
+    </p>
+    <p xml:id="eco_de_000002_1860">
+     denn das nicht? Wenn es tot ist, so müßt ihr es begraben!«
+    </p>
+    <p xml:id="eco_de_000002_1880">
+     Begraben! – Das Zauberwort war gesprochen. Das Geschrei verstummte, die Tränen
+    </p>
+    <p xml:id="eco_de_000002_1890">
+     wurden abgewischt, ein wahres Sonnenleuchten verklärte die Gesichter der beiden
+    </p>
+    <p xml:id="eco_de_000002_1900">
+     Kinder. – Schon waren sie aus dem Zimmer und die Bodentreppe hinauf; und nicht
+    </p>
+    <p xml:id="eco_de_000002_1910">
+     lange, so kamen sie fröhlichen Angesichts mit dem Leichnam ihres Nine
+    </p>
+    <p xml:id="eco_de_000002_1920">
+     angezogen; der eine hatte es an den Ohren, der andre an den Hinterläufen. So
+    </p>
+    <p xml:id="eco_de_000002_1930">
+     zogen wir mitsammen in den Garten hinaus.
+    </p>
+    <p xml:id="eco_de_000002_1950">
+     Als wir auf dem großen Steige waren, begegnete uns die Manschettenmieße. »Miau!
+    </p>
+    <p xml:id="eco_de_000002_1960">
+     « sagte sie, indem sie stehenblieb und uns ansah.
+    </p>
+    <p xml:id="eco_de_000002_1980">
+     Der Zug hielt; und die Kinder sahen sie wieder an. »Mite«, sagte der Kleine,
+    </p>
+    <p xml:id="eco_de_000002_1990">
+     noch einmal in seinen Klageton verfallend, »unser Nine ist tot!«
+    </p>
+    <p xml:id="eco_de_000002_2010">
+     Dann setzte der Zug sich wieder in Bewegung, und Mite machte einen Buckel und
+    </p>
+    <p xml:id="eco_de_000002_2020">
+     sprang mit, um dem Begräbnis beizuwohnen.
+    </p>
+    <p xml:id="eco_de_000002_2040">
+     Der Doktor hatte schon den Spaten in der Hand, und an der Geißblattlaube unter
+    </p>
+    <p xml:id="eco_de_000002_2050">
+     überhängenden Ulmenzweigen wurde nach reiflicher Erwägung die Stätte
+    </p>
+    <p xml:id="eco_de_000002_2060">
+     auserwählt. Da wurde ich von der Magd ins Haus zurückgerufen und überließ dem
+    </p>
+    <p xml:id="eco_de_000002_2070">
+     Doktor allein die Leitung unsrer Trauerfeierlichkeit.
+    </p>
+    <p xml:id="eco_de_000002_2090">
+     Drinnen im Hause erwarteten mich ganz andre Dinge. Da war ein Mann, der hatte
+    </p>
+    <p xml:id="eco_de_000002_2100">
+     einen bösen Schuldner, von dem er weder Kapital noch Zinsen erhalten konnte,
+    </p>
+    <p xml:id="eco_de_000002_2110">
+     und wir sprachen wohl eine halbe Stunde miteinander, auf welche Weise ihm zu
+    </p>
+    <p xml:id="eco_de_000002_2120">
+     beidem zu verhelfen sei.
+    </p>
+    <p xml:id="eco_de_000002_2140">
+     Als ich dann wieder in den Garten hinauskam, war der Doktor nicht mehr da; auch
+    </p>
+    <p xml:id="eco_de_000002_2150">
+     der Körper des verstorbenen Nine war verschwunden, und der Spaten lehnte an der
+    </p>
+    <p xml:id="eco_de_000002_2160">
+     Planke. Die beiden kleinen Totengräber aber – die natürlich ihr Schmierzeug
+    </p>
+    <p xml:id="eco_de_000002_2170">
+     anhatten – lagen neben der Geißblattlaube auf den Knien und hatten einen
+    </p>
+    <p xml:id="eco_de_000002_2180">
+     kleinen seltsam glänzenden Erdhügel zwischen sich, auf dem sie beide eifrig mit
+    </p>
+    <p xml:id="eco_de_000002_2190">
+     ihren rotkarierten Taschentüchern rieben.
+    </p>
+    <p xml:id="eco_de_000002_2210">
+     »Was macht ihr da?« fragte ich, indem ich zu ihnen trat; denn diese Sache war
+    </p>
+    <p xml:id="eco_de_000002_2220">
+     mir völlig unverständlich.
+    </p>
+    <p xml:id="eco_de_000002_2240">
+     Da guckte der Kleine auf. »Papa!« sagte er, und sein Gesicht leuchtete so
+    </p>
+    <p xml:id="eco_de_000002_2250">
+     fröhlich wie droben kaum die liebe Himmelssonne – »wir polieren Nine sein Grab
+    </p>
+    <p xml:id="eco_de_000002_2260">
+     mit Spucke!«
+    </p>
+    <p xml:id="eco_de_000002_2280">
+     – Und also endete dies vergnügliche Begräbnis.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>
