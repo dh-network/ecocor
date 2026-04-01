@@ -7,7 +7,7 @@ markdown syntax into TEI/XML files conforming to the ELTeC schema.
 
 PIPELINE OVERVIEW
 -----------------
-1. Read the metadata Excel table (one row per work).
+1. Read the metadata CSV table (one row per work).
 2. For each row, locate the corresponding `.txt` source file in `ecocorMD/`.
 3. Parse the structural markers in the text and build a TEI/XML tree by
    populating a pre-filled TEI stub (`EcoStub.xml`).
@@ -33,7 +33,7 @@ USAGE
 
 DEPENDENCIES
 ------------
-  beautifulsoup4, pandas, lxml (or html.parser), wikidataintegrator, openpyxl
+  beautifulsoup4, pandas, lxml (or html.parser), wikidataintegrator
 
 OUTPUT
 ------
@@ -44,7 +44,7 @@ OUTPUT
 # Standard-library and third-party imports
 # ---------------------------------------------------------------------------
 from bs4 import BeautifulSoup   # XML/HTML parsing and tree building
-import pandas as pd             # Reading the metadata Excel table
+import pandas as pd             # Reading the metadata CSV table
 import re                       # Regex-based word counting
 import os                       # File-existence checks and path handling
 import wikidataintegrator as wdi  # Querying Wikidata's SPARQL endpoint
@@ -54,8 +54,8 @@ import wikidataintegrator as wdi  # Querying Wikidata's SPARQL endpoint
 # All paths are relative to the `corpus/` directory (the script's working
 # directory).  Edit these if the project layout changes.
 # ---------------------------------------------------------------------------
-METADATA_FILE = "aux/EcoCorMetadataTest26.xlsx"  # Metadata for all works
-MARKDOWN_DIR  = "ecocorMD"                        # Source .txt files
+METADATA_FILE = "aux/Literaturliste_EcoCor_V-2(Quantitativer_Ansatz).csv"  # Metadata for all works
+MARKDOWN_DIR  = "ecocorMD/ecocorMD_files_to_convert"                       # Source .txt files
 TEI_STUB      = "aux/EcoStub.xml"                 # Pre-filled TEI template
 OUTPUT_BASE   = "tei/2026"                         # Root of the output tree
 
@@ -119,14 +119,21 @@ def get_author_correct_format(wikidata_id):
     # Strip the URL prefix if present, leaving just the Q-identifier
     wikidata_id = wikidata_id.replace("https://www.wikidata.org/entity/", "")
 
-    result = query_wikidata_for_author_data(wikidata_id)
-    for item in result["results"]["bindings"]:
-        surname   = item["family_nameLabel"]["value"]
-        given     = item["given_nameLabel"]["value"]
-        yob       = item["dob"]["value"][:4]   # ISO date → keep year only
-        yod       = item["dod"]["value"][:4]
-
-    return f"{surname}, {given} ({yob}-{yod})"
+    try:
+        result = query_wikidata_for_author_data(wikidata_id)
+        bindings = result["results"]["bindings"]
+        if not bindings:
+            print(f"  [WARNING] No Wikidata results for {wikidata_id}")
+            return None
+        item = bindings[0]
+        surname = item["family_nameLabel"]["value"]
+        given   = item["given_nameLabel"]["value"]
+        yob     = item["dob"]["value"][:4]
+        yod     = item["dod"]["value"][:4]
+        return f"{surname}, {given} ({yob}-{yod})"
+    except Exception as e:
+        print(f"  [WARNING] Could not fetch author data for {wikidata_id}: {e}")
+        return None
 
 
 # ---------------------------------------------------------------------------
@@ -314,6 +321,8 @@ class TEI:
         elif self.wikidataidauth not in TEI.authors_formatted:
             # First time we see this author: fetch from Wikidata and cache
             auth_corr_format = get_author_correct_format(self.wikidataidauth)
+            if auth_corr_format is None:
+                auth_corr_format = self.heur_conv(self.author)
             TEI.authors_formatted[self.wikidataidauth] = auth_corr_format
         else:
             # Already cached from an earlier row in the same run
@@ -739,7 +748,7 @@ def main():
     metadata table, regardless of whether this module was imported earlier
     in the same Python session.
     """
-    df = pd.read_excel(METADATA_FILE)
+    df = pd.read_csv(METADATA_FILE, sep=";", encoding="utf-8")
 
     # Rows without a filename value mean "no source text available yet"
     df["Filename"] = df["Filename"].fillna("NoSourceTxt")

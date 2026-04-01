@@ -1,0 +1,3500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_000058" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title ref>
+     Moreau
+    </title>
+    <author ref="https://www.wikidata.org/entity/Q61263">
+     Henschke, Alfred (1890-1928)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     13849
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1915">
+      1915
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2023-03-31">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000058_20">
+    Klabund
+   </p>
+   <p xml:id="eco_de_000058_30">
+    Moreau
+   </p>
+   <p xml:id="eco_de_000058_40">
+    Roman eines Soldaten
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_000058_50">
+     Moreau schlug mit der Hand in die Luft.
+    </p>
+    <p xml:id="eco_de_000058_60">
+     Die Bretagne blendete.
+    </p>
+    <p xml:id="eco_de_000058_70">
+     Mütterliche Güte strich über seine Stirn.
+    </p>
+    <p xml:id="eco_de_000058_80">
+     Seine Wimpern zitterten. Er wollte weinen. Aber er schlief ein.
+    </p>
+    <p xml:id="eco_de_000058_90">
+     Hallo! Welch ein Lärm! Zusammenklang der blechernen Trompeten und hölzernen Schwerter. Schreie der kleinen Puppen mit Muschelaugen und grasgrünen Kleidern. Moreau tritt in die Reihe der Geschwister mit einem Papierhelm und einer Haselnußstaude als Degen.
+    </p>
+    <p xml:id="eco_de_000058_100">
+     Papa blickt über seine Hornbrille von den grauen Akten auf.
+    </p>
+    <p xml:id="eco_de_000058_110">
+     »Was willst du werden, Victor?«
+    </p>
+    <p xml:id="eco_de_000058_120">
+     Moreau salutiert: »General.«
+    </p>
+    <p xml:id="eco_de_000058_130">
+     Man lacht. Soweit man mit einem verstaubten Herzen noch lachen kann. Selbst die Akten lachen.
+    </p>
+    <p xml:id="eco_de_000058_140">
+     »Sieh da, General! Natürlich General! Madame, hören Sie nur, er will General werden! Der Tausend.«
+    </p>
+    <p xml:id="eco_de_000058_150">
+     Am Abend gab es Käse zum Diner.
+    </p>
+    <p xml:id="eco_de_000058_160">
+     Moreau aß keinen Käse.
+    </p>
+    <p xml:id="eco_de_000058_170">
+     Papa setzt die Hornbrille ab. Seine Augen hängen ihm wie Quallen aus dem Gesicht. Pfui, was für häßliche Augen, denkt Moreau.
+    </p>
+    <p xml:id="eco_de_000058_180">
+     »Du mußt den Käse essen.«
+    </p>
+    <p xml:id="eco_de_000058_190">
+     Moreau sah dem Alten starr auf die Stirn:
+    </p>
+    <p xml:id="eco_de_000058_200">
+     »Nein.«
+    </p>
+    <p xml:id="eco_de_000058_210">
+     Der Alte nahm die Haselnußstaude, die heute morgen Moreau als Degen gedient hatte.
+    </p>
+    <p xml:id="eco_de_000058_220">
+     Moreau sprang auf. Ein Puma. Er riß dem Alten den Stock aus der Hand.
+    </p>
+    <p xml:id="eco_de_000058_230">
+     »Mein Schwert,« schrie er, »mein Schwert.«
+    </p>
+    <p xml:id="eco_de_000058_240">
+     Dann warf er sich auf den Boden, biß die Zähne in die Diele und blieb die ganze Nacht so liegen.
+    </p>
+    <p xml:id="eco_de_000058_250">
+     Jeannette ist die Tochter des Bäckermeisters Renoir zu Morlaix.
+    </p>
+    <p xml:id="eco_de_000058_260">
+     Sie ist gleichaltrig mit Moreau, vierzehn Jahr.
+    </p>
+    <p xml:id="eco_de_000058_270">
+     »Ein kleines Weißbrot, bitte«, sagte Moreau. Er spart sich Sous, um Weißbrot zu kaufen.
+    </p>
+    <p xml:id="eco_de_000058_280">
+     Er hat so viel Überfluß an Weißbrot in seiner Schublade, daß er seinen Hund Rire damit zu Tode füttert.
+    </p>
+    <p xml:id="eco_de_000058_290">
+     »Wo ist Ihr kleiner Hund?« fragt Jeannette, ich sehe ihn nicht mehr.«
+    </p>
+    <p xml:id="eco_de_000058_300">
+     »Er ist tot. Er hat zuviel Weißbrot gefressen.«
+    </p>
+    <p xml:id="eco_de_000058_310">
+     Jeannette lacht.
+    </p>
+    <p xml:id="eco_de_000058_320">
+     »Oh, lala ...«
+    </p>
+    <p xml:id="eco_de_000058_330">
+     »Aber Sie leben noch, Victor, Sie essen doch auch ungewöhnlich viel Weißbrot?«
+    </p>
+    <p xml:id="eco_de_000058_340">
+     Man muß den Hund begraben.
+    </p>
+    <p xml:id="eco_de_000058_350">
+     Jeannette pflanzt eine Rose auf seinem Grab.
+    </p>
+    <p xml:id="eco_de_000058_360">
+     Ihre Hände begegnen sich.
+    </p>
+    <p xml:id="eco_de_000058_370">
+     Moreau packt sie an den Handgelenken.
+    </p>
+    <p xml:id="eco_de_000058_380">
+     Glück einer Sekunde. Glück einer Ewigkeit. Sterne läuten von allen Türmen.
+    </p>
+    <p xml:id="eco_de_000058_390">
+     Die kleine Kathedrale von Morlaix dröhnt.
+    </p>
+    <p xml:id="eco_de_000058_400">
+     Die Wälder sind voll Echo.
+    </p>
+    <p xml:id="eco_de_000058_410">
+     Der Himmel schlägt wie Meer rauschend an die Gestade seiner Brust.
+    </p>
+    <p xml:id="eco_de_000058_420">
+     Victor! Viktoria! Sieg!
+    </p>
+    <p xml:id="eco_de_000058_430">
+     Die Gartentür knarrt.
+    </p>
+    <p xml:id="eco_de_000058_440">
+     Jeannette ist nicht mehr da.
+    </p>
+    <p xml:id="eco_de_000058_450">
+     Er sinkt an einen Baum.
+    </p>
+    <p xml:id="eco_de_000058_460">
+     Die rauhe Rinde schneidet in seine Stirn.
+    </p>
+    <p xml:id="eco_de_000058_470">
+     Himmel, ein Zeichen! Gib ein Zeichen!
+    </p>
+    <p xml:id="eco_de_000058_480">
+     Winde verdüstern den Glanz.
+    </p>
+    <p xml:id="eco_de_000058_490">
+     Eine Wolke platzt donnernd.
+    </p>
+    <p xml:id="eco_de_000058_500">
+     Regen rast.
+    </p>
+    <p xml:id="eco_de_000058_510">
+     Moreau läuft durch den Garten.
+    </p>
+    <p xml:id="eco_de_000058_520">
+     Von den Nelken zu den Rosen.
+    </p>
+    <p xml:id="eco_de_000058_530">
+     Von den Rosen zu den Aprikosenbäumen. Zum Salatbeet. Zu den Kartoffeläckern, draußen, wo der braune Fluß der Felder strömt.
+    </p>
+    <p xml:id="eco_de_000058_540">
+     Die Strähnen schwarz und feucht in die Stirne hängend, verglommen und beklommen, tritt er ins Haus. Seine blaue Bluse klatscht am Körper. An seinen Sandalen klebt Lehm und Wiese.
+    </p>
+    <p xml:id="eco_de_000058_550">
+     Seine Augen sind betaut vom Regen wie zwei violette Blüten.
+    </p>
+    <p xml:id="eco_de_000058_560">
+     Madame ist entsetzt.
+    </p>
+    <p xml:id="eco_de_000058_570">
+     »Aber Victor, du blutest ja an der Stirn!«
+    </p>
+    <p xml:id="eco_de_000058_580">
+     Sie eilt, ein nasses Tuch zu holen.
+    </p>
+    <p xml:id="eco_de_000058_590">
+     Er sieht in den Spiegel: ein schmales rotes Kreuz ist in seine Stirn gepreßt. Ein Kreuz, wie es die schlanken Bäuerinnen Sonntags zum Kirchgang an einer silbernen Kette um den Hals tragen.
+    </p>
+    <p xml:id="eco_de_000058_600">
+     Der Baum! Jeannette! Das Zeichen!
+    </p>
+    <p xml:id="eco_de_000058_610">
+     »Nicht stillen, die Wunde! Mutter! Nicht stillen! Laß das Blut laufen!«
+    </p>
+    <p xml:id="eco_de_000058_620">
+     Seine Augen rollen wild und groß.
+    </p>
+    <p xml:id="eco_de_000058_630">
+     Madame fürchtet sich. Vor Stolz.
+    </p>
+    <p xml:id="eco_de_000058_640">
+     Er wird groß, ihr Junge. Er erwächst.
+    </p>
+    <p xml:id="eco_de_000058_650">
+     Sie erzählt es am Abend ihrem Gatten.
+    </p>
+    <p xml:id="eco_de_000058_660">
+     »Victor müßte ein Ritter werden.«
+    </p>
+    <p xml:id="eco_de_000058_670">
+     »Warum? Es gibt keine Ritter mehr.«
+    </p>
+    <p xml:id="eco_de_000058_680">
+     Sie blätterte in ihrer zierlichen Anthologie französischer Verse.
+    </p>
+    <p xml:id="eco_de_000058_690">
+     »Er ist tapfer und fromm.«
+    </p>
+    <p xml:id="eco_de_000058_700">
+     »Fromm?«
+    </p>
+    <p xml:id="eco_de_000058_710">
+     »Er betet jeden Abend zu Gott.«
+    </p>
+    <p xml:id="eco_de_000058_720">
+     »Zu welchem Gott? Voltaire hat die Götter abgeschafft.«
+    </p>
+    <p xml:id="eco_de_000058_730">
+     »Voltaire ist ein Dichter und braucht keinen Gott. Sein Stil ist sein Gott. Ihm mag's genügen. Aber du bist ein Advokat. Wenn du keinen Gott hast, was hast du dann?«
+    </p>
+    <p xml:id="eco_de_000058_740">
+     Er schob die Hornbrille auf die Stirn.
+    </p>
+    <p xml:id="eco_de_000058_750">
+     »Ich habe dich, meine Teure.«
+    </p>
+    <p xml:id="eco_de_000058_760">
+     Zärtlich führte er ihre Hand an seine Lippen.
+    </p>
+    <p xml:id="eco_de_000058_770">
+     Sie lächelte.
+    </p>
+    <p xml:id="eco_de_000058_780">
+     »Ich lasse mich gern durch Komplimente aufklären, aber bitte, versuch' es nicht mit Diderot bei mir. Und gönne Victor seinen Gott. Er wird schwer genug an ihm zu tragen haben. So schwer, wie eine Mutter an ihrem Kinde trägt.«
+    </p>
+    <p xml:id="eco_de_000058_790">
+     Der Advokat hörte nicht hin.
+    </p>
+    <p xml:id="eco_de_000058_800">
+     »Ich bin müde, Madame. Das Licht, bitte.«
+    </p>
+    <p xml:id="eco_de_000058_810">
+     Sonderbar, dachte sie: er ist das Sinnbild einer ganzen Generation, die müde wurde und die sich mit einer Kerze zum Schlaf geleiten läßt. Und nur bei einem öligen Nachtlicht schlafen kann.
+    </p>
+    <p xml:id="eco_de_000058_820">
+     Victor, glaube ich, fühlt sich wohler im Dunkeln.
+    </p>
+    <p xml:id="eco_de_000058_830">
+     Victor nimmt, siebzehnjährig, Dienst in einem Infanterieregiment. Er schläft mit fünfzig in einem Saal.
+    </p>
+    <p xml:id="eco_de_000058_840">
+     Der Geruch der vielen Männer betäubt ihn.
+    </p>
+    <p xml:id="eco_de_000058_850">
+     Wie ihn einst der Erdgeruch betäubte, als er mit Jeannette ins Gras sank.
+    </p>
+    <p xml:id="eco_de_000058_860">
+     Wie roch eigentlich Jeannette?
+    </p>
+    <p xml:id="eco_de_000058_870">
+     Er wußte es nicht mehr.
+    </p>
+    <p xml:id="eco_de_000058_880">
+     Oder: doch. Sie duftete wie leichter, ganz leichter Südwind.
+    </p>
+    <p xml:id="eco_de_000058_890">
+     Die Männer nahmen ihn in ihre Mitte.
+    </p>
+    <p xml:id="eco_de_000058_900">
+     Er war nun selbst ein Mann.
+    </p>
+    <p xml:id="eco_de_000058_910">
+     Das machte ihn stark.
+    </p>
+    <p xml:id="eco_de_000058_920">
+     Jeden Morgen um fünf tönte die Reveille.
+    </p>
+    <p xml:id="eco_de_000058_930">
+     Er sprang zur Tür und sah nach dem Wetter.
+    </p>
+    <p xml:id="eco_de_000058_940">
+     Rosengrau dämmerte der Osten. Der Horizont lag leer und unausgefüllt da wie ein schlaffer Schlauch.
+    </p>
+    <p xml:id="eco_de_000058_950">
+     Der Schritt der Schildwache tickte wie eine Uhr regelmäßig im Hof.
+    </p>
+    <p xml:id="eco_de_000058_960">
+     Ein alter Korporal stand am Brunnen und wusch sich.
+    </p>
+    <p xml:id="eco_de_000058_970">
+     Er stand vollkommen nackt, mit weißem, triefendem Bart wie Poseidon.
+    </p>
+    <p xml:id="eco_de_000058_980">
+     »Ah, mein kleiner Moreau. Sieh da. Gut geschlafen?«
+    </p>
+    <p xml:id="eco_de_000058_990">
+     Moreau hatte schlecht geschlafen.
+    </p>
+    <p xml:id="eco_de_000058_1000">
+     Moreau hatte geträumt.
+    </p>
+    <p xml:id="eco_de_000058_1010">
+     Die Narbe auf meiner Stirn läßt mich nicht ruhen.
+    </p>
+    <p xml:id="eco_de_000058_1020">
+     Ich muß wie Jesus Christ mein Kreuz tragen.
+    </p>
+    <p xml:id="eco_de_000058_1030">
+     »Korporal, bitte, betrachten Sie meine Stirn. Blutet sie nicht?«
+    </p>
+    <p xml:id="eco_de_000058_1040">
+     Der Korporal prustete sich an ihn heran.
+    </p>
+    <p xml:id="eco_de_000058_1050">
+     »Du träumst, mein Junge.«
+    </p>
+    <p xml:id="eco_de_000058_1060">
+     Moreau trat an den Brunnen. Er pumpte sich einen Kübel voll.
+    </p>
+    <p xml:id="eco_de_000058_1070">
+     Wie er ihn hochhob, war die Sonne aufgegangen, und ihm schien, als gösse er sich die Sonne übers Genick, so brannte ihn das eiskalte Wasser.
+    </p>
+    <p xml:id="eco_de_000058_1080">
+     Moreau war ein Soldat des Königs.
+    </p>
+    <p xml:id="eco_de_000058_1090">
+     Eines Tages sah er ihn von ferne: ein matter Mensch mit eleganten, nachlässigen Augen und einem funkelnden Dreispitz.
+    </p>
+    <p xml:id="eco_de_000058_1100">
+     Seine linke Hand hing bösartig wie eine Schlange über den Wagenschlag.
+    </p>
+    <p xml:id="eco_de_000058_1110">
+     Zu seiner Seite saß eine dicke, blond und rosa bemalte Puppe.
+    </p>
+    <p xml:id="eco_de_000058_1120">
+     Ein dünnes Lächeln war ihm mit ganz feinem Pinsel um die Mundwinkel gezogen.
+    </p>
+    <p xml:id="eco_de_000058_1130">
+     Moreau grüßte.
+    </p>
+    <p xml:id="eco_de_000058_1140">
+     »Seine Mätresse«, sagte Moreaus Kamerad, ein welterfahrener Spanier kreolischen Geblütes, und spuckte aus. »Er hat hundert. Oder auch tausend. Wie es ihm beliebt. Und es beliebt ihm.«
+    </p>
+    <p xml:id="eco_de_000058_1150">
+     »Sind sie alle so dick?« fragte Moreau betroffen und schon angewidert von einer Majestät, die ihm einst dünkte, wie ein Gestirn über den Menschen zu schweben.
+    </p>
+    <p xml:id="eco_de_000058_1160">
+     »Sie sind alle so dick«, schnaubte der Spanier. »Und die meisten sind noch viel dicker.«
+    </p>
+    <p xml:id="eco_de_000058_1170">
+     Ein fades, süßliches Aroma strömte durch die Allee.
+    </p>
+    <p xml:id="eco_de_000058_1180">
+     »Sind das die Linden?« fragte Moreau.
+    </p>
+    <p xml:id="eco_de_000058_1190">
+     »Junge: die Linden blühen noch nicht. Das ist die Mätresse des Königs, die so duftet.«
+    </p>
+    <p xml:id="eco_de_000058_1200">
+     Moreau trat hinter eine Hecke und erbrach.
+    </p>
+    <p xml:id="eco_de_000058_1210">
+     Der Spanier wiegte sich erheitert in den Hüften.
+    </p>
+    <p xml:id="eco_de_000058_1220">
+     Moreau dachte, was für einen ehrlichen starken Geruch die fünfzig Mann in seinem Schlafsaal haben.
+    </p>
+    <p xml:id="eco_de_000058_1230">
+     Sie riechen, wie Männer riechen sollen. Wie es die Natur ihnen zugeeignet hat.
+    </p>
+    <p xml:id="eco_de_000058_1240">
+     Was sollte er mit Frauen: er, ein Soldat, der den Geruch der Erde, der Männer, des Weines, des Blutes und der Pferde liebte?
+    </p>
+    <p xml:id="eco_de_000058_1250">
+     Er würde nie mehr eine Frau berühren.
+    </p>
+    <p xml:id="eco_de_000058_1260">
+     Er erinnerte sich an Jeannette.
+    </p>
+    <p xml:id="eco_de_000058_1270">
+     Aber Jeannette war dürr wie ein Knabe gewesen.
+    </p>
+    <p xml:id="eco_de_000058_1280">
+     Und sie hatte geduftet: fern und leicht wie ein leiser Südwind.
+    </p>
+    <p xml:id="eco_de_000058_1290">
+     Einige Tage später brachte der Spanier, der immer allerlei Neuigkeiten wußte, eine Nachricht in die Kaserne, die nur vorsichtig und im Flüsterton verbreitet werden durfte.
+    </p>
+    <p xml:id="eco_de_000058_1300">
+     Moreau erfuhr sie nachmittags in einer Taverne, wo er mit dem alten Korporal und einem jungen Fähnrich, namens Rapatel, beim Roten hockte und würfelte.
+    </p>
+    <p xml:id="eco_de_000058_1310">
+     Un ... deux ... trois ...
+    </p>
+    <p xml:id="eco_de_000058_1320">
+     Moreau knallte den Becher auf die Tischplatte.
+    </p>
+    <p xml:id="eco_de_000058_1330">
+     Dix-huit.
+    </p>
+    <p xml:id="eco_de_000058_1340">
+     »Achtzehn! Holla! Das ist meine Zahl, achtzehn Augen beim Würfeln! Achtzehn Jahre bin ich alt!«
+    </p>
+    <p xml:id="eco_de_000058_1350">
+     »Und achtzehn Mädchen hast du lieb«, scherzte der junge Fähnrich.
+    </p>
+    <p xml:id="eco_de_000058_1360">
+     Moreau verdunkelte sich.
+    </p>
+    <p xml:id="eco_de_000058_1370">
+     Der Fähnrich errötete hilflos. Da kam der Spanier, griff nach dem Becher, schlug um: sechzehn.
+    </p>
+    <p xml:id="eco_de_000058_1380">
+     »Ludwig XVI.«
+    </p>
+    <p xml:id="eco_de_000058_1390">
+     Er warf sein Gesicht in Falten und murmelte hinein:
+    </p>
+    <p xml:id="eco_de_000058_1400">
+     »Es ist der letzte Ludwig, glaubt mir.«
+    </p>
+    <p xml:id="eco_de_000058_1410">
+     Moreau stand auf:
+    </p>
+    <p xml:id="eco_de_000058_1420">
+     »Ich bin ein Soldat des Königs.«
+    </p>
+    <p xml:id="eco_de_000058_1430">
+     Der Spanier erregte sich nicht sonderlich und lachte tief aus der Brust heraus:
+    </p>
+    <p xml:id="eco_de_000058_1440">
+     »Da bist du was Besonderes. Hör' zu.«
+    </p>
+    <p xml:id="eco_de_000058_1450">
+     Sein Gesicht fiel wieder in Falten. Seine Stimme wisperte wie eine Grille:
+    </p>
+    <p xml:id="eco_de_000058_1460">
+     »Der König hat gestern seinen Kammerdiener Maurice erstochen. Er beschuldigte ihn delikater Beziehungen zur Gräfin Saiten.«
+    </p>
+    <p xml:id="eco_de_000058_1470">
+     Moreau taumelte an die Wand.
+    </p>
+    <p xml:id="eco_de_000058_1480">
+     »Die Gräfin Saiten – war das jene dicke Dame im Wagen, vorgestern?«
+    </p>
+    <p xml:id="eco_de_000058_1490">
+     Der Spanier feixte.
+    </p>
+    <p xml:id="eco_de_000058_1500">
+     »Dieselbe, die dir Magenbeschwerden verursachte. Eine Deutsche. Eine Deutsche kann einem schon Magenbeschwerden verursachen. Ein dummer Kerl, dieser Maurice, verliebt sich in einen garnierten Schweinskopf.«
+    </p>
+    <p xml:id="eco_de_000058_1510">
+     Moreau lehnte hilflos an der steinernen Wand.
+    </p>
+    <p xml:id="eco_de_000058_1520">
+     Er löste sich auf in den Stein, der ihn stützte.
+    </p>
+    <p xml:id="eco_de_000058_1530">
+     »Erstochen sagst du?« Moreau weinte wie ein Kind. »Der König hat seinen Diener erstochen?«
+    </p>
+    <p xml:id="eco_de_000058_1540">
+     »Erstochen«,flüsterte der Spanier unter seinem Hut. »Es ist eine böse Zeit.«
+    </p>
+    <p xml:id="eco_de_000058_1550">
+     Moreau zog seinen Degen und warf ihn schmetternd auf den Tisch, daß die Flasche barst und der Wein wie Blut über den Stahl rann.
+    </p>
+    <p xml:id="eco_de_000058_1560">
+     »Ich bin nicht mehr des Königs Soldat. Der König hat meinen Degen entweiht. Entweiht die Waffe des reinen Kampfes. Ich bin Soldat. Aber kein Mörder. Und diene keinem Mörder. Brüder, lebt wohl!«
+    </p>
+    <p xml:id="eco_de_000058_1570">
+     Er stürmte zur Tür hinaus in die Nacht, die ihn verschlang.
+    </p>
+    <p xml:id="eco_de_000058_1580">
+     »Ein moralisches Huhn«, sagte der Spanier.
+    </p>
+    <p xml:id="eco_de_000058_1590">
+     »Aber Frankreich ist voll davon. Ein ganzer Hühnerhof. Es werden bald mehr solcher Gockel zu Sonnenaufgang krähen.« Der junge Fähnrich war erbleicht: »Er spricht zuviel aus seinem Herzen.« – Der alte Korporal drehte an seinem weißen Barte.
+    </p>
+    <p xml:id="eco_de_000058_1600">
+     Moreau nahm seinen Abschied vom Militär und wandte sich dem Studium der Rechtswissenschaft zu.
+    </p>
+    <p xml:id="eco_de_000058_1610">
+     Es muß Gerechtigkeit auf Erden geben, auch wenn Könige ihre Diener ermorden.
+    </p>
+    <p xml:id="eco_de_000058_1620">
+     Er studierte zu Rennes.
+    </p>
+    <p xml:id="eco_de_000058_1630">
+     Er war der eifrigste Student, den man seit Jahren gesehen hatte.
+    </p>
+    <p xml:id="eco_de_000058_1640">
+     Er entwarf einen Code der Menschlichkeit.
+    </p>
+    <p xml:id="eco_de_000058_1650">
+     Und auf den Umschlag schrieb er: Tapfer und fromm.
+    </p>
+    <p xml:id="eco_de_000058_1660">
+     Und wußte nicht, daß das ein Wort sei, das seine Mutter einst von ihm gesagt hatte.
+    </p>
+    <p xml:id="eco_de_000058_1670">
+     Kinder reden oft die Sprache ihrer Mutter, ohne es zu wissen.
+    </p>
+    <p xml:id="eco_de_000058_1680">
+     Nächtelang grübelte er über den Entwurf zu einem Kriegsrecht und zu einem Recht des Belagerungszustandes.
+    </p>
+    <p xml:id="eco_de_000058_1690">
+     Der Krieg ist für die Menschen da, aber nicht die Menschen für den Krieg. Der Soldat ist für das Volk, aber nicht das Volk für den Soldaten da.
+    </p>
+    <p xml:id="eco_de_000058_1700">
+     Als Moreau zum erstenmal einen farbigen Begriff vom Volk empfand, stand er auf dem Balkon seines Zimmers in Rennes und sah unten im Frühling eine Prozession schreiten. Wallendes Rot, schreitendes Blau, klingendes Gold. Männer, Frauen, Kinder.
+    </p>
+    <p xml:id="eco_de_000058_1710">
+     Volk, schrie es in ihm, ich will dein Soldat werden.
+    </p>
+    <p xml:id="eco_de_000058_1720">
+     König Volk. Ein Volkssoldat. Ein Gottessoldat.
+    </p>
+    <p xml:id="eco_de_000058_1730">
+     Moreau entwarf den Plan zu einer Nationalgarde. Der Stand des Kriegers und des Bürgers sollte vereinigt werden.
+    </p>
+    <p xml:id="eco_de_000058_1740">
+     Furcht vor den französischen Waffen, aber Achtung vor seinem Charakter heißt es fordern.
+    </p>
+    <p xml:id="eco_de_000058_1750">
+     La printanière.
+    </p>
+    <p xml:id="eco_de_000058_1760">
+     Moreau ist zwanzig Jahr. Er war Soldat. Er studierte die Pandekten. Aber er fühlt den Frühling.
+    </p>
+    <p xml:id="eco_de_000058_1770">
+     Blumen blühen plötzlich unter allen Schritten. Schmetterlinge hüpfen wie Marionetten.
+    </p>
+    <p xml:id="eco_de_000058_1780">
+     Alle Geräusche der Luft werden Lieder.
+    </p>
+    <p xml:id="eco_de_000058_1790">
+     Vogelgezwitscher schwärmt um die Dächer.
+    </p>
+    <p xml:id="eco_de_000058_1800">
+     Die Stadt singt. Die Bäume wandern.
+    </p>
+    <p xml:id="eco_de_000058_1810">
+     Mädchen flattern erregt wie Fledermäuse durchs Dunkel. Der Abend rauscht.
+    </p>
+    <p xml:id="eco_de_000058_1820">
+     Alte Herren mit silbernen Barten stampfen versonnen durch einen hellen Morgen.
+    </p>
+    <p xml:id="eco_de_000058_1830">
+     Die Studenten veranstalten ein Frühlingsfest.
+    </p>
+    <p xml:id="eco_de_000058_1840">
+     La printanière.
+    </p>
+    <p xml:id="eco_de_000058_1850">
+     In der Lichtung des Waldes sind Tische und Bänke aufgeschlagen.
+    </p>
+    <p xml:id="eco_de_000058_1860">
+     Wohlwollend promenieren Bürger und Bürgerin.
+    </p>
+    <p xml:id="eco_de_000058_1870">
+     Professoren lachen schrill wie Wellensittiche.
+    </p>
+    <p xml:id="eco_de_000058_1880">
+     Die jungen Mädchen wandeln zu zweien in Weiß. Gleich Göttinnen einer fernen Zeit.
+    </p>
+    <p xml:id="eco_de_000058_1890">
+     Sanft und schön wie Dryaden oder Nymphen.
+    </p>
+    <p xml:id="eco_de_000058_1900">
+     Alle Mädchen sind schön. Schlank und süß.
+    </p>
+    <p xml:id="eco_de_000058_1910">
+     Gibt es überhaupt häßliche Frauen? denkt Moreau erstaunt.
+    </p>
+    <p xml:id="eco_de_000058_1920">
+     Die Studenten singen:
+    </p>
+    <p xml:id="eco_de_000058_1930">
+     Wenn man zwanzig ist Mundet der Wein. Wenn man zwanzig ist Wohl auch die Liebe...
+    </p>
+    <p xml:id="eco_de_000058_1940">
+     Nachsichtig applaudieren Bürger und Bürgerin.
+    </p>
+    <p xml:id="eco_de_000058_1950">
+     Die Professoren lachten schrill, als hätten sie eine obszöne Anekdote angehört oder als belauschten sie Susanna im Bade.
+    </p>
+    <p xml:id="eco_de_000058_1960">
+     Die jungen Mädchen stehen stumm im Halbkreis: schlank und sanft.
+    </p>
+    <p xml:id="eco_de_000058_1970">
+     Moreau findet sich zu einer jungen Dame mit Veilchen im Haar und spaziert mit ihr zwischen den Bäumen.
+    </p>
+    <p xml:id="eco_de_000058_1980">
+     Sie gelangen auf eine Waldschneise.
+    </p>
+    <p xml:id="eco_de_000058_1990">
+     »Wohin führt der Weg?« fragt die Dame.
+    </p>
+    <p xml:id="eco_de_000058_2000">
+     Moreau weiß es nicht, aber er besinnt sich, daß er Esprit zeigen muß, um die junge Dame nicht zu enttäuschen, und sagt: »Alle Wege führen zu uns selbst, Mademoiselle.«
+    </p>
+    <p xml:id="eco_de_000058_2010">
+     Die junge Dame kaut einen Farnhalm zwischen ihren zagen Zähnen.
+    </p>
+    <p xml:id="eco_de_000058_2020">
+     »Aber wissen wir denn, wer wir sind, wir?«
+    </p>
+    <p xml:id="eco_de_000058_2030">
+     »Jeder Mensch ist ein Rätsel,« sagt Moreau, »und was Sie betrifft, Demoiselle, möchte ich mir wohl zumuten, es zu lösen.«
+    </p>
+    <p xml:id="eco_de_000058_2040">
+     Die Dame erschrickt.
+    </p>
+    <p xml:id="eco_de_000058_2050">
+     Sie wehrt mit der linken Hand seine Augen ab.
+    </p>
+    <p xml:id="eco_de_000058_2060">
+     Sie verharrt in ihrer abwehrend entrückten Stellung.
+    </p>
+    <p xml:id="eco_de_000058_2070">
+     Er will eine gleichgültige Konversation anknüpfen. Da sieht er, wie Träne auf Träne aus ihren leeren, nach innen gewandten Augen tropft.
+    </p>
+    <p xml:id="eco_de_000058_2080">
+     Moreau schlingt verlegen den Arm um ihre Hüfte.
+    </p>
+    <p xml:id="eco_de_000058_2090">
+     »Demoiselle – was ist Ihnen? Habe ich Sie beleidigt?«
+    </p>
+    <p xml:id="eco_de_000058_2100">
+     Sie lächelt unter Tränen.
+    </p>
+    <p xml:id="eco_de_000058_2110">
+     »Sie erkennen mich nicht?«
+    </p>
+    <p xml:id="eco_de_000058_2120">
+     Moreau stürmt sein Leben zurück.
+    </p>
+    <p xml:id="eco_de_000058_2130">
+     Er erkennt die junge Dame nicht. Er weiß, daß sie vielleicht eine anmutige Freundin sein würde, eine zärtliche Gespielin der Liebe. Aber er erkennt sie nicht.
+    </p>
+    <p xml:id="eco_de_000058_2140">
+     Sie weint und lacht.
+    </p>
+    <p xml:id="eco_de_000058_2150">
+     »Ich bin Jeannette!«
+    </p>
+    <p xml:id="eco_de_000058_2160">
+     Er begreift, daß er kein Gedächtnis für Frauen hat, weil er ein Soldat ist, ein Soldat Gottes, ein Soldat des Volkes. Pferde- und Hunde-Physiognomien vergißt er nie.
+    </p>
+    <p xml:id="eco_de_000058_2170">
+     Sie ist ein Engel. Warum vergaß er sie?
+    </p>
+    <p xml:id="eco_de_000058_2180">
+     »Ich bin Jeannette«, wiederholte sie und suchte nach seiner Hand, »und bin sehr unglücklich ...«
+    </p>
+    <p xml:id="eco_de_000058_2190">
+     Je länger sie spricht, desto heimatlicher wird er mit ihr vertraut.
+    </p>
+    <p xml:id="eco_de_000058_2200">
+     Er hat nie mit einer Frau gesprochen, wie er mit einem Mann sprechen würde.
+    </p>
+    <p xml:id="eco_de_000058_2210">
+     Und diese Frau spricht mit ihm, als sei er eine Frau: ohne Scham, ohne Hemmnis, ohne Bedenken.
+    </p>
+    <p xml:id="eco_de_000058_2220">
+     Sie sei schon einige Monate in Rennes. Ob er das wisse?
+    </p>
+    <p xml:id="eco_de_000058_2230">
+     Nein, er wußte es nicht. Und da er von ihrer Ehrlichkeit bezwungen wurde, sagte er, er habe auch gar nicht mehr an sie gedacht.
+    </p>
+    <p xml:id="eco_de_000058_2240">
+     Jeannette zuckte ein wenig zusammen.
+    </p>
+    <p xml:id="eco_de_000058_2250">
+     Dann fuhr sie fort: Sie sei hier, um den Haushalt zu lernen, bei Madame Bompard, einer entfernten Verwandten. Madame Bompard wohne in der Rue du Portier. Erinnere er sich des kleinen, einstöckigen, weinbelaubten Hauses inmitten des sauber gepflegten englischen Gartens?
+    </p>
+    <p xml:id="eco_de_000058_2260">
+     Madame Bompard vermiete an Studenten.
+    </p>
+    <p xml:id="eco_de_000058_2270">
+     Unter den Studenten war einer mit blonden Locken und weichen Händen. Einer von jenen Brutalen der Sensibilität. Ein Welschschweizer.
+    </p>
+    <p xml:id="eco_de_000058_2280">
+     Er sei ihr täglich um die Schürze gestrichen. Stündlich.
+    </p>
+    <p xml:id="eco_de_000058_2290">
+     Und endlich habe sie sich nicht mehr zu helfen gewußt.
+    </p>
+    <p xml:id="eco_de_000058_2300">
+     Er habe ihr die Ehe versprochen. Ganz gewiß, das habe er getan. Und da sei sie ihm verfallen. –
+    </p>
+    <p xml:id="eco_de_000058_2310">
+     Moreau stöhnt dumpf wie ein gepeinigtes Tier.
+    </p>
+    <p xml:id="eco_de_000058_2320">
+     »Und?« fragt er. »Und?«
+    </p>
+    <p xml:id="eco_de_000058_2330">
+     »– Ich werde ein Kind bekommen«, sagt sie leiser und neigt den Kopf. Die Veilchen fallen ihr aus den Haaren.
+    </p>
+    <p xml:id="eco_de_000058_2340">
+     »Ich bin entehrt. Er hat mich schon verlassen ...«
+    </p>
+    <p xml:id="eco_de_000058_2350">
+     Moreau sprang wie ein brünstiger Hirsch brüllend durch das Dickicht, den Welschschweizer zu suchen.
+    </p>
+    <p xml:id="eco_de_000058_2360">
+     Gerechtigkeit!
+    </p>
+    <p xml:id="eco_de_000058_2370">
+     Studiere ich darum Recht, um es nirgends zu finden?
+    </p>
+    <p xml:id="eco_de_000058_2380">
+     Er kannte den Welschschweizer.
+    </p>
+    <p xml:id="eco_de_000058_2390">
+     Er mußte ihn finden.
+    </p>
+    <p xml:id="eco_de_000058_2400">
+     Er sah ihn mit einem alten Professor, der wie eine Turteltaube gurrte, in gelehrtem Gespräch sich seitwärts des Festes ergehen.
+    </p>
+    <p xml:id="eco_de_000058_2410">
+     Mit einem Schrei riß er ihn zu sich heran und zwang ihn hinter ein Gebüsch.
+    </p>
+    <p xml:id="eco_de_000058_2420">
+     »Lump, wirst du mir Rechenschaft geben?«
+    </p>
+    <p xml:id="eco_de_000058_2430">
+     Der Welschschweizer ertrug zitternd den Schimpf.
+    </p>
+    <p xml:id="eco_de_000058_2440">
+     »Wofür?«
+    </p>
+    <p xml:id="eco_de_000058_2450">
+     »Für Jeannette.«
+    </p>
+    <p xml:id="eco_de_000058_2460">
+     Da straffte sich seine weiche Gestalt.
+    </p>
+    <p xml:id="eco_de_000058_2470">
+     Seine blonden Locken glänzten kupfern.
+    </p>
+    <p xml:id="eco_de_000058_2480">
+     Seine zarten Hände wurden hart.
+    </p>
+    <p xml:id="eco_de_000058_2490">
+     »Gern«, er verneigte sich höflich.
+    </p>
+    <p xml:id="eco_de_000058_2500">
+     Sie zogen ihre Degen.
+    </p>
+    <p xml:id="eco_de_000058_2510">
+     Moreau erfuhr, daß er einen ebenbürtigen Gegner vor sich hatte.
+    </p>
+    <p xml:id="eco_de_000058_2520">
+     Ein Lump – nun gewiß – aber ein Lump, der auf der Stelle für sich einsteht.
+    </p>
+    <p xml:id="eco_de_000058_2530">
+     Im zehnten Gang stieß Moreau ihm das Florett in die rechte Achselhöhle.
+    </p>
+    <p xml:id="eco_de_000058_2540">
+     Der Schweizer erblaßte und klappte in die Knie.
+    </p>
+    <p xml:id="eco_de_000058_2550">
+     Moreau holte einen Arzt und Träger.
+    </p>
+    <p xml:id="eco_de_000058_2560">
+     Als er zurückkam, fand er Jeannette bei dem Welschschweizer.
+    </p>
+    <p xml:id="eco_de_000058_2570">
+     Mit ihrem Brusttuch stillte sie die Wunde und schluchzte jubelnd.
+    </p>
+    <p xml:id="eco_de_000058_2580">
+     Angeekelt und voller Zweifel über das Weib und das Recht des Weibes kehrte er in das Fest zurück.
+    </p>
+    <p xml:id="eco_de_000058_2590">
+     Er hatte sich gerade einen Becher Roten geben lassen, als Geschrei von der Stadt her die Menschen aufmerken und sich zusammenrotten ließ.
+    </p>
+    <p xml:id="eco_de_000058_2600">
+     Ein Reiter galoppierte auf einem Maultier gegen den Wald an.
+    </p>
+    <p xml:id="eco_de_000058_2610">
+     »Es ist Krieg,« schrie er von weitem, »Krieg. Österreich hat uns den Krieg erklärt ...«
+    </p>
+    <p xml:id="eco_de_000058_2620">
+     Das Volk fiel zusammen und auseinander.
+    </p>
+    <p xml:id="eco_de_000058_2630">
+     Krieg ... Krieg ... Krieg rollte das Wort wie ein Kugelblitz durch das Fest, Donner des Volkes hinter sich verbreitend.
+    </p>
+    <p xml:id="eco_de_000058_2640">
+     Moreau lehnte an einem Baum.
+    </p>
+    <p xml:id="eco_de_000058_2650">
+     Er gedachte des Zeichens an seiner Stirn.
+    </p>
+    <p xml:id="eco_de_000058_2660">
+     Er hatte heute seinen ersten Feind besiegt – oh: nein, den zweiten, der König war sein erster Feind gewesen – und war doch unterlegen, weil eine Frau ihn verraten hatte.
+    </p>
+    <p xml:id="eco_de_000058_2670">
+     »Alle Frauen sind Spione des Feindes«, sagte er.
+    </p>
+    <p xml:id="eco_de_000058_2680">
+     Der Rausch der Zukunft stieg ihm wie Wein zu Kopf. Es lebe der Krieg! Es lebe die Revolution! Das künftige Jahrhundert ist im Anmarsch. Schon klingen seine ehernen Posaunen aus den gesprengten Toren des Himmels. Die Pauken rasseln und Engel schreiten über den Horizont mit silbernen Fahnen aus Mond und Sonne.
+    </p>
+    <p xml:id="eco_de_000058_2690">
+     Die Musik spielte die Marseillaise.
+    </p>
+    <p xml:id="eco_de_000058_2700">
+     Unter den dämmernden Zweigen tanzten die Studenten und Mädchen nach der Marseillaise.
+    </p>
+    <p xml:id="eco_de_000058_2710">
+     Moreau stürzt nach Hause, um ein Manifest an die Bürger von Rennes aufzusetzen.
+    </p>
+    <p xml:id="eco_de_000058_2720">
+     Kein Sou für den König! Kein Krieg für den König! Man wird die Republik erklären! Sanken umsonst die Mauern der Bastille? Nieder mit dem König! Kampf des Volkes! Krieg um des Krieges willen! Reinigung der Kloake Frankreich!
+    </p>
+    <p xml:id="eco_de_000058_2730">
+     Reinheit und Güte einer neuen Welt.
+    </p>
+    <p xml:id="eco_de_000058_2740">
+     Die Stadt Rennes stellte eine Fahne Freiwilliger auf.
+    </p>
+    <p xml:id="eco_de_000058_2750">
+     Man erwählte Moreau zu ihrem Kommandanten.
+    </p>
+    <p xml:id="eco_de_000058_2760">
+     »Brüder,« rief er, »wir wollen deshalb mit ganzer Seele Soldaten sein, weil wir mit ganzer Seele Bürger sind.«
+    </p>
+    <p xml:id="eco_de_000058_2770">
+     Moreau vertiefte sich in den Brunnen der Strategie.
+    </p>
+    <p xml:id="eco_de_000058_2780">
+     Sein größtes Erlebnis wurde Cäsars Bellum Gallicum.
+    </p>
+    <p xml:id="eco_de_000058_2790">
+     Er hatte ihn in der Schule gelesen, unlustig und nachlässig und seiner längst vergessen.
+    </p>
+    <p xml:id="eco_de_000058_2800">
+     Nun las er ihn mit den Augen des Soldaten.
+    </p>
+    <p xml:id="eco_de_000058_2810">
+     »Cäsar, mein Kamerad«, jauchzte er.
+    </p>
+    <p xml:id="eco_de_000058_2820">
+     Besonders beschäftigte ihn bei Cäsar die Anlage des Rheinübergangs. Er konstruierte sich eine kleine Brücke aus Holz und Pappe, ganz nach den Angaben des Feldherrn, und stellte sie auf seinen Tisch.
+    </p>
+    <p xml:id="eco_de_000058_2830">
+     Jeden Morgen, wenn er aufwachte, und jeden Abend, wenn er schlafen ging, sah er zuerst die Brücke.
+    </p>
+    <p xml:id="eco_de_000058_2840">
+     Diese Brücke ist nur ein Nachbild der Brücke Cäsars, aber ich werde über sie in die Unsterblichkeit schreiten.
+    </p>
+    <p xml:id="eco_de_000058_2850">
+     Wir müssen über den Rhein, lachte er glücklich, über den Rhein. Wenn Cäsar über den Rhein ritt, wird auch Moreau über den Rhein reiten und die grünen Fluten werden sich vor ihm teilen, wie einst die Wogen des Roten Meeres vor Mose.
+    </p>
+    <p xml:id="eco_de_000058_2860">
+     Moreau übte seine Schar, hingegeben und inbrünstig, zum Waffendienste ein.
+    </p>
+    <p xml:id="eco_de_000058_2870">
+     Er erhielt bei der Musterung das Lob, daß wenig alte Truppen die Waffen besser führten als die Freiwilligen von Rennes, Kommandant Victor Moreau.
+    </p>
+    <p xml:id="eco_de_000058_2880">
+     Die erste Schlacht! Er ergreift die Fahne der Freiwilligen von Rennes und stürmt ihnen voran. Er ist wie ein Wind vor ihnen. Heiß und singend weht er gegen die Feinde.
+    </p>
+    <p xml:id="eco_de_000058_2890">
+     Wallendes Rot, schreitendes Blau, rauschendes Gold.
+    </p>
+    <p xml:id="eco_de_000058_2900">
+     Volk, mein Volk.
+    </p>
+    <p xml:id="eco_de_000058_2910">
+     Er glaubt, er renne in einer Prozession.
+    </p>
+    <p xml:id="eco_de_000058_2920">
+     Die Madonna erscheint segnend auf Pulverwolken.
+    </p>
+    <p xml:id="eco_de_000058_2930">
+     Der Äther dröhnt in Verkündigung.
+    </p>
+    <p xml:id="eco_de_000058_2940">
+     Er rennt. Stolpert. Rennt.
+    </p>
+    <p xml:id="eco_de_000058_2950">
+     Als er stehen bleibt und sich umsieht, ist niemand hinter ihm.
+    </p>
+    <p xml:id="eco_de_000058_2960">
+     Das Feld ist mit Leichen besprenkelt.
+    </p>
+    <p xml:id="eco_de_000058_2970">
+     Wie ein Heuschreckenschwarm nach der Vernichtung ist das Feld mit den Freiwilligen von Rennes bedeckt.
+    </p>
+    <p xml:id="eco_de_000058_2980">
+     Die gelben Lupinen leuchten plötzlich in blutroten Blüten.
+    </p>
+    <p xml:id="eco_de_000058_2990">
+     Korn schießt blutgesättigt in die Höhe.
+    </p>
+    <p xml:id="eco_de_000058_3000">
+     Die Schreie der Verwundeten und Sterbenden schwirren wie heisere Trompetentöne durch die Luft. Es regnet Blut.
+    </p>
+    <p xml:id="eco_de_000058_3010">
+     Die Pferde bellen.
+    </p>
+    <p xml:id="eco_de_000058_3020">
+     Einer ... ganz in der Ferne, ruft: »Mutter.«
+    </p>
+    <p xml:id="eco_de_000058_3030">
+     Da faltet Moreau die blaue Fahne von Rennes zusammen und schreitet langsam, den Degen gesenkt, zurück.
+    </p>
+    <p xml:id="eco_de_000058_3040">
+     Er weiß, die Schlacht ist verloren.
+    </p>
+    <p xml:id="eco_de_000058_3050">
+     General Dumouriez geschlagen.
+    </p>
+    <p xml:id="eco_de_000058_3060">
+     Er schreitet langsam über das Feld. Der Letzte der Freiwilligen von Rennes.
+    </p>
+    <p xml:id="eco_de_000058_3070">
+     Seine Knie zittern. Er stützt sich auf den Degen wie auf einen Stock. Die Fahne schleift den Boden. Die Madonna entschwand.
+    </p>
+    <p xml:id="eco_de_000058_3080">
+     Der Feind schießt nicht mehr.
+    </p>
+    <p xml:id="eco_de_000058_3090">
+     Freier Abzug. Moreau knirscht mit den Zähnen. Pfui Teufel.
+    </p>
+    <p xml:id="eco_de_000058_3100">
+     Er hat zu früh Viktoria geschrien.
+    </p>
+    <p xml:id="eco_de_000058_3110">
+     Schon damals, als er Jeannette einen unschuldigen Kuß raubte.
+    </p>
+    <p xml:id="eco_de_000058_3120">
+     Heute wollte er die Welt für Frankreich erobern. Mit einem Haufen Freiwilliger von Rennes. Lächerlich.
+    </p>
+    <p xml:id="eco_de_000058_3130">
+     Er kniet vor Dumouriez nieder.
+    </p>
+    <p xml:id="eco_de_000058_3140">
+     Dumouriez hat Tränen in den Augen.
+    </p>
+    <p xml:id="eco_de_000058_3150">
+     »Stehen Sie auf, Kommandant. Wer vermag etwas gegen Gott.«
+    </p>
+    <p xml:id="eco_de_000058_3160">
+     Gequält dachte Moreau: aber ich wollte doch für Gott kämpfen. Habe ich gegen ihn gekämpft?
+    </p>
+    <p xml:id="eco_de_000058_3170">
+     Moreau lernt plötzlich das Volk auf sonderbare Art kennen.
+    </p>
+    <p xml:id="eco_de_000058_3180">
+     Sind diese Soldaten noch Bürger? Sind das noch Studenten, Kavaliere, kleine Beamte, ehrsame Arbeiter?
+    </p>
+    <p xml:id="eco_de_000058_3190">
+     Sind das nicht Strolche? Diebe? Räuber, Schänder und Mörder?
+    </p>
+    <p xml:id="eco_de_000058_3200">
+     Ist das noch Volk?
+    </p>
+    <p xml:id="eco_de_000058_3210">
+     Wenn man sie nicht in einer Zange hielte, würden sie ausbrechen und sich gegenseitig die Schädel einschlagen.
+    </p>
+    <p xml:id="eco_de_000058_3220">
+     Moreau hat sich einen Wintermantel schicken lassen.
+    </p>
+    <p xml:id="eco_de_000058_3230">
+     Seine Mutter legt dem Mantel ein paar selbstgestrickte Hausschuhe bei.
+    </p>
+    <p xml:id="eco_de_000058_3240">
+     Moreau erfreut sich des treuen Souvenirs.
+    </p>
+    <p xml:id="eco_de_000058_3250">
+     Am nächsten Morgen schon sind sie gestohlen.
+    </p>
+    <p xml:id="eco_de_000058_3260">
+     Niemand weiß, wer sie hat.
+    </p>
+    <p xml:id="eco_de_000058_3270">
+     Vielleicht jemand von der nächsten Brigade.
+    </p>
+    <p xml:id="eco_de_000058_3280">
+     Der Dieb hat sie längst verschachert.
+    </p>
+    <p xml:id="eco_de_000058_3290">
+     Vielleicht hat er sie auch aus Bosheit gestohlen und im Bach unter den Erlen ersäuft. Da mögen sie nun, sich selber genug, ins Meer schwimmen.
+    </p>
+    <p xml:id="eco_de_000058_3300">
+     Oder die Stichlinge nisten darin.
+    </p>
+    <p xml:id="eco_de_000058_3310">
+     Nun hat Moreau keinen Mantel und keine Schuhe.
+    </p>
+    <p xml:id="eco_de_000058_3320">
+     Er friert. Ihn friert noch schlimmer als seine Soldaten.
+    </p>
+    <p xml:id="eco_de_000058_3330">
+     Er ist ein Mensch des Nordens.
+    </p>
+    <p xml:id="eco_de_000058_3340">
+     Einer, der von Sonne leben kann.
+    </p>
+    <p xml:id="eco_de_000058_3350">
+     Wie duftete Jeannette einst? Wie ein leiser Südwind.
+    </p>
+    <p xml:id="eco_de_000058_3360">
+     Nur Frauen, die Wärme verbreiten, sind erträglich.
+    </p>
+    <p xml:id="eco_de_000058_3370">
+     Kalt ist man selber.
+    </p>
+    <p xml:id="eco_de_000058_3380">
+     Eines Tages reitet er durch ein zerschossenes und verqualmtes Dorf.
+    </p>
+    <p xml:id="eco_de_000058_3390">
+     Ein Kind hockt zitternd in der Ruine eines Backofens und weint, weil man seine Eltern erschlagen hat.
+    </p>
+    <p xml:id="eco_de_000058_3400">
+     »Weine nicht,« sagt Moreau, »so blieb es dir erspart, sie zu töten, wenn du erwachsen bist.«
+    </p>
+    <p xml:id="eco_de_000058_3410">
+     Neben der aufgedunsenen Leiche eines Schweines liegt ein nackter Frauenkadaver.
+    </p>
+    <p xml:id="eco_de_000058_3420">
+     Moreau steigt vom Pferde.
+    </p>
+    <p xml:id="eco_de_000058_3430">
+     Es ist eine Frau von etwa fünfzig Jahren. Dürre, runzlige Brüste. Ein kahler Kopf. Braune, leprazerfressene Wangen.
+    </p>
+    <p xml:id="eco_de_000058_3440">
+     An der Frau ist keine Wunde zu finden.
+    </p>
+    <p xml:id="eco_de_000058_3450">
+     Nur ihre Beine sind gespreizt und gekrümmt.
+    </p>
+    <p xml:id="eco_de_000058_3460">
+     Sie wird von einem Stück abgebrochenen Lanzenschaftes begattet.
+    </p>
+    <p xml:id="eco_de_000058_3470">
+     Moreau reitet durch den abendlichen Himmel. Der schwält rot wie eine ewige Feuersbrunst.
+    </p>
+    <p xml:id="eco_de_000058_3480">
+     Ich bekomme auf einmal Nerven, denkt Moreau. Ich kann das Pack von Pöbel nicht mehr sehen. Meine Augen zittern vor dem Zwang und dem Ekel ihres Anblickes.
+    </p>
+    <p xml:id="eco_de_000058_3490">
+     Ich will einen geistigen Krieg führen.
+    </p>
+    <p xml:id="eco_de_000058_3500">
+     Ich will Geister bewaffnen und mit Geistern kämpfen.
+    </p>
+    <p xml:id="eco_de_000058_3510">
+     Gespenster sollen meine Vorhut sein. Feurige Engel der Vernichtung.
+    </p>
+    <p xml:id="eco_de_000058_3520">
+     Ich bin ein Soldat Gottes.
+    </p>
+    <p xml:id="eco_de_000058_3530">
+     Himmel: warum brauch' ich dieses Viehzeug zum Kriegführen.
+    </p>
+    <p xml:id="eco_de_000058_3540">
+     Ich will einen Staat der Freiheit errichten. Frankreich soll die Mutter der Freiheit sein. Ich will die Freiheit mit ihr zeugen.
+    </p>
+    <p xml:id="eco_de_000058_3550">
+     Moreau ließ sich in Souhams Generalstab versetzen.
+    </p>
+    <p xml:id="eco_de_000058_3560">
+     Er ist jahrelang verschollen. Er selber weiß nichts von sich.
+    </p>
+    <p xml:id="eco_de_000058_3570">
+     Er lebt in einem Stapel von Geschichte, Geometrie, Geographie, Büchern, Karten und Globen.
+    </p>
+    <p xml:id="eco_de_000058_3580">
+     Sein Teint leidet. Er sieht aus, als trüge er eine gelbe Maske.
+    </p>
+    <p xml:id="eco_de_000058_3590">
+     Ein Pierrot, begabt mit fürchterlichem Instinkt und fürchterlichem Humor.
+    </p>
+    <p xml:id="eco_de_000058_3600">
+     Er verkehrt nur mit Rapatel, den er hin und wieder zu einem Glase Kaffee zu sich bittet.
+    </p>
+    <p xml:id="eco_de_000058_3610">
+     Moreau liebt den Kaffee sehr.
+    </p>
+    <p xml:id="eco_de_000058_3620">
+     Zuweilen besucht er das Bordell der Madame Richepin.
+    </p>
+    <p xml:id="eco_de_000058_3630">
+     Läßt sich den Tanz der Ornamente von sechs Mädchen vortanzen und unterhält sich mit einer rothaarigen Russin, deren Liebkosungen er bis zu einem gewissen Grade duldet.
+    </p>
+    <p xml:id="eco_de_000058_3640">
+     Oberst Moreau ist ein charmanter Liebhaber, sagt Madame Richepin. Er strapaziert meine Kinderchen nicht. Es tut ihnen wohl, mit Oberst Moreau zusammen zu sein. Oberst Moreau, sagt die kleine Russin immer, ist ein Heiliger in Uniform. Und das mag stimmen. Er zahlt immer weit über den regulären Preis.
+    </p>
+    <p xml:id="eco_de_000058_3650">
+     Moreau wird auf Vorschlag Souhams zum Brigadegeneral und bald darauf auf des Oberbefehlshabers Fürwort zum Divisionsgeneral ernannt.
+    </p>
+    <p xml:id="eco_de_000058_3660">
+     Souham charakterisiert ihn: fanatisch fleißig, ungewöhnlich scharfer Blick, erstaunliche Geistesgegenwart. Kalt und heißblütig und voll innerer Leidenschaft zur Vernunft und zur Mathematik.
+    </p>
+    <p xml:id="eco_de_000058_3670">
+     Moreau ist zweiunddreißig Jahre alt, als er General wird.
+    </p>
+    <p xml:id="eco_de_000058_3680">
+     Er sendet seinem Vater einen Eilboten mit einem Brief, der unterzeichnet ist: Moreau, General der Nordarmee.
+    </p>
+    <p xml:id="eco_de_000058_3690">
+     Der Bote trifft den Advokaten in seinem Café unter den Arkaden. Der Alte hält es nicht einmal für der Mühe wert, nach Hause zu gehen und seine Gattin zu benachrichtigen.
+    </p>
+    <p xml:id="eco_de_000058_3700">
+     »Schlechte Scherze«, brummt er und nimmt einen Kirsch.
+    </p>
+    <p xml:id="eco_de_000058_3710">
+     Aber schließlich muß er es glauben.
+    </p>
+    <p xml:id="eco_de_000058_3720">
+     Seine Gattin begibt sich sofort an das Backen eines bretonischen Kuchens.
+    </p>
+    <p xml:id="eco_de_000058_3730">
+     »Wenn nur das Mehl jetzt nicht so teuer wäre«, seufzte sie.
+    </p>
+    <p xml:id="eco_de_000058_3740">
+     »Und außerdem wird er verwöhnt sein. Einem General kann's kein Mensch recht machen.«
+    </p>
+    <p xml:id="eco_de_000058_3750">
+     Moreau stand vor seinem Spiegel und betrachtete sein vermaledeites Knabengesicht. Zweiunddreißig Jahre alt und General. Aber ich bin zweiunddreißig Jahre alt. So alt. Ich weiß nicht einmal mehr, wie meine Mutter aussieht.
+    </p>
+    <p xml:id="eco_de_000058_3760">
+     Und meinen Vater hab' ich ganz vergessen.
+    </p>
+    <p xml:id="eco_de_000058_3770">
+     Hab' ich überhaupt einen gehabt?
+    </p>
+    <p xml:id="eco_de_000058_3780">
+     Ich möchte so gern an die unbefleckte Empfängnis meiner Mutter glauben.
+    </p>
+    <p xml:id="eco_de_000058_3790">
+     Wenn ich für Gott streiten will, muß ich ein Gottessohn sein. Aber nicht der Sohn eines Advokaten. Eines advocatus diaboli.
+    </p>
+    <p xml:id="eco_de_000058_3800">
+     Rapatel beglückwünschte ihn zu seiner Ernennung.
+    </p>
+    <p xml:id="eco_de_000058_3810">
+     Rapatel erbleichte und errötete, als er ihm die Hand drückte.
+    </p>
+    <p xml:id="eco_de_000058_3820">
+     »Rapatel,« sagte Moreau und ließ sein Herz sprechen, »darf ich Sie als meinen Adjutanten einfordern? Wollen wir nicht zusammenbleiben? Wir haben doch beide keinen Menschen. Nicht wahr, wir sind einsam?«
+    </p>
+    <p xml:id="eco_de_000058_3830">
+     Christophe ist auf einmal da. Niemand weiß woher.
+    </p>
+    <p xml:id="eco_de_000058_3840">
+     Man hängt ihm die große Trommel um.
+    </p>
+    <p xml:id="eco_de_000058_3850">
+     Abends spielt er Flöte.
+    </p>
+    <p xml:id="eco_de_000058_3860">
+     Moreau läßt ihn in sein Zelt kommen.
+    </p>
+    <p xml:id="eco_de_000058_3870">
+     Der Knabe tritt mit einer Verbeugung ein wie ein Edelmann.
+    </p>
+    <p xml:id="eco_de_000058_3880">
+     Moreau schenkt ihm Nüsse und Früchte.
+    </p>
+    <p xml:id="eco_de_000058_3890">
+     »Kannst du mir ein Lied spielen,« sagt Moreau, »wie man es sang, als noch Friede war?«
+    </p>
+    <p xml:id="eco_de_000058_3900">
+     Der Knabe bläst auf seiner Flöte ein Menuett von Rameau.
+    </p>
+    <p xml:id="eco_de_000058_3910">
+     Der Wachtposten lauscht.
+    </p>
+    <p xml:id="eco_de_000058_3920">
+     Eine Marketenderin äugt durch das Loch des Zeltes.
+    </p>
+    <p xml:id="eco_de_000058_3930">
+     Eine süße Melodie.
+    </p>
+    <p xml:id="eco_de_000058_3940">
+     Und ein süßer Knabe.
+    </p>
+    <p xml:id="eco_de_000058_3950">
+     Moreau betrachtet den Knaben. Er ähnelt Jeannette.
+    </p>
+    <p xml:id="eco_de_000058_3960">
+     Moreau hat Jeannette noch nicht vergessen.
+    </p>
+    <p xml:id="eco_de_000058_3970">
+     Das ist lächerlich, denkt Moreau, daß ich ein dummes Frauenzimmer wie Jeannette nicht vergessen kann.
+    </p>
+    <p xml:id="eco_de_000058_3980">
+     Er lauscht dem Menuett.
+    </p>
+    <p xml:id="eco_de_000058_3990">
+     Er wird schwach und schwächer.
+    </p>
+    <p xml:id="eco_de_000058_4000">
+     Schon hebt er die Stirn. Die Füße. Und umschwebt graziös die kleine Jeannette, die sich ihm als Partnerin bietet.
+    </p>
+    <p xml:id="eco_de_000058_4010">
+     Die Töne des Menuetts flattern wie goldene Nachtigallen und Lerchen.
+    </p>
+    <p xml:id="eco_de_000058_4020">
+     Das ganze Zelt zwitschert.
+    </p>
+    <p xml:id="eco_de_000058_4030">
+     Moreau erhebt sich vom Kartentisch.
+    </p>
+    <p xml:id="eco_de_000058_4040">
+     Er tritt auf Christophe zu und küßt ihm die Stirn.
+    </p>
+    <p xml:id="eco_de_000058_4050">
+     Die Marketenderin hat gesehen, daß Moreau den Knaben auf die Stirn küßte.
+    </p>
+    <p xml:id="eco_de_000058_4060">
+     Das ganze Lager weiß, daß Moreau ein Verhältnis mit dem Knaben Christophe hat.
+    </p>
+    <p xml:id="eco_de_000058_4070">
+     Christophe spielt jeden Abend auf seiner Flöte vor dem General.
+    </p>
+    <p xml:id="eco_de_000058_4080">
+     Nach dem Konzert erwartet ihn die Marketenderin, eine böse, schwarzhaarige Person, mit grellen Augen und geilen Brüsten.
+    </p>
+    <p xml:id="eco_de_000058_4090">
+     Christophe ist entsetzt von ihr. Aber er wagt nicht, sich ihr zu entziehen.
+    </p>
+    <p xml:id="eco_de_000058_4100">
+     Sie lehrt ihn Dinge, die ihn zugleich betrüben und entzücken.
+    </p>
+    <p xml:id="eco_de_000058_4110">
+     Und sie erzählt ihm von der großen Welt, von den vielen Städten der bunten Länder.
+    </p>
+    <p xml:id="eco_de_000058_4120">
+     Christophe ist fünfzehn Jahre alt.
+    </p>
+    <p xml:id="eco_de_000058_4130">
+     Er wird noch viel lernen und noch mehr vergessen lernen müssen.
+    </p>
+    <p xml:id="eco_de_000058_4140">
+     Moreau verliert die einzelnen Menschen aus den Augen.
+    </p>
+    <p xml:id="eco_de_000058_4150">
+     Er sieht nur Masse, Materie für seinen Geist, Wachs für seine Hand.
+    </p>
+    <p xml:id="eco_de_000058_4160">
+     Phidias, denkt er, muß ein solches Gefühl gehabt haben, als er die Statue des Zeus schuf, wie ich, wenn ich meine fünfundzwanzigtausend Mann in Form bringe.
+    </p>
+    <p xml:id="eco_de_000058_4170">
+     Manchmal, wenn ich mir ihre Stellung auf Papier male, sieht es aus wie eine mysteriöse Blüte, in einem fremden Garten gepflückt. Oder wie ein Seestern. Und im Grunde ist der Aufbau eines Ahornblattes und eines Heeres dasselbe.
+    </p>
+    <p xml:id="eco_de_000058_4180">
+     Auch das Ahornblatt wird angegriffen: vom Herbst, der es umflügelt und zu Boden wirft.
+    </p>
+    <p xml:id="eco_de_000058_4190">
+     Und aufgelöst wird es zu Staub wie die Leiber meiner toten Soldaten.
+    </p>
+    <p xml:id="eco_de_000058_4200">
+     Moreau sah dem Tod jetzt ohne Bewegung ins Antlitz. Er sah ihn täglich, stündlich, und schließlich wußte er nicht mehr, daß er neben ihm stand.
+    </p>
+    <p xml:id="eco_de_000058_4210">
+     Tote Infanteristen beunruhigen ihn wenig.
+    </p>
+    <p xml:id="eco_de_000058_4220">
+     Tote Kavalleristen, weil sie seltener waren, machten ihn bisweilen nachdenklich.
+    </p>
+    <p xml:id="eco_de_000058_4230">
+     Eines Tages aber sah er einen toten Igel in einem Graben.
+    </p>
+    <p xml:id="eco_de_000058_4240">
+     Das Ereignis erschütterte ihn. Das war selten und seltsam: ein toter Igel. Was gehen mich die toten Menschen an: ich habe ihrer zuviel.
+    </p>
+    <p xml:id="eco_de_000058_4250">
+     Ein toter Igel aber verwundert mich.
+    </p>
+    <p xml:id="eco_de_000058_4260">
+     Er mußte lange nachdenken, um zu begreifen: ein toter Igel ...
+    </p>
+    <p xml:id="eco_de_000058_4270">
+     Er hatte immer nur lebende Igel gesehen. Er wußte nicht, daß Igel auch sterben können.
+    </p>
+    <p xml:id="eco_de_000058_4280">
+     Er ließ den Igel bestatten in einer kleinen Kiste.
+    </p>
+    <p xml:id="eco_de_000058_4290">
+     Christophe mußte mit seiner Flöte einen Trauermarsch blasen, und Rapatel zimmerte und schnitzte ein kleines Kreuz, darauf ritzte er diese Worte:
+    </p>
+    <p xml:id="eco_de_000058_4300">
+     Ci gît un hérisson.
+    </p>
+    <p xml:id="eco_de_000058_4310">
+     R. I. P.
+    </p>
+    <p xml:id="eco_de_000058_4320">
+     Zehn Festungen in Belgien und Holland hatte Moreau zu erobern.
+    </p>
+    <p xml:id="eco_de_000058_4330">
+     Wenn er die Karte betrachtete, auf der sie mit allen Forts und Werken und Schanzen eingezeichnet waren, wie ein Himmel großer und kleiner Sterne, glaubte er das Firmament zu betrachten.
+    </p>
+    <p xml:id="eco_de_000058_4340">
+     Nachts ließ er sich von Christophe einen Feldstuhl vors Zelt rücken und blickte einsam in den wolkenlosen Himmel.
+    </p>
+    <p xml:id="eco_de_000058_4350">
+     Niemand durfte ihn stören. Nicht Rapatel. Nicht Christophe.
+    </p>
+    <p xml:id="eco_de_000058_4360">
+     Ich muß den Großen Bären erobern. Den Orion. Den Fisch. Die Wage. Den Wassermann.
+    </p>
+    <p xml:id="eco_de_000058_4370">
+     Unendlich viele Sterne muß ich erobern, ehe ich Ruhe habe. Und zuletzt bleibt immer noch die Venus und der Polarstern.
+    </p>
+    <p xml:id="eco_de_000058_4380">
+     Ein Feldherr sollte nur Astronomie studieren.
+    </p>
+    <p xml:id="eco_de_000058_4390">
+     Nicht jeder weiß, wann seine Sonne aufgeht, wann sie im Zenith steht, wann sie sinkt.
+    </p>
+    <p xml:id="eco_de_000058_4400">
+     Kein Aberglaube: aber Glaube ist vonnöten.
+    </p>
+    <p xml:id="eco_de_000058_4410">
+     In sechs Monaten eroberte Moreau zehn Festungen.
+    </p>
+    <p xml:id="eco_de_000058_4420">
+     Es wurde Winter.
+    </p>
+    <p xml:id="eco_de_000058_4430">
+     Reif lag über jedem Morgen.
+    </p>
+    <p xml:id="eco_de_000058_4440">
+     Pichegrue erkrankte. Moreau übernahm den Befehl über die gesamte Nordarmee.
+    </p>
+    <p xml:id="eco_de_000058_4450">
+     Er setzte der Flotte des Erbstatthalters nach. Sie versuchte zu entfliehen. Er holte sie ein: galoppierte mit einer Kavalleriedivision über den gefrorenen Zuidersee und attackierte die eines Abends in den Schollen festgefrorenen Fregatten mit seinen Dragonern und Kürassieren.
+    </p>
+    <p xml:id="eco_de_000058_4460">
+     Die größenwahnsinnigen Glaser- und Metzgermeister des Nationalkonvents, die fern vom Schuß in Paris mit elenden Beschlüssen tagten und mit üblen Weibern nächtigten, dekretierten: alle gefangenen Soldaten des Königs von Hannover sind zu erschießen oder zu erhängen.
+    </p>
+    <p xml:id="eco_de_000058_4470">
+     Moreau spie dem Stafettenreiter, der ihm diesen Befehl überbrachte, ins Gesicht.
+    </p>
+    <p xml:id="eco_de_000058_4480">
+     »Ich bin ein Soldat«, sagte er. »Sagt den Herren in Paris, meinen Kopf können sie bekommen, wenn das Vaterland sich mit ihnen identifizieren sollte, aber nicht den Kopf eines gefangenen Hannoveraners.«
+    </p>
+    <p xml:id="eco_de_000058_4490">
+     Der Kurier, welcher gehofft hatte, mit dem Haupt eines hohen hannoverschen Offiziers als Pfand des ausgeführten Befehls nach Paris zurückzukehren, erscheint mit leerer Tasche.
+    </p>
+    <p xml:id="eco_de_000058_4500">
+     Die Herren vom Konvent beißen sich auf die Lippen.
+    </p>
+    <p xml:id="eco_de_000058_4510">
+     Kein Patriot, dieser Moreau.
+    </p>
+    <p xml:id="eco_de_000058_4520">
+     Es geht das Gerücht, Moreau habe, als die Flut bei Cadsand einen Kahn umwarf, einem kriegsgefangenen feindlichen Soldaten schwimmend das Leben gerettet.
+    </p>
+    <p xml:id="eco_de_000058_4530">
+     Einer im Konvent, ein Herr mit Koteletten und einem freundlichen, arglosen Blick (wie es hieß, ein Arzt), erinnerte daran, daß Moreau in Morlaix in der Bretagne einen alten Vater wohnen habe.
+    </p>
+    <p xml:id="eco_de_000058_4540">
+     Er besitze Beweise, daß dieser alte Advokat sich royalistischer Umtriebe und Konspirationen gegen die Republik schuldig gemacht habe.
+    </p>
+    <p xml:id="eco_de_000058_4550">
+     Und er zog zum Erstaunen der Abgeordneten ein Paket Akten unter seinem Sitz hervor, welche die Schuld des alten Advokaten darzutun geeignet waren.
+    </p>
+    <p xml:id="eco_de_000058_4560">
+     Einen siegreichen, von seinen Truppen vergötterten Feldherrn des Ungehorsams zu bezeihen, dies sei, sagte der freundliche und arglose Herr, ein gewagtes und lieber nicht versuchtes Unternehmen.
+    </p>
+    <p xml:id="eco_de_000058_4570">
+     Man möge ihn zur Strafe, und der Arglose wandelte sich tückisch, in seinem Herzen treffen ...
+    </p>
+    <p xml:id="eco_de_000058_4580">
+     Moreaus Vater starb unter der Guillotine, am 28. Juli 1794. Denselben Tag, als Moreau die Insel Cadsand, trotz stärksten feindlichen Feuers und verzweifelter Gegenwehr, eroberte.
+    </p>
+    <p xml:id="eco_de_000058_4590">
+     Die letzten Worte des Ermordeten waren: »Mein Sohn!«
+    </p>
+    <p xml:id="eco_de_000058_4600">
+     Madame Moreau, die man gezwungen hatte, dem Schauspiel beizuwohnen, brach ohnmächtig am Schafott zusammen.
+    </p>
+    <p xml:id="eco_de_000058_4610">
+     Man trug sie nach Hause, und sie genaß eines toten Kindes.
+    </p>
+    <p xml:id="eco_de_000058_4620">
+     Die Stadt witzelte über diese Geburt.
+    </p>
+    <p xml:id="eco_de_000058_4630">
+     Herr Moreau war siebzig Jahre alt gewesen.
+    </p>
+    <p xml:id="eco_de_000058_4640">
+     »Sieh da, eine artige Frau. Ergattert nach einem halben Dutzend Kinder und sechzig Jahren noch einen Liebhaber. Wer mag es wohl sein. Der lahme und übelriechende Laternenanzünder Clermont? Und wird sie nunmehr Madame Clermont heißen?
+    </p>
+    <p xml:id="eco_de_000058_4650">
+     Was wird ihr großer Sohn zu seinem neuen Vater sagen?«
+    </p>
+    <p xml:id="eco_de_000058_4660">
+     Madame Moreau hörte hinter den geschlossenen Fensterläden die Stimme des Pöbels lärmen.
+    </p>
+    <p xml:id="eco_de_000058_4670">
+     Sie saß hoch und wie eine Heilige im Erker ihres kleinen Hauses bei einer Kerze, das tote Kind in einem Glase Spiritus vor sich auf dem Fensterbrett, und sagte: »Ein Kind der mörderischen Zeit. Alle Frauen werden nur noch tote Kinder gebären. Es wird durch Vererbung nur noch tote Menschen geben.«
+    </p>
+    <p xml:id="eco_de_000058_4680">
+     Madame Moreau lachte still für sich.
+    </p>
+    <p xml:id="eco_de_000058_4690">
+     »Sie ist verrückt«, sagten die Leute der Stadt.
+    </p>
+    <p xml:id="eco_de_000058_4700">
+     »Sie muß ins Irrenhaus. Sie ist eine Royalistin.«
+    </p>
+    <p xml:id="eco_de_000058_4710">
+     Moreau sah den Tod seines Vaters wie eine Vision am Himmel.
+    </p>
+    <p xml:id="eco_de_000058_4720">
+     Es war ein stürmischer Abend.
+    </p>
+    <p xml:id="eco_de_000058_4730">
+     Die Kanonen von Cadsand vermischten sich mit dem Donner des aufsteigenden Gewitters.
+    </p>
+    <p xml:id="eco_de_000058_4740">
+     Wolken zischten zusammen und nahmen die Form einer Guillotine an.
+    </p>
+    <p xml:id="eco_de_000058_4750">
+     Viele kamen herbei, rot, als Henkersknechte gekleidet.
+    </p>
+    <p xml:id="eco_de_000058_4760">
+     Sie schleiften eine graue Wolke heran.
+    </p>
+    <p xml:id="eco_de_000058_4770">
+     »Vater«, schrie Moreau.
+    </p>
+    <p xml:id="eco_de_000058_4780">
+     Da sauste blitzend das Messer der Guillotine nieder.
+    </p>
+    <p xml:id="eco_de_000058_4790">
+     Der Himmel fiel ins Dunkel.
+    </p>
+    <p xml:id="eco_de_000058_4800">
+     Meer rann rollend ins Meer.
+    </p>
+    <p xml:id="eco_de_000058_4810">
+     Nacht war da.
+    </p>
+    <p xml:id="eco_de_000058_4820">
+     Moreau erwachte fiebernd. Christophe spielte die Flöte.
+    </p>
+    <p xml:id="eco_de_000058_4830">
+     Aber das Fieber wich nicht.
+    </p>
+    <p xml:id="eco_de_000058_4840">
+     »Hast du einen Vater, Christophe?« fragte Moreau.
+    </p>
+    <p xml:id="eco_de_000058_4850">
+     Christophe schüttelte den Kopf.
+    </p>
+    <p xml:id="eco_de_000058_4860">
+     »Hast du eine Mutter, Christophe?«
+    </p>
+    <p xml:id="eco_de_000058_4870">
+     Christophe schüttelte den Kopf.
+    </p>
+    <p xml:id="eco_de_000058_4880">
+     »Ich weiß nicht, wer mich in die Welt gesetzt hat. Vielleicht hat mich ein Kuckuck ausgebrütet. Oder ein Delphin hat mich an den Strand geworfen.«
+    </p>
+    <p xml:id="eco_de_000058_4890">
+     Rapatel brachte einen Arzt.
+    </p>
+    <p xml:id="eco_de_000058_4900">
+     Einen freundlichen Herrn, der das Französische mit italienischem Akzent sprach.
+    </p>
+    <p xml:id="eco_de_000058_4910">
+     Er bediente sich schmaler, frauenhafter Hände, und seine Manipulationen wurden schmerzlos und gütig ausgeführt.
+    </p>
+    <p xml:id="eco_de_000058_4920">
+     Er kochte alle Getränke und Medizinen selbst.
+    </p>
+    <p xml:id="eco_de_000058_4930">
+     Er erlaubte niemand den Zutritt zu Moreaus Krankenbett.
+    </p>
+    <p xml:id="eco_de_000058_4940">
+     Nach acht Tagen war Moreau wiederhergestellt.
+    </p>
+    <p xml:id="eco_de_000058_4950">
+     »Eine schwere Woche haben wir hinter uns, mein Herr«, sagte Moreau, und eine Möve kreuzte kreischend seinen Blick.
+    </p>
+    <p xml:id="eco_de_000058_4960">
+     »Es ist gut, wenn man das sagen kann: hinter uns«, erwiderte höflich der Arzt. »Es ist unerfreulicher, sagen zu müssen: Schlimmes steht uns noch bevor.«
+    </p>
+    <p xml:id="eco_de_000058_4970">
+     »Wer weiß,« sagte Moreau, »ob dem nicht so ist.«
+    </p>
+    <p xml:id="eco_de_000058_4980">
+     Sie schritten durch die Lagergasse.
+    </p>
+    <p xml:id="eco_de_000058_4990">
+     Ein alter Korporal warf den Hut in die Luft.
+    </p>
+    <p xml:id="eco_de_000058_5000">
+     »Vive Moreau!«
+    </p>
+    <p xml:id="eco_de_000058_5010">
+     »Vive la France!« entgegnete Moreau.
+    </p>
+    <p xml:id="eco_de_000058_5020">
+     »Ist es Ihnen damit so ernst?« fragte der Arzt.
+    </p>
+    <p xml:id="eco_de_000058_5030">
+     »Womit?«
+    </p>
+    <p xml:id="eco_de_000058_5040">
+     »Mit diesem: Vive la France.«
+    </p>
+    <p xml:id="eco_de_000058_5050">
+     Moreau stutzte.
+    </p>
+    <p xml:id="eco_de_000058_5060">
+     Der Arzt bestand hartnäckig:
+    </p>
+    <p xml:id="eco_de_000058_5070">
+     »Hat Frankreich nicht frevelhaft an Ihnen gehandelt, um ein mildes Wort zu gebrauchen. Kann man es noch lieben, wie es sich gibt: wüst, roh, maßlos, terroristisch, kurz: revolutionär ...«
+    </p>
+    <p xml:id="eco_de_000058_5080">
+     Sie hielten auf einen kleinen Hügel zu.
+    </p>
+    <p xml:id="eco_de_000058_5090">
+     Unter einem platanenähnlichen Baum warf sich Moreau erregt ins Gras und lud den Arzt ein, neben ihm Platz zu nehmen.
+    </p>
+    <p xml:id="eco_de_000058_5100">
+     »Frankreich,« sagte Moreau, »das sind nicht die Franzosen des Konvents.«
+    </p>
+    <p xml:id="eco_de_000058_5110">
+     »Aber sie scheinen es zu sein«, gab der Arzt vorsichtig zu bedenken.
+    </p>
+    <p xml:id="eco_de_000058_5120">
+     Die Ebene breitete sich vor ihnen aus.
+    </p>
+    <p xml:id="eco_de_000058_5130">
+     Schmetterlinge stiegen aus den Wiesen und Rauch aus den Dörfern.
+    </p>
+    <p xml:id="eco_de_000058_5140">
+     Die Luft vibrierte. »Dies alles gehört Ihnen«, scherzte der Arzt und strich mit der Hand über den Horizont.
+    </p>
+    <p xml:id="eco_de_000058_5150">
+     Moreau grübelte.
+    </p>
+    <p xml:id="eco_de_000058_5160">
+     »Woher sind Sie so bibelkundig –«
+    </p>
+    <p xml:id="eco_de_000058_5170">
+     »Wissen Sie, wer ich bin?«
+    </p>
+    <p xml:id="eco_de_000058_5180">
+     Moreau sah auf.
+    </p>
+    <p xml:id="eco_de_000058_5190">
+     »Ein Freund Pichegrues.«
+    </p>
+    <p xml:id="eco_de_000058_5200">
+     »Er ist ein Verräter. Ich weiß. Ich soll ihn im Oberkommando ersetzen und den Oberbefehl über die Nordarmee übernehmen. Ich habe heute das Patent empfangen.«
+    </p>
+    <p xml:id="eco_de_000058_5210">
+     Der Arzt knirschte.
+    </p>
+    <p xml:id="eco_de_000058_5220">
+     »Habe ich meine Mission zu spät angetreten?«
+    </p>
+    <p xml:id="eco_de_000058_5230">
+     Er hatte sich erhoben und stand aufgerichtet neben dem Baum.
+    </p>
+    <p xml:id="eco_de_000058_5240">
+     Moreau zuckte mit keiner Wimper.
+    </p>
+    <p xml:id="eco_de_000058_5250">
+     »Sie sind ein Jesuit. Die Bourbonen schicken Sie.«
+    </p>
+    <p xml:id="eco_de_000058_5260">
+     Der andere nickte, kaum verwundert.
+    </p>
+    <p xml:id="eco_de_000058_5270">
+     Moreau sprach in die Erde hinein. Er spielte mit einem Maulwurfshügel. Der lockere Sand lief zwischen seinen Fingern durch.
+    </p>
+    <p xml:id="eco_de_000058_5280">
+     »Pichegrue ist unvorsichtig. Man wird ihn köpfen. Sagen Sie das den Bourbonen. Vorläufig will ich meinen Kopf noch behalten.«
+    </p>
+    <p xml:id="eco_de_000058_5290">
+     Der andere, höflich:
+    </p>
+    <p xml:id="eco_de_000058_5300">
+     »Aber Ihr Herr Vater hat, wie mir scheint, schon keinen Kopf mehr.«
+    </p>
+    <p xml:id="eco_de_000058_5310">
+     Die große Ader auf Moreaus Stirn schwoll.
+    </p>
+    <p xml:id="eco_de_000058_5320">
+     »Ich pflege zu wissen, was ich tue. Ich tue alles, was ich weiß. Ich weiß viel. Gehen Sie.«
+    </p>
+    <p xml:id="eco_de_000058_5330">
+     Der andere verneigte sich und schritt langsam den Hügel herab ins Lager.
+    </p>
+    <p xml:id="eco_de_000058_5340">
+     Moreau lag im Grase.
+    </p>
+    <p xml:id="eco_de_000058_5350">
+     Einmal nur träumen dürfen! Ein Schlaf mit wolkigen Träumen. Sanften Kindern. Spielenden Blumen. Tanzenden Sternen. Ein Traum ohne Soldaten. Ich habe noch nie im Leben geträumt. Ich sehe alles, wie es ist. Ich muß immer handeln. Ich werde noch bersten vor Taten. Ich werde Taten wie Hagel in die Welt schleudern. Eisblumen sollen vor meinem Hauch an allen Fenstern frieren. Dies Volk, dies Gemensch, verdient nicht, daß man seinetwegen lebt, seinetwegen stirbt. Ich speie darauf, in seinem Gedächtnis unsterblich zu sein. Denn es ist stinkend wie eine faule Pfütze. Ich werde dich abschwören, Volk.
+    </p>
+    <p xml:id="eco_de_000058_5360">
+     Ich will mein eigenes Volk sein.
+    </p>
+    <p xml:id="eco_de_000058_5370">
+     Als Moreau den Namen Bonaparte hörte, stutzte er.
+    </p>
+    <p xml:id="eco_de_000058_5380">
+     »Bonaparte? Das ist kein Franzose. Und er will Franzosen befehlen?«
+    </p>
+    <p xml:id="eco_de_000058_5390">
+     »Der Konvent heischt es.«
+    </p>
+    <p xml:id="eco_de_000058_5400">
+     Moreau sinnt: eigentlich habe ich nichts in der Hand als meine Siege. Und diese Siege sind wiederum auch nur dazu gut, neue Siege zu erringen. Aber Macht: habe ich Macht? Was kann ich gegen eine Herde von Eseln, Konvent genannt. Sie fressen Heu und denken Dreck.
+    </p>
+    <p xml:id="eco_de_000058_5410">
+     »Bonaparte ist ein Italiener?«
+    </p>
+    <p xml:id="eco_de_000058_5420">
+     »Ein Korse, General.«
+    </p>
+    <p xml:id="eco_de_000058_5430">
+     In Korsika regiert die Blutrache. Also ist er nach Frankreich gekommen, um sein Blut zu rächen. Wir werden gut tun, unser Blut zu hüten.
+    </p>
+    <p xml:id="eco_de_000058_5440">
+     Bonaparte ... wir werden sehen, ob er das gute Teil erwählt hat.
+    </p>
+    <p xml:id="eco_de_000058_5450">
+     Drei Heere sollen wie drei Pfeile auf ein Ziel, das Herz Österreichs gerichtet, in Aktion treten: Die Sambre- und Maasarmee unter Jourdan. Die italienische Armee unter Bonaparte. Zwischen beiden Moreau mit der Rhein- und Moselarmee.
+    </p>
+    <p xml:id="eco_de_000058_5460">
+     Der Feldherr, der damals den Franzosen am Rhein gegenüberstand, Erzherzog Karl, ist allein berufen, Moreaus Kriegskunst zu würdigen. Er hat es getan in der strategischen Darstellung des Feldzuges von 1796. Der genaue Titel seiner Schrift lautet: »Grundsätze der Strategie, erläutert durch die Darstellung des Feldzuges von 1796 in Deutschland. Mit Karten und Plänen. Wien 1814. Drei Teile.«
+    </p>
+    <p xml:id="eco_de_000058_5470">
+     Moreau weiß, daß die Zeit gekommen ist, über den Rhein zu gehen.
+    </p>
+    <p xml:id="eco_de_000058_5480">
+     Ich habe nicht umsonst den »Bellum gallicum« gelesen, denkt er fröhlich.
+    </p>
+    <p xml:id="eco_de_000058_5490">
+     Er führt die Brücke, die er einst aus Holz und Pappe verfertigte, noch immer mit sich herum.
+    </p>
+    <p xml:id="eco_de_000058_5500">
+     Er zeigt sie Christophe.
+    </p>
+    <p xml:id="eco_de_000058_5510">
+     »Sieh, auf dieser Brücke werden wir über den Rhein schreiten.«
+    </p>
+    <p xml:id="eco_de_000058_5520">
+     »Wer?« fragt Christophe leise.
+    </p>
+    <p xml:id="eco_de_000058_5530">
+     »Achtzigtausend Mann Infanterie und siebentausend Mann Reiter.«
+    </p>
+    <p xml:id="eco_de_000058_5540">
+     »Die Brücke ist so klein, daß ich sie mit Daumen und Zeigefinger der rechten Hand emporheben kann.«
+    </p>
+    <p xml:id="eco_de_000058_5550">
+     »Du kannst die ganze Welt mit Daumen und Zeigefinger emporheben wie diese Brücke, wenn du den richtigen Moment und die richtige Stelle erfaßt. Du brauchst nur einen richtigen Gedanken zu haben, und die Welt ist vernichtet.«
+    </p>
+    <p xml:id="eco_de_000058_5560">
+     »Ich will keinen richtigen Gedanken haben, denn ich will nicht, daß die Welt zugrunde geht«, flüsterte Christophe.
+    </p>
+    <p xml:id="eco_de_000058_5570">
+     Moreau streichelte ihm das Haar.
+    </p>
+    <p xml:id="eco_de_000058_5580">
+     »Guter Junge. Ich habe doch einen Traum. Das bist du.«
+    </p>
+    <p xml:id="eco_de_000058_5590">
+     Eine dunkle Nacht.
+    </p>
+    <p xml:id="eco_de_000058_5600">
+     Aber zu hell für Moreau.
+    </p>
+    <p xml:id="eco_de_000058_5610">
+     Dann und wann fliegen Sterne wie goldene Fliegen hinter den Wolken hervor.
+    </p>
+    <p xml:id="eco_de_000058_5620">
+     »Eine Fliegenklatsche her!« schreit Moreau. »Verdammtes Gesindel!«
+    </p>
+    <p xml:id="eco_de_000058_5630">
+     Ha! jetzt steigen die Raketen aus den Geschützen auf.
+    </p>
+    <p xml:id="eco_de_000058_5640">
+     Ein Feuerwerk wie in Rennes bei den Studentenfesten. Und er ist jetzt der Feuerwerker.
+    </p>
+    <p xml:id="eco_de_000058_5650">
+     Drauf auf Kehl. In sechs Stunden ist es genommen.
+    </p>
+    <p xml:id="eco_de_000058_5660">
+     Die befestigte Feldstellung bei Renschen wird überrannt.
+    </p>
+    <p xml:id="eco_de_000058_5670">
+     Marsch. Vorwärts. Marsch. Marsch.
+    </p>
+    <p xml:id="eco_de_000058_5680">
+     »Werdet ihr laufen, ihr Kerle. Werdet ihr singen, ihr Schweine.«
+    </p>
+    <p xml:id="eco_de_000058_5690">
+     »Vive Moreau! Vive la France!
+    </p>
+    <p xml:id="eco_de_000058_5700">
+     A bas l'Autriche! A bas l'alliance!
+    </p>
+    <p xml:id="eco_de_000058_5710">
+     Moreau est notre espérance.
+    </p>
+    <p xml:id="eco_de_000058_5720">
+     En avant! En avant! Il avance. Il avance.«
+    </p>
+    <p xml:id="eco_de_000058_5730">
+     Die Zunge schlappt den Infanteristen bis in den Staub der Straße. Die Pferde knicken mit den Beinen zusammen, wie weiland der König nach einem Besuch bei der Gräfin Saiten.
+    </p>
+    <p xml:id="eco_de_000058_5740">
+     Marsch. Gefecht. Marsch. Gefecht.
+    </p>
+    <p xml:id="eco_de_000058_5750">
+     Schlacht bei Rastatt. 5. Juli. General Latour wird geschlagen.
+    </p>
+    <p xml:id="eco_de_000058_5760">
+     Herren-Alb 9. Juli.
+    </p>
+    <p xml:id="eco_de_000058_5770">
+     Der Erzherzog flüchtet hinter den Neckar zurück.
+    </p>
+    <p xml:id="eco_de_000058_5780">
+     Die Türme von Ulm wachsen aus der Ebene.
+    </p>
+    <p xml:id="eco_de_000058_5790">
+     Der Erzherzog beißt verzweifelt um sich wie ein Köter.
+    </p>
+    <p xml:id="eco_de_000058_5800">
+     Siebzehn Stunden ringen sie ineinander verbissen bei Neersheim am 11. August.
+    </p>
+    <p xml:id="eco_de_000058_5810">
+     Moreau läßt nicht locker.
+    </p>
+    <p xml:id="eco_de_000058_5820">
+     Bürger gegen Adel.
+    </p>
+    <p xml:id="eco_de_000058_5830">
+     Republik gegen Monarchie.
+    </p>
+    <p xml:id="eco_de_000058_5840">
+     Zukunft gegen Vergangenheit.
+    </p>
+    <p xml:id="eco_de_000058_5850">
+     Moreau eilt über die Donau. Über den Lech. Er besetzt Augsburg.
+    </p>
+    <p xml:id="eco_de_000058_5860">
+     Jourdan nähert sich mit seinen Armeen Regensburg. Steht nur noch sieben Meilen davon entfernt.
+    </p>
+    <p xml:id="eco_de_000058_5870">
+     Moreau erwartet den Anschluß Jourdans an seinen linken Flügel.
+    </p>
+    <p xml:id="eco_de_000058_5880">
+     Er schickt einen Adjutanten nach dem andern.
+    </p>
+    <p xml:id="eco_de_000058_5890">
+     Jourdan hört nicht auf ihn.
+    </p>
+    <p xml:id="eco_de_000058_5900">
+     Jourdan will der erste in Österreich sein.
+    </p>
+    <p xml:id="eco_de_000058_5910">
+     Er wiehert hochmütig:
+    </p>
+    <p xml:id="eco_de_000058_5920">
+     Er brauche Moreau nicht. Er werde allein mit diesem Erzherzog fertig. Dem werde er es beibringen, seine Stiefel zu putzen und seine Pferde zu füttern. –
+    </p>
+    <p xml:id="eco_de_000058_5930">
+     Der Stiefelputzer und Pferdeknecht wendet sich in verschleierten Märschen gegen Jourdan. Er schlägt ihn aufs Haupt.
+    </p>
+    <p xml:id="eco_de_000058_5940">
+     In Düsseldorf vermag Jourdan kaum die Reste seines Heeres zu sammeln. Er muß über den Rhein zurück.
+    </p>
+    <p xml:id="eco_de_000058_5950">
+     »Alle müssen unfreiwillig über den Rhein zurück, die ihn nicht mit mir überschritten haben«, sagt Moreau zu Christophe. »Aber ich werde gehen, wenn ich gehen muß. Man muß selber sein Schicksal spielen, auch sein schlimmes. Schicksal heißt nur Einsicht.«
+    </p>
+    <p xml:id="eco_de_000058_5960">
+     Moreau ist vollkommen vom Feinde eingeschlossen. Latour steht in seinem Rücken. Der Erzherzog wartet am Oberrhein. Fröhlich schmeißt die Franzosen aus Immenstadt und Kempten.
+    </p>
+    <p xml:id="eco_de_000058_5970">
+     Als Moreau von der Auflösung der Heere Jourdans hört, verfärbt er sich. Er hatte nur an einen Rückzug geglaubt.
+    </p>
+    <p xml:id="eco_de_000058_5980">
+     Nun: wieder einmal stehe ich allein. Ganz allein für mich. Aber ich stehe.
+    </p>
+    <p xml:id="eco_de_000058_5990">
+     Mir gegenüber sind drei, und ich bin einer.
+    </p>
+    <p xml:id="eco_de_000058_6000">
+     Ein Tier mit drei Köpfen und ein Mensch mit einem Kopf.
+    </p>
+    <p xml:id="eco_de_000058_6010">
+     Wir werden sehen.
+    </p>
+    <p xml:id="eco_de_000058_6020">
+     Moreau nimmt sein Heer auf die Fittiche seines Glaubens und seiner Zuversicht und entfliegt wie ein Adler dem Feinde.
+    </p>
+    <p xml:id="eco_de_000058_6030">
+     Ein Wunder.
+    </p>
+    <p xml:id="eco_de_000058_6040">
+     Er schien keine andere Wahl zu haben als Vernichtung oder Gefangenschaft.
+    </p>
+    <p xml:id="eco_de_000058_6050">
+     Die Straßen sind aufgeweicht wie Sümpfe.
+    </p>
+    <p xml:id="eco_de_000058_6060">
+     Es regnet Tag und Nacht. Er hat fünfzig Meilen gut, bis er sich Ruhe gönnen darf.
+    </p>
+    <p xml:id="eco_de_000058_6070">
+     Er fliegt. Er fliegt.
+    </p>
+    <p xml:id="eco_de_000058_6080">
+     Erstaunt sieht er die Heere seines Gegners unter sich im Nebel.
+    </p>
+    <p xml:id="eco_de_000058_6090">
+     Ihn trägt die Sonne.
+    </p>
+    <p xml:id="eco_de_000058_6100">
+     Ein blauer Himmel betaut seine Augen.
+    </p>
+    <p xml:id="eco_de_000058_6110">
+     Er überfliegt den Schwarzwald – und stößt nieder wie ein Geier.
+    </p>
+    <p xml:id="eco_de_000058_6120">
+     Der Feind ist geschlagen, fünftausend Gefangene, zwanzig Kanonen läßt er in seiner Hand.
+    </p>
+    <p xml:id="eco_de_000058_6130">
+     Moreau ist wieder auf der Erde.
+    </p>
+    <p xml:id="eco_de_000058_6140">
+     Er schlängelt sich wie ein Drachen durch das Höllental nach Freiburg.
+    </p>
+    <p xml:id="eco_de_000058_6150">
+     Das Tal ist von den Österreichern besetzt.
+    </p>
+    <p xml:id="eco_de_000058_6160">
+     Er speit sie an mit Rauch und Feuer, und sie ersticken.
+    </p>
+    <p xml:id="eco_de_000058_6170">
+     Moreau hat Frankreich gerettet. Paris hallt vom Jubel seines Namens. Man verkauft Fahnen mit seinem Bildnis. Die Straßenverkäufer schreien: »Kaufen Sie einen kleinen Moreau für vier Sous!«
+    </p>
+    <p xml:id="eco_de_000058_6180">
+     – Und haben ganze Stellagen voll tönerner Moreaus.
+    </p>
+    <p xml:id="eco_de_000058_6190">
+     Ein Parfümeur bringt eine feinriechende Seife »Moreau« auf den Markt.
+    </p>
+    <p xml:id="eco_de_000058_6200">
+     Jedermann wäscht sich mit »Moreau«.
+    </p>
+    <p xml:id="eco_de_000058_6210">
+     Die Kinder spielen »Moreau«.
+    </p>
+    <p xml:id="eco_de_000058_6220">
+     Die Frauen singen:
+    </p>
+    <p xml:id="eco_de_000058_6230">
+     »Moreau est notre espérance!«
+    </p>
+    <p xml:id="eco_de_000058_6240">
+     Aber sie denken an anderes als die Straßenhändler, Kinder und Erfinder wohlriechender Seifen.
+    </p>
+    <p xml:id="eco_de_000058_6250">
+     Sie denken an Moreau und meinen den Frieden.
+    </p>
+    <p xml:id="eco_de_000058_6260">
+     Das Direktorium und sein Gegner, der Erzherzog, nennen den Rückzug Moreaus eine der merkwürdigsten Unternehmungen in der Kriegsgeschichte aller Zeiten.
+    </p>
+    <p xml:id="eco_de_000058_6270">
+     Moreau schickt sich an, von neuem gegen den Schwarzwald vorzudringen, da trifft ihn die Nachricht vom Abschluß des Vorfriedens zu Leoben. Er wacht eines Morgens auf, und es ist Frühling. Es ist Friede. Wie ein Schuljunge, der Ferien hat und keine Aufgaben mehr zu machen braucht, taumelt er durch die Sonne.
+    </p>
+    <p xml:id="eco_de_000058_6280">
+     Er läßt Alarm blasen. Freut sich, wie das Lager wild und zwecklos durcheinanderwimmelt.
+    </p>
+    <p xml:id="eco_de_000058_6290">
+     Dann läßt er das Korps, in dessen Mitte er sich befindet, in Karree antreten.
+    </p>
+    <p xml:id="eco_de_000058_6300">
+     »Brüder! Bürger! Soldaten! Es wird Friede ...«
+    </p>
+    <p xml:id="eco_de_000058_6310">
+     Er stockt. Kann nicht weiterreden. Tränen rinnen ihm über die Wange.
+    </p>
+    <p xml:id="eco_de_000058_6320">
+     Soldaten und Offiziere umarmen sich.
+    </p>
+    <p xml:id="eco_de_000058_6330">
+     »Nach Hause! Zu unsern Frauen! Zu unsern Kindern! Zu unsern Seelen! Seht die Veilchen an den Ufern der Bäche, das grünende Gesträuch, das dunkle Laub des neu erwachten Waldes.«
+    </p>
+    <p xml:id="eco_de_000058_6340">
+     »Es lebe der Frühling! Es lebe der Friede! Es lebe Moreau!«
+    </p>
+    <p xml:id="eco_de_000058_6350">
+     Der Zeichner Boubourouche, welcher beauftragt ist, Moreau für den Konvent zu zeichnen, trifft im Vorzimmer des Hotel Moreau in Paris eine kleine elegante Figur in kurzen Hosen: hohe glatte Stirn, schwarze Haare und klare, blaue Augen, die mit einer kindlichen Inbrunst in die Welt sehen.
+    </p>
+    <p xml:id="eco_de_000058_6360">
+     »Haben Sie die Güte,« wendet sich der Zeichner an den jungen Mann, den er für einen Pagen oder Bedienten Moreaus hält, »mich Ihrem Herrn zu melden.«
+    </p>
+    <p xml:id="eco_de_000058_6370">
+     »Mein Herr ist die Republik«, tönt die gefällige Antwort.
+    </p>
+    <p xml:id="eco_de_000058_6380">
+     Der Zeichner streift mit einem ärgerlichen Blick den Kleinen.
+    </p>
+    <p xml:id="eco_de_000058_6390">
+     »Sie sollen mich, bitte, bei Ihrem Herrn, dem General Moreau, melden.«
+    </p>
+    <p xml:id="eco_de_000058_6400">
+     Der Kleine springt höflich und exaltiert auf ihn zu:
+    </p>
+    <p xml:id="eco_de_000058_6410">
+     »General Moreau, mein Lieber – das bin ich.«
+    </p>
+    <p xml:id="eco_de_000058_6420">
+     »Ich habe den ehrenvollen Auftrag,« stotterte verblüfft der Künstler, »den siegreichen Feldherrn, den bedeutenden Organisator, den großen Menschen für den Konvent zu zeichnen. Darf ich um eine Sitzung bitten?«
+    </p>
+    <p xml:id="eco_de_000058_6430">
+     »Wollen Sie mich in dieser Maske zeichnen? Mit einer spitzen, gelben Tüte auf dem Kopf und den Feldherrnstab in der Rechten?«
+    </p>
+    <p xml:id="eco_de_000058_6440">
+     Der Künstler findet sich wieder zurecht.
+    </p>
+    <p xml:id="eco_de_000058_6450">
+     »Sie werden bitter, mein General. Nicht mit Unrecht. Das Vaterland schuldet Ihnen viel. Man hängt ein Porträt von Ihnen im Konvent auf –«
+    </p>
+    <p xml:id="eco_de_000058_6460">
+     »Zwischen einem Porträt und seinem menschlichen Abbild pflegt der Konvent manchmal keinen großen Unterschied zu machen.«
+    </p>
+    <p xml:id="eco_de_000058_6470">
+     »Man stellt eine Büste von Ihnen im Pantheon auf – gut – was bedeutet das? Wenig. Oder nichts. Eine Farce.«
+    </p>
+    <p xml:id="eco_de_000058_6480">
+     Moreau läßt sich in einen Lehnstuhl fallen.
+    </p>
+    <p xml:id="eco_de_000058_6490">
+     »Darf ich Sie fragen, weshalb Sie einen Auftrag angenommen haben, der Ihnen – nicht wahr? – so wenig zu bedeuten scheint.«
+    </p>
+    <p xml:id="eco_de_000058_6500">
+     Der Zeichner hat seinen Block hervorgezogen und zeichnet emsig mit gekräuselter Stirn.
+    </p>
+    <p xml:id="eco_de_000058_6510">
+     »Ich bin nicht der, der ich scheine ...«
+    </p>
+    <p xml:id="eco_de_000058_6520">
+     Moreau lehnt den Kopf an den roten Samt des Stuhles zurück und blickt zu den Putten und Amoretten an der Decke.
+    </p>
+    <p xml:id="eco_de_000058_6530">
+     »Wie sie spielen, ganz spielender Stein. So ernst gefaßt. So leicht gewollt. Die Kunst ist etwas Großes.«
+    </p>
+    <p xml:id="eco_de_000058_6540">
+     »Es ist größer, ein Heer zu führen. Am allergrößten: ein Volk.«
+    </p>
+    <p xml:id="eco_de_000058_6550">
+     Der Maler sagt es wie zerstreut.
+    </p>
+    <p xml:id="eco_de_000058_6560">
+     Moreau spricht langsam und kaut jedes Wort in seinem Munde: »Ich hasse das Volk, nachgerade, einzeln und in Masse. Was wollen Sie von mir? Es ist Friede. Können die Bourbonen noch immer nicht schlafen, wenn sie nachts an Frankreich denken?«
+    </p>
+    <p xml:id="eco_de_000058_6570">
+     »Sie träumen auch am Tage von Frankreich.«
+    </p>
+    <p xml:id="eco_de_000058_6580">
+     Der Zeichner strichelt an seinem Blatt.
+    </p>
+    <p xml:id="eco_de_000058_6590">
+     »Man will eine Diktatur errichten. Bonaparte ist aus Ägypten zurückgerufen. Man schwankt zwischen Bonaparte und – Ihnen. Die Tugend und ihr Recht, General, ist auf Ihrer Seite. Warum zögern Sie? Ein Wort – und Sie sind Frankreichs Konsul. Das Volk liebt Sie. Es fürchtet Bonaparte.«
+    </p>
+    <p xml:id="eco_de_000058_6600">
+     »Ich hasse das Volk. Darum wünsche ich ihm Bonaparte. Er wird es zugrunde richten. Ich werde denken: er ist das Werkzeug meiner Hand – weil meine Hand ihn gewähren ließ –, wenn er Frankreich quält. Denn es kostete mich – kaum ein Wort, nur eine winzige Tat, und Frankreich segelte nach meinem Winde. Aber ich bin Soldat. Nur Soldat. Verstehe mich nicht aufs Regieren. Nehmt den kleinen Korporal.«
+    </p>
+    <p xml:id="eco_de_000058_6610">
+     Der Wagen rauscht durch die herbstliche Landschaft. Nebel hängt sich an die Flanken der Pferde.
+    </p>
+    <p xml:id="eco_de_000058_6620">
+     Wohin fahre ich?
+    </p>
+    <p xml:id="eco_de_000058_6630">
+     Moreau vergräbt sich in die Polster einer zärtlichen Vergangenheit. Noch schwärmt der Duft süßester Demoisellen verstaubt in den Nähten der Kissen, in den Ritzen der Fenster. Noch schwingt ein Hauch galanter Worte in den wehenden Gardinen.
+    </p>
+    <p xml:id="eco_de_000058_6640">
+     Die süßesten Demoisellen wurden wilde Panther, die mit den Zähnen ihre Opfer zerrissen.
+    </p>
+    <p xml:id="eco_de_000058_6650">
+     Die lispelnde Galanterie verklang im Gebrüll der Carmagnole.
+    </p>
+    <p xml:id="eco_de_000058_6660">
+     Der König, – wenn er ein wenig vernünftiger gewesen wäre?
+    </p>
+    <p xml:id="eco_de_000058_6670">
+     Aber Könige sind nie vernünftig.
+    </p>
+    <p xml:id="eco_de_000058_6680">
+     Es hat ihn gereizt, das Schicksal, das er über sich aus den Lüften hereinbrechen sah, herauszufordern.
+    </p>
+    <p xml:id="eco_de_000058_6690">
+     Was tat er, Moreau, anderes?
+    </p>
+    <p xml:id="eco_de_000058_6700">
+     Der Bonaparte ist ein böser Hund, den man zertreten sollte. Er wird noch einmal die Tollwut kriegen. Die Inkarnation des Pöbels. Vom Pöbelwahn geboren. Im Meer des Volkes an den Strand getrieben. Eine ganz gewöhnliche Muschel, die vortäuscht, eine Perle zwischen ihren Schalen zu verbergen.
+    </p>
+    <p xml:id="eco_de_000058_6710">
+     Ein Italiener! Ein Korse!
+    </p>
+    <p xml:id="eco_de_000058_6720">
+     Das Volk braucht zur Anbetung immer ein Fremdes, Unbegreifliches, eines, das aus der Ferne kommt, die niemand kennt, von den Felsen Korsikas, aus der Bläue eines heißeren Himmels, im Blut die Rache seiner Väter fühlend.
+    </p>
+    <p xml:id="eco_de_000058_6730">
+     Mein Vater war nur ein harmloser Advokat.
+    </p>
+    <p xml:id="eco_de_000058_6740">
+     Advokaten liebt das Volk nicht. Es will betrogen, aber nicht verteidigt sein. Angeklagt will es werden. Ausgepeitscht. Gemartert und bespien. Dann leckt es verzückt seinem Quälgeist die Schuhe und frißt aus der Hand.
+    </p>
+    <p xml:id="eco_de_000058_6750">
+     – Es dunkelt.
+    </p>
+    <p xml:id="eco_de_000058_6760">
+     Der Wagen hält. Ein einsames Gasthaus liegt, wie aus dem Himmel gefallen, gleich einem Klotz im unfreundlichen Nebel. Der Kutscher steigt vom Bock und öffnet den Schlag.
+    </p>
+    <p xml:id="eco_de_000058_6770">
+     »Mein Herr, wir müssen übernachten ...«
+    </p>
+    <p xml:id="eco_de_000058_6780">
+     Moreau wird mißtrauisch: »Was ist das für eine zweifelhafte Bude? Ihr seid bestochen. Wohin fahrt Ihr mich?«
+    </p>
+    <p xml:id="eco_de_000058_6790">
+     Der Kutscher zuckt nachsichtig die Achseln.
+    </p>
+    <p xml:id="eco_de_000058_6800">
+     »Eine schlimme Zeit. Aber ich bin nicht befähigt, sie zu verschlimmern.«
+    </p>
+    <p xml:id="eco_de_000058_6810">
+     Moreau ragt im Nebel vor dem Wagen wie ein Meilenstein. Eine schmierige Funzel hängt wie ein Lampion trübe über ihm. Rechts stehen lange Reihen steifer Gespenster, welche die hölzernen Giraffenhälse nach Moreau recken.
+    </p>
+    <p xml:id="eco_de_000058_6820">
+     Ich könnte jetzt in den Wald entlaufen, überlegt Moreau. Man würde mich nicht finden bei einem solchen Nebel.
+    </p>
+    <p xml:id="eco_de_000058_6830">
+     Laut sagt er: »Ihr kennt Bonaparte?«
+    </p>
+    <p xml:id="eco_de_000058_6840">
+     »Ja – und ich kenne Euch – und Sie kennen mich ... Treten Sie nur unter das Haustor dort. Der Regen durchnäßt einen bis auf die Haut. Wir bleiben die Nacht hier.« –
+    </p>
+    <p xml:id="eco_de_000058_6850">
+     Moreau sah die schlanken, eleganten Hände des Kutschers:
+    </p>
+    <p xml:id="eco_de_000058_6860">
+     Wo habe ich nur mit diesen Händen schon zu tun gehabt?
+    </p>
+    <p xml:id="eco_de_000058_6870">
+     Streichelten sie nicht einst einen Fiebernden und lagen kühl und fest auf seiner Stirn? Und dieser gute Glanz der Augen!
+    </p>
+    <p xml:id="eco_de_000058_6880">
+     »Warum kommt Ihr immer wieder zu mir? Glaubt Ihr, daß ich krank bin?«
+    </p>
+    <p xml:id="eco_de_000058_6890">
+     Der Kutscher sagte:
+    </p>
+    <p xml:id="eco_de_000058_6900">
+     »Sie sind krank, General. Ich will Sie heilen, wie ich Sie schon einmal geheilt habe.«
+    </p>
+    <p xml:id="eco_de_000058_6910">
+     »Ich habe den Maler neulich zur Tür hinausgeworfen.«
+    </p>
+    <p xml:id="eco_de_000058_6920">
+     Der Kutscher lachte höflich.
+    </p>
+    <p xml:id="eco_de_000058_6930">
+     »Oh, das hat nichts zu besagen. Sie werden ihn übrigens ebenfalls hier im Hause vorfinden. Dazu jemand, den Sie schwerlich hier vermuten werden. Treten Sie, bitte, ein.«
+    </p>
+    <p xml:id="eco_de_000058_6940">
+     Er stieß die Tür auf (mit einem seiner schweren Stiefel: es machte ihm ersichtlich Vergnügen, Kutscher zu sein) und ließ Moreau eintreten. In einem gekalkten und verräucherten Gastzimmer saßen etwa zwanzig Männer ernst und schweigend beim Schein einiger Kerzen um einen langen, ungedeckten Tisch. Jeder hatte eine Kanne mit rotem Wein vor sich stehen.
+    </p>
+    <p xml:id="eco_de_000058_6950">
+     Beim Eintritt Moreaus erhoben sich alle von den Bänken.
+    </p>
+    <p xml:id="eco_de_000058_6960">
+     Einer sagte:
+    </p>
+    <p xml:id="eco_de_000058_6970">
+     »Es lebe Moreau!«
+    </p>
+    <p xml:id="eco_de_000058_6980">
+     Die andern stimmten leise ein.
+    </p>
+    <p xml:id="eco_de_000058_6990">
+     Ein Platz am Tisch war freigelassen. Moreau ging auf ihn zu und nahm Platz.
+    </p>
+    <p xml:id="eco_de_000058_7000">
+     Er sah sich flüchtig, aber aufmerksam um. Der erste, dessen Augen er begegnete, war Pichegrue, sein ehemaliger Oberfeldherr im Nordfcldzug gegen Holland. Er sah den Maler Boubourouche. Er sah viele andere, deren Namen er nicht wußte und deren Gesichter seine Erinnerung zu kennen vermeinte.
+    </p>
+    <p xml:id="eco_de_000058_7010">
+     Aber oben an der Tafel saß an der Schmalseite, allein für sich, jemand, der sein Blut zu Kristall erstarren und erfunkeln machte, ein Jüngling von etwa neunzehn Jahren, schlank, verträumt, mit Händen, die wie Elfenbein unter Spitzenmanschetten lagen.
+    </p>
+    <p xml:id="eco_de_000058_7020">
+     Es war der Bourbone.
+    </p>
+    <p xml:id="eco_de_000058_7030">
+     Er erhob sich und ging auf Moreau zu. Sein Gang war Musik, in deren Rhythmus sich der zarte Leib wiegte. Über seine Stirne fielen dunkelbraune Locken. Seine Ohren waren klein wie die einer Maus. Seine Augen blickten ruhig und unverwirrt wie zwei Gestirne.
+    </p>
+    <p xml:id="eco_de_000058_7040">
+     Er reichte Moreau beide Hände und sagte:
+    </p>
+    <p xml:id="eco_de_000058_7050">
+     »Willkommen, General.«
+    </p>
+    <p xml:id="eco_de_000058_7060">
+     Moreau hielt diese Hände eine Sekunde fiebernd in den seinen.
+    </p>
+    <p xml:id="eco_de_000058_7070">
+     Das war das Volk nicht mehr, das er gelernt hatte zu verachten. Das war nicht der Schweiß des marschierenden Soldaten, nicht der hungrige Blick des Plünderers, grün schillernd, nicht der zitternde Sprung des Schänders, die schwelende Hand des Brandstifters.
+    </p>
+    <p xml:id="eco_de_000058_7080">
+     Das war ein Engel, von Wolken sanft herniedergestiegen, durch den Nebel des Herbstes. Unerkenntlich dem großen Haufen der brüllenden Plebejer.
+    </p>
+    <p xml:id="eco_de_000058_7090">
+     Das war ein Sohn der Madonna.
+    </p>
+    <p xml:id="eco_de_000058_7100">
+     Wenn selbst das Volk ihn sähe – es würde ihn nicht erkennen.
+    </p>
+    <p xml:id="eco_de_000058_7110">
+     Er, Moreau, war ein Auserwählter. Ein Soldat Gottes. Ein Soldat der Madonna. Ein Diener ihres Sohnes.
+    </p>
+    <p xml:id="eco_de_000058_7120">
+     O selig, Diener eines solchen Herrn zu sein.
+    </p>
+    <p xml:id="eco_de_000058_7130">
+     Moreau schlug den Plutarch auf und las: »So sind denn die sonderbarsten Ereignisse auch dieser Männer dargetan worden. –
+    </p>
+    <p xml:id="eco_de_000058_7140">
+     Vergleicht man nun das Leben des einen mit dem Leben des anderen überhaupt und im besonderen, so fällt der Unterschied nicht so leicht in die Augen, da er unter einer Menge bedeutender Ähnlichkeiten beinahe vergeht. Wenn man aber jeden wie ein Gedicht oder Gemälde nach den einzelnen Linien und Teilen einer besonderen Prüfung unterzieht, so ist es zwar beiden gemein, daß sie ohne alle vorhandenen Hilfsmittel allein durch ihre großen Eigenschaften und Talente zu den höchsten Ämtern und dem höchsten Ansehen gelangt sind. Aber man findet auch, daß Aristeides zu einer Zeit, wo Athen noch nicht so stark und mächtig war, wo die Führer und Häupter des Volkes noch in ziemlich gleichem und ebenem Verhältnis zueinander standen, sich emporgeschwungen hat. Cato hingegen wagte es, aus dem Bauernstand heraus sich in das ungeheure Meer der Staatsverwaltung zu stürzen, die keinem mehr gestatten wollte, den Pflug mit dem Stab des Feldherrn und die Schippe mit dem Talar des Richters zu vertauschen. Eine Gesellschaft, die in ihrer Machtvollkommenheit jedem, der außerhalb ihrer stand, mit frechem Stolz begegnete.
+    </p>
+    <p xml:id="eco_de_000058_7150">
+     Im Krieg waren beide unbesiegbar, aber in der Verwaltung des Staates mußte Aristeides unterliegen, da er durch Kabalen verdrängt und aus der Stadt verbannt wurde ...«
+    </p>
+    <p xml:id="eco_de_000058_7160">
+     Moreau hielt inne mit Lesen. War das Vergangenheit? Zukunft? Was wußte dieser alte Grieche? Ach, daß es immer dieselben Menschen gibt, und daß auch die außergewöhnlichen noch sich gleichen wie ein Ei dem andern. Mit dem Unterschiede, daß der eine ein Kiebitzei und der andere ein Kuckucksei ist ...
+    </p>
+    <p xml:id="eco_de_000058_7170">
+     Ich bin, wie es scheint, ein Kuckucksei. Mich hat der Vogel Zeit in ein falsches Nest gelegt – Moreau las weiter:
+    </p>
+    <p xml:id="eco_de_000058_7180">
+     »Daß der Mensch keine vollkommenere Tugend besitzt als die politische, darüber ist sich jedermann klar ...«
+    </p>
+    <p xml:id="eco_de_000058_7190">
+     Eben diese Tugend habe ich nicht. Ich glaubte einmal, sie zu besitzen, als ich in Reimes die Studenten organisierte. Als ich vom Balkon die Prozession des Volkes schreiten sah. Es war der Rhythmus der Masse, das Soldatische, das mich begeisterte. Die Buntheit des Tuches. Der Wunsch, den Farben, Klängen, Bildern zu befehlen.
+    </p>
+    <p xml:id="eco_de_000058_7200">
+     Ich habe nur eine Tugend: die soldatische.
+    </p>
+    <p xml:id="eco_de_000058_7210">
+     Und alle Fehler: die soldatischen.
+    </p>
+    <p xml:id="eco_de_000058_7220">
+     Der gesetzgebende Rat gab den Generälen Moreau und Bonaparte am 4. November ein Fest im Siegestempel.
+    </p>
+    <p xml:id="eco_de_000058_7230">
+     Der 4. November war zufällig Moreaus Geburtstag.
+    </p>
+    <p xml:id="eco_de_000058_7240">
+     Moreau sprang wie ein kleiner Junge durch das Fest.
+    </p>
+    <p xml:id="eco_de_000058_7250">
+     Er tanzte mit Christophe und stellte ihn allen Leuten als seinen Sohn vor.
+    </p>
+    <p xml:id="eco_de_000058_7260">
+     Eine Dame schwebte von der Estrade herab.
+    </p>
+    <p xml:id="eco_de_000058_7270">
+     Ihre Augen treffen sich. Verbrennen ineinander.
+    </p>
+    <p xml:id="eco_de_000058_7280">
+     Glück einer Sekunde. Glück einer Ewigkeit.
+    </p>
+    <p xml:id="eco_de_000058_7290">
+     Die Kronleuchter läuten.
+    </p>
+    <p xml:id="eco_de_000058_7300">
+     Viktoria! Viktoria! Sieg!
+    </p>
+    <p xml:id="eco_de_000058_7310">
+     Man hatte ein Hoch auf Moreau ausgebracht. Aber Moreau hat es überhört. Er sieht nur die Dame. Die schwebt näher. Ihr Engelsantlitz schrumpft zusammen. Ihre funkelnden Hände werden matt. Ihr heller Hals schimmert ölig und speckig. Ein törichtes Vergnügen umspielt ihren schiefen Mund.
+    </p>
+    <p xml:id="eco_de_000058_7320">
+     Es ist Jeannette.
+    </p>
+    <p xml:id="eco_de_000058_7330">
+     Gleichzeitig mit ihr tritt ein weicher, wohlbeleibter Herr an ihn heran.
+    </p>
+    <p xml:id="eco_de_000058_7340">
+     Er stellt sich ergebenst vor. Es ist der schweizerische Gesandte. Jener Welschschweizer vom Fest in Rennes.
+    </p>
+    <p xml:id="eco_de_000058_7350">
+     Und Jeannette ist seine Frau.
+    </p>
+    <p xml:id="eco_de_000058_7360">
+     »Wir standen uns einmal mit den Waffen in der Hand gegenüber, mein General. Als wir jung waren.«
+    </p>
+    <p xml:id="eco_de_000058_7370">
+     Moreau denkt: Als wir jung waren –
+    </p>
+    <p xml:id="eco_de_000058_7380">
+     Jeannette ist beglückt.
+    </p>
+    <p xml:id="eco_de_000058_7390">
+     Moreau stützt sich auf Christophe.
+    </p>
+    <p xml:id="eco_de_000058_7400">
+     »Ich bin Ihnen dankbar, daß Sie mich damals zum Kampf zwangen. Ich habe mir meine Frau erkämpft, im Kampf gegen Sie.«
+    </p>
+    <p xml:id="eco_de_000058_7410">
+     Jeannette lächelt.
+    </p>
+    <p xml:id="eco_de_000058_7420">
+     »Sie haben mich gelehrt, ihren Wert zu erkennen.«
+    </p>
+    <p xml:id="eco_de_000058_7430">
+     Moreau sieht den Wald von Rennes:
+    </p>
+    <p xml:id="eco_de_000058_7440">
+     »Ich glaubte damals an Gerechtigkeit. Und zog nur für eine Dame dieses Namens den Degen.«
+    </p>
+    <p xml:id="eco_de_000058_7450">
+     Der Schweizer stimmte verbindlich zu:
+    </p>
+    <p xml:id="eco_de_000058_7460">
+     »Sie haben immer für Gerechtigkeit gekämpft. Moreau und Recht sind Synonyme.«
+    </p>
+    <p xml:id="eco_de_000058_7470">
+     Moreau betrachtet Jeannette.
+    </p>
+    <p xml:id="eco_de_000058_7480">
+     Christophe lächelt vergebens seitwärts.
+    </p>
+    <p xml:id="eco_de_000058_7490">
+     Sie ist wieder ein wenig von mir weggetreten. Distance, Madame, Distance – und Sie sind mir wieder nah. Distance, Madame, ein wenig mehr – und ich bin bereit, meinen Degen zu ziehen, nicht für die Gerechtigkeit, nicht für Sie, Madame, für mich ... für mich ganz allein.
+    </p>
+    <p xml:id="eco_de_000058_7500">
+     Jeannette versinkt in Erinnerung und Tränen.
+    </p>
+    <p xml:id="eco_de_000058_7510">
+     Moreau blickt in die Höhe.
+    </p>
+    <p xml:id="eco_de_000058_7520">
+     »Madame ist nicht wohl.«
+    </p>
+    <p xml:id="eco_de_000058_7530">
+     Der Schweizer ist um Jeannette besorgt.
+    </p>
+    <p xml:id="eco_de_000058_7540">
+     »Mein Liebling – du fühlst dich schlecht?«
+    </p>
+    <p xml:id="eco_de_000058_7550">
+     Jeannette erwacht.
+    </p>
+    <p xml:id="eco_de_000058_7560">
+     »Bring' mich nach Hause, Adolphe. Ich habe Kopfschmerzen.«
+    </p>
+    <p xml:id="eco_de_000058_7570">
+     »Tausend Verzeihung, mein General. Auf Wiedersehen.«
+    </p>
+    <p xml:id="eco_de_000058_7580">
+     Moreau steht hinter einem Vorhang und beobachtet die Straße.
+    </p>
+    <p xml:id="eco_de_000058_7590">
+     Es regnet. Zwischen den Tropfen glitzern da und dort einige Schneeflocken. –
+    </p>
+    <p xml:id="eco_de_000058_7600">
+     Jetzt treten sie aus dem Portal.
+    </p>
+    <p xml:id="eco_de_000058_7610">
+     Sie steigen in einen Wagen.
+    </p>
+    <p xml:id="eco_de_000058_7620">
+     Der Pöbel brüllt.
+    </p>
+    <p xml:id="eco_de_000058_7630">
+     Das Pflaster klappert an den Hufen.
+    </p>
+    <p xml:id="eco_de_000058_7640">
+     Eine Hand legt sich leicht auf seine Schulter.
+    </p>
+    <p xml:id="eco_de_000058_7650">
+     Er wendet sich um.
+    </p>
+    <p xml:id="eco_de_000058_7660">
+     Es ist Christophe.
+    </p>
+    <p xml:id="eco_de_000058_7670">
+     Er steht wie ein Erzengel in seidener Rüstung vor ihm.
+    </p>
+    <p xml:id="eco_de_000058_7680">
+     Seine Augen leuchten.
+    </p>
+    <p xml:id="eco_de_000058_7690">
+     »Du hast Wein getrunken?«
+    </p>
+    <p xml:id="eco_de_000058_7700">
+     Christophe nickt.
+    </p>
+    <p xml:id="eco_de_000058_7710">
+     »Ich bin froh und traurig zugleich.«
+    </p>
+    <p xml:id="eco_de_000058_7720">
+     »Hast du mit einem kleinen Fräulein getanzt?«
+    </p>
+    <p xml:id="eco_de_000058_7730">
+     »Sie wollten alle mit mir tanzen. Aber ich wollte nicht. Ich war bei dem großen Mann und habe ihn sprechen hören. Er hat mir Wein eingeschenkt, und ich habe auf sein Wohl trinken müssen.«
+    </p>
+    <p xml:id="eco_de_000058_7740">
+     Moreau krampft sich mit den Fäusten in den schwarzen Samtvorhang.
+    </p>
+    <p xml:id="eco_de_000058_7750">
+     »Du warst bei Bonaparte?«
+    </p>
+    <p xml:id="eco_de_000058_7760">
+     »Ja. Ich hörte seine Stimme von weitem und ging auf sie zu. Ich wollte ihn nur sprechen hören, sonst nichts. Er sagte zu mir, daß ich ein gentiler Junge sei. Und wem ich gehöre. Ich sagte ... Ihnen.«
+    </p>
+    <p xml:id="eco_de_000058_7770">
+     Moreaus Spannung löst sich. »Hast du das gesagt? Ist das wahr?«
+    </p>
+    <p xml:id="eco_de_000058_7780">
+     Der Knabe nickt.
+    </p>
+    <p xml:id="eco_de_000058_7790">
+     »Es ist wahr.«
+    </p>
+    <p xml:id="eco_de_000058_7800">
+     »Gesteh's, daß er dich mir rauben will.«
+    </p>
+    <p xml:id="eco_de_000058_7810">
+     »Er will es vielleicht, aber er wird es nicht können. Denn ich werde nicht mehr sein. Ich liebe Sie. Aber Sie lieben mich nicht mehr. Oh, widersprechen Sie mir nicht. Sie versuchen nur noch, mich zu lieben.«
+    </p>
+    <p xml:id="eco_de_000058_7820">
+     Moreau traten Tränen in die Augen.
+    </p>
+    <p xml:id="eco_de_000058_7830">
+     »Christophe, begreife meinen Schmerz. Du entschwindest mir.«
+    </p>
+    <p xml:id="eco_de_000058_7840">
+     »Ich würde vielleicht wünschen, bei Bonaparte zu bleiben. Aber er ist vom Volk. Und das Volk liebt mich nicht. Ich bin zu krank für seine Liebe. Er würde mich nicht mit Händen, er würde mich mit Pranken anfassen. Jeder Handdruck würde mir Blut entpressen.«
+    </p>
+    <p xml:id="eco_de_000058_7850">
+     Moreau verbarg sein Gesicht.
+    </p>
+    <p xml:id="eco_de_000058_7860">
+     Christophe zog seine Flöte.
+    </p>
+    <p xml:id="eco_de_000058_7870">
+     »Denken Sie manchmal an mich, wenn Sie nicht schlafen können.«
+    </p>
+    <p xml:id="eco_de_000058_7880">
+     Wie der Erzengel Raffael drehte er sich silbern vor dem schwarzen Himmel des Vorhangs, in den voreilig sich die Nacht verwandelt hatte, und blies und sang:
+    </p>
+    <p xml:id="eco_de_000058_7890">
+     »Ich bin von Menschen so verlassen, daß Zwei milde Mäuse nun mein Spielzeug sind, Aus grauem Stoff ersonnen, und von Glas Die schwarzen Augen, funkelnd, aber blind.
+    </p>
+    <p xml:id="eco_de_000058_7900">
+     Auf sich beschränkt, ist rings die Welt so tot, Wie diese Mäuse sind: des Unseins Raub. Aus grauem Stoff verfertigt, blind und taub, Erkennet eines nicht des andern Not.
+    </p>
+    <p xml:id="eco_de_000058_7910">
+     Verstehet eines nicht des andern Wort, Fühlt eines nicht des andern Herzens Schlag. Und also ist ein jegliches verdorrt; Und alles ist nur eines: Nacht und Tag.
+    </p>
+    <p xml:id="eco_de_000058_7920">
+     Im Gewühl des Festes treffen sich zwei Bürger.
+    </p>
+    <p xml:id="eco_de_000058_7930">
+     Stutzen.
+    </p>
+    <p xml:id="eco_de_000058_7940">
+     Treiben aneinander vorbei.
+    </p>
+    <p xml:id="eco_de_000058_7950">
+     Wenden.
+    </p>
+    <p xml:id="eco_de_000058_7960">
+     Sie suchen sich mit den Augen zu fassen. Funkeln eitel und ehrgeizig wie zwei Pfauen.
+    </p>
+    <p xml:id="eco_de_000058_7970">
+     Der eine packt den andern vorsichtig bei der Hand und führt ihn in eine Nische.
+    </p>
+    <p xml:id="eco_de_000058_7980">
+     »Gevatter Spiegelfechter?«
+    </p>
+    <p xml:id="eco_de_000058_7990">
+     »Gevatter Wolkenkämpfer?«
+    </p>
+    <p xml:id="eco_de_000058_8000">
+     »Wie steht das werte Befinden?«
+    </p>
+    <p xml:id="eco_de_000058_8010">
+     »Das Ihre, mein Herr?«
+    </p>
+    <p xml:id="eco_de_000058_8020">
+     »Sehen Sie noch immer in allen Spiegeln sich selbst und schlagen Sie sich mit Ihren eigenen Grimassen herum?«
+    </p>
+    <p xml:id="eco_de_000058_8030">
+     »Rufen Sie noch immer Wolken vom Himmel, um Frankreich zu verdüstern?«
+    </p>
+    <p xml:id="eco_de_000058_8040">
+     »Ich lasse regnen auf Frankreich. Frankreich ist fruchtbare Erde. Frankreich soll Frucht tragen. Meine Frucht.«
+    </p>
+    <p xml:id="eco_de_000058_8050">
+     »In meinem Spiegel soll Frankreich sich erkennen – und es wird sich entsetzen vor seinem Bildnis.«
+    </p>
+    <p xml:id="eco_de_000058_8060">
+     »Wir kennen uns ...?«
+    </p>
+    <p xml:id="eco_de_000058_8070">
+     »Ewig...«
+    </p>
+    <p xml:id="eco_de_000058_8080">
+     »Als Brüder?«
+    </p>
+    <p xml:id="eco_de_000058_8090">
+     »Als Brüder!«
+    </p>
+    <p xml:id="eco_de_000058_8100">
+     »Als Feinde?«
+    </p>
+    <p xml:id="eco_de_000058_8110">
+     »Als Feinde!«
+    </p>
+    <p xml:id="eco_de_000058_8120">
+     Gelächter plätschert wie ein Springbrunnen.
+    </p>
+    <p xml:id="eco_de_000058_8130">
+     Tanz der Eulen und Schmetterlinge. Ein Menuett von Rosendüften.
+    </p>
+    <p xml:id="eco_de_000058_8140">
+     Moreau und Bonaparte schütteln sich die Hand.
+    </p>
+    <p xml:id="eco_de_000058_8150">
+     Moreau löst am 18. Brumaire mit einem Kommando Musketiere das Direktorium auf.
+    </p>
+    <p xml:id="eco_de_000058_8160">
+     Bonaparte tritt seine Diktatur an.
+    </p>
+    <p xml:id="eco_de_000058_8170">
+     Er fährt am Nachmittag in einer mit vier Schimmeln bespannten Karosse bei Moreau vor.
+    </p>
+    <p xml:id="eco_de_000058_8180">
+     Moreau liegt müde auf einem persischen Diwan.
+    </p>
+    <p xml:id="eco_de_000058_8190">
+     Die Kerzen sind halb heruntergebrannt. Schwere Schatten fallen über die aufgeschlagene Bibel.
+    </p>
+    <p xml:id="eco_de_000058_8200">
+     Bonaparte ist von einem flackernden Gefolge von Offizieren und hohen Beamten umgeben.
+    </p>
+    <p xml:id="eco_de_000058_8210">
+     Moreau erhebt sich fragend aus den Kissen.
+    </p>
+    <p xml:id="eco_de_000058_8220">
+     Ein Offizier im Dreispitz nähert sich mit einem goldbestickten seidenen Polster, auf dem zwei mit Diamanten besetzte Pistolen ruhen.
+    </p>
+    <p xml:id="eco_de_000058_8230">
+     Bonaparte spricht mit seiner rauhen, blechernen Stimme:
+    </p>
+    <p xml:id="eco_de_000058_8240">
+     »Einige Ihrer Siege, Bürgergeneral, sind darauf eingraviert, aber nicht alle, sonst hätten keine Diamanten mehr Platz gefunden. Erlauben Sie mir, mit dem Dank des Vaterlandes Ihnen zugleich meine Bewunderung für Ihre Feldherrntugenden auszusprechen. Mein Feldzug in Italien war der eines jungen Mannes. Der Ihre war der eines vollendeten Feldherrn – des Soldaten an sich.« –
+    </p>
+    <p xml:id="eco_de_000058_8250">
+     Die Wachskerzen flattern.
+    </p>
+    <p xml:id="eco_de_000058_8260">
+     Sie duften wie ferne Jugend.
+    </p>
+    <p xml:id="eco_de_000058_8270">
+     Bonaparte hat recht.
+    </p>
+    <p xml:id="eco_de_000058_8280">
+     Ich bin ein Feldherr. Kein Weltherr. Er ist ein junger Mensch. Und jungen Menschen gehört die Welt.
+    </p>
+    <p xml:id="eco_de_000058_8290">
+     Moreau verneigt sich.
+    </p>
+    <p xml:id="eco_de_000058_8300">
+     »Verbindlichen Dank, Konsul, für die Ehrenpistolen. Ich darf den Aufwand dieser Feierlichkeit, den Sie mir zu widmen geruhen, vielleicht mit einer Zeremonie verbinden, die ich schon seit langem plane. So habe ich es nicht nötig, zu meiner Szene mir erst das Publikum zu suchen, dessen ich bedarf. Einen Augenblick, meine Herren.«
+    </p>
+    <p xml:id="eco_de_000058_8310">
+     Moreau schellt.
+    </p>
+    <p xml:id="eco_de_000058_8320">
+     Christophe erscheint.
+    </p>
+    <p xml:id="eco_de_000058_8330">
+     »Ruf mir den Koch – und bring' mir das goldene Kasseroll, das heute morgen erst der Goldschmied sandte.«
+    </p>
+    <p xml:id="eco_de_000058_8340">
+     Der Knabe enteilt. Bonaparte wartet verbissen.
+    </p>
+    <p xml:id="eco_de_000058_8350">
+     Das Gefolge steht stumm und betroffen.
+    </p>
+    <p xml:id="eco_de_000058_8360">
+     Der Koch schwankt durch die Tür. Behäbig und lebhaft. Ein Südfranzose. Wie eine weiße Wolke kriechend. Er tanzt seine Reverenzen.
+    </p>
+    <p xml:id="eco_de_000058_8370">
+     Christophe trägt auf einem dunkelgrünen Samtpolster ein goldenes Kasseroll.
+    </p>
+    <p xml:id="eco_de_000058_8380">
+     »Meine Herren. Der Konsul war so gütig, mir soeben in seinem und des Vaterlandes Namen ein paar Ehrenpistolen zu verleihen für Verdienste, die ich vor mir selber nur als Pflicht und Notwendigkeit anerkennen kann. Ich bin ein Mensch der Tat. Ein Mann des scharfen Schwertes. Ein Soldat. Die Gabe der Phantasie, des Traumes am Tage, wurde mir nur spärlich zugemessen. Dieser Mann allein (und Moreau deutete auf den Koch, der sich schwänzelnd verbog und verbeugte) vermochte zuweilen sie aus meinem Herzen hervorzulocken: durch eine Sarabande von Poularde, durch ein Scherzo von Salat, durch ein Omelett, leicht und wehend, als esse man eine süße Wolke. Er ist ein wahrer Künstler – an Erfindung und Kraft. Ich gestatte mir, mein lieber Guy, dir vor den Augen dieser erlauchten Versammlung dieses goldene Ehrenkasseroll zu überreichen. Möchtest du dich seiner würdig erzeigen.« –
+    </p>
+    <p xml:id="eco_de_000058_8390">
+     Christophe kniet vor dem Koch nieder.
+    </p>
+    <p xml:id="eco_de_000058_8400">
+     Der hüpft verlegen, ratlos und beglückt im Kreis.
+    </p>
+    <p xml:id="eco_de_000058_8410">
+     Bonaparte beißt die Lippen aufeinander.
+    </p>
+    <p xml:id="eco_de_000058_8420">
+     Das Gefolge zittert.
+    </p>
+    <p xml:id="eco_de_000058_8430">
+     Bonaparte lächelt.
+    </p>
+    <p xml:id="eco_de_000058_8440">
+     »Ich habe eines vergessen, Bürgergeneral. In meinem Namen und im Namen des Vaterlandes übertrage ich Ihnen den Befehl über die Rheinarmee.«
+    </p>
+    <p xml:id="eco_de_000058_8450">
+     Moreau fällt ermattet und erblaßt in die Kissen.
+    </p>
+    <p xml:id="eco_de_000058_8460">
+     Das Gefolge lächelt.
+    </p>
+    <p xml:id="eco_de_000058_8470">
+     Christophe zittert.
+    </p>
+    <p xml:id="eco_de_000058_8480">
+     Der Koch tanzt mit dem goldenen Kasseroll Menuett.
+    </p>
+    <p xml:id="eco_de_000058_8490">
+     Bonaparte winkt Christophe.
+    </p>
+    <p xml:id="eco_de_000058_8500">
+     »Deinem Herrn ist nicht wohl. Bring' ihm ein Glas Wasser.«
+    </p>
+    <p xml:id="eco_de_000058_8510">
+     Er verneigt sich.
+    </p>
+    <p xml:id="eco_de_000058_8520">
+     Man geht.
+    </p>
+    <p xml:id="eco_de_000058_8530">
+     Moreau friert.
+    </p>
+    <p xml:id="eco_de_000058_8540">
+     Befehlshaber über eine Armee, die nicht existiert.
+    </p>
+    <p xml:id="eco_de_000058_8550">
+     Er ist mir über.
+    </p>
+    <p xml:id="eco_de_000058_8560">
+     Er kann fliegen.
+    </p>
+    <p xml:id="eco_de_000058_8570">
+     Ich kann nur gehen. Allerdings auf zwei festen Beinen.
+    </p>
+    <p xml:id="eco_de_000058_8580">
+     Die Kerzen verlöschen.
+    </p>
+    <p xml:id="eco_de_000058_8590">
+     Er liegt im Dunkel.
+    </p>
+    <p xml:id="eco_de_000058_8600">
+     Er zieht sich eine Decke über die Augen, um das Dunkel noch zu verdunkeln.
+    </p>
+    <p xml:id="eco_de_000058_8610">
+     Die Nacht bricht an.
+    </p>
+    <p xml:id="eco_de_000058_8620">
+     Er liegt die ganze Nacht wach.
+    </p>
+    <p xml:id="eco_de_000058_8630">
+     Wo steckt der kleine Bourbone?
+    </p>
+    <p xml:id="eco_de_000058_8640">
+     Er ist ein anmutiger Herr. Ich muß ihn wieder einmal sehen.
+    </p>
+    <p xml:id="eco_de_000058_8650">
+     Seine Hände sind gewiß nur da, um zu spielen. Aber Spiel ist heilig, wenn ein Heiliger spielt. –
+    </p>
+    <p xml:id="eco_de_000058_8660">
+     Im rosagrauen Frühlicht hallen Schritte durch die Korridore.
+    </p>
+    <p xml:id="eco_de_000058_8670">
+     Schreie stolpern die Treppe hinab. Die Wände bersten vor Schmerz. Wehklagen winselt um die Säulen. Die Amoretten an den Decken weinen.
+    </p>
+    <p xml:id="eco_de_000058_8680">
+     Eine Stimme bellt. Wie ein Hund. Unaufhörlich:
+    </p>
+    <p xml:id="eco_de_000058_8690">
+     »Moreau ... Moreau.«
+    </p>
+    <p xml:id="eco_de_000058_8700">
+     Echo erwidert aus einem andern Stockwerk:
+    </p>
+    <p xml:id="eco_de_000058_8710">
+     »Moreau ... Moreau.«
+    </p>
+    <p xml:id="eco_de_000058_8720">
+     Grau, bleich und übernächtig springt Moreau in den Haufen der Diener.
+    </p>
+    <p xml:id="eco_de_000058_8730">
+     »Was ist ...?«
+    </p>
+    <p xml:id="eco_de_000058_8740">
+     Entsetzen lahmt ihre Zungen. In ihren Blicken dreht das Grauen grauenvolle Spiralen.
+    </p>
+    <p xml:id="eco_de_000058_8750">
+     Ein alter Diener jenseits der Qual des Lebens ermannt sich:
+    </p>
+    <p xml:id="eco_de_000058_8760">
+     »Guy, mein General, ist verrückt geworden ...«
+    </p>
+    <p xml:id="eco_de_000058_8770">
+     »Welcher Guy ... Der Koch?«
+    </p>
+    <p xml:id="eco_de_000058_8780">
+     »Der Koch, jawohl.«
+    </p>
+    <p xml:id="eco_de_000058_8790">
+     »Hat ihm das Ehrenkasseroll den Kopf verrückt?«
+    </p>
+    <p xml:id="eco_de_000058_8800">
+     »Wer weiß, mein Herr (und leiser Haß vibriert in seinen Worten), man soll mit Menschen nicht spielen.«
+    </p>
+    <p xml:id="eco_de_000058_8810">
+     »Wer spielt mit Menschen?«
+    </p>
+    <p xml:id="eco_de_000058_8820">
+     Der Alte zuckt die spitzen Achseln.
+    </p>
+    <p xml:id="eco_de_000058_8830">
+     »Was hat Guy getan?«
+    </p>
+    <p xml:id="eco_de_000058_8840">
+     Alles erstarrt in Schweigen. Die Menschen, die Wände, die Bilder, die Geräte, die Fenster.
+    </p>
+    <p xml:id="eco_de_000058_8850">
+     Moreaus pfeifender Atem durchschneidet die leere Luft.
+    </p>
+    <p xml:id="eco_de_000058_8860">
+     Da hört jemand den Springbrunnen im Vestibül leise plätschern, und plötzlich rinnen Tränen in aller Augen.
+    </p>
+    <p xml:id="eco_de_000058_8870">
+     Und wie die Griechen einst um Adonis jammerten, klingt ein Wort der Klage von den blutleeren Lippen:
+    </p>
+    <p xml:id="eco_de_000058_8880">
+     »Christophe.«
+    </p>
+    <p xml:id="eco_de_000058_8890">
+     Moreau steht vor einem Turm. Der droht kalt und steinern.
+    </p>
+    <p xml:id="eco_de_000058_8900">
+     »Was ist mit Christophe?«
+    </p>
+    <p xml:id="eco_de_000058_8910">
+     Der Alte sucht wie verlorene Geldstücke einige Worte zusammen:
+    </p>
+    <p xml:id="eco_de_000058_8920">
+     »Der Koch hat ...«
+    </p>
+    <p xml:id="eco_de_000058_8930">
+     Moreau greift den Alten an der Gurgel und schüttelt ihn.
+    </p>
+    <p xml:id="eco_de_000058_8940">
+     »Ich erwürge dich, wenn du das Wort nicht findest.«
+    </p>
+    <p xml:id="eco_de_000058_8950">
+     Der Alte klappert wie ein Skelett.
+    </p>
+    <p xml:id="eco_de_000058_8960">
+     Er will reden. Er holt das Wort ganz unten heraus.
+    </p>
+    <p xml:id="eco_de_000058_8970">
+     Aus der Lunge. Noch tiefer. Aus den Gedärmen.
+    </p>
+    <p xml:id="eco_de_000058_8980">
+     »Geschlachtet ...«
+    </p>
+    <p xml:id="eco_de_000058_8990">
+     »Der Koch hat ... Christophe ...«
+    </p>
+    <p xml:id="eco_de_000058_9000">
+     Moreau schließt die Augen. Er spricht das Wort selbst aus:
+    </p>
+    <p xml:id="eco_de_000058_9010">
+     »Geschlachtet.«
+    </p>
+    <p xml:id="eco_de_000058_9020">
+     Und da der Diener erst das eine entsetzliche Wort hat, findet er deren mehr und schwätzt:
+    </p>
+    <p xml:id="eco_de_000058_9030">
+     »Er hat ihn in dem goldenen Kasseroll ... gekocht.«
+    </p>
+    <p xml:id="eco_de_000058_9040">
+     Moreau schlägt ihm die Faust unters Kinn.
+    </p>
+    <p xml:id="eco_de_000058_9050">
+     Ich böses Tier. Ich Schicksal. War der Koch nicht immer verrückt? Hat er nicht den Veitstanz in allen Gliedern? Er liebte Christophe. Gewiß. Wußte ich das nicht?
+    </p>
+    <p xml:id="eco_de_000058_9060">
+     Wer liebt Christophe nicht.
+    </p>
+    <p xml:id="eco_de_000058_9070">
+     Warum habe ich Christophe nicht zum König von Frankreich gemacht. Er war der Würdigste. Jeder hätte ihn geliebt. Das Volk hätte ihn vergöttert. Warum habe ich es nicht vermocht. Jetzt ist es zu spät.
+    </p>
+    <p xml:id="eco_de_000058_9080">
+     Oder steckt dieser ... Bonaparte dahinter? –
+    </p>
+    <p xml:id="eco_de_000058_9090">
+     Er sagt kalt und steinern:
+    </p>
+    <p xml:id="eco_de_000058_9100">
+     »Was ist mit dem Koch?«
+    </p>
+    <p xml:id="eco_de_000058_9110">
+     »Er verwest.«
+    </p>
+    <p xml:id="eco_de_000058_9120">
+     »Wo?«
+    </p>
+    <p xml:id="eco_de_000058_9130">
+     »Er fault im Eimer der Abfälle und Küchenreste.«
+    </p>
+    <p xml:id="eco_de_000058_9140">
+     »Was habt ihr getan?«
+    </p>
+    <p xml:id="eco_de_000058_9150">
+     »Man hat ihn erschlagen.«
+    </p>
+    <p xml:id="eco_de_000058_9160">
+     »Wer?«
+    </p>
+    <p xml:id="eco_de_000058_9170">
+     »Niemand weiß es ... Die Rache Gottes ...« murmelte der Alte.
+    </p>
+    <p xml:id="eco_de_000058_9180">
+     Da erwachte Moreau.
+    </p>
+    <p xml:id="eco_de_000058_9190">
+     Moreau fuhr nach Basel.
+    </p>
+    <p xml:id="eco_de_000058_9200">
+     Er war nur noch Gedanke. Wille.
+    </p>
+    <p xml:id="eco_de_000058_9210">
+     Befehl.
+    </p>
+    <p xml:id="eco_de_000058_9220">
+     Ganz Eisen und Stirn.
+    </p>
+    <p xml:id="eco_de_000058_9230">
+     Innerhalb dreier Monate hatte er eine Rheinarmee geschaffen.
+    </p>
+    <p xml:id="eco_de_000058_9240">
+     Aus dem Nichts.
+    </p>
+    <p xml:id="eco_de_000058_9250">
+     Neunzigtausend Mann.
+    </p>
+    <p xml:id="eco_de_000058_9260">
+     Frankreich liebte ihn noch. Noch schworen die bärtigen Soldaten bei seinem Namen.
+    </p>
+    <p xml:id="eco_de_000058_9270">
+     Bei Moreau! galt ihnen als der höchste Schwur.
+    </p>
+    <p xml:id="eco_de_000058_9280">
+     Bonaparte ließ ihm den Adler der Ehrenlegion senden. Moreau hängte ihn seinem Hunde Fraternité um den Hals.
+    </p>
+    <p xml:id="eco_de_000058_9290">
+     Bonaparte bot Moreau den Oberbefehl an über die Armee, die nach seinen Plänen bestimmt war, in England zu landen.
+    </p>
+    <p xml:id="eco_de_000058_9300">
+     Er habe doch mal mit Kavallerie eine Flotte attackiert – vielleicht würde es ihm diesmal gelingen, mit Infanterie unangefochten über den Kanal zu schreiten. Wie einst Moses mit den Juden durch das Rote Meer schritt.
+    </p>
+    <p xml:id="eco_de_000058_9310">
+     Moreau antwortete auf Bonapartes Anfrage nicht.
+    </p>
+    <p xml:id="eco_de_000058_9320">
+     Er kehrte nach Paris zurück, wo er ständiger Besucher im Bordell der Madame Richepin wurde. Er ließ sich den Tanz der Ornamente von sechs Mädchen vortanzen und unterhielt sich mit einer Spanierin, deren Haare wie dunkelgrüner Tang an ihrem Scheitel klebten und deren Liebkosungen er bis zu einem gewissen Grade duldete.
+    </p>
+    <p xml:id="eco_de_000058_9330">
+     An manchen Tagen mietete er das ganze Bordell für sich, ließ alle vierundzwanzig Mädchen nackt antreten und exerzierte sie nach soldatischer Manier.
+    </p>
+    <p xml:id="eco_de_000058_9340">
+     »Vorwärts marsch.«
+    </p>
+    <p xml:id="eco_de_000058_9350">
+     »Rechtsum kehrt.«
+    </p>
+    <p xml:id="eco_de_000058_9360">
+     Er ernannte Unteroffiziere und die tanghaarige Spanierin zum Hauptmann.
+    </p>
+    <p xml:id="eco_de_000058_9370">
+     Er verlieh bunte Ehrenstrümpfe und Ehrenhaarbänder.
+    </p>
+    <p xml:id="eco_de_000058_9380">
+     Er ließ Schlachten schlagen und sah dem Getümmel nackter Frauenleiber interessiert zu.
+    </p>
+    <p xml:id="eco_de_000058_9390">
+     »Recht so, Marion. Beiß der Henriette die Brust ab.«
+    </p>
+    <p xml:id="eco_de_000058_9400">
+     Wenn über ihre Brüste und den Rücken herab Blut floß, glänzten seine Augen.
+    </p>
+    <p xml:id="eco_de_000058_9410">
+     Aber er schlug niemals eine Frau mit eigener Hand.
+    </p>
+    <p xml:id="eco_de_000058_9420">
+     »General Moreau ist ein unartiger Liebhaber«, meint Madame Richepin. »Er strapaziert meine Kinderchen zu sehr. Es tut ihnen nicht wohl, mit General Moreau zusammen zu sein. General Moreau, sagt die kleine Spanierin immer, ist ein Schwein. Und das mag stimmen. Er ist ein Knicker und zahlt nur gerade den Preis, den ich ihm mache.«
+    </p>
+    <p xml:id="eco_de_000058_9430">
+     Als Moreau eines Tages das Bordell der Madame Richepin durch eine Hintertür verließ, wurde er auf Befehl des Diktators Bonaparte verhaftet und in den Tempel gebracht.
+    </p>
+    <p xml:id="eco_de_000058_9440">
+     Bonaparte beschuldigte ihn des Vaterlandsverrates und der Konspiration mit den Bourbonen. Er benannte als Zeugen Moreaus Adjutanten Rapatel, und berief sich auf eine Unterhaltung, die er beim Siegesfest mit dem nunmehr verstorbenen Pagen Christophe des Generals Moreau geführt habe.
+    </p>
+    <p xml:id="eco_de_000058_9450">
+     Weitere Zeugen fanden sich.
+    </p>
+    <p xml:id="eco_de_000058_9460">
+     Jedermann fürchtete, Moreau werde im Gefängnis vergiftet werden.
+    </p>
+    <p xml:id="eco_de_000058_9470">
+     Da meldeten sich, unter der Führung eines alten Korporals, sechzig Soldaten von der Gendarmerie d'Elite, um freiwillig Wache bei Moreau zu halten und ihm Speise mit ihren eigenen Händen zuzubereiten.
+    </p>
+    <p xml:id="eco_de_000058_9480">
+     Sie erboten sich, das Tor des Gefängnisses zu zerbrechen.
+    </p>
+    <p xml:id="eco_de_000058_9490">
+     In der Abenddämmerung, am Tage vor der Gerichtssitzung, tauchten vermummte Gestalten in seiner Zelle auf. Man hatte Mühe, Moreau zu wecken.
+    </p>
+    <p xml:id="eco_de_000058_9500">
+     Er schlief schnarchend auf einer Holzpritsche.
+    </p>
+    <p xml:id="eco_de_000058_9510">
+     »Auf,« riefen die Vermummten, »auf zur Freiheit! Das Volk wartet!«
+    </p>
+    <p xml:id="eco_de_000058_9520">
+     Der eine Vermummte schlug schlank die Kapuze zurück.
+    </p>
+    <p xml:id="eco_de_000058_9530">
+     Er beugte sich vertraulich wie ein Bruder über Moreau, und seine edle Stimme fragte:
+    </p>
+    <p xml:id="eco_de_000058_9540">
+     »Erkennen Sie mich nicht, General?«
+    </p>
+    <p xml:id="eco_de_000058_9550">
+     Moreau strich sich über die Wimpern.
+    </p>
+    <p xml:id="eco_de_000058_9560">
+     Er meinte zu zaubern.
+    </p>
+    <p xml:id="eco_de_000058_9570">
+     Es war der Bourbone.
+    </p>
+    <p xml:id="eco_de_000058_9580">
+     Seine hohe Stirn leuchtete wie eine blasse Ampel im Dunkel der Zelle. Seine Stimme klang wie eine Glocke vom Turm.
+    </p>
+    <p xml:id="eco_de_000058_9590">
+     Dies ist die ewige Lampe. Ich trage ihr Feuer nicht auf meiner Stirn.
+    </p>
+    <p xml:id="eco_de_000058_9600">
+     Er sagte:
+    </p>
+    <p xml:id="eco_de_000058_9610">
+     »Sire, verzeihen Sie, ich habe keinen Herrn mehr. Mein Koch hat ihn erschlagen und in einem goldenen Kasseroll gekocht. Mich ekelt dieses Volk, für das jeder Herr zu schade ist. Und gar ein holder Herr wie Sie. Ich war ein milder Soldat. Ich bereue es. Weshalb habe ich das Volk, dieses stinkende Gewürm, nicht niederkartätschen lassen, als ich die Macht hatte. Denn, Sire, ich habe keine Macht mehr.«
+    </p>
+    <p xml:id="eco_de_000058_9620">
+     »Sie werden wieder mächtig werden. Durch die Liebe des Volkes, dem Sie in Ihrer Not unrecht tun. Man liebt Sie im Volk.«
+    </p>
+    <p xml:id="eco_de_000058_9630">
+     »Sire, das Volk liebt den, den es fürchtet. Das Volk liebt Bonaparte. Ich habe stets einen eigenen Kopf gehabt und nach ihm gehandelt. Der Pöbel schwärmt für mich, weil ich bald keinen Kopf mehr haben werde.«
+    </p>
+    <p xml:id="eco_de_000058_9640">
+     Moreau drehte sich der Wand zu: »Ich bin müde, Sire. Lassen Sie mich schlafen.«
+    </p>
+    <p xml:id="eco_de_000058_9650">
+     Es bildete sich eine Verschwörung, Moreau gewaltsam zu befreien, falls er zum Tode verurteilt werden sollte.
+    </p>
+    <p xml:id="eco_de_000058_9660">
+     Im Gerichtssaal begaben sich die Verschworenen, verkleidete Offiziere der Rheinarmee, auf ihren Posten.
+    </p>
+    <p xml:id="eco_de_000058_9670">
+     An bestimmten Plätzen wurden zwei Wagen bereitgehalten. Zweiundneunzig gesattelte Pferde waren an verschiedenen Orten verteilt.
+    </p>
+    <p xml:id="eco_de_000058_9680">
+     Bonaparte hielt sich am Tage des Gerichtes verborgen.
+    </p>
+    <p xml:id="eco_de_000058_9690">
+     Er hatte Dutzende von anonymen Drohbriefen empfangen.
+    </p>
+    <p xml:id="eco_de_000058_9700">
+     Er durfte es nicht wagen, Moreau zum Tode zu verurteilen.
+    </p>
+    <p xml:id="eco_de_000058_9710">
+     Moreau wurde vom Gericht zu drei Jahren Gefängnis verurteilt. –
+    </p>
+    <p xml:id="eco_de_000058_9720">
+     Moreau nahm den Urteilsspruch schweigend und verächtlich hin.
+    </p>
+    <p xml:id="eco_de_000058_9730">
+     Dann wandelte er, ohne ein Wort zu sagen, durch den Gerichtssaal: durch die Menge, die ihm ehrerbietig und verwundert Platz machte. Er stieg langsam die Treppe des Justizpalastes herab und sah sich auf der Straße.
+    </p>
+    <p xml:id="eco_de_000058_9740">
+     Er sah sich allein und von niemand verfolgt.
+    </p>
+    <p xml:id="eco_de_000058_9750">
+     Paris begünstigte seine Flucht.
+    </p>
+    <p xml:id="eco_de_000058_9760">
+     Moreau ging, sich leicht auf seinen Stock stützend, durch die leeren Straßen und rief zuweilen ein Haus an, ob es ihn nicht arretieren lassen möchte.
+    </p>
+    <p xml:id="eco_de_000058_9770">
+     Endlich traf er eine Droschke.
+    </p>
+    <p xml:id="eco_de_000058_9780">
+     Er winkte ihr.
+    </p>
+    <p xml:id="eco_de_000058_9790">
+     Sie hielt.
+    </p>
+    <p xml:id="eco_de_000058_9800">
+     Er befahl ihr, ihn auf dem kürzesten Weg in den Tempel zu fahren. Er meldete sich selbst als Gefangener an.
+    </p>
+    <p xml:id="eco_de_000058_9810">
+     Im kaiserlichen Moniteur vom 21. Juni war ein Schreiben abgedruckt, in dem der Exgeneral Victor Moreau den Kaiser um Erlaubnis bat, in freiwillige Verbannung nach Amerika gehen zu dürfen. Diese Erlaubnis wurde ihm erteilt.
+    </p>
+    <p xml:id="eco_de_000058_9820">
+     In der Nacht vom 21. zum 22. Juni wurde Moreau von Soldaten Bonapartes trotz seines heftigen Widerstandes aus dem Tempel geraubt und in eiligen Stafetten über die Grenze nach Spanien geschafft.
+    </p>
+    <p xml:id="eco_de_000058_9830">
+     Moreau lachte.
+    </p>
+    <p xml:id="eco_de_000058_9840">
+     »Dieser Bonaparte glaubt mir die Freiheit zu schenken, weil ihn die öffentliche Meinung dazu zwingt.«
+    </p>
+    <p xml:id="eco_de_000058_9850">
+     Voll guter Laune, einen blauen Himmel über sich, traf Moreau in Barcelona ein.
+    </p>
+    <p xml:id="eco_de_000058_9860">
+     Daß ich mich so wohl fühle, dachte Moreau grimmig, das ist die den Ärzten so wohlbekannte Euphorie, das Glücksgefühl des Sterbenden.
+    </p>
+    <p xml:id="eco_de_000058_9870">
+     Apfelsinenverkäufer schnarrten wie aufgezogenes Blechspielzeug um ihn herum.
+    </p>
+    <p xml:id="eco_de_000058_9880">
+     Kleine Jungen schlugen gegen Entgelt strahlende Purzelbäume.
+    </p>
+    <p xml:id="eco_de_000058_9890">
+     Glitzernde Damen mit wogendem Steiß strichen die Straßen entlang.
+    </p>
+    <p xml:id="eco_de_000058_9900">
+     Herren mit sausenden Blicken und rollenden Mänteln tanzten dunkel und schwarz im Schatten.
+    </p>
+    <p xml:id="eco_de_000058_9910">
+     Barcelona kreischte bunt wie ein Käfig voll Papageien.
+    </p>
+    <p xml:id="eco_de_000058_9920">
+     Hier gibt es scheinbar keine Soldaten, dachte Moreau. Das Volk ist von selber laut und bunt genug.
+    </p>
+    <p xml:id="eco_de_000058_9930">
+     Er fuhr in einem holprigen Karren, über den zum Zeichen der Eleganz violette seidene Decken gebreitet waren, zur Arena hinaus.
+    </p>
+    <p xml:id="eco_de_000058_9940">
+     Ach, wieder einmal Blut sehen!
+    </p>
+    <p xml:id="eco_de_000058_9950">
+     An einem lebenden Körper Blut fließen sehen!
+    </p>
+    <p xml:id="eco_de_000058_9960">
+     So wie der Stier blutete auch er. An der Stirn.
+    </p>
+    <p xml:id="eco_de_000058_9970">
+     Aber niemand wußte es.
+    </p>
+    <p xml:id="eco_de_000058_9980">
+     »Entschuldigen Sie, Sennorita,« wandte er sich an eine junge Dame, die neben ihm saß, »wieviel Stiere werden durchschnittlich in einem Schauspiel getötet?«
+    </p>
+    <p xml:id="eco_de_000058_9990">
+     »Sechs, Sennor, gewöhnlich sechs.«
+    </p>
+    <p xml:id="eco_de_000058_10000">
+     Moreau wunderte sich.
+    </p>
+    <p xml:id="eco_de_000058_10010">
+     Nur sechs? warum nicht hundert, warum nicht tausend?
+    </p>
+    <p xml:id="eco_de_000058_10020">
+     »Sehen Sie« – die Dame zitterte – »Sehen Sie.«
+    </p>
+    <p xml:id="eco_de_000058_10030">
+     Der Stier stand schnaubend in der Mitte der Arena, den Kopf gesenkt, die Augen nach innen gerichtet.
+    </p>
+    <p xml:id="eco_de_000058_10040">
+     Vor ihm bewegte sich breitbeinig wie ein Fahnenschwinger der Stierkämpfer, in der Linken schwang er ein rotes Tuch, in der Rechten ein kurzes, dolchartiges Schwert.
+    </p>
+    <p xml:id="eco_de_000058_10050">
+     Im Rücken des Stieres hüpften die Gehilfen des Torero und stachen den Stier mit Messern und widerhakigen Speeren in die Flanken.
+    </p>
+    <p xml:id="eco_de_000058_10060">
+     So also sieht das Schicksal aus, dachte Moreau.
+    </p>
+    <p xml:id="eco_de_000058_10070">
+     Das Blut rann am hellbraunen Fell des Stieres in heißen, dunkelbraunen Bächen.
+    </p>
+    <p xml:id="eco_de_000058_10080">
+     Der Stier rührte sich nicht.
+    </p>
+    <p xml:id="eco_de_000058_10090">
+     Dann senkte er tiefer den Kopf.
+    </p>
+    <p xml:id="eco_de_000058_10100">
+     Der Torero hob gerade die rote Fahne, da drehte er sich schon in der Luft um sich selbst und platzte platt auf den Boden.
+    </p>
+    <p xml:id="eco_de_000058_10110">
+     Sein Bauch barst.
+    </p>
+    <p xml:id="eco_de_000058_10120">
+     Um die goldenen Schnüre seiner Uniform ringelten sich die Gedärme.
+    </p>
+    <p xml:id="eco_de_000058_10130">
+     Ein wollüstiger Schrei des Entsetzens lief rund um die Arena.
+    </p>
+    <p xml:id="eco_de_000058_10140">
+     Der Stier stand unbeweglich wie zuvor schnaubend in der Mitte der Arena, den Kopf gesenkt, die Augen nach innen gerichtet.
+    </p>
+    <p xml:id="eco_de_000058_10150">
+     »Bravo«, klatschte Moreau.
+    </p>
+    <p xml:id="eco_de_000058_10160">
+     Moreau schiffte sich in Cadiz auf der »Blanchette« ein.
+    </p>
+    <p xml:id="eco_de_000058_10170">
+     Sie war ganz weiß gestrichen und am Bug mit zierlichen grünen Arabesken gezeichnet.
+    </p>
+    <p xml:id="eco_de_000058_10180">
+     Welch ein hübscher Vogel!
+    </p>
+    <p xml:id="eco_de_000058_10190">
+     Er wird mich auf seinen Schwingen in die Neue Welt tragen.
+    </p>
+    <p xml:id="eco_de_000058_10200">
+     Als Moreau in New York landete, tobte ein ungeheuerer Aufruhr in ihm.
+    </p>
+    <p xml:id="eco_de_000058_10210">
+     Die Fahrt war stürmisch gewesen, und seine Sinne waren vom Ozean gepeitscht.
+    </p>
+    <p xml:id="eco_de_000058_10220">
+     Werde ich noch einmal branden und rauschen?
+    </p>
+    <p xml:id="eco_de_000058_10230">
+     Er mußte den Niagarafall donnern hören und fuhr in Eilposten dorthin.
+    </p>
+    <p xml:id="eco_de_000058_10240">
+     Es war nachts, als er am Niagara eintraf.
+    </p>
+    <p xml:id="eco_de_000058_10250">
+     Der Vollmond flimmerte über dem Wasser wie eine weiße Sumpfblüte.
+    </p>
+    <p xml:id="eco_de_000058_10260">
+     Er hörte ein Geräusch, als hämmere jemand fern an Eisentüren, die sich ihm nicht öffnen wollen. Unaufhörlich.
+    </p>
+    <p xml:id="eco_de_000058_10270">
+     Jemand klopft an das Tor der Erde! Macht auf!
+    </p>
+    <p xml:id="eco_de_000058_10280">
+     Das Geräusch tobte und raste näher.
+    </p>
+    <p xml:id="eco_de_000058_10290">
+     Moreau trieb den Kutscher zu fiebernder Eile. –
+    </p>
+    <p xml:id="eco_de_000058_10300">
+     Er stand am Niagarafall.
+    </p>
+    <p xml:id="eco_de_000058_10310">
+     An eine Buche gelehnt, sah er in den zischenden und brodelnden Kessel.
+    </p>
+    <p xml:id="eco_de_000058_10320">
+     Der Mond rührte mit seiner Kelle funkelnd darin herum.
+    </p>
+    <p xml:id="eco_de_000058_10330">
+     Für welchen Festschmaus kocht ihr diese Terrine Wasser zusammen? Wie? Ich hätte nicht übel Lust, diese heiße Suppe zu probieren.
+    </p>
+    <p xml:id="eco_de_000058_10340">
+     Ach, ganz und gar zerdrückt, zerstoßen, zerkocht, zerfleischt, vergeistigt zu sein.
+    </p>
+    <p xml:id="eco_de_000058_10350">
+     Sieh: ich brause wie du. Noch immer. Ich habe noch einen Feind.
+    </p>
+    <p xml:id="eco_de_000058_10360">
+     Ich brauche einen Feind zu meinem Tode.
+    </p>
+    <p xml:id="eco_de_000058_10370">
+     Und du, singendes Gefäll, wärst eher mein Freund, mein Bruder, mein erhabeneres Echo zu nennen.
+    </p>
+    <p xml:id="eco_de_000058_10380">
+     Noch einmal muß ich zurück ins Leben.
+    </p>
+    <p xml:id="eco_de_000058_10390">
+     Der Weg ist nicht mehr weit.
+    </p>
+    <p xml:id="eco_de_000058_10400">
+     Nur einige Schritte noch durch den Wald, über den Hügel: da winkt schon die Lichtung, die ewige Wiese, die milde Ruh', der Gott.
+    </p>
+    <p xml:id="eco_de_000058_10410">
+     Moreau kaufte sich ein kleines Landgut, sechzig Stunden von New York und dreißig von Philadelphia gelegen, unterhalb eines kleinen Wasserfalles des Delawarestromes. Ich muß wenigstens ein Abbild des Niagara in meiner Nähe haben. Wenn ich schlafe, will ich ihn von weitem rauschen hören.
+    </p>
+    <p xml:id="eco_de_000058_10420">
+     Er stand stundenlang am Fluß und angelte. Die Fische, die er fing, warf er auf die Wiese hinter sich, wo sie vertrockneten.
+    </p>
+    <p xml:id="eco_de_000058_10430">
+     Er ging täglich auf die Jagd und schoß an Tieren alles, was in den Bereich seiner Büchse kam.
+    </p>
+    <p xml:id="eco_de_000058_10440">
+     Er schoß Hasen, Hirsche, Spottdrosseln, Kaninchen, Büffel, Ratten.
+    </p>
+    <p xml:id="eco_de_000058_10450">
+     Die Kadaver ließ er, wo sie gefallen waren, verwesen.
+    </p>
+    <p xml:id="eco_de_000058_10460">
+     Er überlegte, ob es nicht möglich sei, durch ein geeignetes Gift alle Fische im Delawarestrom zu vergiften.
+    </p>
+    <p xml:id="eco_de_000058_10470">
+     Alle Vögel in der Luft durch Gaswolken zu töten.
+    </p>
+    <p xml:id="eco_de_000058_10480">
+     Ob es nicht möglich sei, den Delawarewald anzuzünden, ihn mit allen seinen Inwohnern, Tieren und Indianern, zu verbrennen.
+    </p>
+    <p xml:id="eco_de_000058_10490">
+     Eines Tages erfuhr er, daß die Delawareindianer das Kriegsbeil gegen die Schwarzfußindianer ausgegraben hätten.
+    </p>
+    <p xml:id="eco_de_000058_10500">
+     Er ließ ein Pferd satteln und ritt in die Wälder.
+    </p>
+    <p xml:id="eco_de_000058_10510">
+     Er traf die Delawareindianer. Es gelang ihm mit Mühe, dem Tod am Marterpfahl zu entgehen und sich dem Oberhäuptling »Springender Hirsch«, der ein wenig Englisch radebrechte, verständlich zu machen.
+    </p>
+    <p xml:id="eco_de_000058_10520">
+     Der Häuptling, der endlich begriff, daß er den großen weißen Häuptling »Singendes Blut« vor sich hatte, von dessen blutdürstigen Neigungen die Sage auch zu ihm gekommen war, zeigte sich sehr erfreut über das Angebot Moreaus, die Führung eines Stammes der Delawareindianer zu übernehmen.
+    </p>
+    <p xml:id="eco_de_000058_10530">
+     Moreau trat nach Erledigung einiger Formalitäten in die Gemeinschaft der Delawareindianer ein, worauf ihm der Oberhäuptling die Häuptlingswürde verlieh.
+    </p>
+    <p xml:id="eco_de_000058_10540">
+     Es gelang dem »Singenden Blut«, die Schwarzfußindianer vollkommen einzukreisen.
+    </p>
+    <p xml:id="eco_de_000058_10550">
+     Sie wurden mit Stumpf und Stiel, mit Weibern und Kindern, ausgerottet.
+    </p>
+    <p xml:id="eco_de_000058_10560">
+     Den Skalp des Oberhäuptlings der Schwarzfußindianer am Gürtel, kehrte Moreau in sein Landhaus am Delawarestrom zurück.
+    </p>
+    <p xml:id="eco_de_000058_10570">
+     Der Oberhäuptling der Delawareindianer gab ihm seine Tochter Hau-Ri, das heißt: »Zarter Sinn«, zur Frau.
+    </p>
+    <p xml:id="eco_de_000058_10580">
+     Sie war sechzehn Jahre alt und schön und unwissend dieser Welt.
+    </p>
+    <p xml:id="eco_de_000058_10590">
+     »Du darfst sie lieben«, raunte der Häuptling. »Aber wisse: unsere Medizinmänner haben gesagt, daß sie sterben muß, wenn sie ein Kind gebiert.«
+    </p>
+    <p xml:id="eco_de_000058_10600">
+     Moreau las vom russischen Feldzug Bonapartes. Er hatte Bonapartes Lauf auf das eifrigste verfolgt.
+    </p>
+    <p xml:id="eco_de_000058_10610">
+     »Der große Mann macht sich diesmal sehr klein«, wimmerte er fröhlich.
+    </p>
+    <p xml:id="eco_de_000058_10620">
+     Hau-Ri sah ihm über die Schulter.
+    </p>
+    <p xml:id="eco_de_000058_10630">
+     »Was hast du da?«
+    </p>
+    <p xml:id="eco_de_000058_10640">
+     »Ein Buch.«
+    </p>
+    <p xml:id="eco_de_000058_10650">
+     »Was ist das? Was tust du damit?«
+    </p>
+    <p xml:id="eco_de_000058_10660">
+     »Den großen Geist befragen.«
+    </p>
+    <p xml:id="eco_de_000058_10670">
+     »Aber hast du nicht ein Herz?«
+    </p>
+    <p xml:id="eco_de_000058_10680">
+     »Ich habe kein Herz, kleine Hau-Ri. Ich habe nur Umarmungen, die dich streicheln, Augen, die dich lieben, und Hände, die zum Töten geboren sind.«
+    </p>
+    <p xml:id="eco_de_000058_10690">
+     »Warum bist du so wild und so mild, so gut und so böse zugleich? Und welchen großen Mann meintest du vorhin, über den du den großen Geist befragen willst?«
+    </p>
+    <p xml:id="eco_de_000058_10700">
+     »Der große Mann, das ist mein Feind.«
+    </p>
+    <p xml:id="eco_de_000058_10710">
+     »So willst du wieder auf den Kriegspfad ziehen?« fragte Hau-Ri erschrocken.
+    </p>
+    <p xml:id="eco_de_000058_10720">
+     »Vielleicht,« seufzte er, »denn ich muß den Kreis, den mir der große Geist vorgezeichnet hat, vollenden.«
+    </p>
+    <p xml:id="eco_de_000058_10730">
+     Hau-Ri schüttelte den Kopf.
+    </p>
+    <p xml:id="eco_de_000058_10740">
+     Sie blickte in den Wald und horchte auf seine Geräusche. Dann ging sie an den Wasserfall, um den Strom reden zu hören, denn Moreau redete Unbegreifliches und sang zu ihr wie ein fremder Vogel.
+    </p>
+    <p xml:id="eco_de_000058_10750">
+     Eines Nachmittags stieg ein Mann im schwarzen Mantel über die Mauer, die Moreaus Landhaus umfriedete.
+    </p>
+    <p xml:id="eco_de_000058_10760">
+     Hau-Ri sah ihn schon, wie er den Hügel herabkam, und schrie.
+    </p>
+    <p xml:id="eco_de_000058_10770">
+     Er verdunkelte die Sonne, und sein Mantel warf einen wehenden Schatten.
+    </p>
+    <p xml:id="eco_de_000058_10780">
+     Moreau trat aus dem Haus.
+    </p>
+    <p xml:id="eco_de_000058_10790">
+     »Kreuzt Ihr wieder meinen Weg? Wie habt Ihr bis hierher gefunden? Ich war vor Euch geflohen.«
+    </p>
+    <p xml:id="eco_de_000058_10800">
+     »Ich finde immer zu Euch«, sagte der Mann im Mantel. »Hört, was ich Euch zu berichten habe. Napoleon ist in Rußland aufs Haupt geschlagen. Sein Heer vernichtet, wie Mürbeteig zerrieben. Frankreich harrt Euer. Eine Revolution ist am Werke. Man wird Euch zum Präsidenten der provisorischen Regierung erwählen. Eilt. Laßt Euer Vaterland und Euer Schicksal nicht warten.«
+    </p>
+    <p xml:id="eco_de_000058_10810">
+     Der Mann schlug den Mantel enger um sich, und die Dämmerung entzog ihm seine Konturen.
+    </p>
+    <p xml:id="eco_de_000058_10820">
+     »So hat der Polarstern dem Bonaparte ein böses Licht aufgesteckt. – Was ist mit meinem Stern, der Wage? Wohin schwankt sie? Auf welche Seite neigt sie sich?«
+    </p>
+    <p xml:id="eco_de_000058_10830">
+     »Bleibe hier«, sagte Hau-Ri leise.
+    </p>
+    <p xml:id="eco_de_000058_10840">
+     »Kind,« sagte er, »ich würde dich töten, wenn ich dich wahrhaft liebte.«
+    </p>
+    <p xml:id="eco_de_000058_10850">
+     »Liebe mich«, flüsterte Hau-Ri.
+    </p>
+    <p xml:id="eco_de_000058_10860">
+     Der Mann im Mantel sprach weiter. Es wurde dunkel, und die Nacht sprach zu Moreau:
+    </p>
+    <p xml:id="eco_de_000058_10870">
+     »Rußland, Preußen, Schweden, Österreich verbinden sich gegen Bonaparte. Ich habe eine Botschaft des russischen Kaisers Alexander an Euch. Er hat die Gewogenheit, Euch in das Hauptquartier der Alliierten zu laden. Er bittet Euch, den Verbündeten Euer Genie nicht vorzuenthalten. Eine hohe, überragende Stelle an der Spitze der verbündeten Heere ist Euch gewiß.«
+    </p>
+    <p xml:id="eco_de_000058_10880">
+     Moreau lauschte verzaubert.
+    </p>
+    <p xml:id="eco_de_000058_10890">
+     Das braune Mädchen, der hohe Mond, der Mann im Mantel bewegten sich wie Schatten seiner Phantasie.
+    </p>
+    <p xml:id="eco_de_000058_10900">
+     Endlich eine Möglichkeit, dem Haß die wirkliche Tat zu leihen. Das Gefäß, das danach dürstete, bis an den Rand mit Blut zu füllen.
+    </p>
+    <p xml:id="eco_de_000058_10910">
+     Oh, wie er lechzte nach Blut und Tod.
+    </p>
+    <p xml:id="eco_de_000058_10920">
+     Oh, wie er dieses Frankreich haßte.
+    </p>
+    <p xml:id="eco_de_000058_10930">
+     Wie er gedachte es auszurotten von seinem peinlichen Pöbel wie das Geschlecht der Schwarzfußindianer.
+    </p>
+    <p xml:id="eco_de_000058_10940">
+     Er wollte es vernichten, dieses Frankreich, und seinen Inbegriff: Bonaparte.
+    </p>
+    <p xml:id="eco_de_000058_10950">
+     Ich werde an der Spitze eines fremden Heeres in mein Vaterland einziehen und werde es demütigen und knechten, wie nie ein Volk erniedrigt wurde.
+    </p>
+    <p xml:id="eco_de_000058_10960">
+     Moreau schiffte sich auf der »Blanchette« nach Europa ein.
+    </p>
+    <p xml:id="eco_de_000058_10970">
+     Sie war ganz weiß gestrichen und am Bug mit zierlichen roten und grünen Arabesken geschmückt.
+    </p>
+    <p xml:id="eco_de_000058_10980">
+     »Sieh, Hau-Ri, welch ein hübscher Vogel! Er wird uns bald auf seine Fittiche nehmen und in unsere Heimat tragen.«
+    </p>
+    <p xml:id="eco_de_000058_10990">
+     Moreau traf am 7. August über Schweden in Stralsund ein. Er reiste sofort nach Berlin weiter. Seine Reise glich einem Triumphzug.
+    </p>
+    <p xml:id="eco_de_000058_11000">
+     Ein Augenzeuge berichtet:
+    </p>
+    <p xml:id="eco_de_000058_11010">
+     »In einfacher, bürgerlicher Kleidung erschien Moreau so anspruchslos, wie sein ganzes Wesen wirkte. Auf seinem freundlichen, geistvollen Antlitz lag jene Ruhe des Gemütes ausgebreitet, die den Hauptzug seines überaus liebenswürdigen Charakters bildet. Doch konnte man auch die Spuren nicht verkennen, welche die Pflüge des Schicksals darauf zurückgelassen hatten.
+    </p>
+    <p xml:id="eco_de_000058_11020">
+     In seine Stirn, die sich in scharfe Falten legte, war das Kreuz des Dulders eingedrückt. Unwiderstehlich fühlte man sich durch seine Offenheit angezogen, aus der eine schöne Seele wie aus einem reinen Spiegel strahlte.« –
+    </p>
+    <p xml:id="eco_de_000058_11030">
+     Tags darauf reiste Moreau ins russisch-preußische Hauptquartier ab.
+    </p>
+    <p xml:id="eco_de_000058_11040">
+     Er traf mit Alexander von Rußland, Franz I. von Österreich und Friedrich Wilhelm III. von Preußen zusammen.
+    </p>
+    <p xml:id="eco_de_000058_11050">
+     Franz schüttelte ihm die Hand und dankte ihm für die Milde, mit der er einst in seinem siegreichen Feldzuge seine österreichischen Staaten behandelt habe.
+    </p>
+    <p xml:id="eco_de_000058_11060">
+     »Verläßt man«, sagte Moreau, »nach Jahren einsamer Betrachtung ein Land wie Amerika, so kann dies nur geschehen, um der Welt den Frieden zu geben oder in ihr umzukommen.«
+    </p>
+    <p xml:id="eco_de_000058_11070">
+     Alexander umarmte ihn und hatte eine zweistündige Unterredung mit ihm.
+    </p>
+    <p xml:id="eco_de_000058_11080">
+     Moreau schlug vor, Bonaparte bei Dresden anzugreifen.
+    </p>
+    <p xml:id="eco_de_000058_11090">
+     Die Marschrichtung sowie das Kommando der einzelnen Armeen wurde im Kriegsrat genau festgesetzt.
+    </p>
+    <p xml:id="eco_de_000058_11100">
+     Dresden war bis auf die Ausgänge der Friedrichstadt eingeschlossen.
+    </p>
+    <p xml:id="eco_de_000058_11110">
+     Es war dem linken Flügel der Verbündeten noch nicht gelungen, auf dieser Seite weit genug vorzustoßen.
+    </p>
+    <p xml:id="eco_de_000058_11120">
+     Um 3 Uhr nachmittags setzte der allgemeine Angriff ein.
+    </p>
+    <p xml:id="eco_de_000058_11130">
+     Ein feiner Regen rieselte wie Nebel nieder.
+    </p>
+    <p xml:id="eco_de_000058_11140">
+     Moreau und Kaiser Alexander hielten hinter einer preußischen Batterie auf den Recknitzer Höhen, gegen welche zwei französische Batterien von der alten Garde aufgefahren waren.
+    </p>
+    <p xml:id="eco_de_000058_11150">
+     Moreau zügelte gerade sein Pferd, um die Stellung zu verlassen, als eine dritte seitwärts in einem Hohlweg verschanzte französische Batterie den ersten Schuß abfeuerte.
+    </p>
+    <p xml:id="eco_de_000058_11160">
+     »On l'aura«, wandte sich Moreau auf dem schmalen Pfad halb rückwärts zum Kaiser.
+    </p>
+    <p xml:id="eco_de_000058_11170">
+     Da brachen Pferd und Reiter zusammen.
+    </p>
+    <p xml:id="eco_de_000058_11180">
+     Moreau schlug mit der Hand in die Luft.
+    </p>
+    <p xml:id="eco_de_000058_11190">
+     Die Bretagne blendete.
+    </p>
+    <p xml:id="eco_de_000058_11200">
+     Mütterliche Güte strich über seine Stirn.
+    </p>
+    <p xml:id="eco_de_000058_11210">
+     Seine Wimpern zitterten. Er wollte weinen.
+    </p>
+    <p xml:id="eco_de_000058_11220">
+     Aber er schlief ein.
+    </p>
+    <p xml:id="eco_de_000058_11230">
+     Seine beiden Füße waren ihm vom Leibe gerissen.
+    </p>
+    <p xml:id="eco_de_000058_11240">
+     Über seine Leiche hingebückt gab die kleine Indianerin einem Kinde das Leben und starb.
+    </p>
+    <p xml:id="eco_de_000058_11250">
+     Bauern aus Recknitz nahmen sich des Kindes an.
+    </p>
+    <p xml:id="eco_de_000058_11260">
+     Was aus ihm geworden ist, ob es ein Knabe, ob es ein Mädchen war, niemand weiß es.
+    </p>
+    <p xml:id="eco_de_000058_11270">
+     Bonaparte ließ sofort durch Armeebefehl das Heer vom Tode des Landesverräters Moreau in Kenntnis setzen:
+    </p>
+    <p xml:id="eco_de_000058_11280">
+     »Die erste Kugel, die die französische Gardeartillerie bei der Verteidigung Dresdens abschoß, fällte den Deserteur Moreau, ehemals General in meinen Diensten. Er verlor beide Füße, damit er nicht mehr nach Frankreich gehen und die Luft seines Vaterlandes mit seinem Atem verpesten könne. Gefoltert von den Schmerzen seines Leibes, der Reue über sein verfemtes Sein, verreckte er in den Armen des asiatischen Zaren als ein Verräter der französischen Kultur, gehaßt von seinen früheren, verachtet von seinen jetzigen Freunden, geliebt von niemand.
+    </p>
+    <p xml:id="eco_de_000058_11290">
+     Soldaten! Der Himmel gab uns ein gutes Zeichen! Unser ist die Gerechtigkeit! Wir werden den vielfach überlegenen Feind niederringen.
+    </p>
+    <p xml:id="eco_de_000058_11300">
+     Wir wollen, sollen, müssen und werden siegen!
+    </p>
+    <p xml:id="eco_de_000058_11310">
+     Vorwärts!
+    </p>
+    <p xml:id="eco_de_000058_11320">
+     Es lebe Frankreich!«
+    </p>
+    <p xml:id="eco_de_000058_11330">
+     So oft Bonaparte schlecht schlief und sich von unheilvollen Träumen, wie Schwärmen schwarzer Raben, bedrängt und geängstigt sah, sagte er leise zu seinem Kammerdiener:
+    </p>
+    <p xml:id="eco_de_000058_11340">
+     »Moreau se remue dans son tombeau.«
+    </p>
+    <p xml:id="eco_de_000058_11350">
+     »Majestät,« erwiderte der devote Mulatte, »die Soldaten behaupten, das Skelett von Moreau führe, ein blutendes Mal in der Gestalt eines Kreuzes auf der Stirn, auf einem weißen Schimmel reitend, die Reihe der Verbündeten an.«
+    </p>
+    <p xml:id="eco_de_000058_11360">
+     »Rüstern,« meinte Bonaparte und blickte trübe in den grauenden Morgen, »wenn die Soldaten das verfluchte Gespenst gesehen haben, so wird es wahr sein.«
+    </p>
+   </div>
+  </body>
+  <back/>
+ </text>
+</TEI>
