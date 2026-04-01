@@ -47,6 +47,7 @@ from bs4 import BeautifulSoup   # XML/HTML parsing and tree building
 import pandas as pd             # Reading the metadata CSV table
 import re                       # Regex-based word counting
 import os                       # File-existence checks and path handling
+import datetime                 # Current date for TEI revisionDesc
 import wikidataintegrator as wdi  # Querying Wikidata's SPARQL endpoint
 
 # ---------------------------------------------------------------------------
@@ -627,7 +628,14 @@ class TEI:
         root["xml:id"]   = self.get_full_id()
         root["xml:lang"] = self.isolang()
 
-        # 7. Advance the global counter so the next document gets a different ID
+        # 7. Set revisionDesc date to today
+        rev = self.tree.find("revisionDesc")
+        if rev:
+            ch = rev.find("change")
+            if ch:
+                ch["when"] = datetime.date.today().isoformat()
+
+        # 8. Advance the global counter so the next document gets a different ID
         TEI.teiid += 1
 
     # --- serialisation and output -----------------------------------------
