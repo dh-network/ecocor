@@ -653,6 +653,37 @@ class TEI:
         numpages.clear()
         numpages.append(str(self.len_words))
 
+        # 5b. ELTeC <size> classification (required by eltec-1.rng)
+        if self.len_words >= 100000:
+            size_key = "long"
+        elif self.len_words >= 50000:
+            size_key = "medium"
+        else:
+            size_key = "short"
+        text_desc = self.tree.find("textDesc")
+        size_tag = self.tree.new_tag("size", xmlns="http://distantreading.net/eltec/ns")
+        size_tag["key"] = size_key
+        text_desc.append(size_tag)
+
+        # 5c. ELTeC <reprintCount> (required; unknown for EcoCor)
+        reprint_tag = self.tree.new_tag("reprintCount", xmlns="http://distantreading.net/eltec/ns")
+        reprint_tag["key"] = "unspecified"
+        text_desc.append(reprint_tag)
+
+        # 5d. ELTeC <timeSlot> derived from publication year
+        year = int(str(self.year)[:4])
+        if year < 1860:
+            slot = "T1"
+        elif year < 1880:
+            slot = "T2"
+        elif year < 1900:
+            slot = "T3"
+        else:
+            slot = "T4"
+        slot_tag = self.tree.new_tag("timeSlot", xmlns="http://distantreading.net/eltec/ns")
+        slot_tag["key"] = slot
+        text_desc.append(slot_tag)
+
         # 6. Root element attributes
         root = self.tree.find("TEI")
         root["xml:id"]   = self.get_full_id()

@@ -73,6 +73,7 @@
    </langUsage>
    <textDesc>
     <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+    <size key="long" xmlns="http://distantreading.net/eltec/ns"/>
    </textDesc>
   </profileDesc>
   <revisionDesc>
