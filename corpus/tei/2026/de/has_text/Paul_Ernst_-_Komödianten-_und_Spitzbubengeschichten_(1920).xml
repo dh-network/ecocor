@@ -74,6 +74,8 @@
    <textDesc>
     <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
     <size key="medium" xmlns="http://distantreading.net/eltec/ns"/>
+    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
+    <timeSlot key="T4" xmlns="http://distantreading.net/eltec/ns"/>
    </textDesc>
   </profileDesc>
   <revisionDesc>
