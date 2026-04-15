@@ -48,6 +48,7 @@ import pandas as pd             # Reading the metadata CSV table
 import re                       # Regex-based word counting
 import os                       # File-existence checks and path handling
 import datetime                 # Current date for TEI revisionDesc
+import json                     # Persistent Wikidata cache
 import wikidataintegrator as wdi  # Querying Wikidata's SPARQL endpoint
 
 # ---------------------------------------------------------------------------
@@ -55,10 +56,30 @@ import wikidataintegrator as wdi  # Querying Wikidata's SPARQL endpoint
 # All paths are relative to the `corpus/` directory (the script's working
 # directory).  Edit these if the project layout changes.
 # ---------------------------------------------------------------------------
-METADATA_FILE = "aux/Literaturliste_EcoCor_V-2(Quantitativer_Ansatz).csv"  # Metadata for all works
-MARKDOWN_DIR  = "ecocorMD/ecocorMD_files_to_convert"                       # Source .txt files
-TEI_STUB      = "aux/EcoStub.xml"                 # Pre-filled TEI template
-OUTPUT_BASE   = "tei/2026"                         # Root of the output tree
+METADATA_FILE    = "aux/Literaturliste_EcoCor_V-2(Quantitativer_Ansatz).csv"  # Metadata for all works
+MARKDOWN_DIR     = "ecocorMD/ecocorMD_files_to_convert"                       # Source .txt files
+TEI_STUB         = "aux/EcoStub.xml"                 # Pre-filled TEI template
+OUTPUT_BASE      = "tei/2026"                         # Root of the output tree
+WIKIDATA_CACHE   = "aux/wikidata_cache.json"          # Persistent cache for Wikidata author lookups
+
+# ---------------------------------------------------------------------------
+# Persistent Wikidata cache
+# ---------------------------------------------------------------------------
+# Loaded once at startup; saved to disk after every new network fetch.
+# Keys are bare Wikidata Q-IDs (e.g. "Q100876"); values are formatted name
+# strings (e.g. "Pichler, Adolf (1819-1900)") or None for failed lookups.
+
+def _load_wikidata_cache():
+    if os.path.exists(WIKIDATA_CACHE):
+        with open(WIKIDATA_CACHE, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+def _save_wikidata_cache(cache):
+    with open(WIKIDATA_CACHE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+_wikidata_cache = _load_wikidata_cache()
 
 # ---------------------------------------------------------------------------
 # Wikidata helper functions
@@ -120,21 +141,30 @@ def get_author_correct_format(wikidata_id):
     # Strip the URL prefix if present, leaving just the Q-identifier
     wikidata_id = wikidata_id.replace("https://www.wikidata.org/entity/", "")
 
+    if wikidata_id in _wikidata_cache:
+        return _wikidata_cache[wikidata_id]
+
     try:
         result = query_wikidata_for_author_data(wikidata_id)
         bindings = result["results"]["bindings"]
         if not bindings:
             print(f"  [WARNING] No Wikidata results for {wikidata_id}")
+            _wikidata_cache[wikidata_id] = None
+            _save_wikidata_cache(_wikidata_cache)
             return None
         item = bindings[0]
         surname = item["family_nameLabel"]["value"]
         given   = item["given_nameLabel"]["value"]
         yob     = item["dob"]["value"][:4]
         yod     = item["dod"]["value"][:4]
-        return f"{surname}, {given} ({yob}-{yod})"
+        formatted = f"{surname}, {given} ({yob}-{yod})"
     except Exception as e:
         print(f"  [WARNING] Could not fetch author data for {wikidata_id}: {e}")
-        return None
+        formatted = None
+
+    _wikidata_cache[wikidata_id] = formatted
+    _save_wikidata_cache(_wikidata_cache)
+    return formatted
 
 
 # ---------------------------------------------------------------------------
@@ -271,12 +301,9 @@ class TEI:
         Heuristic conversion of an author name for works without a Wikidata
         entry.
 
-        Takes the last "character slice" of ``auth_string`` as the probable
-        surname and the rest as forenames, returning ``"surname, rest"``.
-
-        Note: ``auth_string`` is a raw string from the metadata cell.
-        Python's ``[-1:]`` slice on a string returns the last *character*,
-        so this is a best-effort fallback rather than a robust parser.
+        Takes the last whitespace-delimited token of ``auth_string`` as the
+        probable surname and the remainder as forenames, returning
+        ``"surname, forenames"``.  Single-token names are returned as-is.
 
         Parameters
         ----------
@@ -288,9 +315,10 @@ class TEI:
         str
             Reformatted name string.
         """
-        probable_surname = auth_string[-1:]   # last character of the string
-        rest             = auth_string[:-1]   # everything except the last character
-        return f"{probable_surname}, {rest}"
+        parts            = auth_string.rsplit(None, 1)
+        probable_surname = parts[-1]
+        rest             = parts[0] if len(parts) > 1 else ""
+        return f"{probable_surname}, {rest}" if rest else probable_surname
 
     # --- Wikidata enrichment ----------------------------------------------
 
@@ -330,8 +358,10 @@ class TEI:
             auth_corr_format = TEI.authors_formatted[self.wikidataidauth]
 
         treeauthor.append(auth_corr_format)
-        treeauthor["ref"] = self.wikidataidauth  # author Wikidata URI
-        treetitle["ref"]  = self.wikidataid      # work Wikidata URI
+        if self.wikidataidauth and "entity/Q" in self.wikidataidauth:
+            treeauthor["ref"] = self.wikidataidauth  # author Wikidata URI
+        if self.wikidataid and "entity/Q" in self.wikidataid:
+            treetitle["ref"] = self.wikidataid       # work Wikidata URI
 
     # --- structural-marker detection helpers ------------------------------
     # Each helper receives a single line from the markdown source and returns

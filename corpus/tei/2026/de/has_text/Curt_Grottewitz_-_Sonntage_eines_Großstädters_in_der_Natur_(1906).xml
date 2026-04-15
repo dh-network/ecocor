@@ -5,11 +5,11 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title ref>
+    <title>
      Sonntage eines Großstädters in der Natur
     </title>
     <author ref="https://www.wikidata.org/entity/Q1145102">
-     z, Curt Grottewit
+     Grottewitz, Curt
     </author>
     <respStmt>
      <resp>
@@ -76,7 +76,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
-   <change when="2026-04-01">
+   <change when="2026-04-15">
     Created by DS
    </change>
   </revisionDesc>

@@ -5,7 +5,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title ref>
+    <title>
      Der Mord im Ballsaal
     </title>
     <author ref="https://www.wikidata.org/entity/Q19224541">
@@ -76,7 +76,7 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
-   <change when="2026-04-01">
+   <change when="2026-04-15">
     Created by DS
    </change>
   </revisionDesc>
