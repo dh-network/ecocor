@@ -1,5 +1,5 @@
 # Ecocor MD syntax
-This document describes the markdown-like syntax for encoding novel structure in [txt](ecocorMD) for automatic conversion into eltec-style tei.
+This document describes the markdown-like syntax for encoding novel structure in raw txt for automatic conversion into eltec-style tei.
 
 ## Operators:
 
@@ -42,7 +42,7 @@ bring ich was zur Aussteuer!«
 
 ```
 
-1. Fifth chapter in [Rulaman](ecocorMD/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt):
+1. Fifth chapter in [Rulaman](ecocorMD/ecocorMD_demo_samples/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt):
 ```
 
 Sicher und ohne Zaudern schritt Rul voran, denn er
@@ -66,7 +66,7 @@ N.B. that in the original `5` and  `Der Kampf mit dem Höhlenlöwen` were two se
 
 `$` - means here ends the text proper (if there is some back-matter that should be left outside the body of text and be sent to the `<back>` element). For example : 
 
-End of the text in [Rulaman](ecocorMD/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt): 
+End of the text in [Rulaman](ecocorMD/ecocorMD_demo_samples/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt): 
 
 ```
 
