@@ -9,7 +9,7 @@ Examples:
 
 
 
-1. First division in [Rulaman](ecocorMD/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt):
+1. First division in [Rulaman](ecocorMD/ecocorMD_demo_samples/EzProse_Example_David_Friedrich_Weinland_-_Rulaman_(1878).txt):
 ```
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -25,7 +25,7 @@ war ein Meer, wo heute die Schwäbische Alb sich erhebt.
 ```
 
 
-2. First (and only) division in [Theodor Storm's 'Von Kindern und Katzen, und wie sie die Nine begruben'](ecocorMD/EzProse_Example_Theodor_Storm_-_Von_Kindern_und_Katzen_und_wie_sie_die_Nine_begruben_(1876).txt) -- here we just mark the beginning of the text proper, it will be the only division of the text:
+2. First (and only) division in [Theodor Storm's 'Von Kindern und Katzen, und wie sie die Nine begruben'](ecocorMD/ecocorMD_demo_samples/EzProse_Example_Theodor_Storm_-_Von_Kindern_und_Katzen_und_wie_sie_die_Nine_begruben_(1876).txt) -- here we just mark the beginning of the text proper, it will be the only division of the text:
 ```
 
 Theodor Storm
