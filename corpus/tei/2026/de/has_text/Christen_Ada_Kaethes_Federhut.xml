@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_000076" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Käthes Federhut
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Christen, Ada
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     3757
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1876">
+      1876
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
+    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
+    <timeSlot key="T2" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_000076_20">
+    Käthes Federhut
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_000076_30">
+     Arme Leute kaufen ihr Brennholz von dem Zimmerplatze weg. Es wird nicht in Wagen vor das Tor gefahren, sondern die Kinder gehen mit alten Tüchern hin und lesen an Spänen zusammen, was sie nur tragen können, bezahlen dann ein paar Groschen dafür und schleppen ihr Bündel auf dem Rücken nach Hause.
+    </p>
+    <p xml:id="eco_de_000076_40">
+     So wird es den ganzen Tag auf großen Zimmerplätzen nicht leer von den Kindern der Armen, und es setzt oft Püffe dort ab. Die Gesellen, der Werkmeister, oft der Zimmermeister selbst, fahren gelegentlich mit der Hand darein; am meisten aber prügeln sich die Kinder untereinander. So war es, als ich noch selbst ein Kind war, und so wird es wohl noch heute sein.
+    </p>
+    <p xml:id="eco_de_000076_50">
+     Bei Regen und Sonnenschein, vom ersten Frühlingstag bis es herbstlich zu frösteln begann, mußte ich hinaus auf den Platz und den Holzbedarf für den nächsten Tag heimtragen, ja sogar noch etwas darüber, denn ein Büschel Späne wurde immer an die Rückwand der stockfinstern Küche gelegt. Jeden Tag ein Büschel, das gab bis zum Herbst einen Vorrat, der bis an die Decke reichte und für manchen Wintertag vorhielt.
+    </p>
+    <p xml:id="eco_de_000076_60">
+     »Ist zu sonst nichts gut, das Ding, die Christel«, sagte der alte Herr Fuchs, in dessen schmaler Kammer meine Mutter, ich, meine Schwester Maria und mein kleiner Bruder wohnten.
+    </p>
+    <p xml:id="eco_de_000076_70">
+     »Ist zu sonst nichts gut, das Ding … das Ding«, brummte der Herr Fuchs drei-, viermal, kaute ein abscheuliches Stück Tabak zusammen, wurde dunkelrot im Gesichte und rollte dabei auf einem großen glatten Tisch die frischgenähten Handschuhe mit einem runden Holz, bis sie so schmal und fein wurden, wie sie der französische Handschuhmacher, unser »Herr«, verkaufte. Meine Mutter und die Maria saßen bei dem Kammerfenster, die Käthe saß in der großen Stube, aber alle nähten vom frühen Morgen bis in die späte Nacht, während ich unter dem breiten hohen Tisch hockte – dort war mein Spielplatz daheim –, vor mich hin duselte oder Knöpfe an die fertigen Handschuhe nähen mußte. Ab und zu kam der struppige weiße Kopf des alten Herrn Fuchs zu mir herabgefahren, schaute mich grimmig an und knurrte sein »Ist zu sonst nichts gut, das Ding!«.
+    </p>
+    <p xml:id="eco_de_000076_80">
+     Ich hatte damals das siebente Jahr erreicht, fing an, in die Höhe zu schießen, war mager, sonnverbrannt, hatte strohgelbe, steife Haare und war immer lustig und hungrig. Das größte Stück Brot, welches die Kinder auf den Zimmerplatz brachten, handelte ich für meinen größten Span ein, und ich hatte noch lange nicht genug bis zum Abendessen, das nebst dem Frühbrot unsere einzige Mahlzeit war.
+    </p>
+    <p xml:id="eco_de_000076_90">
+     Daß ich solch unternehmenden Tauschhandel trieb, wußte meine Mutter nicht, sie grämte sich schon genug ob der vielen blauen Flecken und Beulen, die ich heimbrachte, oder ob der Risse, welche mein Röckchen trug.
+    </p>
+    <p xml:id="eco_de_000076_100">
+     Meine Mutter war eine empfindsame Frau, die sich immer etwas suchte, worüber sie weinen konnte. Jeden Tag jammerte und weinte sie über unser Elend und über alle Krankheits- und Todesfälle in der Nachbarschaft, und wenn zufällig nichts geschah, borgte sie sich eine Zeitung aus und weinte über alles das, was an Unglück drinnen stand, und ich, die sich um nichts kümmerte, als daß morgen wieder auf dem Zimmerplatz Sonnenschein und große Späne wären, ich sollte immer mit ihr weinen.
+    </p>
+    <p xml:id="eco_de_000076_110">
+     Wenn sie so recht trostlos auf meinen zerrissenen Rock niederschluchzte und mich dabei immer wieder frug: »Wie hast du nur das angestellt?!«, konnte ich ihr nie auseinandersetzen, daß die Buben ihr Brot für meinen Span nicht immer ganz gutwillig herausgaben und daß es alsdann zu ganz sonderbaren Zweikämpfen kam, die um so erbitterter waren, weil sie lautlos und möglichst unbemerkt ausgefochten wurden. Am Boden hinkriechend während des Sammelns der Späne – unter irgendeinem Pfosten, an dem der Geselle über uns weiterzimmerte –, faßten wir uns an den Köpfen, kniffen uns in die Beine, pufften, wohin wir eben trafen, und suchten von unseren Kleiderresten irgendeinen Lappen als Siegeszeichen zu erhaschen.
+    </p>
+    <p xml:id="eco_de_000076_120">
+     Manchmal rollten wir in diesen kriegerischen Zerstreuungen zu weit in die Nähe der Zimmerleute, da gab es dann einen flüchtigen Fußtritt, und wir wurden samt und sonders von dem Platze gejagt. Wie vor dem verlorenen Paradies standen wir dann an der Einzäunung des freiliegenden viereckigen Zimmerplatzes, schauten durch die Gitter und baten kläglich um Einlaß. Aber es half dann nichts mehr.
+    </p>
+    <p xml:id="eco_de_000076_130">
+     Was uns daheim erwartete, wußten wir, das kam noch immer früh genug, darum trieben wir uns auf den Feldern herum und zauderten, bis unsere gewöhnliche Heimkehrstunde schlug. Je später es wurde, desto wehmütiger war unsere Stimmung; je näher wir unseren Wohnstätten kamen, desto milder und nachsichtiger wurden wir gegeneinander – die, welche sich am ärgsten gerauft hatten, gingen rührend versöhnlich Hand in Hand –, und wenn wir an den Haustoren flüsternd Abschied nahmen, zeigten nur noch die flatternden Risse unserer Kleider , daß wir tagsüber verschiedene Meinungen in unserer Weise zu einigen suchten.
+    </p>
+    <p xml:id="eco_de_000076_140">
+     Ich schob mich an solchen bündellosen Abenden immer langsam durch das Haustor, pochte kaum vernehmlich an die Küchentüre und hatte es gewonnen, wenn mir die Käthe öffnete.
+    </p>
+    <p xml:id="eco_de_000076_150">
+     Die Käthe war vor Jahren auch auf dem Zimmerplatze gewesen, die wußte, wie es dort zuging.
+    </p>
+    <p xml:id="eco_de_000076_160">
+     »Käthe, ich hab heut nichts«, raunte ich ihr schon zwischen der Türe zu.
+    </p>
+    <p xml:id="eco_de_000076_170">
+     »Sei nur still, deine Mutter ist in der Kammer«, erwiderte sie leise.
+    </p>
+    <p xml:id="eco_de_000076_180">
+     Ich huschte seelenvergnügt durch die Küche in die Stube.
+    </p>
+    <p xml:id="eco_de_000076_190">
+     »Na du! Bist schon da? Schaust wieder sauber aus, du!« polterte der alte Herr Fuchs, an dem ich vorbei mußte, wenn ich in unsere Kammer wollte; war ich erst drinnen, so frug meine Mutter nicht mehr viel, und ich machte mir mit meinem schläferigen Brüderchen zu schaffen.
+    </p>
+    <p xml:id="eco_de_000076_200">
+     Aber manchmal, wenn sie mir selbst öffnete und mich ohne Späne vor der Türe stehen sah!
+    </p>
+    <p xml:id="eco_de_000076_210">
+     Sie war reicher Leute Kind und erst nach meines Vaters Tod so arm geworden, und da sie deshalb in ihrer Kindheit nie auf einen Zimmerplatz gehen mußte, konnte ich sie auch nie über die Geschäftsgewohnheiten der Gesellen ganz aufklären … Aus ihren Püffen machte ich mir nicht viel, denn sie hatte eine kleine, schwache Hand, aber sie weinte und klagte ohne Ende, daß wir alle den nächsten Winter elendiglich erfrieren würden; und sie sagte das so hoffnungslos und überzeugend, daß ich sie in meiner Todesangst händeringend frug, wann eigentlich der schreckliche Winter beginne … An solchen aufgeregten Abenden glaubte ich es auch, wenn der alte Herr Fuchs die Türe aufstieß und in unsere Kammer hineinschrie: »Von allen nichtsnutzigen Kindern, die auf der Welt dem lieben Herrgott seine Zeit abstehlen, ist das Ding doch das allernichtsnutzigste!« Dann schob er den Tabak im Munde hin und her, zog heftig an seinen nachlässigen Hosenträgern und warf, während er mir noch mit der Faust drohte, die Türe wieder zu.
+    </p>
+    <p xml:id="eco_de_000076_220">
+     Ich kroch dann mit einem unaussprechlichen Abscheu vor meiner eigenen Nichtsnutzigkeit und mit einem dünnen Stück Butterbrot – das mir meine Mutter immer in einer nachträglich-zärtlichen Anwandlung gab – zu meinem Bruder auf den Strohsack und schlief meist recht bald ein.
+    </p>
+    <p xml:id="eco_de_000076_230">
+     Aber mit einem Male hatte alle Not auf dem Zimmerplatze ein Ende, denn ich fand einen mächtigen Gönner dort. Den Engländer nannten die andern einen langen breitschultrigen Gesellen, der mit den Beinen weit auseinander daherging, einen Wald von Haaren in dem Gesichte trug und immer die größten Sparren zimmerte. Die anderen sagten, er sei früher immer auf einem Schiffe gewesen und in der ganzen Welt herumgesegelt, und jetzt wolle er einmal auf festem Land leben und unsere Sprache lernen. Es mag wohl so gewesen sein, denn er sprach ein mühsames Deutsch und sang oft fremdartige Lieder, die aber so lustig klangen, daß alle lachten, besonders wenn er immer auf ein und demselben kleinen Fleck dabei tanzte und die Füße in die Luft warf. Lang war er, daß er mit seinem Kopfe über die Größten hinwegschaute, und auf seinen braunen Armen lagen daumendicke Muskeln, die ich damals für Stricke nahm.
+    </p>
+    <p xml:id="eco_de_000076_240">
+     Ich getraute mich anfangs nie recht in seine Nähe, bis einmal die Kinder sagten: »Siehst, der ist ein Ries!«
+    </p>
+    <p xml:id="eco_de_000076_250">
+     Nun schlich ich sachte hin und wollte den Riesen genau sehen, ich machte mir erst nur so unauffällig mit seinen Spänen zu tun, und als er mich nicht beachtete, schaute ich dabei an ihm hinan. Als ich so in der Sonne stand und hinaufzwinkerte, flog ihm eine Wespe gegen die Stirne, ich dachte nicht daran, wie klein ich und wie groß er sei, sondern fuhr nur erschreckt mit abwehrender Hand, so hoch ich konnte, in die Luft … Er lachte hell auf, schlug sich mit beiden Händen auf die Schenkel, hockte sich, auf den Fersen wiegend, zu mir auf die Erde, schaute mir schnurgerade in die Augen und sagte: »Du Aff!« Dann lachten wir alle beide, ich weiß nicht warum.
+    </p>
+    <p xml:id="eco_de_000076_260">
+     Plötzlich kam aber die Wespe wieder angesaust und saß flugs auf seiner Nase … Ohne mich zu besinnen, schlug ich tüchtig hin, und sie fiel tot nieder. Der Engländer schaute mich erst verdutzt an, fuhr sich selber nach der Nase, und dann hob er mich an den Falten meines Rockes auf, schleuderte mich ein wenig durch die Luft und setzte mich wieder neben seinen Pfosten auf den Boden.
+    </p>
+    <p xml:id="eco_de_000076_270">
+     Lachend raffte er mit dem Fuße Späne zusammen und deutete:
+    </p>
+    <p xml:id="eco_de_000076_280">
+     »Da nimm!«
+    </p>
+    <p xml:id="eco_de_000076_290">
+     Mittlerweile war es Mittagszeit geworden, und die Gesellen verließen alle den Platz, nur der Engländer setzte sich auf einen Holzklotz, nahm Brot und Fleisch aus seinem blauen Leinensack, hieß mich Wasser holen in dem Kruge, der neben ihm stand, und begann alsdann zu essen. Ich setzte mich still an seiner Seite nieder und schaute so wie er in die helle Luft. Große blauschimmernde Fliegen hingen reglos über uns und schwankten nur, wenn ein flüchtiger Hauch sie anwehte … Über den Feldern zitterte und glitzerte etwas Unfaßbares, Durchsichtiges, und weit oben kreisten Tauben, deren Flügel wie blankes Silber glänzten. Es war ganz ruhig ringsum, nur weit rückwärts hieben noch ein paar Gesellen darauflos; der taktmäßige Fall ihrer Beile war das einzige Geräusch; als aber ein dumpfer gleicher Schlag erscholl, hatten auch die ihre Beile einfallen lassen und gingen bald grüßend an uns vorbei, hinaus durch die Felder.
+    </p>
+    <p xml:id="eco_de_000076_300">
+     Der Sonnenschein lag heiß wie ein klargoldener Schleier über dem schattenlosen Platze, das frischbehauene Holz duftete scharf, und aus manchem abgeschälten Stamme quoll schweres reingelbes Harz her vor. Unter dem einzigen dichtbelaubten Baum, der da war, legte sich der Engländer nieder, streckte seine langen Beine aus und winkte mir.
+    </p>
+    <p xml:id="eco_de_000076_310">
+     »Wie heißt du?«
+    </p>
+    <p xml:id="eco_de_000076_320">
+     »Christel.«
+    </p>
+    <p xml:id="eco_de_000076_330">
+     »So …«, gähnte er, legte die Arme unter den Kopf, schob seinen breiten Strohhut über das Gesicht und lag die Weile wieder so still, daß ich dachte, er sei eingeschlafen, und mich nicht zu regen wagte.
+    </p>
+    <p xml:id="eco_de_000076_340">
+     »Willst du ein Stück Fleisch, Christel?«
+    </p>
+    <p xml:id="eco_de_000076_350">
+     Nun zierte ich mich ein wenig, schlang die Hände unter meiner Schürze ineinander, zog eine Schulter nach der andern auf, schob abwechselnd die linke und die rechte Hüfte vor und schielte ununterbrochen nach dem Leinensack hinüber … Ich weiß das alles sehr genau, denn es hat mich später viel Mühe gekostet, diese hübschen Bewegungen abzulegen, manche behaupten sogar, die mit den Schultern sei mir geblieben, besonders wenn ich mich vornehm geben wolle. Aber das Stück Fleisch bekam ich doch, trotz meines verwilderten Gebarens, und auch ein großes Stück Brot gab mir mein Gönner dazu.
+    </p>
+    <p xml:id="eco_de_000076_360">
+     »Für wen holst du die Späne?« frug er mit einem Male wieder hinter seinem Strohhut hervor.
+    </p>
+    <p xml:id="eco_de_000076_370">
+     »Für meine Mutter und für die Maria«, erzählte ich geschäftig, »der alte Herr Fuchs sagt, ich bin zu sonst nichts gut, das Ding, ich!«
+    </p>
+    <p xml:id="eco_de_000076_380">
+     »Du?«
+    </p>
+    <p xml:id="eco_de_000076_390">
+     »Ja!… Aber wärmen tut sich der alte Herr Fuchs doch bei unserem Ofen im nächsten Winter wieder, wenn ich genug Späne gebracht hab, daß wir nicht erfrieren tun.«
+    </p>
+    <p xml:id="eco_de_000076_400">
+     Unbestimmt schwebte mir wieder die erschreckliche Todesart vor, welche meine Mutter so drohend zu schildern wußte, und ich wurde ganz trübselig.
+    </p>
+    <p xml:id="eco_de_000076_410">
+     »Wo bist du daheim, Christel?«
+    </p>
+    <p xml:id="eco_de_000076_420">
+     »Dort unten bei der Blauen Gans, wo die Käthe immer bei dem Stubenfenster sitzt.«
+    </p>
+    <p xml:id="eco_de_000076_430">
+     »Dort unten?« frug er und warf den Fuß nach der bezeichneten Richtung.
+    </p>
+    <p xml:id="eco_de_000076_440">
+     »Ja, ja, dort!«
+    </p>
+    <p xml:id="eco_de_000076_450">
+     Der Engländer richtete sich schnell auf, rückte seinen Hut in das Genick und rieb sich die Augen.
+    </p>
+    <p xml:id="eco_de_000076_460">
+     »Das schmucke Mädel mit dem dicken Zopf über der Stirne, ist das die Käthe?«
+    </p>
+    <p xml:id="eco_de_000076_470">
+     »Ja, die ist's, denn meine Maria hat die Zöpfe hinten herunterhängen, und meine Mutter hat eine Haube auf.«
+    </p>
+    <p xml:id="eco_de_000076_480">
+     »Wer ist denn der alte Herr Fuchs? Wie kommst du zu den Leuten?« Und dabei hielt er mich an meinem Rock, als ob ich ihm davonlaufen wollte.
+    </p>
+    <p xml:id="eco_de_000076_490">
+     »Der Herr Fuchs ist der Käthe ihr Großvater, und wir wohnen bei ihm und tun Handschuh nähen, und die Käthe auch, aber er schimpft uns doch alleweil, weil meine Mutter noch etwas für die Kammer schuldig ist, na ja, wir haben halt kein Geld. Meine Mutter weint alle Tag und manchmal die Käthe auch, denn die ist gar gut, und dann hat sie …«
+    </p>
+    <p xml:id="eco_de_000076_500">
+     Ein großer Kampf war es, den ich nun mit mir, nach Luft schnappend, auskämpfte, als ich bei dem verhängnisvollen »hat sie …« angekommen und nun im Begriffe war, ein stolzes Geheimnis zu verraten. Er schien mir aber der Würdigste, derjenige, welcher den hohen Wert dieser Mitteilung allein zu schätzen wußte.
+    </p>
+    <p xml:id="eco_de_000076_510">
+     Ich schaute mich erst sorgsam auf dem Zimmerplatze um, ob auch gewiß niemand da sei, dann faßte ich mir ein Herz, nahm den großen schwarzen Kopf des Engländers mit beiden Händen und wisperte ihm in das Ohr: »Die Käthe hat einen Federhut!«
+    </p>
+    <p xml:id="eco_de_000076_520">
+     Dann ging ich ein paar Schritte zurück, sah mir den Mann an und wartete; ich meinte, er werde jetzt gleich seinen Hut vor mir abziehen wie vor dem Zimmermeister, aber er tat es nicht. Erst zuckte es in seinem Gesichte, als ob er lachen wollte … dann sah er mich ungläubig an, sperrte bedenklich den Mund auf und sagte: »A-a-h?!«
+    </p>
+    <p xml:id="eco_de_000076_530">
+     Ich verstand den fragenden Blick und das zögernde »ah« und nickte nur feierlich: »Ja!«
+    </p>
+    <p xml:id="eco_de_000076_540">
+     Jetzt erwischte er mich mit seinem langen Arm wieder an meinem Rock, daß es krachte, zog mich an sich und flüsterte:
+    </p>
+    <p xml:id="eco_de_000076_550">
+     »Einen wirklichen Federhut?«
+    </p>
+    <p xml:id="eco_de_000076_560">
+     »Ja … und noch etwas Heimliches hat sie in derselben Schachtel, was sie gar niemand zeigen tut, nicht einmal mir«, lispelte ich noch leiser als er.
+    </p>
+    <p xml:id="eco_de_000076_570">
+     »Wart, du Christel!« schrie er plötzlich, nahm aus seinem Leinensack ein Rohr, zog es immer länger auseinander, schaute hindurch, hielt es dann an mein Auge, während er mir das andere zudrückte, richtete noch eine Weile daran herum und sagte endlich: »Schau!«
+    </p>
+    <p xml:id="eco_de_000076_580">
+     Ich schaute durch, und – plumps – da saß ich in demselben Augenblick schon vor Schreck auf der Erde … denn als ob ich sie mit der Hand erfassen könnte, so nahe stand die Blaue Gans vor mir, und am Stubenfenster saß die Käthe.
+    </p>
+    <p xml:id="eco_de_000076_590">
+     »Ist das die Fuchskäthe?« fragte der Geselle, als ich mich wieder zusammengerappelt hatte.
+    </p>
+    <p xml:id="eco_de_000076_600">
+     »Freilich«, stammelte ich, ängstlich nach dem Rohre guckend, das in seiner Hand wieder kleiner wurde.
+    </p>
+    <p xml:id="eco_de_000076_610">
+     »Und die hat einen Feder –«, er machte nur eine Gebärde nach dem Kopfe.
+    </p>
+    <p xml:id="eco_de_000076_620">
+     »Ja«, sagte ich trotzig, denn Käthchens Federhut war mein einziger Stolz.
+    </p>
+    <p xml:id="eco_de_000076_630">
+     Zwei Jahre mochte es her sein, daß sie und ich einmal ganz allein daheim waren, und da kramte sie den schwarzen Samthut mit der weißen wallenden Feder aus der Schachtel, sah ihn ganz erschrecklich traurig an und sagte mir, daß ich niemand erzählen dürfe, welch schönen Hut sie habe; zu meinem Leid verschloß sie ihn aber gar bald in den Schrank. Ich hatte früher manchmal vornehme Damen umherfahren sehen, die ebensolche Hüte trugen, da legte ich mir nun an nachdenklichen Abenden unter dem Tisch des alten Herrn Fuchs zurecht, daß die Käthe eine geheime vornehme Dame sei, etwa so wie irgendeine verzauberte Prinzessin, von der sie mir einmal selber eine Geschichte erzählt hatte. Von dieser Zeit ab sah ich sie immer mit ganz anderen Augen; ich dachte bald nur noch an den Hut … und allmählich übertrug ich diese Federhutwürde und heimliche Vornehmheit auf mich selber, und wie ich früher, wenn mich die Buben oben auf dem Hügel prügelten, nach meiner Mutter rief, so schrie ich jetzt immer: »Ich sag's der Käthe, die ist etwas, die hat einen Fe – –«, den Rest verschluckte ich stets trotz meiner tiefsten Entrüstung. Der Engländer war also der erste, dem ich dieses kostbare Geheimnis anvertraute, und dafür rüttelte er mich jetzt an den Armen und schrie wieder: »Woher hat sie den Hut?!«
+    </p>
+    <p xml:id="eco_de_000076_640">
+     Woher?… Als ob ich je darüber nachgedacht hätte. Ich sagte ihm also alles, was ich davon wußte … Ich erzählte ihm, daß die Käthe einmal sechs Wochen lang in den Wald zu einer Bäuerin ging, die Ziegen hatte; sie mußte dort Ziegenmilch trinken, sagten meine Mutter und alle Leute in der Blauen Gans. Der alte Fuchs aber sagte damals, die Käthe dürfe nimmer über seine Schwelle, und meine Mutter solle mir einen Mühlstein um den Hals hängen und mich in das tiefste Wasser werfen, denn ich sei ein Mädel und käme auch einmal so weit wie die Käthe … Als aber die Käthe wiederkam, war sie ganz blaß und mager, und ich hatte mich gefürchtet, wie sie vor dem Alten auf die Knie fiel, doch er spuckte vor ihr auf den Boden hin und gab ihr einen Schlag auf die Wange … Sie war noch blässer geworden, hatte die Hände über dem Kopf zusammengeschlagen und sich in einen Winkel gehockt. – Viel später hat sie einmal den Hut aus der Schachtel getan, dann das schöne Kleid, das sie einst von meiner Mutter gekauft, dann das feine Tuch, das sie von ihrer seligen Großmutter geerbt, hat alles angesehen, bitterlich geweint und alles wieder eingesperrt, früher aber hat sie das Heimliche in die Schachtel gelegt und nichts mehr herausgenommen.
+    </p>
+    <p xml:id="eco_de_000076_650">
+     Das ist die Geschichte, die ich damals wußte und noch krauser als jetzt erzählte; der Engländer hörte mir zu, nickte manchmal mit dem Kopf, dann packte er mich fest an der Schulter und sagte lustig: »Komm, wir gehen miteinander zu der armen Käth!«
+    </p>
+    <p xml:id="eco_de_000076_660">
+     Das war ein Heimweg! – Sooft ich mich an eine Mauer stemmte und nicht mehr weiter wollte, hob er mich in die Luft, und als ich ihn trotz meiner innersten Empörung bat, er möge ja nichts wegen des Federhutes sagen, lachte er, daß es mir eiskalt über den Rücken lief.
+    </p>
+    <p xml:id="eco_de_000076_670">
+     Heulend, hochrot im Gesichte, mit verschobenem Rock kam ich daheim an. Er öffnete die Tür und ruckte mich vor sich her in die Stube, wo Käthe am Fenster saß und sich nicht umsah. Erst als ich unter den Tisch kroch, schaute sie auf und sah den Engländer unbehülflich neben ihr stehen.
+    </p>
+    <p xml:id="eco_de_000076_680">
+     Was er wolle, frug sie.
+    </p>
+    <p xml:id="eco_de_000076_690">
+     Ob die Kammer da nicht zu vermieten sei, die Christel hätte so etwas gesagt, er verstände freilich schlecht deutsch, log er keck.
+    </p>
+    <p xml:id="eco_de_000076_700">
+     Ich ballte die Hände unter meinem Tisch und schrie: »Unsere Kammer! Meine Mutter hat sie schon bezahlt!«
+    </p>
+    <p xml:id="eco_de_000076_710">
+     Er lachte wieder und zeigte nur drohend auf seinen Hut …
+    </p>
+    <p xml:id="eco_de_000076_720">
+     Diese Gebärde erschütterte mich tief, ich schwieg gedemütigt und zitternd. Mit der Käthe redete er noch recht lange, aber er verschwieg doch mein Geheimnis.
+    </p>
+    <p xml:id="eco_de_000076_730">
+     Von jenem Tage ab ging er nun jeden Abend und jeden Morgen an dem Fenster vorbei und sprach meist ein paar Worte mit der Käthe; mir gab er die schönsten Späne, die auf dem Platze waren, und allmählich kam er auch abends in die große Stube herein. Der alte Herr Fuchs mochte ihn wohl leiden, denn er war in seiner Jugend selber Matrose gewesen, und die beiden sprachen so viel von dem großen Wasser, daß ich unter dem Tisch nur mehr »Schiff« spielte … Wenn der Engländer aber mit der Käthe sprach, lag ich auf der Lauer, denn ich dachte: Einmal sagt er's doch, das von dem Federhut.
+    </p>
+    <p xml:id="eco_de_000076_740">
+     Und richtig, eines Abends, als er allein neben der Käthe saß und sie ihm wie öfter von ihrer mühseligen Kinderzeit erzählte, nahm er sie bei den Händen und frug sie laut: »Käthe, wer gab Ihnen den Federhut?«
+    </p>
+    <p xml:id="eco_de_000076_750">
+     Ich legte mich hinter dem Tisch platt auf den Boden – leicht hervorkriegen soll mich die Käthe doch nicht, dachte ich und schloß die Augen. Eine Weile war es ganz still in der Stube … und als ich endlich wieder aufschaute, hatte sie schon den Hut in der Hand und sagte mühsam: »Den Hut hab ich mir selbst gekauft, ich wollte damit ihm – meinem Schatz –, den ich lieber hatte als meinen Großvater und – mich selber, recht vornehm entgegenfahren, denn er war dieweil sogar Offizier geworden und wollte mich heiraten, wenn er wiederkäme, aber er kam nicht mehr – gar – nicht – mehr. – Er ist mir totgeschossen worden … Da ist die Zeitung, wo es drin steht – da ist sein Bild und seine Briefe – und da – da – ist der – Taufschein und der Totenschein – von – von unserem Kinderl. So, jetzt wissen Sie alles, Herr, und jetzt werden Sie mir gewiß nimmer sagen, daß Sie mich heiraten wollen.«
+    </p>
+    <p xml:id="eco_de_000076_760">
+     Die Käthe weinte still vor sich hin, und ich heulte laut von meinem Tisch hervor, weil sie mir so leid tat. Mit einem Ruck hatte der Engländer alle Knöpfe an seinem Rock aufgerissen, dann machte er ein paar Schritte durch die Stube und kehrte rasch wieder zurück zu der Käthe, die feines buntbebändertes Kinderzeug aus der Hutschachtel nahm und betrachtete … Er blieb vor ihr stehen, trocknete sich ein über das andere Mal die Stirne ab und schaute immer auf ihren dicken schwarzen Zopf, so als ob er wartete, daß sie noch ein Wort spräche; aber sie schwieg, obgleich ihre Hände zitterten … Da bog er sich zu ihr nieder, schob ein paar Härchen von ihren Schläfen, streichelte mit beiden Händen ihr Gesicht und ließ sie dann über ihre Schultern und Arme gleiten; nachher nahm er ihre Finger, zählte sie, schaute ihre Hände eine nach der anderen aufmerksam an, klatschte sie mit den Flächen zusammen und warf sie leicht in Käthes Schoß zurück; dabei lächelte er wie ein Knabe … Wohl weil sie gar nicht aufschauen mochte, zupfte und zerrte er wieder an ihren kurzen Härchen, faßte sie am Kinn und hob den dunklen Kopf an seine Brust, leise tupfte er mit einem Finger auf ihre feuchte Wange, warf mit raschem Griff das Kinderzeug und die Papiere wieder in die Schachtel, drückte den Deckel darauf und ließ mit einem festen Schlag seine Hand niederfallen, als er nicht gleich schließen wollte.
+    </p>
+    <p xml:id="eco_de_000076_770">
+     Langsam erhob die Käthe den Blick zu ihm, er aber küßte sie auf die traurigen Augen, richtete sich hoch auf und sagte dann in demselben Ton, in welchem der alte Herr Fuchs am Sonntag sprach, ehe er in die Kirche ging: »All right!«
+    </p>
+    <p xml:id="eco_de_000076_780">
+     Es war auch nun alles richtig, und die Käthe wurde eine glückliche Frau, trotzdem sie keine Federhüte trug. Meine Mutter hatte eine vorzügliche Gelegenheit, sehr viel zu weinen, und der alte Herr Fuchs kaute ein Päckchen »Feinen« an Käthes Hochzeitstag; ich aber bekam aus einem alten Mantel meiner Mutter einen neuen Rock, von dem Engländer ein Paar glanzlederne Schuhe, und der Herr Fuchs sagte freundlich: »An dem Tag brauchst du nicht auf den Zimmerplatz zu gehen, nichtsnutzige Christel.«
+    </p>
+    <p xml:id="eco_de_000076_790">
+     Er hat es wirklich nicht mehr erlebt, daß »das Ding« zu etwas anderem gut ist, als Späne heimzutragen.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

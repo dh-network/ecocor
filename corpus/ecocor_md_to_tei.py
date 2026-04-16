@@ -862,4 +862,15 @@ def main():
 
 
 if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser(description="Convert EcoCor markdown files to TEI/XML.")
+    parser.add_argument("--metadata",     default=None, help="Path to metadata CSV (default: aux/Literaturliste_EcoCor_V-2...csv)")
+    parser.add_argument("--markdown-dir", default=None, help="Directory containing source .txt files (default: ecocorMD/ecocorMD_files_to_convert)")
+    args = parser.parse_args()
+
+    if args.metadata:
+        METADATA_FILE = args.metadata
+    if args.markdown_dir:
+        MARKDOWN_DIR = args.markdown_dir
+
     main()

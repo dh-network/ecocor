@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000134" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Das Logierhaus »Zur schwankenden Weltkugel«
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Reventlow, Franziska zu
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     6003
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1917">
+      1917
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <textDesc>
+    <authorGender key="M" xmlns="http://distantreading.net/eltec/ns"/>
+    <size key="short" xmlns="http://distantreading.net/eltec/ns"/>
+    <reprintCount key="unspecified" xmlns="http://distantreading.net/eltec/ns"/>
+    <timeSlot key="T4" xmlns="http://distantreading.net/eltec/ns"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000134_20">
+    Das Logierhaus
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000134_30">
+     Wir fanden ihn, nämlich Hieronymus Edelmann, auf einer spanischen Insel vor, wo er schon seit Jahren sein Wesen trieb. Wie er dahingekommen war? – Gott, wie man eben irgendwohin kommt, dachten wir anfangs. Und später wußten wir überhaupt nicht mehr, was von der Sache zu halten sei.
+    </p>
+    <p xml:id="eco_de_0000134_40">
+     Jedenfalls war er jetzt da, und keiner von uns war in der Lage gewesen, sich seiner Bekanntschaft zu entziehen.
+    </p>
+    <p xml:id="eco_de_0000134_50">
+     Er pflegte, sobald ein Schiff ankam, an Bord zu erscheinen, nach Landsleuten oder anderen Fremden auszuspähen und ihnen dann ungesäumt seine Visitenkarte zu überreichen. Diese Visitenkarte bestand aus seiner Photographie in Postkartenformat mit der schön stilisierten Unterschrift: Hieronymus Edelmann, und wirkte durch ihre von allem Hergebrachten abweichende Beschaffenheit etwas verwirrend, um so mehr, als die Photographie ihm durchaus nicht ähnlich sah. Sie war auch nicht nach der Natur aufgenommen, sondern, wie er sofort erläuterte, nach einem gemalten Porträt aus früheren Jahren, welches ihn mit mäßig entwickeltem Bart und in einem auffallend karierten Anzug darstellte, so auffallend kariert, daß der Beschauer alle weiteren Einzelheiten, wie zum Beispiel die Gesichtszüge, erst in zweiter Linie zu erfassen vermochte. Der Anzug war sicher schon längst aufgetragen oder ausrangiert, und sein Besitzer hatte sich inzwischen einen ungeheuren roten Bart wachsen lassen, der fächerförmig zugeschnitten war. Die einzige Ähnlichkeit bestand nunmehr in einem schwarzgefaßten Monokel, von dem er sich niemals trennte und das der Porträtist mit peinlicher Naturtreue versinnbildlicht hatte.
+    </p>
+    <p xml:id="eco_de_0000134_60">
+     So kam es, daß der Ankommende ohne Ausnahme im ersten Moment etwas stutzig wurde und ratlos dastand. Hieronymus aber wußte sofort Rat, blickte ihn siegreich durch sein Monokel an und brachte die Bekanntschaft durch einige aufklärende Worte weiter ins Rollen.
+    </p>
+    <p xml:id="eco_de_0000134_70">
+     Er bemerkte, daß er schon lange hier lebe und mit besonderem Vergnügen allen neuen Gästen behilflich sei, sich zu orientieren. – Ob man schon ein Hotel gewählt habe? Nein? Nun, dann könne er das Logierhaus »Zur schwankenden Weltkugel« unbedingt empfehlen, wo er selbst wohne und man gut untergebracht sei.
+    </p>
+    <p xml:id="eco_de_0000134_80">
+     Das Resultat war fast immer das gleiche – noch halb betäubt von der Seefahrt, überwältigt von der außerordentlichen Erscheinung und Handlungsweise dieses Herrn, büßte man jede weitere Selbstbestimmung ein und endete im Logierhaus »Zur schwankenden Weltkugel«.
+    </p>
+    <p xml:id="eco_de_0000134_90">
+     Dort angelangt fuhr Hieronymus Edelmann in der gleichen überzeugenden Weise fort sich zu betätigen, stellte neuangekommene und schon vorhandene Gäste einander vor, und zwar geschah das so, daß jeder den anderen für einen alten Bekannten des gemeinsamen Schutzpatrons hielt und der Verkehr von vornherein unter falschen Voraussetzungen begann.
+    </p>
+    <p xml:id="eco_de_0000134_100">
+     Überhaupt entwickelte sich hier alles unter mehr oder minder falschen Voraussetzungen. Das Logierhaus selbst war ein ziemlich fragwürdiger Aufenthalt – eine zweistöckige alte Baracke mit giebelartigem Aufbau stand es am Abhang unweit des Meerufers und hatte infolge irgendwelcher Terraineigentümlichkeiten die Gewohnheit, von Jahr zu Jahr tiefer einzusinken, so daß die Fenster des Erdgeschosses sich immer mehr dem Boden näherten. Uns konnte das ja gleichgültig sein, denn wir gedachten nicht ewig hierzubleiben, aber der Besitzer, ein vierschrötiger Holländer mit schiefen blauen Augen, umkreiste das Gebäude des öfteren mit sorgenvoller Miene und konstatierte dann, seit letztem Frühjahr sei es wieder um einige Zoll gesunken.
+    </p>
+    <p xml:id="eco_de_0000134_110">
+     Wir, die Opfer des Hieronymus, bewohnten im linken Flügel, den wir selbstbewußt das Europäerviertel nannten, das Parterre. Über uns hauste ein älterer Franzose, Monsieur Mouton, der das bescheidene Hafenstädtchen behandelte, als ob es Paris sei. So kam er nie vor drei Uhr nach Hause, schlief dann bis zum Nachmittag, worauf er in den Garten herunterkam und hinter seinem »Matin« verschwand, bis die Stunde des Aperitif heranrückte. Dann ging er wieder in die Stadt, flanierte und trank Absinth. Außerdem besaß er einen lebenden Ameisenbär, der ihn auf Schritt und Tritt begleitete. In derselben Gegend des Hauses gab es noch eine betagte Amerikanerin, die, wie man allgemein annahm, ebenfalls alkoholischen Sitten huldigte. Auch sie ging gerne abends aus; wie sie behauptete, um einen ihr verwandten Lord zu besuchen, der hier eine Villa bewohnte. Bei der Rückkehr kam es häufig vor, daß sie sich mitten auf der Treppe niederließ und erklärte, sie habe das Recht zu sitzen, wo sie wolle. Wurde das aus Gründen der Verkehrsstörung bestritten, so wich und wankte sie nicht, und es kam zu lebhaften Szenen zwischen ihr und dem Hauspersonal. Der linke Flügel oben war in geheimnisvolles Dunkel gehüllt, hatte einen abgetrennten Vorplatz, eine besondere Treppe nach der Gartenseite, und man wußte nicht recht, was dort vorging.
+    </p>
+    <p xml:id="eco_de_0000134_120">
+     Und zuletzt, zuoberst, hoch über alledem in den Giebelräumen lebte und wirkte Hieronymus Edelmann.
+    </p>
+    <p xml:id="eco_de_0000134_130">
+     Er hatte alle möglichen Interessen, unter anderem auch zoologische, und schwärmte für seltene oder absonderliche Tiere. Stundenlang konnte er sich in seinen Brehm vertiefen und sich in Wünschen ergehen, dieses oder jenes Ungeheuer zu besitzen und durch Züchtungsversuche noch seltsamere Exemplare zu erzielen. Einstweilen war ihm das noch nicht geglückt, er beschränkte sich also darauf, in einem Schuppen neben dem Gartenhaus Meerschweine zu halten und Mr. Mouton glühend um seinen Ameisenbären zu beneiden. Immerhin erwartete er auch von seinen Meerschweinchen mehr als man im allgemeinen von solchen zu erwarten pflegt. Er stellte nämlich die Theorie auf, wenn man ihnen volle Freiheit ließe, würden sie sich vielleicht zu einer ganz neuen Art entwickeln und eventuell sogar mit anderen Tieren kreuzen. Sie rannten deshalb frei im Garten herum, man stolperte beständig über sie, aber sie veränderten sich nicht im mindesten, blieben immer unter sich und brachten nur wieder ganz gewöhnliche Meerschweinchen zur Welt.
+    </p>
+    <p xml:id="eco_de_0000134_140">
+     Aus diesen und anderen Einzelheiten ersah man bald, daß ihm ein unruhiger und phantastischer Geist innewohnte, und da, außer den Meerschweinchen, ihn schon manches andere enttäuscht haben mochte, sann er auf immer neue Wege, sich schöpferisch zu betätigen. So hatte er sich hier auf dieser Insel niedergelassen und das Logierhaus »Zur schwankenden Weltkugel« zu seinem engeren Wirkungskreise erwählt. Er war sozusagen die Seele des Hauses, organisierte durch ständiges persönliches Eingreifen den Fremdenverkehr und in gleicher Weise das tägliche Leben zwischen den sinkenden Mauern, organisierte die persönlichen Beziehungen, die infolge seiner Organisation entstanden, sowie die Beziehungen zwischen dem Wirt und den Gästen. Seine lange, etwas schlottrige und ziemlich nachlässig bekleidete Gestalt mit dem ungeheuren, fächerförmigen Bart und niemals ohne Monokel, fuhr je nachdem die Treppen hinauf oder hinunter, erschien in unserer Mitte oder verschwand daraus und stürzte hastigen Schrittes nach dem Hafen, sobald ein Schiff sich näherte. Bei schlechtem Wetter umgürtete er sich zu diesem Zweck mit einem unwahrscheinlich kurzen Lodencape, das ihm nur bis an die Hüften reichte, und schlug sich ein winziges mesquines Hütchen auf den Kopf – bei Sonnenschein dagegen einen Tropenhelm, wie überhaupt die Einzelheiten seiner Toilette eine gewisse wilde Dissonanz ergaben, deren er selbst sich wohl nicht bewußt war.
+    </p>
+    <p xml:id="eco_de_0000134_150">
+     Als nun unsere Zahl auf etwa sechs Personen verschiedenen Geschlechts angewachsen war und keine weiteren Fremden ankamen, veranstaltete Hieronymus Edelmann eine Art Sitzung, um uns in einen seiner Lieblingspläne einzuweihen. Da war eine barmherzige Schwester und ein junger Kaufmann, die beide aus Afrika kamen, um sich von dem dortigen Klima zu erholen, da war ein Assistenzarzt mit angegriffener Lunge, welcher ebenfalls Erholung suchte, ferner ein Herr aus Bacharach am Rhein, den der junge Kauf mann dieser Herkunft halber »den Loreley« getauft hatte und eine kleine Turnlehrerin, die man das Trapezmädel nannte.
+    </p>
+    <p xml:id="eco_de_0000134_160">
+     Es war Abend, wir saßen im Garten um einen großen, runden Tisch mit Windlichtern, wehrten uns gegen die vielen Mücken, und Hieronymus Edelmanns Monokel blitzte überzeugend durch die Nacht, während er eine zündende, aber etwas konfuse Ansprache hielt. – Ja, er gedachte, wie das in unserem Jahrhundert üblich geworden, auch an seinem Teile zur Veredlung des Menschtums und der Lebensführung beizutragen und meinte einen guten Modus dafür gefunden zu haben. Es galt vor allem, die geeigneten Menschen zu finden und Beziehungen zwischen ihnen herzustellen. Hier habe er schon vorgearbeitet, indem er einem Korrespondenzverein beigetreten sei und uns alle ebenfalls als Mitglieder angemeldet habe. Die Zwecke des Vereins seien ursprünglich rein praktische gewesen, – wechselseitige Auskünfte über die Lebensbedingungen an diesem oder jenem Ort, berufliche und andere Fragen. Dann aber hatte Hieronymus organisatorisch eingegriffen und das Gebiet erweitert, so daß jetzt auch Ansichten, Meinungen, persönliche, erotische und dergleichen mehr unter den Mitgliedern erörtert wurden. Er selbst zum Beispiel korrespondierte mit einer stellenlosen Gesellschaftsdame in Sevilla über freie Liebe und hatte sie bereits von der Notwendigkeit dieser Institution überzeugt… Eben jetzt wolle er nach dem Festland fahren, sie persönlich kennen lernen und womöglich mit hierherbringen. Sein Monokel strahlte bei diesem Gedanken, und er ließ uns immer tiefer Einblicke in seine Ideenwelt tun. Der Verein, ja der Verein sei eigentlich nur Mittel zum Zweck. Er brauche ein großes Menschenmaterial, um eine engere Auslese zu treffen und dann – es fielen einige bedenkliche Worte: Freiheit, Schönheit, Ausleben, die in seinem Munde doppelt beängstigend wirkten – kurz, er wollte in diesem Sinne einen Bund gründen, der sollte »Der Flammenbund« genannt werden und allen Beteiligten ungemeines Vergnügen bereiten.
+    </p>
+    <p xml:id="eco_de_0000134_170">
+     Nachdem er geendet, sah er sich Beifall und Zustimmung heischend im Kreise um, äußerte noch, er habe bereits mit dem Wirt gesprochen, um einen Teil des Hauses für seine Zwecke zu mieten, hieb sich dann den Tropenhelm aufs Haupt und enteilte zum Hafen, um seine Reise aufs Festland anzutreten. Es war soeben gemeldet worden, das Schiff fahre statt morgen schon heute nacht ab.
+    </p>
+    <p xml:id="eco_de_0000134_180">
+     Die Statuten des Korrespondenzvereins hatte er uns zurückgelassen. Wir ersahen daraus, daß der Verein tatsächlich existierte. Da war vor allem eine Liste der Mitglieder, neben jedem Namen eine Reihe von kabbalistischen Zeichen – Strichen, Kreuzen, Sternen usw. Verstand man diese, so wußte man sofort, wofür das betreffende Mitglied sich interessierte, was es wünschte und erstrebte. Auf einem Fragebogen, der jedem Neueintretenden zur Ausfüllung zuging, wurde das näher erläutert. Da wurde zum Beispiel gefragt, mit wem man zu korrespondieren wünsche – mit Herren? mit Damen? – oder mit beiden? und worüber? Wofür man sich in erster oder auch in zweiter Linie interessiere? Etwa für Philosophie? Ethik? – Nacktkultur? – Los von Rom – Bewegung? Friedensbestrebungen? Reform der Ehe? – Wandervogelbewegung? und so fort – eine Fülle von hübschen und anregenden Dingen.
+    </p>
+    <p xml:id="eco_de_0000134_190">
+     Seufzend legten wir das Zeug aus der Hand und gingen schlafen.
+    </p>
+    <p xml:id="eco_de_0000134_200">
+     Am folgenden Morgen fanden wir uns zum erstenmal ohne Hieronymus am Frühstückstisch zusammen, und die nächste Folge war, daß wir uns gegenseitig erstaunt und verlegen betrachteten. Wir hatten schon eine ganze Woche zusammengelebt, uns Spitznamen gegeben, wir bildeten eine Art Familie, aber das alles schließlich doch nur, weil Hieronymus Edelmann sich unserer bemächtigt und uns organisiert hatte. Solange er da war, hatte man das als selbstverständlich hingenommen, aber jetzt, heute, wo wir unter uns waren, empfanden wir auf einmal die ganze Unwahrscheinlichkeit der Situation. »Wer um Gottes willen ist denn eigentlich dieser Hieronymus?« so fragte sich jeder im stillen, »und wer sind wir? – Was haben wir miteinander zu tun?«
+    </p>
+    <p xml:id="eco_de_0000134_210">
+     Die gute Schwester Hildegard aus Afrika, der gestern abend allerhand moralische Bedenken aufgestiegen waren, obwohl sie sicher nicht alles verstanden hatte, brach den Bann und begann zu fragen. Gesellschaftliche Skrupel kannte sie nicht, sondern war nur um ihr Seelenheil besorgt, und das schien ihr gefährdet, wenn Hieronymus wirklich die stellenlose Gesellschaftsdame mitbrachte. So fragte sie nach seinem Vorleben, nach allem möglichen, und es stellte sich heraus, daß keiner von uns ihn je zuvor gesehen, bisher aber jeder den anderen für seinen alten Bekannten gehalten und sich darüber gewundert hatte.
+    </p>
+    <p xml:id="eco_de_0000134_220">
+     Man fühlte sich ja ein wenig blamiert, aber zugleich sehr erleichtert.
+    </p>
+    <p xml:id="eco_de_0000134_230">
+     Doktor Gräber, der Assistenzarzt, schlug sich vor die Stirn:
+    </p>
+    <p xml:id="eco_de_0000134_240">
+     »Wie konnte das nur geschehen, verehrte Anwesende? – Wie ein verschlagener Zauberer hat er uns ins Netz gelockt. – Wir kamen her, um uns zu erholen oder zu vergnügen, aber doch nicht…«
+    </p>
+    <p xml:id="eco_de_0000134_250">
+     »Um unter schrecklichen Strapazen Flammenbünde zu gründen«, ergänzte der Loreley.
+    </p>
+    <p xml:id="eco_de_0000134_260">
+     »Pfui, dieser Flammenbund«, sagte die Schwester mit einem Seitenblick auf das Trapezmädel. Das aber lachte nur.
+    </p>
+    <p xml:id="eco_de_0000134_270">
+     »Mitglieder des Korrespondenzvereins sind wir schon«, seufzte der junge Kaufmann.
+    </p>
+    <p xml:id="eco_de_0000134_280">
+     »Wir wohnen miserabel«, fuhr Doktor Gräber fort. »Erst gestern hat unser Hauswirt wieder mit einem Ingenieur darüber gesprochen, daß die Mauer gestützt werden müsse. – Im linken Flügel oben wird die halbe Nacht Grammophon gespielt – Gott weiß, was da überhaupt alles logiert…«
+    </p>
+    <p xml:id="eco_de_0000134_290">
+     »O, ich glaube, da fängt der Flammenbund schon an«, rief das Trapezmädel. »Herr Edelmann geht oft hinüber, und mich hat neulich auf der Hintertreppe ein Herr in den Arm zwicken wollen.«
+    </p>
+    <p xml:id="eco_de_0000134_300">
+     »So, und was hatten Sie denn auf der Hintertreppe zu tun?« fragte der Loreley strafend, und die Schwester war aufrichtig erschrocken. Ja, sie hätte überhaupt das Gefühl, als ob dieses Haus ein etwas bedenklicher Aufenthalt sei.
+    </p>
+    <p xml:id="eco_de_0000134_310">
+     Längeres Schweigen, dann nahm wieder der Assistenzarzt das Wort:
+    </p>
+    <p xml:id="eco_de_0000134_320">
+     »Meine Herrschaften, wir sind hier allem Anschein nach, wie es sonst nur schutzlosen, alleinreisenden Mädchen passiert, in eine etwas zweifelhafte Atmosphäre geraten, und wer weiß, wo das alles noch hinausläuft…«
+    </p>
+    <p xml:id="eco_de_0000134_330">
+     »O Gott«, sagte das Trapezmädel, »wenn das meine Eltern wüßten. Ich habe ihnen gerade geschrieben, ich hätte hier so netten Anschluß gefunden.«
+    </p>
+    <p xml:id="eco_de_0000134_340">
+     »Und meine Oberin« – rief die Schwester, – »nein, hören Sie, Herr Doktor, ich ziehe heute noch aus. – Ich kann doch unmöglich in meiner Schwesterntracht…«
+    </p>
+    <p xml:id="eco_de_0000134_350">
+     »Wir ziehen alle aus«, erklärte der Loreley ritterlich, »wir andern werden die Damen doch nicht im Stich lassen. Und abgesehen von allem andern bietet unser Logierhaus ›Zur schwankenden Weltkugel‹ wirklich etwas zu wenig Komfort. Hätten wir uns nur nicht – aber das ist jetzt nicht mehr zu ändern.«
+    </p>
+    <p xml:id="eco_de_0000134_360">
+     Gesagt, getan, die Tafel wurde aufgehoben, und wir gingen sofort daran, unseren Auszug zu organisieren. Es gab eine bittere Auseinandersetzung mit dem dicken Holländer, dann begaben wir uns, von zwei Gepäckträgern gefolgt, geraden Wegs nach dem ersten Hotel der Stadt, erfuhren jedoch, daß alles besetzt sei. Es gab noch zwei weitere Hotels geringeren Ranges, aber überall wurde uns derselbe Bescheid. Als sich der gleiche Vorgang auch noch in einer Familienpension wiederholte, dämmerte uns eine furchtbare Ahnung auf. Wir waren hier in dem kleinen Ort längst als Gäste der »Schwankenden Weltkugel« bekannt, und nur das konnte der Grund sein, weshalb man sich so ablehnend verhielt. Unsere Wanderung erregte inzwischen einiges Aufsehen, man folgte uns, wenn wir weitergingen, stand um uns herum, wenn wir haltmachten.
+    </p>
+    <p xml:id="eco_de_0000134_370">
+     Was nun? Vielleicht eine Privatwohnung? Um den neugierigen Blicken zu entgehen, ließen wir unsere Träger an einer Ecke warten und bogen in die Seitenstraßen ein. Hier nun sahen wir fast über jeder Tür eine viereckige Papptafel mit der Inschrift: Hay viruelas! Was viruelas bedeutete, wußten wir nicht, nahmen aber an, es handle sich um Zimmer, die hier zu vermieten wären, und drangen mutig in das nächste Gebäude ein. Eine dicke Frau erschien und bedeutete uns mit geradezu entsetzten Gebärden, es sofort wieder zu verlassen. Nun wurde es uns aber doch zu dumm. Wir schrien wütend: camera, chambre, Zimmer – sie schrie: viruelas und tupfte sich dabei auf Gesicht und Hände, als ob sie nicht recht bei Verstand sei. Gut, also viruelas – sie sollte uns nur ihre viruelas zeigen, vielleicht waren es doch Zimmer, und wir wollten mit allem vorliebnehmen. – Mit einer resignierten Gebärde stieß sie schließlich eine Tür auf und wies auf einen Kranken, der im Bett lag. Doktor Gräber und die Schwester traten näher und wurden plötzlich sehr still. »Gott im Himmel«, sagte Gräber, »der Mann hat die Blattern. Viruelas heißt natürlich Blattern, und die Plakate sind zur Warnung aufgehängt. Rasch hinaus, meine Herrschaften.«
+    </p>
+    <p xml:id="eco_de_0000134_380">
+     Wir verließen das Haus nun ohne weiteres Wider streben und standen im wahren Sinne des Wortes obdachlos auf der Straße. Da man uns auch hier gefolgt war und den Vorgang beobachtet hatte, würden wir in der ganzen Stadt kein Quartier mehr finden. Es blieb nichts übrig, als immer noch gefolgt von den beiden Packträgern und einer nicht unbeträchtlichen Menschenmenge in das Logierhaus »Zur schwankenden Weltkugel« zurückzukehren und dem dicken Mynheer zu erklären, wir hätten uns die Sache inzwischen anders überlegt. Er empfing uns mit schlecht verhehlter Schadenfreude und meinte, die Mauern würden sich wohl noch eine Zeitlang halten. Es war nur ein Glück, daß er von unserem Irrtum mit den viruelas nichts wußte.
+    </p>
+    <p xml:id="eco_de_0000134_390">
+     Unser Doktor stürzte noch am gleichen Tage zu einem der einheimischen Kollegen und bestand darauf, daß wir uns alle impfen ließen. Nur die Schwester wollte nichts davon wissen und sagte, ihr Leben stände in Gottes Hand. Daß sie wieder im Logierhaus wohnen sollte, beunruhigte sie weit mehr. Sie trug auf unseren Rat von jetzt an Zivil und der junge Kaufmann versprach ihr, in Afrika nichts davon zu erzählen. Und auf das Trapezmädel hatte man ein wachsames Auge, damit es sich nicht wieder auf die Hintertreppe verirrte.
+    </p>
+    <p xml:id="eco_de_0000134_400">
+     Außerdem gedachten wir sobald als möglich das gastliche Eiland zu verlassen und einen anderen Ort aufzusuchen. Nur die Wahl dieses Ortes war noch die Frage.
+    </p>
+    <p xml:id="eco_de_0000134_410">
+     Mit Karten und Reisebüchern saßen wir am nächsten Nachmittag im Garten unter den Palmen, als Monsieur Mouton, der alte Franzose, mit seinem Ameisenbär herunterkam, sich in unserer Nähe niederließ und anstatt seinen »Matin« zu lesen, ein Gespräch anknüpfte. Ah, wir wollen also fort? – und weshalb denn, wenn man fragen durfte? – »eh bien, nous verrons, Sie sind nicht die Ersten, die wieder fortwollten – – aber man kann nicht, man kommt nicht wieder weg.«
+    </p>
+    <p xml:id="eco_de_0000134_420">
+     »Aber warum denn nicht, – wir würden einfach abreisen und basta. Kein Mensch konnte uns daran hindern.«
+    </p>
+    <p xml:id="eco_de_0000134_430">
+     »Nein, Menschen gewiß nicht, aber –« Mouton senkte die Stimme und fuhr in geheimnisvollem Ton fort: »nach seinem Dafürhalten gehe es hier nicht mit rechten Dingen zu. Dieser Hieronymus sei kein Mensch wie wir anderen, sondern ein Gespenst, ein Revenant. Er sähe aus wie ein Gespenst, schnitte sich den Bart wie ein Gespenst – denn welcher Mensch aus Fleisch und Blut käme wohl auf den Gedanken, einen fächerförmigen Bart zu tragen?«
+    </p>
+    <p xml:id="eco_de_0000134_440">
+     Und seine Art, sich an die Leute heranzumachen, beständig zu organisieren, wo eigentlich gar nichts zu organisieren war, kurz seine ganze Handlungsweise sei durchaus gespenstisch… Er tue nichts Schlimmes, Gott bewahre, er glaubte eher die anderen zu beglücken, aber es komme immer ein Unheil dabei heraus. Jetzt zum Beispiel mache er eine umständliche Reise nach dem Festland hinüber, um ein Krokodil zu kaufen.
+    </p>
+    <p xml:id="eco_de_0000134_450">
+     Ein Krokodil? Wir dachten eine stellenlose Gesellschaftsdame… Nein, ein Krokodil – Mr. Mouton wußte es ganz bestimmt – »aber Gott weiß, was für Spuk er damit treiben wird« – der alte Herr warf einen bekümmerten Blick auf den Ameisenbär, der sich teilnahmslos an einer Palme scheuerte. »Oui, Oui, Oui, m'ssieurs, mesdames, c'est un revenant.«
+    </p>
+    <p xml:id="eco_de_0000134_460">
+     Wir mußten zugeben, daß wir auch schon Ähnliches empfunden hatten, ohne uns darüber klar zu sein, aber wir glaubten nicht an Revenants, und wir würden abreisen, ehe er mit dem Krokodil – oder der Gesellschaftsdame – zurückkam.
+    </p>
+    <p xml:id="eco_de_0000134_470">
+     Mouton lächelte skeptisch. In diesem Augenblick kam der dicke Holländer in den Garten, in Begleitung eines Herrn. Er warf uns einen mißtrauischen Blick zu, dann gingen beide um das Haus herum, beklopften die Mauer und sprachen eifrig miteinander. »Das ist der Ingenieur«, sagte Mouton, »ah, diese Schurken!«
+    </p>
+    <p xml:id="eco_de_0000134_480">
+     Und auf unser Befragen – denn wir interessierten uns allmählich lebhaft dafür – erklärte er uns, das Haus sinke, weil der Boden zu locker sei. Unter der lockeren Schicht aber war Felsen; wenn nun die Mauer soweit sank, daß sie auf den Felsen stieß, mußte sie einknicken und in sich zusammenfallen. – »Ah, diese Schurken!« Der Anblick der beiden Herren regte ihn sichtlich auf, er wurde immer mitteilsamer und erzählte uns seine ganze Leidensgeschichte. Er war hergekommen – wie wir – von Hieronymus empfangen, überwältigt und in das Logierhaus eingeführt worden – wie wir. Er wurde, ehe er sich's versah, Mitglied des Korrespondenzvereins und für den Flammenbund angeworben – wie wir – hier seufzte er schwer, bemerkte, er sei eben ein einsamer alter Mann und schien etwas zu verschweigen. – Ja und dann hatte er dem dicken Mynheer eine große Summe geliehen, angeblich um die »Schwankende Weltkugel« im Gleichgewicht zu erhalten. Aber sowohl die baulichen Maßnahmen, wie die Rückzahlung seines Kapitals wurden immer wieder hinausgeschoben – so war er hiergeblieben und zahlte keine Pension mehr, um wenigstens etwas auf seine Kosten zu kommen.
+    </p>
+    <p xml:id="eco_de_0000134_490">
+     Ebenso oder ähnlich war es der Amerikanerin ergangen – daraus leitete sie auch das Recht her, auf der Treppe zu sitzen und den Betrieb zu stören, wenn es ihr gerade einfiel. Ja, Mynheer wisse es schon so einzurichten, daß seine Gäste blieben, – bis ihnen einmal das Dach über dem Kopf einstürzen würde. – Und wieder kam er darauf zurück, es gehe hier nicht mit rechten Dingen zu, man würde verhext und täte Dinge, die einem sonst nicht in den Sinn kommen würden.
+    </p>
+    <p xml:id="eco_de_0000134_500">
+     Es gewann den Anschein, als sollte er recht behalten, denn Schwester Hildegard erkrankte an den Blattern, und es lag auf der Hand, daß wir sie nicht alleine hier zurücklassen konnten. Das ominöse Plakat hing nun auch über unsrer Tür. Mynheer grollte fürchterlich, daß wir sein Haus erst verlassen und dann verseucht hätten. Wir wurden gemieden und miserabel bedient, man brüllte uns alle möglichen Vorwürfe und Beleidigungen durch das Haustelephon zu, und wir suchten sie auf dem gleichen Wege zu entkräften oder zu widerlegen. Wurde das für beide Teile zu ermüdend, so machte sich auch wohl der Widerpart im Garten bemerkbar – wir erschienen am Fenster, und man setzte das anregende Gespräch mit erhobener Stimme und feindseligen Gesten fort.
+    </p>
+    <p xml:id="eco_de_0000134_510">
+     Inzwischen kehrte Hieronymus zurück und brachte sowohl das Krokodil wie die stellenlose Gesellschaftsdame und einige Wüstenspringmäuse mit. Monsieur Mouton teilte uns entrüstet durchs Telephon mit, es habe gleich nach seinem Ameisenbär geschnappt, aber dennoch sei es sympathischer wie die Dame. Sie wohnte vorläufig noch im Hotel, und man richtete das Gartenhäuschen für sie ein, da sie der Ansteckung wegen das Haus nicht betreten wollte.
+    </p>
+    <p xml:id="eco_de_0000134_520">
+     Wir lagen den ganzen Tag im Fenster, es war wie ein Guckkasten für uns, immer wieder gab es etwas Neues zu sehen. Wir sahen, wie Mouton sich mit dem Hauswirt zankte oder mit seinem Ameisenbären promenierte, sahen, wie Hieronymus Edelmann mit fieberhaftem Eifer seine Menagerie und die Unterkunft der stellenlosen Dame organisierte. Für das Krokodil ließ er eine Extrabehausung mit Schwimmbassin bauen, bis die fertig war, wohnte es in einer großen Kiste. Man hatte ihm ein Halsband angelegt, und ein paarmal am Tage führte er es auf den Kieswegen spazieren, entweder, weil er dachte, daß etwas Bewegung an der frischen Luft ihm zuträglich sei oder nur um Mouton zu ärgern, der für seinen Ameisenbären zitterte und ihn jetzt ebenfalls an die Leine gelegt hatte, um ihn zu schützen. Zum Zeitunglesen kam er vor lauter Aufregung überhaupt nicht mehr. Wir sahen, wie er sein gerüsseltes Ungeheuer ängstlich an sich zog, während Hieronymus mit dem seinen herrisch den Weg hinabkam und durch das Monokel jede seiner Bewegungen kontrollierte, denn es schnappte manchmal nach seinen Beinen.
+    </p>
+    <p xml:id="eco_de_0000134_530">
+     Auch die Amerikanerin kam öfters herunter und fand das Krokodil lovely, während sie dem Ameisenbären keinerlei Beachtung schenkte. Sie und Mouton waren geschworene Feinde, wahrscheinlich weil sie sich gegenseitig durch ihre Räusche und ihr spätes Nachhausekommen störten. Und aus dem verdächtigen Flügel links oben schauten des öfteren neugierige Gesichter herab.
+    </p>
+    <p xml:id="eco_de_0000134_540">
+     Wir sahen auch, wie die Wüstenspringmäuse in einem großen Käfig angeschleppt wurden und Hieronymus sich bemühte, sie zu einem harmonischen Zusammenleben mit seinen Meerschweinchen zu veranlassen. Das schlug vollständig fehl, die Springmäuse hüpften in tollen Sätzen zwischen den zu Tode erschrockenen Meerschweinen herum, und man mußte sie wieder trennen, was ebenfalls keine leichte Aufgabe war. Hieronymus aber holte einen Band Brehm aus dem Giebel, ließ sich damit auf einer Gartenbank nieder und rief mit Stentorstimme zu uns hinüber: die Wüstenspringmaus lasse sich mit leichter Mühe zähmen und sei dann ein possierliches Haustier. Er wolle den Versuch machen, ob wir nicht meinten, daß die Gesellschaftsdame Spaß daran haben würde?
+    </p>
+    <p xml:id="eco_de_0000134_550">
+     »Wohl möglich«, schrien wir zurück, »wir haben noch nicht das Vergnügen, die Dame zu kennen.«
+    </p>
+    <p xml:id="eco_de_0000134_560">
+     »Und Schwester Hildegard, – wie es ihr ginge? – vielleicht würde es sie amüsieren…«
+    </p>
+    <p xml:id="eco_de_0000134_570">
+     »Nein«, brüllten wir förmlich, sie sei zwar in der Besserung, aber Springmäuse seien noch zu anstrengend für sie.
+    </p>
+    <p xml:id="eco_de_0000134_580">
+     Das kränkte ihn, und nun fiel ihm ein, daß er noch einiges gegen uns auf dem Herzen habe.
+    </p>
+    <p xml:id="eco_de_0000134_590">
+     Es war während seiner Abwesenheit eine wahre Hochflut von Briefen an uns eingelaufen, nicht etwa von unseren Freunden und Verwandten, sondern von wildfremden Menschen. Unseren sämtlichen Vereinsbrüdern stand ja das Recht zu, uns ungestraft mit Schriftstücken zu bombardieren, und sie machten ausgiebigen Gebrauch davon. Schelmische Wandervögel fragten an, ob sie bei nächster Gelegenheit ihren Flug hierher richten dürften und man bereit sei, sie zu beherbergen und zu atzen – eine Dame klagte dem Loreley, der ein ausgesprochener Weiberfeind war, daß sie sich einsam fühle – ein Handlungsreisender erkundigte sich bei der Schwester nach guten Hotels und erwähnte dabei, er sei in den besten Jahren und sehr lebenslustig – eine Gesellschaft für Nacktkultur wünschte ein Terrain zu mieten, wo man Hütten bauen und sich unter südlichem Himmel in schönen Bewegungen üben könne – noch andere wollten alles mögliche und unterrichteten uns aufs genaueste über ihre Lebensverhältnisse, Neigungen und Gefühle, in der sicheren Zuversicht, ein Echo zu wecken. – Einen vollen Tag hatten wir alle dagesessen und zum Teil recht grobe Antworten geschrieben, um die Leute in ihre Schranken zurückzuweisen.
+    </p>
+    <p xml:id="eco_de_0000134_600">
+     Jetzt aber stand Hieronymus Edelmann in seiner ganzen Länge da und richtete zornig sein Monokel gegen uns:
+    </p>
+    <p xml:id="eco_de_0000134_610">
+     Was uns denn eingefallen sei, den Verein so vor den Kopf zu stoßen? Man habe sich bereits bitter bei ihm beschwert. Und im nächsten Monat würden verschiedene Mitglieder hierherkommen, wunderbare Dinge würden sich dann ergeben – die stellenlose Gesellschaftsdame habe sich schon bereit erklärt, dem Flammenbund als – nun, als Präsidentin – vorzustehen. Er fand in der Eile wohl kein anderes Wort.
+    </p>
+    <p xml:id="eco_de_0000134_620">
+     Aber wir waren ebenfalls gereizt, wir sahen in Gedanken schon die Insel von Wandervögeln, nackten Menschen und Handlungsreisenden überflutet, und das gab uns Mut. Der Loreley erhob seine Stimme und wurde ganz pathetisch:
+    </p>
+    <p xml:id="eco_de_0000134_630">
+     »Nein – wir wollen nicht mehr – wir brauchen keine Springmäuse und keine Vereinsbrüder – wir wollen keinen Flammenbund – wir haben genug an den Blattern« – seine Stimme überschlug sich. Hieronymus aber blieb wie angewurzelt stehen, mit seinem Brehm unter dem Arm, das Monokel hing schlaff herab, und er sah sprachlos zu uns herüber. Dann ging er in das Haus.
+    </p>
+    <p xml:id="eco_de_0000134_640">
+     Monsieur Mouton, der dieser Szene beigewohnt hatte, war außer sich vor Vergnügen und beteuerte wiederum, Hieronymus sei ein Revenant. Auch wir begannen uns dieser Ansicht immer mehr zuzuneigen. Sein ganzes Tun und Treiben mit dem Krokodil und den Springtieren trug tatsächlich ein gespenstisches Gepräge, und er hatte eine Art, Tatsachen und Wirklichkeiten zu ignorieren, die uns immer wieder in Erstaunen setzte.
+    </p>
+    <p xml:id="eco_de_0000134_650">
+     So hatte er am nächsten Tage anscheinend alles vergessen, tat, als ob überhaupt nichts weiter vorgefallen sei und zähmte die Wüstenmäuse.
+    </p>
+    <p xml:id="eco_de_0000134_660">
+     Schwester Hildegard war bald wiederhergestellt, und wir wollten mit dem nächsten Schiff fort, aber Mynheer hetzte uns die Gesundheitspolizei auf den Hals, und man verhängte eine vierwöchige Quarantäne über uns, ehe wir abreisen durften. Zudem steigerte er uns den Pensionspreis ins Ungeheuerliche unter dem Vorwand, wir hätten ihm die Blattern ins Haus geschleppt und die Kundschaft verscheucht. Da wir nicht darauf eingingen, verklagte er uns. Wir erhoben Gegenklage unter Hinweis auf die sinkende Mauer und den linken Flügel und behaupteten, die »Schwankende Weltkugel« sei in baulicher wie in sittlicher Beziehung ein gefährlicher Aufenthalt. Nur die Erkrankung der Schwester habe uns gezwungen zu bleiben, so daß dem Hauswirt aus der Blatternaffäre noch materielle Vorteile erwachsen wären. Dagegen trat nun wieder Hieronymus auf, der inzwischen vergessen hatte, daß er eigentlich in freundschaftlichen Beziehungen zu uns stand, und gab an, daß er längst das Europäerviertel für seine Flammenbündler habe mieten wollen, während Mouton die Gelegenheit ergriff, um seine Forderung an den Hauswirt geltend zu machen. Er wollte durchaus den Beweis antreten, daß dieser ein Schurke und Hieronymus Edelmann ein Gespenst sei. Auf letzteren Umstand legte der Untersuchungsrichter kein besonderes Gewicht. Im Gegenteil, man begann zu zweifeln, ob Monsieur Mouton bei normalem Verstand sei, und das machte die Gegenpartei sich natürlich zunutze.
+    </p>
+    <p xml:id="eco_de_0000134_670">
+     So tobte der Kampf hin und her, und es bestand keine Aussicht, daß der Prozeß jemals ein Ende nehmen würde. Mittlerweile war auch die stellenlose Gesellschaftsdame in das Gartenhäuschen übergesiedelt. Kopf an Kopf standen wir am Fenster, als sie ihren Einzug hielt. Wir sahen, wie Hieronymus ihr das Krokodil und die Springmäuse, die inzwischen wirklich gelernt hatten, aus der Hand zu fressen, vorstellte. Übrigens mußten wir wieder einmal Monsieur Mouton recht geben – so wenig Charme das Krokodil auch hatte, es war ihr immerhin noch vorzuziehen. Wir sahen, daß sie nicht einen Augenblick zusammenzuckte, sondern vertrauensvoll zu Hieronymus aufblickte, und wir begriffen, daß sein Gespensterinstinkt ihn diesmal nicht getäuscht hatte. Diese Dame war sicherlich geeignet, an seiner Seite und von unheimlichem Getier umgeben als Präsidentin des Flammenbundes zu walten.
+    </p>
+    <p xml:id="eco_de_0000134_680">
+     Nachdem sie sich in ihre Gemächer zurückgezogen, kam er mit strahlendem Monokel unter das Fenster – er hatte wieder vergessen, daß er jetzt im Prozeß unser erbitterter Gegner war – und verkündete, daß seine Pläne sich nunmehr aufs herrlichste entwickelten. Mit dem nächsten Schiff käme eine Reihe von Mitgliedern, und er hoffte, dann würden auch wir anders denken lernen und uns der Sache anschließen.
+    </p>
+    <p xml:id="eco_de_0000134_690">
+     Uns war schlimm zumut.
+    </p>
+    <p xml:id="eco_de_0000134_700">
+     Tags darauf kam er vom Hafen zurück und brachte einen dicken fröhlichen Kapitän mit. Es war das keine Seltenheit, denn wenn Hieronymus keine geeigneten Passagiere fand, überreichte er auch dem Kapitän seine Visitenkarte und versuchte, ihn mindestens für einen Abend in das Logierhaus zu bringen. Dieser hier fuhr mit einem kleinen Handelsdampfer und war entzückt über den gastlichen Empfang, der ihm zuteil wurde. Wir aber waren nicht minder froh, einmal wieder ein unbeteiligtes Gesicht zu sehen, und so kam es, daß der schlichte Seemann fast über Gebühr gefeiert wurde und die ganze Gesellschaft auf Morgen zu einem Schiffsfrühstück einlud. Punkt zwölf Uhr, denn um zwei sollte in See gestochen werden.
+    </p>
+    <p xml:id="eco_de_0000134_710">
+     Hieronymus ließ es sich angelegen sein, den Gast zu erfreuen, zog, kaum daß die Mahlzeit beendet war, die Statuten seines Vereins aus der Tasche, erläuterte seine organisatorischen Bestrebungen und suchte ihn dann ohne weiteres für den Flammenbund zu heuern.
+    </p>
+    <p xml:id="eco_de_0000134_720">
+     Es war nicht ganz klar, ob der biedere Kapitän das alles richtig erfaßte, denn er wollte sich halb tot lachen und sagte immer wieder: »Ja, das wäre sehr hübsch, aber morgen kommen Sie erst mal zu mir, und dann wollen wir frühstücken.« Eine Welt von Alkohol lag in diesem einen Wort. Ein wenig verstimmt brachte Hieronymus nun das Gespräch auf exotische Tiere und erzählte, daß sein Krokodil seit ein paar Tagen nicht fressen wolle. Es müsse krank sein, und er wollte es ihm durchaus noch bei Nacht und Nebel zeigen, um seinen Rat einzuholen, in der festen Meinung, daß jeder weitgereiste Kapitän auch Sachverständiger in Krokodilangelegenheiten sein müsse. Dieser jedoch – er hieß Petersen – sagte, er selbst verstände nichts davon, aber sein Steuermann, und Hieronymus solle das Tier nur morgen mitbringen. Worauf er wiederholte: »und dann wollen wir frühstücken« und sich etwas benommen verabschiedete.
+    </p>
+    <p xml:id="eco_de_0000134_730">
+     Wir anderen erwogen noch spät in der Nacht einen verzweifelten Plan. Kapitän Petersen war uns von Gott gesandt, – er wußte nichts von unserer Quarantäne, er wußte überhaupt von nichts, und morgen, wenn man gefrühstückt hatte…
+    </p>
+    <p xml:id="eco_de_0000134_740">
+     Und ungesäumt ging man zu Werk, während das ganze Logierhaus »Zur schwankenden Weltkugel« in tiefstem Schlummer lag. Wir packten unsere Koffer, schleppten sie selbst an den Hafen hinunter und gewannen einen Bootsmann, der sie auf ein verabredetes Zeichen im letzten Moment an Bord bringen sollte. Als wir gerade die letzten Sachen aus dem Hause trugen, kehrte Monsieur Mouton von seinem nächtlichen Bummel zurück und war sehr erstaunt über unsere Betätigung. Man weihte ihn ein, er wünschte uns alles Gute, war aber überzeugt, daß es uns nicht gelingen würde. Wir überredeten ihn, an dem Frühstück teilzunehmen, und er fuhr denn auch zur festgesetzten Stunde mit uns herüber. Den Ameisenbär wagte er bei der feindseligen Stimmung im Logierhaus nicht allein zu lassen und nahm ihn deshalb mit. Kapitän Petersen war ein wenig verwundert, da er Hieronymus Edelmann mit einem Krokodil erwartet hatte. Dieser aber verspätete sich, was bei ihm häufig vorkam. Er hatte absolut kein Gefühl für Zeit und konnte ebensogut übermorgen kommen und mit staunendem Monokel nach dem entschwundenen Schiff suchen.
+    </p>
+    <p xml:id="eco_de_0000134_750">
+     Das Frühstück begann und dauerte fort. Es war eines jener Frühstücke, die nie ein Ende nehmen, die ebensogut bis zum Jüngsten Tage dauern könnten. Es gab allerlei Delikatessen und vor allem unabsehbare Getränke.
+    </p>
+    <p xml:id="eco_de_0000134_760">
+     Es wurde eins, es wurde halb zwei, die Schiffsglocke läutete das erste Abfahrtszeichen. – Wir frühstückten, und Hieronymus kam immer noch nicht.
+    </p>
+    <p xml:id="eco_de_0000134_770">
+     Schwester Hildegard, die noch angegriffen war und keinen Sinn für Gelage hatte, saß in einem Klappstuhl an Deck und hatte Auftrag, den Bootsmann mit unseren Sachen rechtzeitig herbeizuwinken. Von Zeit zu Zeit ging einer von der Gesellschaft hinauf, um ihr zuzusprechen. Denn sie rang mit ihrem Gewissen, ob es auch recht sei, was wir vorhatten. Der Kapitän schwärmte für sie und brachte ihr alle möglichen Leckerbissen – er schwärmte für uns alle und wurde immer aufgeräumter. Punkt dreiviertel zwei, als die Glocke zum zweitenmal läutete, eröffneten wir ihm, daß wir mitfahren wollten. Er hielt es für einen Scherz und ging nicht weiter darauf ein. Das Trapezmädel war inzwischen an Bord gewesen und flüsterte uns zu, das Gepäck sei schon da, und soeben nahe Hieronymus Edelmann mit seiner Präsidentin und dem Krokodil in einer Barke. Gleich darauf meldete ein Matrose seine Ankunft, – die Dame war im Boot geblieben. Der Kapitän ging hinauf, um ihn zu begrüßen, wir folgten. Hieronymus war ungemein aufgeregt – vor einer halben Stunde erst hatte man unseren abermaligen Fluchtversuch entdeckt, und Mynheer hatte ihn hinter uns hergeschickt. Man zerbrach sich den Kopf, wohin wir uns gewandt haben möchten, und darüber war ihm das Frühstück wieder eingefallen. Tot oder lebendig sollte er uns wieder zur Stelle schaffen, und nun schleuderte er uns die furchtbarsten Beschuldigungen entgegen, sprach von den Blattern, dem Prozeß und dem Flammenbund… und zerrte dabei das unglückliche Krokodil an der Kette hin und her.
+    </p>
+    <p xml:id="eco_de_0000134_780">
+     Wir leugneten einmütig – nein, wir wußten von keinem Prozeß und von keinen Blattern. Die Matrosen amüsierten sich königlich, denn inzwischen war auch Monsieur Mouton vorgetreten, und es war ein eigenartiger Anblick, wie die beiden sich mit ihren Haustieren gegenüberstanden und aufeinander einschrien.
+    </p>
+    <p xml:id="eco_de_0000134_790">
+     Der Kapitän aber wurde sehr ernst. Es war Vorschrift, daß jeder Passagier ein Gesundheitsattest vorweisen mußte, er sah auch jetzt, daß es uns Ernst war mitzufahren, und falls er Hieronymus Glauben schenkte, mußte er uns für eine Art verseuchter Verbrecherbande halten.
+    </p>
+    <p xml:id="eco_de_0000134_800">
+     Die Schwester saß immer noch in ihrem Klappstuhl und rang die Hände. Aber beim Anblick des rasenden Hieronymus und seiner Präsidentin zerrannen ihre Skrupel. Nein, sie wollte nicht in dieses Haus des Lasters zurückkehren. Sie rang die Hände und flehte Gott um ein Wunder an.
+    </p>
+    <p xml:id="eco_de_0000134_810">
+     In diesem Augenblick der höchsten Spannung vergaß sich das Krokodil und schnappte in auffallender Weise nach dem Ameisenbär, der friedlich neben seinem Herrn stand. Darüber wurde Monsieur Mouton so zornig, daß er ihm einen fürchterlichen Fußtritt gab. Hieronymus fuhr dabei die Kette aus der Hand, und das Krokodil sauste mit einem langen Satz über Bord.
+    </p>
+    <p xml:id="eco_de_0000134_820">
+     Und nun geschah etwas Unbegreifliches, was man sich weder im Augenblick noch später zu erklären wußte. Hieronymus sprang ihm nach – eine Viertelstunde lang starrte er völlig abwesend und entgeistert durch sein Monokel das entschwindende Ungetüm an und sprang dann ohne weitere Überlegung ebenfalls über Bord in das Meer, das gerade an diesem Tage stark bewegt war.
+    </p>
+    <p xml:id="eco_de_0000134_830">
+     Alles stand wie angewurzelt, nur drunten im Boot stieß die Präsidentin des Flammenbundes einen gellenden Schrei aus.
+    </p>
+    <p xml:id="eco_de_0000134_840">
+     Zum drittenmal ertönte die Schiffsglocke. Von allen Seiten eilten Barken herbei, aber weder Hieronymus noch das Krokodil kamen wieder zum Vorschein.
+    </p>
+    <p xml:id="eco_de_0000134_850">
+     Der Dampfer setzte sich in Bewegung, der Kapitän gab keinen Gegenbefehl, es wurde überhaupt kein Wort mehr geredet. Wir waren an Bord – unser Gepäck war an Bord – man fuhr ab – wir fuhren mit, auch für Mouton und seinen Ameisenbären gab es kein Zurück mehr. Mochte das Logierhaus in den Boden versinken und die ganze Insel vom Meer verschlungen werden, wie Hieronymus und sein Krokodil – wir kehrten nicht mehr zurück.
+    </p>
+    <p xml:id="eco_de_0000134_860">
+     Erst weit draußen, als der Hafen längst hinter uns lag, fand man allmählich die Sprache wieder.
+    </p>
+    <p xml:id="eco_de_0000134_870">
+     Schwester Hildegard wollte wieder von ihren religiösen Bedenken anfangen und fühlte sich schuldig, weil sie um ein Wunder gebetet hatte, das uns retten möchte. Monsieur Mouton aber brachte sie zum Schweigen, indem er sagte: Nein, hiermit habe der liebe Gott nichts zu tun, und wenn überhaupt von einem Wunder die Rede sein könne, so sei es, daß dieser Hieronymus jemals existiert habe, nicht aber sein jäher und spukhafter Untergang. Er selbst, Mouton, der doch durch seinen Fußtritt den Anstoß zur Katastrophe gegeben, spreche sich gleichfalls von jeder Schuld frei, denn Hieronymus – c'etait un revenant, m'ssieurs et mesdames.
+    </p>
+    <p xml:id="eco_de_0000134_880">
+     Wir übrigen neigten stumm das Haupt.
+    </p>
+    <p xml:id="eco_de_0000134_890">
+     Kapitän Petersen aber stand nachdenklich und breitbeinig da – jeder Zoll ein Seemann. Er verstand unsere Gespräche nicht, er verstand überhaupt nichts mehr und sagte schließlich kopfschüttelnd: »In die Kajüte, meine Herrschaften. Ich denke, auf den Schrecken ist es am besten, wenn wir erst mal weiter frühstücken.«
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>
