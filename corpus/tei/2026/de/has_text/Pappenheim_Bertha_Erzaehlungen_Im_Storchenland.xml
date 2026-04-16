@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000098" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000170" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000098_20">
+   <p xml:id="eco_de_0000170_20">
     Im Storchenland
    </p>
   </front>
@@ -94,82 +94,82 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000098_30">
+    <p xml:id="eco_de_0000170_30">
      In einer kleinen Stadt lebte ein Mädchen Namens Kamilla, die war mit einem jungen Manne verlobt. Das heißt, sie war seine Braut und er war ihr Bräutigam und nach einer bestimmten Zeit sollten sie Mann und Frau werden.
     </p>
-    <p xml:id="eco_de_000098_40">
+    <p xml:id="eco_de_0000170_40">
      Eines Tages, als sie beisammen saßen und Kamilla eifrig an ihrer Aussteuer nähte, sprachen sie von der Zukunft, da stellte es sich heraus, daß der junge Mann noch lange nicht das Vermögen besaß, das dazu gehört, um einen Hausstand zu gründen. Er machte deshalb seiner Braut den Vorschlag, daß er in die Fremde gehen wollte, um dort möglichst rasch ein reicher Mann zu werden. Kamilla, die einsah, daß er Recht habe, erklärte sich mit dem Plan einverstanden und der junge Mann reiste ab. Wochen und Monate vergingen, ohne daß Kamilla etwas von ihrem Bräutigam hörte. Die Aussteuer war längst fertig genäht, und er kam immer noch nicht wieder.
     </p>
-    <p xml:id="eco_de_000098_50">
+    <p xml:id="eco_de_0000170_50">
      Als Jahre vergangen waren, war Kamilla recht betrübt geworden, denn nicht nur mußte sie annehmen, daß ihrem Bräutigam, den sie von Herzen lieb gehabt, ein Leids geschehen war, sondern sie mußte auch auf die Erfüllung ihres sehnlichsten Wunsches, Kinder zu haben, verzichten. So oft sie die Störche übers Haus fliegen sah, mußte sie seufzen, denn diese klugen Vögel bringen die Kinder nur gerne in ein Haus, wo eine Mutter und ein Vater gleich bereit sind, die Sorge für die Kleinen zu übernehmen.
     </p>
-    <p xml:id="eco_de_000098_60">
+    <p xml:id="eco_de_0000170_60">
      In der Nachbarschaft Kamilla's wohnten ein paar ungezogene Buben, die für die traurigen Erfahrungen in deren Leben kein Verständnis hatten, und so oft sich Kamilla am Fenster und auf der Straße zeigte, stimmten sie Spottlieder auf die »alte Jungfer« an. Das kränkte Kamilla, doch verbitterte sie nicht, weil sie ein gutes Herz besaß, wohl aber faßte sie den Entschluß, ihre jetzige Wohnung und deren unartige Nachbarschaft zu verlassen und in ein anderes Stadtviertel zu übersiedeln. Als sie in die Häuser ging, wo ein am Thore hängender Zettel ihr verriet, daß in demselben ein paar Zimmer zu vermieten seien, da machte sie es ganz anders, als die meisten Leute pflegen. Sie fragte den Hausherrn nicht mürrisch, ob in dem Hause nur sicher keine Kinder wohnten, sondern sie suchte im Gegenteil eine Wohnung, in deren Nähe eine kinderreiche Familie lebte. Eine solche Wohnung hatte sie bald gefunden und da sie auch sonst ihren Anforderungen genügte, dauerte es nicht lang, bis sie sich recht behaglich eingerichtet hatte und sehr wohl fühlte.
     </p>
-    <p xml:id="eco_de_000098_70">
+    <p xml:id="eco_de_0000170_70">
      Dazu trug nicht zum wenigsten bei, daß sie mit der kleinen Gesellschaft, die immer im Hofe und auf dem Korridor ihr Wesen trieb, bald die engste Freundschaft geschlossen hatte. Tante Kamilla, so ward sie von dem lustigen Völkchen genannt, wurde bald eine Hauptperson im Hause. Sie konnte den Großen bei den Schularbeiten helfen, wußte mit den Mittlern zu spielen und die ganz Kleinen so gut zu wickeln, zu baden und zu futtern, daß es der armen Schneidersfrau, der die ganze Herde Sprößlinge gehörte, erschien als habe ein guter Engel sein Quartier bei ihr aufgeschlagen.
     </p>
-    <p xml:id="eco_de_000098_80">
+    <p xml:id="eco_de_0000170_80">
      Aber nicht nur die Menschen bemerkten Kamilla's liebreichen und wohltuenden Einfluß auf die Kinder, auch der Storch, der alljährlich wiederkam und der Frau Schneidermeisterin ein Kleines brachte, hatte bald beobachtet, wie gut und treu »Tante Kamilla« es mit den hilflosen Geschöpfchen meinte. Als die Störche eines Tages scharenweise, jeder seiner schreienden Last entledigt, über die Kirchtürme der Stadt wegflogen, da erzählte der eine mit großer Genugtuung, wie gut die kleinen Kinder, die er brachte, in dem Hause, das er von hoch oben mit der Spitze seines Schnabels bezeichnete, gepflegt würden. Mit beredten Worten schilderte er die Liebe und Geschicklichkeit von Tante Kamilla und konnte des Rühmens kein Ende finden. Andächtig hörten ihm die Storchenbrüder zu und nachdenklich zogen sie ein Bein in die Höhe, denn nicht alle konnten sich rühmen, ihre Kleinen in so verläßlichen Händen zu wissen. Als sie noch so in großen Rudeln, teils auf dem Rathausturm, teils auf den Kirchtürmen beisammen waren, da kam plötzlich von Süden her ein großer schwarzer Storch geflogen. An der feierlichen Art, wie er seine Flügel bewegte, konnten die weißen Störche gleich erkennen, daß er eine wichtige Botschaft bringe. Wie auf ein verabredetes Zeichen erhoben sich alle in die Luft, flogen dem schwarzen Bruder entgegen und umkreisten ihn mit wahrhaft betäubendem Geklapper. Doch der schwarze Storch war so ermüdet von dem weiten, weiten Flug, den er zurückgelegt, daß er matt auf die Spitze des Doms hinsank und lange auf die Fragen, die in wildem Durcheinander an ihn gerichtet wurden, keine Antwort geben konnte. Der Ärmste, er kam so weit her, aus dem Storchenland.
     </p>
-    <p xml:id="eco_de_000098_90">
+    <p xml:id="eco_de_0000170_90">
      Endlich konnte er sprechen:
     </p>
-    <p xml:id="eco_de_000098_100">
+    <p xml:id="eco_de_0000170_100">
      »Brüder, ich habe euch eine sehr traurige Nachricht zu bringen.«
     </p>
-    <p xml:id="eco_de_000098_110">
+    <p xml:id="eco_de_0000170_110">
      »Welche? Was? Sprich! Erzähl'!« Klapperte es von allen benachbarten Dächern.
     </p>
-    <p xml:id="eco_de_000098_120">
+    <p xml:id="eco_de_0000170_120">
      »Unsere gute alte Storchenmutter ist gestorben.«
     </p>
-    <p xml:id="eco_de_000098_130">
+    <p xml:id="eco_de_0000170_130">
      »Entsetzlich! Wann? Wieso? O Schmerz!«, so und ähnlich waren die Ausrufe, die den erschreckten Vögeln entfuhren, und es entstand dadurch ein solcher Spektakel, daß der neue Ankömmling eine Weile warten mußte, ehe er weiter erzählen konnte.
     </p>
-    <p xml:id="eco_de_000098_140">
+    <p xml:id="eco_de_0000170_140">
      »Was eigentlich den Tod der guten Alten herbeigeführt hat, weiß ich nicht, aber sie ist tot und das ärgste dabei ist, daß nun im Storchenland eine grauenhafte Unordnung hereingebrochen ist. Die Kinder schreien Tag und Nacht und es ist niemand da, der das Oberkommando und die Pflege verstünde. Die Storchenbrüder, die doch nichts anderes können, als die Kleinen in den Schnabel nehmen und fort tragen, haben schon die ärgsten Mißgriffe und Irrtümer begangen, so z.&amp;nbsp;B. hat einer einem weißen Elternpaar ein Mohrenkind gebracht, während ein anderer ein weißes Bübchen in die Hütte einer schwarzen Frau in Afrika getragen hatte. Das geht doch nicht weiter an. Deshalb machte ich mich auf und flog hierher, wo ich eine stattliche Anzahl von Brüdern versammelt wußte. Wir müssen Rat halten, was nun zu thun sei.« Tiefe Stille folgte dieser Rede. Alle Störche standen betrübt auf einem Bein, doch keiner wußte einen vernünftigen Vorschlag zu machen, um der Unordnung im Storchenlande zu steuern.
     </p>
-    <p xml:id="eco_de_000098_150">
+    <p xml:id="eco_de_0000170_150">
      Endlich flog einer der Brüder auf, warf den Kopf zurück und klapperte kurz und nachdrücklich zum Zeichen, daß er zu sprechen wünsche. Alle Störche blickten voll Spannung auf ihn, und er sprach:
     </p>
-    <p xml:id="eco_de_000098_160">
+    <p xml:id="eco_de_0000170_160">
      »Liebe Brüder, ich erinnere Euch in dieser Stunde der großen Not, die über unser teueres Vaterland hereingebrochen ist und die unsern seit Jahrtausenden bewahrten guten Ruf vernichten kann, an das Menschenkind, von dem ich Euch soeben gesprochen habe. Tante Kamilla hat alle Kinder lieb, sie versteht für sie zu sorgen, sie zu pflegen, zu strafen und zu belohnen, versteht ihre Nahrung und Kleidung, sie wäre meines Erachtens die richtige Persönlichkeit, unsere selige Storchenmutter gut zu ersetzen.«
     </p>
-    <p xml:id="eco_de_000098_170">
+    <p xml:id="eco_de_0000170_170">
      »Ja, ach ja! Tante Kamilla, sie ist die Rechte! sie kann uns helfen!« riefen einige der Störche.
     </p>
-    <p xml:id="eco_de_000098_180">
+    <p xml:id="eco_de_0000170_180">
      »Wird sie aber auch wollen«, frug ein Vorsichtiger aus der Ratsversammlung.
     </p>
-    <p xml:id="eco_de_000098_190">
+    <p xml:id="eco_de_0000170_190">
      »Wir müssen sie fragen«, klapperte es im Kreise.
     </p>
-    <p xml:id="eco_de_000098_200">
+    <p xml:id="eco_de_0000170_200">
      Kamilla's Freund, der sie als Präsidentin des Storchenlands in Vorschlag gebracht hatte, versprach noch selbigen Abends mit ihr zu sprechen, doch sollten sich sämtliche Störche bereit halten, damit man gleich abreisen könne, sobald die erhoffte Zusage erfolgt war.
     </p>
-    <p xml:id="eco_de_000098_210">
+    <p xml:id="eco_de_0000170_210">
      Es war ein wunderschöner Herbstabend. Kamilla hatte wie jeden Tag der Schneidersfrau geholfen, die Kleinen zu Bett zu bringen, und war dann in ihr Zimmer ans offene Fenster getreten. Da ihr Stübchen sehr hoch gelegen war, so hatte sie eine sehr schöne Aussicht über die Dächer der Stadt weg, weit in's Land hinein. Sie beobachtete eben, wie der Mond langsam höher und höher stieg, und dachte lächelnd daran, wie die kleine Mimi vorhin verlangend die dicken Händchen nach dem schönen roten Ball ausgestreckt hatte, während Karl, Hannchen und Anna schon so klug waren, zu wissen, daß dies ein unerreichbarer Gegenstand sei, und Mimi tüchtig auslachten.
     </p>
-    <p xml:id="eco_de_000098_220">
+    <p xml:id="eco_de_0000170_220">
      Da plötzlich flog über dem Rathaus ein Schwarm von Störchen auf, die sich auf die nächsten Dächer niederließen, ein Storch setze sich ganze nahe bei Kamilla's Fenster auf die Traufe und hub gleich zu sprechen an. In kurzen Worten erzählte er von dem Verlust, der das Storchenland betroffen hatte, von dem Vertrauen, das Kamilla sich durch ihre Liebe zu den Kleinen in Storchenkreisen erworben habe, und ganz zuletzt rückte er mit der Bitte heraus, sie möchte doch mit in's Storchenland ziehen. Zuerst war Kamilla sehr erstaunt ob dieser Zumutung. Doch als sie sich vorstellte, wie all die vielen kleinen Kinder im Storchenland ohne Pflege und Aufsicht seien, wie sie wahrscheinlich hungerten und schrieen, da erfaßte sie solches Mitleid mit ihnen und so heftig der Wunsch, den armen Geschöpfchen zu helfen, daß sie ohne vieles Überlegen sich bereit erklärte, Oberpflegerin im Storchenlande zu werden. Nun bedankte sich der Storch in den höflichsten Worten, und als Kamilla fragte, wann und wie die Reise vor sich gehen sollte, da winkte der Storch seinen Kameraden mit dem Schnabel zu, und Alle kamen rasch herangeflogen. Jeder von ihnen zog unter dem Flügel ein Wickelband hervor, denn jeder ordentliche Storch trägt immer ein solches bei sich, zog das Wickelband durch Kamilla's Gürtel, nahm die beiden Enden in den Schnabel, und ehe sie sich's versah, schwebte sie, von den Störchen getragen, über die Stadt dahin.
     </p>
-    <p xml:id="eco_de_000098_230">
+    <p xml:id="eco_de_0000170_230">
      Im ersten Augenblick hatte Kamilla große Angst, denn wenn die Störche zu klappern angefangen hätten, wäre sie unwiderruflich in die Tiefe gestürzt und am Ende auf einen der Kirchtürme gespießt worden. Aber die Vögel waren sich ihrer Verantwortung bewußt. Lautlos flogen sie mit mächtigen Flügelschlägen dahin, schnell und immer schneller, so daß Kamilla alsbald die Besinnung verlor. Sie merkte nicht mehr, daß sie über unzählige Städte und Dörfer, Seen und Flüsse, Wiesen und Wälder dahin flog, daß die Luft immer wärmer und würziger wurde, und daß sie schließlich in einer ganz anderen Weltgegend war. Als Kamilla wieder zu vollem Bewußtsein zurückkehrte, fand sie sich auf einer Wiese mit dem Rücken gegen ein Gitter gelehnt, das aus dichten, hohen, schlanken goldenen Stäben bestand. Ihr Freund Storch stand neben ihr und bat sie, durch ein Thürchen im Gitter, das er mit dem Schnabel für sie geöffnet hielt, ihr letztes Reiseziel zu betreten. Kamilla folgte ihrem Führer, und alsbald breitete sich ein Landschaftsbild vor ihr aus, wie sie es in ihrem Leben noch nicht gesehen hatte. Nachdem sie eine samtweiche, von tausenden bunten Blümchen bestreute Wiese überschritten hatte, kam sie an einen Hain von dichten alten Bäumen, der sich zu ihrer Rechten hinzog. Ein sonderbares Geräusch tönte ihr daraus entgegen; und da es aus den Zweigen kam, so meinte sie, daß es Vögel sein müßten, die in den tief herabhängenden Zweigen nisteten. Doch wie wuchs ihr Erstaunen, als sie, sich umsehend, entdeckte, daß es kleine Kinder waren, die hier zwischen den Ästen hingen und ihre Stimmchen in allen Tonarten hören ließen. Einige hatten ihre Hemdchen verstrampelt, andern schien die Sonne ins Gesicht, die meisten rissen hungrig ihr Mäulchen auf und alle schienen sich sehr unbehaglich zu fühlen. Es bedurfte der Worte des Storches nicht, um Kamilla darüber aufzuklären, daß sie nun in dem Land war, wo die kleinen Kinder auf den Bäumen wuchsen, und von wo die Störche sie immer holten.
     </p>
-    <p xml:id="eco_de_000098_240">
+    <p xml:id="eco_de_0000170_240">
      Doch mit andern Dingen mußte der Storch Kamilla erst bekannt machen, bevor sie ihr Amt mit gutem Erfolge antreten konnte.
     </p>
-    <p xml:id="eco_de_000098_250">
+    <p xml:id="eco_de_0000170_250">
      Da war zuerst mitten in dem Hain ein großer Teich von süßer Milch, in dessen Grunde all die Schlingpflanzen Wurzel gefaßt hatten, die an jedem Baume emporwuchsen. Diese Schlingpflanzen und deren Wurzeln waren hohl und vertraten im Storchenlande die Stelle der Gummischläuche, welche die Menschen an den Milchfläschchen anbringen, aus denen die Babies ihre Nahrung ziehen. Wenn es Zeit war, daß die Kleinen ihre Mahlzeit bekamen, dann wurde ihnen einfach ein Zweiglein der Schlingpflanze ins Mäulchen gesteckt und der Milchsee versorgte sie mit seiner süßen Gabe. Als Kamilla dies erst wußte, eilte sie von Baum zu Baum und sorgte vor allem dafür, daß der Hunger und Durst gestillt wurde. Dabei glättete sie die Hemdlein, strich über die blonden, braunen und schwarzen Härchen, und man kann es nicht verschweigen, sie putzte auch manches Näschen, das seit dem Tode der alten Storchenmutter vernachlässigt war.
     </p>
-    <p xml:id="eco_de_000098_260">
+    <p xml:id="eco_de_0000170_260">
      Nach und nach wurde es still und immer stiller im Kinderhain. Lauer Wind schaukelte die Zweige, so daß die Kleinen sanft und fest schliefen. Dann führte der Storch Kamilla links an eine Mauer, wo wie in einem Obstgarten sich ein langes, langes Spalier befand. Daran hingen von der Sonne kräftig beschienen viele, viele braune und schwarze Kindlein und an einer besondern kleinen Abteilung je zwei und drei Kindlein an einem Zweige. Nun wußte Kamilla auch, woher die Mohrenkinder und die Zwillings- und Drillingspärchen kommen, und auch hier entfaltete sie alsbald ihre ausgebreitete, segensreiche Wirksamkeit. Nahebei war ein Feld, auf welchem großblättrige weiße Lilien wuchsen, die im Storchenland zu den Erstlingshemdchen verwendet wurden, und so führte der Storch Kamilla durch ihr ganzes Bereich. Als sie den Rundgang beendet, fragte er sie, ob sie noch immer bereit sei, das immerhin ziemlich mühsame Amt zu verwalten, und als Kamilla bejahte, da sagte er, sie solle nun alles allein besorgen und nach einem Jahre wolle er wieder nachfragen.
     </p>
-    <p xml:id="eco_de_000098_270">
+    <p xml:id="eco_de_0000170_270">
      Das Jahr verging sehr schnell, denn es gab alle Hände voll zu thun. Aber die Kinder gediehen so gut unter Kamilla's Pflege, wurden so rund und rosig, daß die Menschen sowohl wie die Störche sehr zufrieden waren und letztere sehr froh, als Kamilla nach Ablauf des Jahres erklärte, sie wolle gern für immer im Storchenland bleiben, weil dadurch ihr sehnlichster Wunsch erfüllt war und sie Kinderchen in Hülle und Fülle hatte. Sie war, freilich immer ein bischen traurig, wenn die Störche eine Anzahl ihrer Schützlinge forttrugen, aber da sie immer wieder nachwuchsen, so konnte sie sich trösten.
     </p>
-    <p xml:id="eco_de_000098_280">
+    <p xml:id="eco_de_0000170_280">
      Ich vermute, daß Tante Kamilla noch immer im Storchenland ist und ewig bleiben wird, denn die Leute sagen, wer mit guten Kinder zu thun hat, wird nicht alt.
     </p>
    </div>

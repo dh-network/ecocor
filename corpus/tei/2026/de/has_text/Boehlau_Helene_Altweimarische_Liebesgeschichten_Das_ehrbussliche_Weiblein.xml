@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000069" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000212" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000069_20">
+   <p xml:id="eco_de_0000212_20">
     Das ehrbußliche Weiblein
    </p>
   </front>
@@ -94,109 +94,109 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000069_30">
+    <p xml:id="eco_de_0000212_30">
      Auf dem Horn bei Weimar, einer Anhöhe, von der aus man auf das grüne Ilmthal weit hinabblickt und auf das Städtchen, das von der grauen zweitürmigen Stadtkirche und dem grünkuppeligen Schloßturm und dem spitzen Hofkirchturm überragt wird, da wohnten Herr und Frau Egidi in einem alten Sommerhaus, das am Ende eines ansteigenden Gartens lag.
     </p>
-    <p xml:id="eco_de_000069_40">
+    <p xml:id="eco_de_0000212_40">
      Das Häuschen stand gerade über Goethes Gartenhaus, und auch in Pogwischs Garten konnte man von dem Wohnzimmer aus blicken. Es hatte, wie Frau Friederikchen Egidi sagte: »wirklich eine recht kommode und amisante Lage. Kommod eigentlich nich gerade, weil mer doch weit von der Stadt wohnt, aber weil mer äben alles hat, was mer braucht, da macht sich's; Gemise un Obst, eine Zwetschgendarre sogar. Hihner un ene Ziege, äben alles – Bier hamm mer eingelegt un die gute Luft fir ›Lein-Oel‹, wegen der sin mer 'nausgezogen, die duht ihn so wohl, un der Spaziergang allemal 'nunter ins Hofamt – äben alles.«
     </p>
-    <p xml:id="eco_de_000069_50">
+    <p xml:id="eco_de_0000212_50">
      So ähnlich antwortete Frau Egidi stets, wenn die Freunde in der Stadt ihr immer wiederholten: »Na aber, so weit draußen!«
     </p>
-    <p xml:id="eco_de_000069_60">
+    <p xml:id="eco_de_0000212_60">
      Uebrigens »so weit draußen« war es eben nur für die bequemen Weimaraner.
     </p>
-    <p xml:id="eco_de_000069_70">
+    <p xml:id="eco_de_0000212_70">
      Frau Egidi war ein ganz kleines, junges, bescheidenes Persönchen mit flachsgelben Haaren. die mit einem hohen Kamm fest und stramm oben auf dem Wirbel zu einem Knötchen zusammengesteckt waren. Ihr Kleid schien ganz besonders eng zu sein, und der schmale Longshawl und der Strickbeutel und die Kreuzbänderschuhe, alles war so bescheiden und hausfraulich, ganz musterhaft – und wie jedes Fältchen lag und die steifen Seitenlöckchen an den Schläfen, und die Schritte, wie sie das Horn hinabtrippelte – das war alles so gut weimarisch – so ein bißchen »ehrbußlich«, wie sie in Weimar sagen, und wie sie's in Weimar ganz gern bei einem jungen Frauchen sehen, denn so ein Frauchen, das kocht und backt und stopft und flickt und handelt und wandelt gut, und der Mann ist bei ihr wohl versorgt, und das ist die Hauptsache.
     </p>
-    <p xml:id="eco_de_000069_80">
+    <p xml:id="eco_de_0000212_80">
      Und das hatte in diesem Falle auch seine Richtigkeit, Frau Friederikchen Egidis Mann, Lionel Egidi, war sehr gut aufgehoben. Was hatte er immer für gute Dinge gegessen und getrunken, wenn zufällig die Rede darauf kam, und sein Rock war tadellos und seine Wäsche blendend, und das alles bei einem winzigen Gehalte, bei dem man allerlei Unzureichendes leicht hätte entschuldigen können. Er war ein langer Mann mit einer großen, breiten Denkerstirn und großen Händen und Füßen und einer tiefen Stimme, und sah aus, als hätte er es weiter bringen können, als zu einem Sekretär am Hofamte. Dazu war es nur so eine Art Aushilfstelle, die nicht gerade auf festen Beinen stand.
     </p>
-    <p xml:id="eco_de_000069_90">
+    <p xml:id="eco_de_0000212_90">
      Und zu seiner großen Person und seiner kleinen Stelle hieß er auch noch mit Vornamen Lionel, das war Frau Friederikchens Stolz, daß er so hieß – aber auch ihr Unglück; »Lionel« – das brachte mit aller Mühe und aller Hingebung ihre gut weimarische Zunge nie und nimmer fertig. »Lei-o-nehl, Lein-ehl« – dabei blieb's.
     </p>
-    <p xml:id="eco_de_000069_100">
+    <p xml:id="eco_de_0000212_100">
      Und alle Mühe, die Lionel sich gab, der Zunge seines kleinen Weibes den stolzen Namen beizubringen, war fruchtlos – »Lein-Oel« oder »Lein-Ehl« höchstens mußte er sich rufen hören und hätte es nicht für möglich gehalten, seinen wunderschönen Namen auf diese Weise verlieren zu müssen. Nie hätte er eine Weimarerin geheiratet, wenn er gewußt hätte, daß die weimarischen Zungen so unbiegsam sind.
     </p>
-    <p xml:id="eco_de_000069_110">
+    <p xml:id="eco_de_0000212_110">
      Und zu seinem größten Aerger hieß er nun »Lein-Oel«, wo er sich auch blicken ließ. Auch geschicktere Zungen, als die seines Weibchens, blieben bei »Lein-Oel«, weil die guten Weimaraner ihren Spaß daran hatten, daß ein Mensch gewissermaßen »Lein-Oel« getauft war. Da half ihm seine hochstrebende Natur nichts und seine Denkerstirn nichts; das alles vertrug sich mit »Lein-Oel« nicht. Man konnte ihn mit diesem Namen unmöglich ernst nehmen, meinte er. Mit dem Namen Lionel Egidi aber glaubte er, daß ihm die Welt offen gestanden hätte.
     </p>
-    <p xml:id="eco_de_000069_120">
+    <p xml:id="eco_de_0000212_120">
      Die Umtaufe, die sein Weib mit ihm vorgenommen hatte, war verhängnisvoll geworden – auch für das brave Weibchen. Die ersten Mißstimmungen kamen dadurch, und es flossen Thränen. Sie hatte sich zwar geübt, »Lein-Oel« richtig auszusprechen, und wenn ihr auch hin und wieder ein Anklang geriet, so war das Unglück doch einmal angerichtet. »Lein-Oel« saß einmal den Weimaranern in den Ohren, sie hörten es gar nicht mehr anders, und Lein-Oels oben auf dem Horn mußten sich eben darein finden. – Sie hatten auch den schönen Namen Egidi verloren und hießen in aller Mund nun einfach Lein-Oels. So dumm war es Lionel Egidi mit seinem Namen ergangen. Als er aus Erfurt nach Weimar kam, da hatte er große Ideen im Kopfe, und die kleine Stelle am Hofamt betrachtete er damals nur als eine Art Absteigequartier, bis er Umschau gehalten. Er war auch Poet, und es konnte ihm kaum in Weimar fehlen. Mit einem wunderschönen himmelblauen Frack war er damals angekommen, und der stattliche Mann in diesem blauen Frack und mit dem stolzen Namen wurde auch durchaus nicht unbemerkt gelassen.
     </p>
-    <p xml:id="eco_de_000069_130">
+    <p xml:id="eco_de_0000212_130">
      In Weimar sind von alters her die Weiber in Ueberzahl gewesen, und ein neuer Mann im Weichbild des Städtchens war jedesmal ein Ereignis, auch von alters her. Die weimarischen Weiber hoben einen reputierlichen männlichen Ankömmling, bildlich gesprochen, alsobald wie auf einem Schild empor, daß er allen Augen sichtbar war. Unbekannt konnte ein Mann im himmelblauen Frack und gar mit einem so schönen Namen gewiß nicht bleiben.
     </p>
-    <p xml:id="eco_de_000069_140">
+    <p xml:id="eco_de_0000212_140">
      In den ersten Wochen war er auch schon der erhoffte Schwiegersohn von so und so viel Bürgerhäusern, und ehe ein paar Monate in das Land gingen, war er wirklich der Schwiegersohn eines sehr angesehenen und reputierlichen pensionierten Rentamtmanns geworden, der samt seiner Familie Weidgans hieß. So kam es, daß Friederikchen Weidgans die Ehehälfte des vielversprechenden Lionel Egidi wurde.
     </p>
-    <p xml:id="eco_de_000069_150">
+    <p xml:id="eco_de_0000212_150">
      Zur Zeit unsrer Erzählung aber sind sie schon ein paar Jährchen verheiratet, der himmelblaue Frack ist abgelegt, Lein-Oel ist in einen kaffeebraunen gekrochen und aus dem blauen hat sich Friederikchen einen Spenzer gemacht. Die übergebliebenen Fleckchen verarbeitet sie zu blauen Kreuzbänderschuhen für sich, denn sie versteht alles, sie schustert wie ein gelernter Meister, und auch der Gatte trägt oben auf dem Horn blaue Pantoffel, die ihm sein Weib aus dem blauen Frack gemacht hat, der in Lappen und Läppchen zerschnitten ist, wie seine Hoffnungen und Pläne auch.
     </p>
-    <p xml:id="eco_de_000069_160">
+    <p xml:id="eco_de_0000212_160">
      Er war sich in den ersten Jahren seiner Ehe vollkommen klar darüber, daß er einen rechten Hemmschuh angelegt hatte, als er die kleine Weidgans heiratete. Die Arme der Weimaranerinnen, die ihn auf dem Schild triumphierend hochgehalten, sanken wie mit einem Schlage gleichgültig herab, als er das Unrecht begangen, eine einzige von allen glücklich zu machen, und er stand in seinem blauen Frack und mit dem stolzen Namen und mit der kleinen Weidgans plötzlich da, als wäre er unsichtbar geworden. Niemand kümmerte sich um ihn.
     </p>
-    <p xml:id="eco_de_000069_170">
+    <p xml:id="eco_de_0000212_170">
      Und von diesem Augenblicke an wollte ihm nichts mehr glücken. Er war nahe daran gewesen, daß Excellenz Goethe seine schriftstellerischen Erzeugnisse unterthänigst überreicht worden wären, aber die Hände, die sich zu diesem Liebeswerk erboten hatten, waren mit einemmal paralysiert, und die Köpfe, die dieses Anerbieten ihm gemacht hatten, waren schwachsinnig geworden und verstanden nichts mehr und erinnerten sich an nichts mehr.
     </p>
-    <p xml:id="eco_de_000069_180">
+    <p xml:id="eco_de_0000212_180">
      Ganz natürlich, sie hatten das dem hoffnungsvollen, vielversprechenden Lionel Egidi zugedacht, dem jungen Mann im blauen Frack, dem die Welt offen stand, von dem sie erwarteten, daß er eine ihrer Töchter heimführen würde – aber dem Mann der kleinen Weidgans, dem »Lein-Oel«, brauchten sie nichts von alledem zu halten. Der war durch seine alberne Heirat in eine Sphäre geraten, in der er den Weimaranern nichts mehr nützen konnte, also von ihnen auch nichts mehr zu erwarten hatte.
     </p>
-    <p xml:id="eco_de_000069_190">
+    <p xml:id="eco_de_0000212_190">
      All diese Erfahrungen hatten Lionel Egidis Wohlgefallen an seiner Weidgans nicht gerade gesteigert, besonders da er sich gar nicht mehr recht erinnern konnte, wie er selbst eigentlich auf die Idee gekommen war, die Kleine zu heiraten.
     </p>
-    <p xml:id="eco_de_000069_200">
+    <p xml:id="eco_de_0000212_200">
      An eins erinnerte er sich noch ganz wohl. Auf einem Ball im Stadthaus hatte er sie zum erstenmal gesehen und auch mit ihr getanzt, und daß es ihm Spaß gemacht hatte, wie der blonde, frisierte Kopf der kleinen Weidgans sich auf seinem blauen Frack während des Tanzes gut ausgenommen – das wußte er noch ganz gut; auch daß er öfters, als erlaubt, mit ihr getanzt hatte, denn in seinen blauen Frack war er gewissermaßen verliebt gewesen, und wer und was zu diesem gut stand, das oder der oder die war ihm nicht unsympathisch. Von diesem Abend an aber war er wie in einen Wirbel von lauter Verwandten, Basen, Tanten und Onkeln, Großmüttern und Müttern der Weidgansschen Familie geraten. Weidganssche Abendessen, Weidganssche Nachmittagspartieen, Weidganssche Geburtstage mit solenner Feier waren sein Schicksal geworden – und das Ende all dieser Weidgansschen Feste war sein und Friederikchens Verlobungsfest gewesen, und zuallerletzt seine Hochzeit, die von der Weidgansschen Familie splendid ausgerichtet wurde.
     </p>
-    <p xml:id="eco_de_000069_210">
+    <p xml:id="eco_de_0000212_210">
      So war er zu seinem Friederikchen gekommen, er wußte selbst nicht, wie – und daß er dieser Weidgans nun Opfer über Opfer bringen mußte, diesem kleinen Götzen, der ihm vom Schicksal aufgehalst worden war, das stimmte ihn nicht freundlich und nicht heiter, und er war dabei, ein wenig liebenswürdiger Ehegatte zu werden. Mürrisch ließ er sich alle Hingebung und Fürsorge der Kleinen gefallen, ließ sie springen und laufen, kochen und backen, früh aufstehen und spät zur Ruhe gehen, und ließ sich's schmecken, was sie kochte und buk, und kroch in lauter schön gewaschene und geflickte, blendende und duftende Wäsche und schlüpfte in Schuhe, die immer bereit standen, und hatte abends eine immer hell- und gleichbrennende Kerze, denn das war eine Extrageschicklichkeit der Kleinen, leise aufzustehen, ohne alle Auffälligkeit, so daß niemand es zu bemerken brauchte, und das Licht zu schneuzen, gerade im rechten Augenblicke. Nie brachte es ihre Kerze zu einem qualmigen Räuber, und in der Lichtputzschere brenzelte und roch es deshalb auch nicht, und die Kerze kam nicht zum Träufeln und war nicht zu kurz geschnitten. Vielleicht brannte in ganz Weimar keine Kerze, die es mit der Egidischen hätte aufnehmen können.
     </p>
-    <p xml:id="eco_de_000069_220">
+    <p xml:id="eco_de_0000212_220">
      Als Lionel Egidi Junggeselle war, da hatte das kleine Einkommen, das ihm sein Absteigequartier von Stelle einbrachte, nicht hinten und nicht vorn gereicht, und jetzt hatte es den Anschein, als wäre er ohne sein Wissen avanciert. Sie hatten immer Geld; die Weidgans that, als wenn sie im Ueberflusse wirtschaftete, und er mußte sich selbst gestehen, sein Lebtag hatte er nicht so vortrefflich gegessen.
     </p>
-    <p xml:id="eco_de_000069_230">
+    <p xml:id="eco_de_0000212_230">
      Sie hatte sich von ihrem Aussteuergeld, das viel schmäler ausgefallen war, als es erst den Anschein gehabt hatte, eine Ziege angeschafft, trotzdem ihr Gatte gesagt hatte, daß er nie einen Tropfen von der Milch dieses Tieres anrühren würde, da er vor Ziegenmilch einen Ekel habe.
     </p>
-    <p xml:id="eco_de_000069_240">
+    <p xml:id="eco_de_0000212_240">
      Es war aber mit der Ziege alles so still vor sich gegangen, und er trank Ziegenmilch, ohne es zu ahnen.
     </p>
-    <p xml:id="eco_de_000069_250">
+    <p xml:id="eco_de_0000212_250">
      Als endlich die Rede darauf kam, sagte das kleine Weibchen: »Siehste, Lein-Oel, das macht, weil se so renklich gehalten is, und es is auch die Art, von der die Milch nich bockelt.«
     </p>
-    <p xml:id="eco_de_000069_260">
+    <p xml:id="eco_de_0000212_260">
      Ja, hätte sie den Mund nicht aufgethan, die kleine Weidgans!
     </p>
-    <p xml:id="eco_de_000069_270">
+    <p xml:id="eco_de_0000212_270">
      Da war es wieder, das miserable »Lein-Oel« und der ganze weimarische Schwanz hinterher – reden konnte er sie eben gar nicht hören – es fiel ihm auf die Nerven.
     </p>
-    <p xml:id="eco_de_000069_280">
+    <p xml:id="eco_de_0000212_280">
      »Na, übst du denn ordentlich, was du üben sollst?« fragte er sie barsch.
     </p>
-    <p xml:id="eco_de_000069_290">
+    <p xml:id="eco_de_0000212_290">
      »Ja, beim Melken heute un iberhaupt immer, wenn ich dran denke. Das letzte war: ›Hewe, läwe, schwäwe!‹« sagte sie trocken und schulmäßig, wie sie sonst wohl zu ihrem Herrn Lehrer gesprochen haben mochte.
     </p>
-    <p xml:id="eco_de_000069_300">
+    <p xml:id="eco_de_0000212_300">
      »Wie sagst du?« fragte er und korrigierte sogleich: »›Hebe, lebe, schwebe.‹ – Du sagst ewig, daß du geübt hast; aber es fällt dir gar nicht ein.«
     </p>
-    <p xml:id="eco_de_000069_310">
+    <p xml:id="eco_de_0000212_310">
      »Jawohl,« antwortete sie schluchzend. »Hewe – läwe – schwäwe!«
     </p>
-    <p xml:id="eco_de_000069_320">
+    <p xml:id="eco_de_0000212_320">
      Und sie schluchzte so heftig und bitterlich und legte ihren Kopf, wie schutz- und stützesuchend, an einen alten Pflaumenbaum und setzte ihre gefüllte Gießkanne nieder, und das war das erste Mal, daß sie so ganz hilflos vor ihm weinte.
     </p>
-    <p xml:id="eco_de_000069_330">
+    <p xml:id="eco_de_0000212_330">
      Und bei dem großen Respekt, den sie vor ihm hatte, that sie es in wahrer Todesangst. »Sei nur nich bes,« – schluchzte sie –»ich weine gar nich – ne, wirklich nich – es weint äben so von sälwer.« –
     </p>
-    <p xml:id="eco_de_000069_340">
+    <p xml:id="eco_de_0000212_340">
      Und wie er sie gebrochen und ganz in Thränen aufgelöst vor sich stehen sah, so unglückselig und bescheiden und so winzig, – da rührte sich etwas in seinem Herzen, er griff nach ihr, sie fuhr zusammen wie ein Hündchen, das geschlagen werden soll – und da schämte er sich, daß sie so etwas von ihm denken könne, und er erkannte, wie unfreundlich er immer gegen sie gewesen war, und sie so gut und unterthänig.
     </p>
-    <p xml:id="eco_de_000069_350">
+    <p xml:id="eco_de_0000212_350">
      »Mein gutes Weib!« sagte er und zog sie zu sich heran.
     </p>
-    <p xml:id="eco_de_000069_360">
+    <p xml:id="eco_de_0000212_360">
      »Ach du mein Gott!« schluchzte sie und lag mit dem Kopf nicht mehr am Pflaumenbaum, sondern an der Brust ihres Gatten.
     </p>
-    <p xml:id="eco_de_000069_370">
+    <p xml:id="eco_de_0000212_370">
      »Ach Lein-Oel!« – Aber kaum war das Wort heraus, da schreckte sie bis ins innerste Herz zusammen, machte sich aus seinen Armen los, griff zu ihrer Gießkanne und trippelte eilig ab.
     </p>
    </div>
@@ -204,70 +204,70 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_380">
+    <p xml:id="eco_de_0000212_380">
      Als sie aber am Abend dieses selben Tages sich zur Ruhe begaben, er, der große Lein-Oel, und das winzige, ängstliche Püppchen, das er für alle ihre Hingebung immer so rauh und gleichgültig behandelt hatte – da kam es ihm in den Sinn, einen Spaß zu machen, und er sagte großmütig: »Na, ›hewe, läwe, schwäwe‹ – gute Nacht!«
     </p>
-    <p xml:id="eco_de_000069_390">
+    <p xml:id="eco_de_0000212_390">
      »Gute Nacht, ›hebe, läbe, schwäbe!‹ sagte sie so gut sie konnte – und sagte es ganz freundlich und anmutig.
     </p>
-    <p xml:id="eco_de_000069_400">
+    <p xml:id="eco_de_0000212_400">
      Und Lein-Oel dachte: Sie versteht also einen Scherz, die kleine Weidgans.
     </p>
-    <p xml:id="eco_de_000069_410">
+    <p xml:id="eco_de_0000212_410">
      Das hätte er gar nicht von ihr geglaubt. Sie war ihm immer wie ein Opferlamm vorgekommen, und das hatte ihn gelangweilt – und mehr als gelangweilt, es war ihm peinlich gewesen.
     </p>
-    <p xml:id="eco_de_000069_420">
+    <p xml:id="eco_de_0000212_420">
      Von nun an sagten sie sich jeden Abend dasselbe.
     </p>
-    <p xml:id="eco_de_000069_430">
+    <p xml:id="eco_de_0000212_430">
      »Gute Nacht, ›hewe, läwe, schwäwe!‹ er, und sie: »Gute Nacht, ›hebe, lebe, schwebe!‹« – ganz richtig und wohleingeübt.
     </p>
-    <p xml:id="eco_de_000069_440">
+    <p xml:id="eco_de_0000212_440">
      Und er ertappte sich einmal bei dem Gefühl, daß er sich auf den Gutenachtgruß der kleinen Weidgans freute.
     </p>
-    <p xml:id="eco_de_000069_450">
+    <p xml:id="eco_de_0000212_450">
      Sie war wirklich unterthänig wie ein Hündchen und immer unsäglich ehrbußlich und bescheiden und still wie ein Mäuschen. Wenn er abends über seiner Arbeit brütete – er schriftstellerte immer noch in seinen Freistunden – da saß sie ihm gegenüber und wagte kaum zu atmen, und wenn sie einmal aufstehen mußte, schlich sie wie im Zimmer eines Todkranken umher.
     </p>
-    <p xml:id="eco_de_000069_460">
+    <p xml:id="eco_de_0000212_460">
      »Ist nicht nötig, Friederikchen so leise zu sein. Was ich da treibe, bekommt ja doch nie im Leben eine Menschenseele zu sehen –« sagte er mißmutig und stützte den Kopf auf und schaute vor sich hin, griesgrämig und freudlos.
     </p>
-    <p xml:id="eco_de_000069_470">
+    <p xml:id="eco_de_0000212_470">
      Da fühlte er das Händchen seiner Frau auf der Schulter, und sie sagte ganz schüchtern: »Ach nee, das mußt de nich denken, so ein Mensch wie du, der wird schon seinen Lohn bekommen. – Bei all denen hier in Weimar is es sicher auch nich so gleich auf einen Schlag gegangen. – Mach nur weiter!«
     </p>
-    <p xml:id="eco_de_000069_480">
+    <p xml:id="eco_de_0000212_480">
      Wie freundlich sagte es das gute Geschöpf!
     </p>
-    <p xml:id="eco_de_000069_490">
+    <p xml:id="eco_de_0000212_490">
      Sie hielt also etwas von ihm.
     </p>
-    <p xml:id="eco_de_000069_500">
+    <p xml:id="eco_de_0000212_500">
      Das that Lein-Oel wohl.
     </p>
-    <p xml:id="eco_de_000069_510">
+    <p xml:id="eco_de_0000212_510">
      Ja, sie war doch nicht so dumm, wie es den Anschein hatte, und er wollte sich mehr mit ihr abgeben.
     </p>
-    <p xml:id="eco_de_000069_520">
+    <p xml:id="eco_de_0000212_520">
      Zumeist waren sie ja auch allein miteinander. Hinunter in die Stadt zu ihren Bekannten und Verwandten kamen sie eben nicht oft.
     </p>
-    <p xml:id="eco_de_000069_530">
+    <p xml:id="eco_de_0000212_530">
      Er nahm sich vor, jeden Abend etwas Domino mit ihr zu spielen.
     </p>
-    <p xml:id="eco_de_000069_540">
+    <p xml:id="eco_de_0000212_540">
      Das geschah nun bald ganz regelmäßig. Sie machte ihre Sache gut, wie alles, was sie anfaßte, pflichttreu und aufmerksam.
     </p>
-    <p xml:id="eco_de_000069_550">
+    <p xml:id="eco_de_0000212_550">
      »Weißt du,« sagte sie einmal, »zu Haus ham mer immer gespielt, wie's 'nausgeht!«
     </p>
-    <p xml:id="eco_de_000069_560">
+    <p xml:id="eco_de_0000212_560">
      »Wie denn?«
     </p>
-    <p xml:id="eco_de_000069_570">
+    <p xml:id="eco_de_0000212_570">
      »Wenn's zum Beispiel du gewinnst, da kriegt August von Goethe die Schopenhauern oder irgend eine, oder wenn's 'nausgeht, daß ich gewinne, da kriegt er die Pogwischen – und dann wieder geht's darauf 'naus, ob die Frau Rat Tiburtsius ein neues Kleid bekommen hat, oder ob die Muskulus ihre Perücke verlieren wird. – Oder wenn eine heirat't – oder ob eine noch ein Kind kriegt – eben solche Sachen. Siehste, wir kennten fragen, ob's 'nausgeht, daß du dem Geheimrat Goethe deine Schreiberei doch noch eimal vorliest – und ob's ihm gefallen dhut – und was for 'ne Stelle er dir verschafft – und ob du bald auf'n Hofamt kommst. Siehste, so!«
     </p>
-    <p xml:id="eco_de_000069_580">
+    <p xml:id="eco_de_0000212_580">
      Und ohne viel Worte darüber zu machen, wurde der Vorschlag angenommen, und oben auf dem Horn arbeiteten zwei, wenn sie abends bei einander saßen, an ihrem eigenen Schicksal und an dem Schicksal der übrigen Weimaraner, und bauten Luftschlösser über Luftschlösser und erhitzten sich über alles Mögliche, was keineswegs in ihrer Macht lag, und die Kleine war so eifrig dabei, und Lein-Oel vergaß seine Würde und spielte mit seinem Frauchen, als ging es um Tod und Leben.
     </p>
-    <p xml:id="eco_de_000069_590">
+    <p xml:id="eco_de_0000212_590">
      Manchmal kam es ihm in den Sinn, daß es eine sehr alberne Sache sei, mit der er sich da abgebe, und er unterbrach das Spiel plötzlich und ging im Zimmer auf und nieder. Er hatte aber die Entschuldigung, daß er es zur Unterhaltung seiner kleinen Weidgans thue, daß es gewissermaßen seine Pflicht sei.
     </p>
    </div>
@@ -275,70 +275,70 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_600">
+    <p xml:id="eco_de_0000212_600">
      Als Weihnachten wieder einmal ins Land kam, waren sie schon fast drei Jahre verheiratet, und als sein Weib sich das Kapuzchen über den Kopf zog, um mit ihm hinunter zu den Eltern zu gehen und dort den Weihnachtsabend zu feiern, und sie die schmale Treppe miteinander hinabstiegen, da lag mit einemmal seine kleine Weidgans schluchzend ihm an der Brust.
     </p>
-    <p xml:id="eco_de_000069_610">
+    <p xml:id="eco_de_0000212_610">
      »Na, was ist denn, was fehlt dir denn?« fragte er sehr erstaunt. Er konnte lange fragen, und immer heißer wurde das Schluchzen, aber eine Antwort bekam er nicht. –
     </p>
-    <p xml:id="eco_de_000069_620">
+    <p xml:id="eco_de_0000212_620">
      »Na also, was denn?« fragte er barsch, um der Sache ein Ende zu machen.
     </p>
-    <p xml:id="eco_de_000069_630">
+    <p xml:id="eco_de_0000212_630">
      »Ein Kindchen!« – sagte sie. – »Ach siehste, ein Kindchen, wenn wir ein Kindchen hätten!«
     </p>
-    <p xml:id="eco_de_000069_640">
+    <p xml:id="eco_de_0000212_640">
      Das klang zitternd unter den heißen Thränen hervor.
     </p>
-    <p xml:id="eco_de_000069_650">
+    <p xml:id="eco_de_0000212_650">
      Nun sehnt sie sich wieder nach einem Kinde – mein Gott, diese ewigen Geschichten, dachte Lein-Oel und meinte, daß es besser sei, keins zu haben. Er war so vortrefflich versorgt, konnte sich es gar nicht besser wünschen, hatte, weiß Gott, genug Not mit seiner Frau gehabt, daß er es ohne Kinder nun sehr wohl mit ansehen konnte.
     </p>
-    <p xml:id="eco_de_000069_660">
+    <p xml:id="eco_de_0000212_660">
      Deshalb war auch seine Entgegnung auf ihre Thränen kühl.
     </p>
-    <p xml:id="eco_de_000069_670">
+    <p xml:id="eco_de_0000212_670">
      »Du lieber Gott, es gibt genug Kinder auf der Welt,« sagte er ihr. »Du hast für deinen Mann zu sorgen, das ist auch etwas – und schließlich kriegen wir Kinder, mehr als wir wollen. Laß gut sein.«
     </p>
-    <p xml:id="eco_de_000069_680">
+    <p xml:id="eco_de_0000212_680">
      So ging sie still neben ihm her, und die Thränen liefen ihr über die Wangen, und der Atem zitterte dem kleinen, einsamen Weibe. Als sie aber der Stadt näher kamen, dachte sie: »Herr Jes, sie werden doch nich sehen. daß ich geweint habe!« und nun hauchte sie eifrig auf ihr Taschentuch, übertupfte sich die Augen und machte sich mit ihren Seitenlöckchen zu thun, und hörte aufmerksam, wie ihr Lein-Oel sagte, daß sie Rat Tiburtsiusens auf die Feiertage zu sich bitten müßten, und was man ihnen vorsetzen könnte.
     </p>
-    <p xml:id="eco_de_000069_690">
+    <p xml:id="eco_de_0000212_690">
      Lein-Oel sah sein kleines Weib nun lange nicht mehr wieder weinen – und er hütete sich wohl, sie an jenen Abend zu erinnern. Er wollte eine ruhige, vernünftige Frau, aber durchaus nicht eine, die ihm Scenen machte, das fehlte noch.
     </p>
-    <p xml:id="eco_de_000069_700">
+    <p xml:id="eco_de_0000212_700">
      Aber beim Domino entfuhr es ihm einmal, und er sagte, um ihr einen Gefallen zu thun: »Na, und wenn wir ein Kind hätten, wie würden wir denn das nennen?«
     </p>
-    <p xml:id="eco_de_000069_710">
+    <p xml:id="eco_de_0000212_710">
      Da sagte sie, weil sie es längst und ganz genau wußte: »Lieschen« – und die Thränen traten ihr wieder in die Augen, gerade als wären sie von jenem Abend an noch darin – und das waren sie wohl auch.
     </p>
-    <p xml:id="eco_de_000069_720">
+    <p xml:id="eco_de_0000212_720">
      »Ei du mein Gott,« sagte er.
     </p>
-    <p xml:id="eco_de_000069_730">
+    <p xml:id="eco_de_0000212_730">
      »Sei nich bes, Leinel,« bat sie;»siehste –«
     </p>
-    <p xml:id="eco_de_000069_740">
+    <p xml:id="eco_de_0000212_740">
      Weiter konnte sie nicht sprechen, sondern ging zur Thüre hinaus, wie eine Katze so leise. Und als sie wieder hereinkam, da brachte sie Lein-Oels dampfenden Schlummerpunsch auf einem Teller getragen – und Lein-Oel drohte ihr mit dem Finger, da ging ein Zittern durch den Arm, der den Teller hielt. Diesmal aber bemerkte das Lein-Oel nicht.
     </p>
-    <p xml:id="eco_de_000069_750">
+    <p xml:id="eco_de_0000212_750">
      Mein Gott, so ein Frauenzimmer bringt eben tausenderlei Aerger und Unannehmlichkeiten mit sich, dachte er oftmals, wenn das Dasein seines Weibchens ihn in irgend einer Weise daran erinnerte, daß eine fremde Persönlichkeit neben ihm ihr eigenes Leben hatte. Sie war eigentlich nur bequem, wenn sie ganz in ihm aufging, nur für ihn da war, sich selbst völlig vergaß, da ging es an; sowie sie aber sich mit der eigenen kleinen Person abgab, erschien es Lein-Oel, als lärmte sie doppelt und dreifach. Frühmorgens, wenn er noch schlief und sie sich an ihrem Spiegelchen mit aller Sorgfalt ihr Haar machte und dabei höchst accurat und ernstlich zu Werke ging, das erschien ihm unerträglich – und gar am Abend, wenn die Frisur aufgemacht wurde und die Kämmerei von neuem losging, verlor er alle Geduld.
     </p>
-    <p xml:id="eco_de_000069_760">
+    <p xml:id="eco_de_0000212_760">
      »Herrgott noch einmal!« brummte er oftmals, halb verschlafen, »hat denn die abscheuliche Kämmerei kein Ende!« – oder: »Jeses, jetzt halt aber Ruh!« – oder: »Heute wird's wohl ewig dauern!« oder: »Willst du mich denn zur Verzweiflung bringen – du?«
     </p>
-    <p xml:id="eco_de_000069_770">
+    <p xml:id="eco_de_0000212_770">
      Sie hatte von ihrem hübschen, blonden Haar tausend Aerger und Aengste.
     </p>
-    <p xml:id="eco_de_000069_780">
+    <p xml:id="eco_de_0000212_780">
      Das Spiegelchen hing nun einmal im Schlafzimmer und gehörte ins Schlafzimmer.
     </p>
-    <p xml:id="eco_de_000069_790">
+    <p xml:id="eco_de_0000212_790">
      Die Haare im Wohnzimmer zu kämmen oder wohl am Ende in der Küche, das wäre ihr der Inbegriff von Unreinlichkeit und wüster Wirtschaft gewesen.
     </p>
-    <p xml:id="eco_de_000069_800">
+    <p xml:id="eco_de_0000212_800">
      Eines schönen Morgens hatte ihr Lein-Oel wieder gehörig gebrummt, und sie hatte gesagt: »Weißte, da schneid' ich sie mer äben einfach weck!«
     </p>
-    <p xml:id="eco_de_000069_810">
+    <p xml:id="eco_de_0000212_810">
      »Meinetwegen, hatte er verschlafen aus dem großen Bett herausgegrunzt.
     </p>
    </div>
@@ -346,94 +346,94 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_820">
+    <p xml:id="eco_de_0000212_820">
      Als an diesem Tage Lein-Oel heimkam, trug ihm ein Kahlköpfchen, ein ganz kurzgeschorenes Geschöpf, die Suppe auf den Tisch.
     </p>
-    <p xml:id="eco_de_000069_830">
+    <p xml:id="eco_de_0000212_830">
      Das war, als wenn der Blitz eingeschlagen hätte –»Herrgott in deine Hände! – der Kopf! – der Kopf! – der Kopf!« schrie Lionel Egidi auf. »Bist du verrückt!« Und er fuhr sich mit beiden Händen nach dem eigenen Kopf. Er stand wie erstarrt. »Pfui – pfui – pfui!« schrie er wieder außer sich, »was hast du denn gethan?«
     </p>
-    <p xml:id="eco_de_000069_840">
+    <p xml:id="eco_de_0000212_840">
      »Aber ich hab dich doch gefragt,« antwortete sie ganz verängstigt, »du hast doch ›meinetwegen‹ gesagt.«
     </p>
-    <p xml:id="eco_de_000069_850">
+    <p xml:id="eco_de_0000212_850">
      »Wahnsinn!«
     </p>
-    <p xml:id="eco_de_000069_860">
+    <p xml:id="eco_de_0000212_860">
      »Nein, du hast's doch gesagt.«
     </p>
-    <p xml:id="eco_de_000069_870">
+    <p xml:id="eco_de_0000212_870">
      »Bewahre!« donnerte er sie an.
     </p>
-    <p xml:id="eco_de_000069_880">
+    <p xml:id="eco_de_0000212_880">
      »Heut morgen doch, als ich dich frug.«
     </p>
-    <p xml:id="eco_de_000069_890">
+    <p xml:id="eco_de_0000212_890">
      »Ja, wie konnte ich denn denken, daß du so ein Narr wärst, so ein alberner! Geh – geh – mach fort – ich kann dich nicht ansehen! – Auch das noch! Das fehlte noch gerade!«
     </p>
-    <p xml:id="eco_de_000069_900">
+    <p xml:id="eco_de_0000212_900">
      Er deckte die Augen mit beiden Händen zu, um sie nicht ansehen zu müssen, aß nicht und war ganz außer sich. Sie hingegen löffelte bedrückt und unterthänig ihre Suppe. Sie war so daran gewöhnt, gescholten zu werden, daß es sich bei ihr ganz gut mit einer Nebenbeschäftigung vertrug.
     </p>
-    <p xml:id="eco_de_000069_910">
+    <p xml:id="eco_de_0000212_910">
      Sie hatte gemeint, er würde es gar nicht bemerken, daß sie geschoren war – vielleicht erst am Abend, wenn die Kämmerei ausfiel.
     </p>
-    <p xml:id="eco_de_000069_920">
+    <p xml:id="eco_de_0000212_920">
      Ihr hatte es leid gethan, sich das Haar abzuschneiden, aber das Zanken wegen ihres Frisierens und die Angst immer, das hatte sie nicht mehr gewollt – und wenn es ihm so widerwärtig war, weshalb sollte sie denn ihr Haar behalten, für wen denn und weshalb denn? – Es war nun einmal alles, wie es war. Und sie hatte so allerlei dumpf und bang gefühlt, als wenn es mit ihr aus wäre, ganz aus – das bißchen Kochen und Flicken und Säubern, dazu brauchte sie ihr Haar nicht – das ging auch so.
     </p>
-    <p xml:id="eco_de_000069_930">
+    <p xml:id="eco_de_0000212_930">
      Und er hatte ja doch »meinetwegen« gesagt, als sie fragte, ganz so, wie sie es sich gedacht hatte.
     </p>
-    <p xml:id="eco_de_000069_940">
+    <p xml:id="eco_de_0000212_940">
      Und nun – was war denn nun? – Jetzt saß er da und aß nicht und behandelte seine Frau wie eine Verbrecherin.
     </p>
-    <p xml:id="eco_de_000069_950">
+    <p xml:id="eco_de_0000212_950">
      »Glaubst du denn,« donnerte er wieder los, »daß ich dich so geheiratet hätte – so – Doch eine Frau will man wenigstens haben – keinen Hanswurscht. – Kein solches entre-deux – Pfui – pfui – pfui! – geh mir aus den Augen! – Weshalb glaubst du denn, daß ich dich überhaupt geheiratet habe?« fragte er wütend und machte so ein Gesicht, als wollte er auf diese Frage eine Antwort von ihr haben.
     </p>
-    <p xml:id="eco_de_000069_960">
+    <p xml:id="eco_de_0000212_960">
      »Das weiß ich nicht,« sagte sie ganz verängstigt und sah ihn mit großen Augen an und hielt den gefüllten Löffel zwischen Teller und Lippen.
     </p>
-    <p xml:id="eco_de_000069_970">
+    <p xml:id="eco_de_0000212_970">
      »Ohne deine Haare ganz gewiß nicht – daß du es weißt, du dumme Gans!«
     </p>
-    <p xml:id="eco_de_000069_980">
+    <p xml:id="eco_de_0000212_980">
      »Du hast mir aber doch nie gesagt, daß du die Haare gern hattest,« sagte sie kleinlaut.
     </p>
-    <p xml:id="eco_de_000069_990">
+    <p xml:id="eco_de_0000212_990">
      »Weil das selbstverständlich ist – die Sachen liebt man doch!« rief er ganz desperat.
     </p>
-    <p xml:id="eco_de_000069_1000">
+    <p xml:id="eco_de_0000212_1000">
      »So,« sagte sie und sah ihn verwundert mit ihren armen Augen an.
     </p>
-    <p xml:id="eco_de_000069_1010">
+    <p xml:id="eco_de_0000212_1010">
      Er konnte keinen Bissen von allen guten Dingen, die weiter kamen, anrühren, und immer von neuem brach der Aerger bei ihm los.
     </p>
-    <p xml:id="eco_de_000069_1020">
+    <p xml:id="eco_de_0000212_1020">
      »Dir laufen nun die Gassenjungen nach – du – du –! Und von mir werden die Leute sagen, daß ich vollends verrückt bin, daß ich dir, Gott weiß weshalb, die Haare heruntergeschnitten habe – denn daß ein Weib das selbst gethan, werden sie nun und nimmermehr glauben.«
     </p>
-    <p xml:id="eco_de_000069_1030">
+    <p xml:id="eco_de_0000212_1030">
      So ging es fort. Er war unermüdlich – und es mochte ihm schon nahegegangen sein.
     </p>
-    <p xml:id="eco_de_000069_1040">
+    <p xml:id="eco_de_0000212_1040">
      »Siehste du,« sagte er, »wenn du dein Haar so um die Stirn hattest – so lose – wenn du in deinen Kissen lagst, da sahst du wie eine ›Lapine‹, wie eine Karnickelin aus – und da gefielst du mir immer so.« Und wie er das sagte, wurde er ganz weich.
     </p>
-    <p xml:id="eco_de_000069_1050">
+    <p xml:id="eco_de_0000212_1050">
      Sein kleines Weib wußte gar nicht, was sie von ihm halten sollte, sie war so erstaunt, wie noch nie bevor.
     </p>
-    <p xml:id="eco_de_000069_1060">
+    <p xml:id="eco_de_0000212_1060">
      »Hättest du mir nur gesagt, daß du die Haare magst, da hätte ich sie aber gewiß nich runter gemacht. Siehste, mir hat's auch leid gethan,« – und nun war die Reihe des Thränenvergießens an ihr; aber sie weinte aus den verschiedensten Gründen. Es kam ihr alles so unverständlich vor – und ihr Mann that ihr so leid. Es war nicht, wie es sein sollte mit ihm, das fühlte sie sehr wohl. Er steckte zu viel oben auf dem Horn, es war ihr ganz, als hätte man ihn unten in Weimar vergessen, und vor seiner Heirat war er doch Hans in allen Gassen gewesen. Mit der Anstellung, die doch schon einmal so gut wie gewiß war, verlautete auch gar nichts. Und seine Schreiberei, damit fleckte es auch nicht – und was er fertig hatte, das brachte er nicht an – that auch nichts damit, schloß die Sachen in sein Schreibpultchen, und damit war's gut.
     </p>
-    <p xml:id="eco_de_000069_1070">
+    <p xml:id="eco_de_0000212_1070">
      Und das mit dem »Lein-Oel« war ihr auch ganz schrecklich – und gar, daß sie es aufgebracht hatte.
     </p>
-    <p xml:id="eco_de_000069_1080">
+    <p xml:id="eco_de_0000212_1080">
      Ihr Mann hatte es ihr ja gesagt, von da an, mit dem »Lein-Oel« war sein böser Stern aufgegangen.
     </p>
-    <p xml:id="eco_de_000069_1090">
+    <p xml:id="eco_de_0000212_1090">
      Sie wußte es, daß sie in Weimar fast vergessen hatten, daß auf dem Horn nicht »Lein-Oels«, sondern Egidis wohnten. Und ihr selbst war es oft so traurig zu Mute – als wäre alles aus, als hätte überhaupt noch nie etwas für sie angefangen.
     </p>
-    <p xml:id="eco_de_000069_1100">
+    <p xml:id="eco_de_0000212_1100">
      Das und noch manches war wohl Grund genug, um ordentlich ins Weinen zu kommen. So steckten die beiden recht trübselig oben in ihrem Sommerhaus.
     </p>
-    <p xml:id="eco_de_000069_1110">
+    <p xml:id="eco_de_0000212_1110">
      Es fehlte ihnen an einem frischen Wind, der die Lebensgeister angefacht hätte. Bei ihnen glomm und qualmte es dumpf hin und konnte nicht ins Brennen kommen. Und so ging es weiter, der frische Wind blieb aus. Es kam keine Klarheit, und sie waren dabei, in ihrer Dumpfheit zu ersticken, wie schon tausend und aber tausend Ehepärchen.
     </p>
    </div>
@@ -441,97 +441,97 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_1120">
+    <p xml:id="eco_de_0000212_1120">
      Das Haar der kleinen Weidgans hatte sich wieder ans Wachsen gemacht und wunderlicherweise die Idee gefaßt, sich diesmal zu kräuseln. Es stand ihr wie ein Heiligenschein, wenn sie in die Sonne trat, ums Köpfchen. Und durch dieses merkwürdige Naturspiel kam es Lein-Oels Schwiegermutter ins Gedächtnis, daß Friederikchen als kleines Mädchen auch Ringellöckchen gehabt hatte, die aber ihre Mutter, die einen Zottelkopf nicht liebte, ihr sozusagen totgebürstet, totgekämmt und geklebt hatte. Und jetzt sollte diese Operation auch wieder vorgenommen werden – aber Lein-Oel erklärte rundweg: »Die Löckchen, die bleiben.« Und sie blieben, so wenig sie auch zu seiner ehrbußlichen Hausfrau zu passen schienen.
     </p>
-    <p xml:id="eco_de_000069_1130">
+    <p xml:id="eco_de_0000212_1130">
      Zu dieser Zeit ungefähr war Lein-Oel mit einem Schauspieler bekannt geworden, mit dem er sich hin und wider unten im Elefanten traf und den er abends auch einmal und dann öfter mit hinauf aufs Horn brachte.
     </p>
-    <p xml:id="eco_de_000069_1140">
+    <p xml:id="eco_de_0000212_1140">
      Friederikchen war dieser Verkehr sehr recht, denn es schien ihr, als lebte ihr Mann ordentlich auf, wenn er daheim Gesellschaft hatte. Der Schauspieler war ein lebhafter Mensch, kannte alle Welt, wußte tausenderlei zu erzählen, war immer obenauf, und der kleinen Weidgans machte es den größten Spaß, den beiden Männern zuzuhören, wenn sie beim Abendessen miteinander plauderten.
     </p>
-    <p xml:id="eco_de_000069_1150">
+    <p xml:id="eco_de_0000212_1150">
      So lustig wie an diesen Abenden ist noch nie, solange Egidis oben wohnten, im Sommerhaus gelacht worden.
     </p>
-    <p xml:id="eco_de_000069_1160">
+    <p xml:id="eco_de_0000212_1160">
      Der Gast war erst sei kurzem in Weimar, aber gut gelitten. Frau von Goethe schreibt von ihm zur Zeit, als sie schon Frau von Goethe und nicht mehr Mamselle Vulpius war: »Der ›Liebing‹ spillt heit awend.«
     </p>
-    <p xml:id="eco_de_000069_1170">
+    <p xml:id="eco_de_0000212_1170">
      Einen Liebing gab es aber niemals in Weimar, Frau von Goethes »Liebing« hat sich ganz anders geschrieben; aber weil sie ihn so genannt hat, wollen wir bei Liebing bleiben, da man mit Namennennung vorsichtig sein muß und ich mir dies gleich anfangs vorgenommen habe. Liebing war ein beweglicher Mensch mit seinen Gliedern, einem schmalen Kopf, nah aneinander stehenden dunkeln Augen, großem, gescheitem Mund. Er hatte von allem, was einen Schauspieler interessant macht, eine ganz hübsche Portion, war auch, so viel davon nötig sein mag, blasiert, verstand zu prahlen, außerordentlich vornehm und angenehm zu affektieren, war enfant terrible und enfang gâté aller Welt, verstand es auch, sich auf den Stühlen zu räkeln, die Frauen zu ignorieren auf eine Weise, die ihn doppelt interessant erscheinen ließ, und wenn es ihm paßte, dann war er wie ein Narr hinter irgend einem weiblichen Wesen her, rutschte auf den Knieen vor ihm, hörte und sah nichts weiter als eben das eine Frauenzimmer, und that alles, wie die Laune es ihm eingab.
     </p>
-    <p xml:id="eco_de_000069_1180">
+    <p xml:id="eco_de_0000212_1180">
      Man erzählte sich, daß er eine junge Dame aus den höchsten Kreisen in Weimar, nach einer Gesellschaft bei Excellenz Goethe, vor aller Augen, wie ein Verzückter, die Treppen hinabgetragen habe, und daß er dann die Kniee vor ihr gebeugt und sie angebetet habe mit erhobenen Händen. Es war eben seine Art, sich so anzustellen, und er that, was er that, ohne sich um jemand zu kümmern, immer, als wäre er ganz allein da, und das imponierte den Leuten, und ganz besonders den Weibern.
     </p>
-    <p xml:id="eco_de_000069_1190">
+    <p xml:id="eco_de_0000212_1190">
      Die Backfische schnitten seinen Namen aus den Theaterzetteln und legten ihn sich aufs Butterbrot, verzehrten ihn so und waren dadurch beseligt und gleichsam mit dem Herrlichen verbunden.
     </p>
-    <p xml:id="eco_de_000069_1200">
+    <p xml:id="eco_de_0000212_1200">
      Die heutigen weimarischen Backfische haben diese schöne Sitte beibehalten. Es ist gewissermaßen ihr Privilegium geworden, geliebte Namen aus dem Zettel zu schneiden und auf dem Butterbrot zu verspeisen. Aber damals mit Liebing begann es, damals war es originell, der unmittelbare Ausdruck gewaltigen Empfindens.
     </p>
-    <p xml:id="eco_de_000069_1210">
+    <p xml:id="eco_de_0000212_1210">
      Es ist auch möglich, daß es in Frau von Goethes Brief »Liebling« statt »Liebing« heißen sollte – Gott weiß, was die Weiber in der sentimentalen Zeit, Anfang unsres Jahrhunderts, ihrem Abgott für Liebesbezeichnungen gaben.
     </p>
-    <p xml:id="eco_de_000069_1220">
+    <p xml:id="eco_de_0000212_1220">
      Also Liebing erging es in Weimar vortrefflich und er war obenauf, wie nur ein Mensch obenauf sein kann.
     </p>
-    <p xml:id="eco_de_000069_1230">
+    <p xml:id="eco_de_0000212_1230">
      Er war so glücklich, wirklich eine Ausnahmsstellung in der Gesellschaft einzunehmen und thun zu können, was ihm behagte.
     </p>
-    <p xml:id="eco_de_000069_1240">
+    <p xml:id="eco_de_0000212_1240">
      »Kleinigkeit, Ihre Sachen Excellenz zu übergeben,« versicherte er Lionel einmal übers andre und bat ihn dann, etwas davon vorzulesen – denn die Katze im Sack nehmen, das wollte er nicht.
     </p>
-    <p xml:id="eco_de_000069_1250">
+    <p xml:id="eco_de_0000212_1250">
      So war Liebing aufs Horn gekommen; und es behagte ihm dort. Wie ein junger Gott kam er sich da oben vor. Er hatte das Gefühl, in das alte Sommerhaus Glück und Segen zu bringen.
     </p>
-    <p xml:id="eco_de_000069_1260">
+    <p xml:id="eco_de_0000212_1260">
      Lein-Oel las ihm mit der Erregung, die ein unbeachteter Mensch fühlt, der endlich einmal hervortritt, einiges aus seinen Arbeiten vor, und es war ihm, als geschähe damit etwas Entscheidendes.
     </p>
-    <p xml:id="eco_de_000069_1270">
+    <p xml:id="eco_de_0000212_1270">
      Und Liebing lobte, spielte den Meister und den alles Vermögenden – und ließ sich vortrefflich bewirten – und versprach Lein-Oel goldene Berge, und nebenbei gefiel ihm Lein-Oels Frau, die kleine Weidgans, gar nicht übel.
     </p>
-    <p xml:id="eco_de_000069_1280">
+    <p xml:id="eco_de_0000212_1280">
      Wenn sie so dasaß und andächtig zuhörte, wie die beiden Männer miteinander sprachen, und wenn Liebing Lein-Oels Sachen lobte, da strahlte ihr Gesicht und ihre Augen ruhten mit einem dankbaren, bewundernden Ausdruck auf Liebing. Jetzt war ihr Lein-Oel doch glücklich! – Jetzt war es besser für ihn – und was alles kommen würde für ihren armen guten Mann. Glück und Ehre in Hülle und Fülle – und all diese über ihnen schwebenden Glücksgüter, die sich nur noch nicht völlig zu ihnen niedergelassen hatten, die waren durch Liebing gekommen, der hatte alles, alles gebracht – der edle; gute Mann.
     </p>
-    <p xml:id="eco_de_000069_1290">
+    <p xml:id="eco_de_0000212_1290">
      Und Lein-Oel war auch viel freundlicher mit ihr, der kleinen Weidgans, vergaß, sie bei manchen Dingen zu schelten, und sie ging leer aus, wenn sie schon ganz gefaßt war, daß es etwas geben würde.
     </p>
-    <p xml:id="eco_de_000069_1300">
+    <p xml:id="eco_de_0000212_1300">
      Lein-Oel hatte mancherlei Dinge geschrieben, ganz besonders hatte er an Fabeln und Gleichnissen seine Freude, und es war ihm da allerlei beigefallen.
     </p>
-    <p xml:id="eco_de_000069_1310">
+    <p xml:id="eco_de_0000212_1310">
      So war er zu einer Fabel gekommen, die hieß: »Der Wortpelzverlust«.
     </p>
-    <p xml:id="eco_de_000069_1320">
+    <p xml:id="eco_de_0000212_1320">
      Und in dieser Fabel stand unter anderm folgendes: Sie hatten ihre Wortpelze verloren, die schwammigen Wortpelze, mit denen sie ein Gedankennichts so gut aufzubauschen verstanden, mit denen sie einen Gedankenkrüppel hübsch säuberlich auswattieren konnten, und standen nun nackt und kahl in aller Elendigkeit da und wußten nicht, was sie thun sollten, schämten sich und froren, keiner erkannte den andern in seiner Nacktheit, und sie wollten einander auch nicht erkennen, das war ihnen viel zu despektierlich. Und so gingen sie stumm und dumm und sehnten sich nach ihren alten bequemen Pelzen, die ein Teufel, der seinen Spaß daran haben mochte, ihnen weggenommen hatte.
     </p>
-    <p xml:id="eco_de_000069_1330">
+    <p xml:id="eco_de_0000212_1330">
      Sie waren ganz zu nichts geworden, erbärmliche, elende Kreaturen.
     </p>
-    <p xml:id="eco_de_000069_1340">
+    <p xml:id="eco_de_0000212_1340">
      Es fiel ihnen auch wirklich sehr schwer, sich selbst und ihre Brüder zu erkennen, und sie sahen sich scheu nach all der Würde und Herrlichkeit um, die sie einst umkleidet hatte, als sie alle ihren herrlichen Wortpelz noch hatten, schauten sich um nach der Würde des Menschentums, nach aller Weisheit und Erhabenheit, und fanden nichts mehr und konnten nicht begreifen, wo alles geblieben sei.
     </p>
-    <p xml:id="eco_de_000069_1350">
+    <p xml:id="eco_de_0000212_1350">
      Hochweise Herren, die immer sonst das große Wort führten, waren jetzt zu fadendünnen, jammervollen Bürschchen geworden, die ein Lufthauch zu Dutzenden umblasen konnte. Sie hatten doch früher allen gewaltig imponiert.
     </p>
-    <p xml:id="eco_de_000069_1360">
+    <p xml:id="eco_de_0000212_1360">
      Sie standen umher, so nackt und bloß, und wunderten sich, daß unter ihnen hier und da etliche, sehr wenige Leute, die der Verlust der Wortpelze nicht mitbetroffen hatte, wohl und schön eingewickelt wie sonst gingen, als man noch ihre Einfachheit unter all den wundervollen Pelzröcken nicht geachtet hatte.
     </p>
-    <p xml:id="eco_de_000069_1370">
+    <p xml:id="eco_de_0000212_1370">
      Jetzt aber waren sie beneidet und angestaunt, und die armseligen Nacktfrösche hätten ihnen die einfachen schönen Röcke am liebsten vom Leibe gerissen, um sich selbst damit zu bedecken, wenn das angegangen wäre.
     </p>
-    <p xml:id="eco_de_000069_1380">
+    <p xml:id="eco_de_0000212_1380">
      »Wer mögen diese Leute sein? Weshalb sind sie verschont geblieben – Weshalb hat der schimpfliche Verlust sie nicht auch betroffen?« das riefen alle.
     </p>
-    <p xml:id="eco_de_000069_1390">
+    <p xml:id="eco_de_0000212_1390">
      Das kann und will ich sagen: Es sind die Leute, die nicht mit Worten dachten, die sich nicht von Worten blenden ließen, die sich nicht mit Worten zufrieden gaben.
     </p>
-    <p xml:id="eco_de_000069_1400">
+    <p xml:id="eco_de_0000212_1400">
      Es sind die Leute, die das Elend, die jämmerliche Verlogenheit an jedem, auch dem herrlichsten Worte kleben sahen, die mit vornehmem Widerstreben diese abgegriffenen, schmutzigen Münzen gebrauchten, um Dinge, die weit über diesen armen Worten liegen, mühselig, herabgewürdigt und ewig ungenügend den Menschen zu offenbaren.
     </p>
-    <p xml:id="eco_de_000069_1410">
+    <p xml:id="eco_de_0000212_1410">
      Es sind die Leute, die über der stumpfsinnigen Gewohnheit stehen, die den Zauber der ersten Anschauung in die Worte legen und so das Uebersehene, Allzugewöhnte neu vor Augen stellen.
     </p>
-    <p xml:id="eco_de_000069_1420">
+    <p xml:id="eco_de_0000212_1420">
      Nur solche Leute, die nicht nur an Worten hingen, die sich den hergebrachten Redensarten nicht fügten und weit über diese hinaus fühlten und dachten, standen bei dem großen Wortpelzverlust nicht kahl und nackt und armselig da. Er hatte ihnen gar nichts anhaben können. – Aber ihrer waren wenige.
     </p>
    </div>
@@ -539,13 +539,13 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_1430">
+    <p xml:id="eco_de_0000212_1430">
      Solcherlei Dinge schrieb Lein-Oel, und als er so ein ganzes Päckchen nach und nach Liebing vorgelesen hatte, legte dieser auf dieses Häuflein den Wortpelzverlust, schob alles in seine Tasche, um es Excellenz Goethe wirklich zu überreichen.
     </p>
-    <p xml:id="eco_de_000069_1440">
+    <p xml:id="eco_de_0000212_1440">
      Es waren schöne Abende oben auf dem Horn im alten Sommerhaus gewesen, als die drei Menschen, Lein-Oel, Liebing und ein junges, liebreizendes Weib, da miteinander saßen. Drei Menschen? Lein-Oel, Liebing und die kleine Weidgans, Lein-Oels Frau doch? – aber kein liebreizendes, junges Weib, denkt der Leser und meint, er wäre unversehens in eine andre Geschichte geraten. Es ist ganz richtig: Lein-Oel, Liebing und die kleine Weidgans saßen da miteinander – aber um die Stirn der kleinen Frau hatten sich die abgeschnittenen Haare in Löckchen gekräuselt – und sie schaute mit so großen, dankbaren, wunderlichen Augen auf Liebing, mit so strahlenden Augen, so glückseligen Augen, daß Lein-Oel die kleine Weidgans selbst nicht mehr erkannte.
     </p>
-    <p xml:id="eco_de_000069_1450">
+    <p xml:id="eco_de_0000212_1450">
      Ueber ihr braves Gesichtchen hatte das Glück seinen Zauber gebreitet; wenn es auch nur ein Funke wahren Glückes ist, es ist immer göttlich, steht siegreich über jedem andern Ausdruck, wäscht die Gesichter rein von aller kleinbürgerlichen Ehrbarkeit, aller Zimperlichkeit, aller Verzerrung, das Glück spült das alles hinweg.
     </p>
    </div>
@@ -553,61 +553,61 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_1460">
+    <p xml:id="eco_de_0000212_1460">
      An einem Abend, als Liebing spät gegangen war – die Fenster standen offen, das Licht flackerte, die weiche Herbstluft drang ein – ging Lein-Oel im Zimmer auf und nieder und simulierte und baute an neuen Luftschlössern – und das kleine Weib blickte wie gedankenverloren in die bewegte Flamme, – da, mit einemmal flog es Lein-Oel wie ein weicher, großer Vogel an die Brust – und Friederikchen hing mit ausgebreiteten Armen an ihm. »Ach du – er ist so gut!« flüsterte sie und schaute ihren Mann mit großen, strahlenden Augen an.
     </p>
-    <p xml:id="eco_de_000069_1470">
+    <p xml:id="eco_de_0000212_1470">
      »Bist du verrückt?«
     </p>
-    <p xml:id="eco_de_000069_1480">
+    <p xml:id="eco_de_0000212_1480">
      Aber sie achtete nicht auf das, was er sagte, und verbarg ihr Gesicht an seinem Herzen. – »Wie wir ihm danken müssen! – Wie gut, daß er gekommen ist!« flüsterte sie unter Thränen.
     </p>
-    <p xml:id="eco_de_000069_1490">
+    <p xml:id="eco_de_0000212_1490">
      »Ach Leinel, es is so scheen jetzt bei uns – lieber – lieber Leinel, sei nun auch manchmal gut mit mir!« Das sagte sie so demütig süß.
     </p>
-    <p xml:id="eco_de_000069_1500">
+    <p xml:id="eco_de_0000212_1500">
      Wie ihm das zu Herzen ging! Er schämte sich. Hatte er sie denn bis jetzt ein allereinziges Mal glücklich gesehen?
     </p>
-    <p xml:id="eco_de_000069_1510">
+    <p xml:id="eco_de_0000212_1510">
      Immer unterwürfig, immer geduckt, immer pflichttreu wie eine kleine Maschine – und nun mit einemmal diese Seligkeit. An seinem Hals hing ein ihm ganz fremdes, süßes Geschöpf – ein Weib in wunderlicher, zärtlicher Verwirrung – das wie im Traum sprach, ganz unschuldig; und dieses wonnige Haar – wie ein goldener Schein – und dieses Anschmiegen! die zärtlichen, jungen Glieder! – Wie es ihn durchschauerte. – War das sein Weib, sein langweiliges, ehrbußliches Weib, die dumme, kleine Weidgans?
     </p>
-    <p xml:id="eco_de_000069_1520">
+    <p xml:id="eco_de_0000212_1520">
      Und was sie sprach! So voller Vertrauen zu ihm – und voll heißer, sinnverwirrender Liebe zu einem andern.
     </p>
-    <p xml:id="eco_de_000069_1530">
+    <p xml:id="eco_de_0000212_1530">
      Wie gelähmt war er – ganz starr – rohhart, würden die Weimaraner sagen. War's ihm doch, als müßte er sie von sich schleudern wie eine giftige Schlange; – aber er konnte kein Glied rühren – er konnte nicht sprechen – nicht denken – nicht wollen. Er hielt sie, als wäre nichts geschehen – nichts gesprochen, als wäre er vor Schreck über das Außergewöhnliche versteinert.
     </p>
-    <p xml:id="eco_de_000069_1540">
+    <p xml:id="eco_de_0000212_1540">
      Und die kleine Weidgans schmiegte sich in seligem Vertrauen weiter an ihn und hing in aller Unschuld ihrer aufstrebenden Liebe nach, wie an der Brust eines guten Vaters.
     </p>
-    <p xml:id="eco_de_000069_1550">
+    <p xml:id="eco_de_0000212_1550">
      Lein-Oel machte sich endlich schwer atmend von ihr los, stumm und dumm. Vor der Unschuld seines Weibes blieb ihm der Verstand stehen.
     </p>
-    <p xml:id="eco_de_000069_1560">
+    <p xml:id="eco_de_0000212_1560">
      Alles war wie ein Zauber vor sich gegangen – war es vor sich gegangen oder nicht vor sich gegangen? War er verrückt oder nicht verrückt? – Hatte sie etwas gesagt oder hatte sie nichts gesagt? – Er wußte es nicht, war plötzlich wie mitten in einem Nervenfieber angelangt.
     </p>
-    <p xml:id="eco_de_000069_1570">
+    <p xml:id="eco_de_0000212_1570">
      Und wie er scheu und wie aus den Wolken gefallen nach ihr hinblickte, lag auf dem jungen Weibe ein Sonnenglanz von traumhaftem Glück, wie er ihn nie in seinem Leben auf irgend einem Menschenantlitz gesehen hatte. Wie ein Engel in seiner unschuldigen Herrlichkeit sah sie aus.
     </p>
-    <p xml:id="eco_de_000069_1580">
+    <p xml:id="eco_de_0000212_1580">
      Ihm waren die Hände gebunden, er hätte nicht plump in dieses Strahlen etwas werfen können, nicht seine Wut, nicht seine Verachtung, nicht seine Eifersucht, nicht sein Mißtrauen.
     </p>
-    <p xml:id="eco_de_000069_1590">
+    <p xml:id="eco_de_0000212_1590">
      Stumm wie ein Fisch blieb er.
     </p>
-    <p xml:id="eco_de_000069_1600">
+    <p xml:id="eco_de_0000212_1600">
      Und in seinem innersten Herzen stieg es ihm auf, daß seine Gleichgültigkeit, seine Lehrhaftigkeit, seine Mißachtung, seine schlechte Behandlung, seine Hoffärtigkeit – wie ein Stein schwer auf der armen, kleinen Weidgans gelegen, daß er sie wirklich wie eine Gans achtlos in einen dunkeln Stall gesperrt und gar nicht bemerkt hatte, was für ein schöner, lustiger Vogel sie war – ein Vogel, der in der Sonne leben wollte.
     </p>
-    <p xml:id="eco_de_000069_1610">
+    <p xml:id="eco_de_0000212_1610">
      Und das stimmte ihn nachsichtig und bedrückte ihn und ließ seinen ehelichen, richterlichen Zorn nicht zum Ausbruche kommen.
     </p>
-    <p xml:id="eco_de_000069_1620">
+    <p xml:id="eco_de_0000212_1620">
      Die kleine Weidgans ging ungestört und unschuldig wie ein Engel schlafen.
     </p>
-    <p xml:id="eco_de_000069_1630">
+    <p xml:id="eco_de_0000212_1630">
      Und als Liebing eines schönen Abends wiederkam, strahlte sie ihn in aller Harmlosigkeit wie ihr Götterbild an, und auch Liebings Gefallen an der schmachtenden, allerliebsten Frau stieg von Abend zu Abend – und er fühlte schon eine Art Raptus über sich kommen, und wußte, daß er wie ein Narr hinter der kleinen Weidgans herlaufen würde.
     </p>
-    <p xml:id="eco_de_000069_1640">
+    <p xml:id="eco_de_0000212_1640">
      Liebing war wirklich ohne alle Komödie ein sehr verliebter Kater. Alle Nasenlang hatte er eine unsinnige Glückseligkeit oder Verzweiflung durchzumachen – und wäre er nicht enfant terrible und enfant gâté von aller Welt gewesen, so möchte ich wissen, was die Weimaraner über den Lebenswandel ihres Liebing gesagt hätten; so aber drückten sie ein Auge über das andre zu und ließen sich durch nichts in ihrer Vergötterung stören.
     </p>
    </div>
@@ -615,76 +615,76 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_1650">
+    <p xml:id="eco_de_0000212_1650">
      Aber ganz wie Liebing es befürchtet hatte, traf es ein. Er wurde wieder einmal Narr, vernachlässigte alle und jede und lief der kleinen Weidgans nach auf Schritt und Tritt, wo er nur hoffen durfte, ihr zu begegnen. Oben auf dem Horn strich er umher im Dunkeln. – Und da war es auch einmal, daß er über die Mauer in Lein-Oels Garten stieg, aus verrückter Laune – und daß er zufällig das kleine hübsche Weib im Garten traf, das da im Dunkeln schwärmerisch und wie ein schwermütiges Kätzchen promenierte.
     </p>
-    <p xml:id="eco_de_000069_1660">
+    <p xml:id="eco_de_0000212_1660">
      Und dieses Zusammentreffen mochte wie ein zündender Blitzstrahl gewirkt haben, der auch, wo er niederfährt, alle Vernunft und Ueberlegung verscheucht.
     </p>
-    <p xml:id="eco_de_000069_1670">
+    <p xml:id="eco_de_0000212_1670">
      Liebing hatte wie ein Wirbelsturm das kleine, thörichte Geschöpf gefaßt und geküßt – geküßt! – Ja, mein Gott, geküßt, daß der Kleinen die Sinne schwanden! – Was war das für eine Liebe! – Da vergaß man alles – alles miteinander dabei, und es war Liebing, der herrliche Liebing! Das hatte gar keine Aehnlichkeit mit Lein-Oels bedächtigen, ehrbaren Küssen, die er ihr hin und wieder in aller Gemütlichkeit gegeben hatte, weil es so sein mußte und sein sollte und in der Ordnung war. Aber das, was jetzt über sie hereinstürmte, das war das leibhaftige Feuer, die leibhaftige Seligkeit!
     </p>
-    <p xml:id="eco_de_000069_1680">
+    <p xml:id="eco_de_0000212_1680">
      Ihr schien es, als wäre ein Gott zu ihr herniedergestiegen.
     </p>
-    <p xml:id="eco_de_000069_1690">
+    <p xml:id="eco_de_0000212_1690">
      Sie fühlte keine Reue, sie hatte keine Gedanken, sie war ein Blatt, vom wilden Sturm der Liebe erfaßt und geschüttelt.
     </p>
-    <p xml:id="eco_de_000069_1700">
+    <p xml:id="eco_de_0000212_1700">
      Daß es so etwas auf Erden gab! – Das Herz jauchzte ihr! Jetzt war sie erst geboren, das war erst Leben, alles andre dumpfer Qualm, erstickender Qualm!
     </p>
-    <p xml:id="eco_de_000069_1710">
+    <p xml:id="eco_de_0000212_1710">
      Und als Liebing von ihr gestürzt war, stand sie wie eine Bildsäule starr – und lief mit einemmal wie gehetzt dem Hause zu, die Treppe hinauf und stürzte vor ihren Mann hin, der an seinem Arbeitstisch saß und schrieb, und preßte ihr Gesicht an ihn und schluchzte wild und heiß wie ein erschüttertes Kind.
     </p>
-    <p xml:id="eco_de_000069_1720">
+    <p xml:id="eco_de_0000212_1720">
      Und er fragte – und sie antwortete – so schwül, so bang – so treu und ehrlich – so unschuldig – so sinnlos.
     </p>
-    <p xml:id="eco_de_000069_1730">
+    <p xml:id="eco_de_0000212_1730">
      Und er konnte sie nicht schlagen und nicht treten, und auch nicht von sich stoßen. Er war überwältigt von etwas Unbegreiflichem.
     </p>
-    <p xml:id="eco_de_000069_1740">
+    <p xml:id="eco_de_0000212_1740">
      Es lag etwas Unwiderstehliches in dem umgewandelten kleinen Weibe und solch unerhörte Offenheit – Rückhaltlosigkeit und Liebesunschuld.
     </p>
-    <p xml:id="eco_de_000069_1750">
+    <p xml:id="eco_de_0000212_1750">
      Es war ein Stück Natur, das sprechen konnte – gar nichts weiter.
     </p>
-    <p xml:id="eco_de_000069_1760">
+    <p xml:id="eco_de_0000212_1760">
      Er starrte darauf hin und hörte, was es sprach, und da war keine Lüge, keine Verstellung. Es war eine Quelle, die er niedergehalten, und die nun wild und unwiderstehlich ihm entgegen und über ihn her sprudelte.
     </p>
-    <p xml:id="eco_de_000069_1770">
+    <p xml:id="eco_de_0000212_1770">
      Was war da zu wüten und zu zürnen – es war so, wie es war.
     </p>
-    <p xml:id="eco_de_000069_1780">
+    <p xml:id="eco_de_0000212_1780">
      Er fühlte aber einen unsinnigen Schmerz, als wäre er verwundet.
     </p>
-    <p xml:id="eco_de_000069_1790">
+    <p xml:id="eco_de_0000212_1790">
      Daß seine Weidgans ihm solche Qual bereiten konnte! Darüber hätte er fast lachen können. Aber das war ja die Weidgans nicht mehr!
     </p>
-    <p xml:id="eco_de_000069_1800">
+    <p xml:id="eco_de_0000212_1800">
      »Ah siehste, daß ich dir das duh!« schluchzte das kleine Weib und sah ihn so gut und treu und unterwürfig an, so hilflos und um Erbarmen bittend.
     </p>
-    <p xml:id="eco_de_000069_1810">
+    <p xml:id="eco_de_0000212_1810">
      Und er that ihr so leid – das rief sie ein über das andre Mal.
     </p>
-    <p xml:id="eco_de_000069_1820">
+    <p xml:id="eco_de_0000212_1820">
      »Ach, du duhft mir so leid!«
     </p>
-    <p xml:id="eco_de_000069_1830">
+    <p xml:id="eco_de_0000212_1830">
      Und hatte er zuerst nicht gezürnt und gewütet – jetzt ging es nicht mehr – jetzt war er darin im Strom, jetzt war er mit fortgerissen. Er wurde gut, übermenschlich gut, ohne zu wissen, wie es eigentlich gekommen. Nie hatte er früher etwas dergleichen in sich gespürt – und nun mit einemmal.
     </p>
-    <p xml:id="eco_de_000069_1840">
+    <p xml:id="eco_de_0000212_1840">
      Wie ein Dämon verlangte das Weibchen Uebermenschliches von ihm, und wie verhext, wie geblendet that er alles, was das kleine Ungeheuer von ihm wollte.
     </p>
-    <p xml:id="eco_de_000069_1850">
+    <p xml:id="eco_de_0000212_1850">
      Eine nützliche Gans hatte er zu sich hereingelassen, ein unbedeutendes mißachtetes Weib, von dem er nichts wollte, als daß es gut kochen sollte, daß es ihm diente und aufging in Arbeit und Sparsamkeit, Demut und Hingebung.
     </p>
-    <p xml:id="eco_de_000069_1860">
+    <p xml:id="eco_de_0000212_1860">
      Aus diesem gutmütigen Nutztier war aber ein Geschöpf geworden wie eine Sphinx, ein rätselhaftes Tier, das ihn beherrschte, unter dessen Zauber er geraten war, das ihm das Herz zerriß.
     </p>
-    <p xml:id="eco_de_000069_1870">
+    <p xml:id="eco_de_0000212_1870">
      Die kleine Weidgans ahnte in ihrem Taumel nicht, was für ein unerhörter Zustand zwischen ihr und ihrem Manne bestand. Sie fühlte sich so sicher bei ihm – er war so gut!
     </p>
-    <p xml:id="eco_de_000069_1880">
+    <p xml:id="eco_de_0000212_1880">
      Und Lein-Oel hatte das sonderbare Schicksal, den Liebesrausch seines Weibes und alle Begegnungen und alles, was zwischen den Liebenden sich zutrug, gewissermaßen mitzuerleben. Ihr Vertrauen und ihre demütige, rückhaltlose Offenheit kannte keine Grenzen.
     </p>
    </div>
@@ -692,187 +692,187 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_1890">
+    <p xml:id="eco_de_0000212_1890">
      Als der November herankam und die langen Abende, da wurde das kleine Weib von tiefer Sehnsucht gepackt. Es lag wie eine Schwermut über ihr – und sie war haltlos wie ein Schilfhalm im Winde. Und was sie wollte und was sie dachte, das lag so offenbar. Sie war wie durchsichtig – den blonden Kopf mit den windigen Löckchen legte sie müde auf die Arme, wenn sie am Tische saß, an dem sie sonst so eifrig gestopft und geflickt hatte – und dabei liefen ihr die Thränen über die Wangen. Und wenn sie gar nicht mehr ein und aus wußte, lehnte sie sich ihrem Mann in die Arme wie ein krankes Kind.
     </p>
-    <p xml:id="eco_de_000069_1900">
+    <p xml:id="eco_de_0000212_1900">
      Und als wäre es ganz natürlich, und als hätten tausend Ehemänner vor ihm schon so gehandelt, nahm er den Arm seines Weibchens in den seinen, half ihr das Kapuzchen aufsetzen und führte sie hinunter nach Weimar, um Liebing zu begegnen. Er wußte gar nicht mehr, was er machen sollte, that alles, wie von einem dunkeln Geist getrieben.
     </p>
-    <p xml:id="eco_de_000069_1910">
+    <p xml:id="eco_de_0000212_1910">
      Er hatte den Anfang versäumt, er hätte sie am Anfang schlagen sollen, er hätte sie treten und von sich schleudern sollen, da hätte die Sache ein andres Gesicht bekommen – aber nun – nun mit einemmal – nun war's verspielt.
     </p>
-    <p xml:id="eco_de_000069_1920">
+    <p xml:id="eco_de_0000212_1920">
      So gingen sie miteinander den dunkeln Weg nach Weimar hinab, sie zitternd an ihn gelehnt, scheu und vertrauensvoll zugleich. Es war der 10. November, der Martinstag. Die Straßen waren hie und da mit einer Oellampe erhellt, die an einer Kette hing, die quer über die Straße lief; aber auf dem Marktplatz, da standen die erleuchteten Buden, da war ein ganz ungewohntes Leben. Ganz Weimar lief zwischen der einen langen Budenreihe hin und her und kaufte Pfefferreiter, weiße und braune, und Pfefferkuchen mit Sprüchen, Pfefferkuchen mit Mandeln, und bei den Hökerweibern, die ihre Ware mit einem Laternchen beleuchtet hatten, Aepfel und Nüsse. Alle Fenster rings um den Markt her waren hell erleuchtet, denn überall wurde heute die Martinsgans gegessen.
     </p>
-    <p xml:id="eco_de_000069_1930">
+    <p xml:id="eco_de_0000212_1930">
      Die Kinder brieten, sowie sie mit ihren Schätzen daheim angelangt waren, ihre Aepfel in der Ofenröhre. Aus Apothekers Haus kamen ganze Ströme von Duft heraus nach Bratäpfeln und auch nach Martinsgans; da war heute die ganze Gesellschaft versammelt, die Ratsmädchen mit ihrer Sippe und Müllersch, und bei Tiburtsiusens ging's auch hoch her, das sah man an der strahlenden Beleuchtung.
     </p>
-    <p xml:id="eco_de_000069_1940">
+    <p xml:id="eco_de_0000212_1940">
      Zu denen, die auf dem Markte wohnten, kamen heute eben alle aus allen Ecken und Enden von Weimar angelaufen, um den Martinsmarkt vom Fenster aus zu beobachten.
     </p>
-    <p xml:id="eco_de_000069_1950">
+    <p xml:id="eco_de_0000212_1950">
      Dort konnte man wirklich auch alles sehen, was nur in Weimar zu sehen war, und man begegnete aller Welt.
     </p>
-    <p xml:id="eco_de_000069_1960">
+    <p xml:id="eco_de_0000212_1960">
      Auch Goethe sah sich das bunte Treiben zwischen der hellen Budenstraße gern an.
     </p>
-    <p xml:id="eco_de_000069_1970">
+    <p xml:id="eco_de_0000212_1970">
      Lein-Oel und sein kleines Weib begegneten heute aber Frau von Goethe, die lebhaft umherlief und Einkäufe machte, und mit ihren großen, schwarzen Augen sich alles genau betrachtete und um alles gehörig feilschte, wie es eine gute weimarische Hausfrau zu jeder Zeit redlich gethan hat.
     </p>
-    <p xml:id="eco_de_000069_1980">
+    <p xml:id="eco_de_0000212_1980">
      Die Goethe sprach mit unsern beiden, war ganz beladen mit Pfefferkuchen und Pfefferreitern, erzählte, daß sie gewaltig eilen müsse, um zur Gans rechtzeitig daheim zu sein, und daß sie dazu Hagebutten mit Rosinen gäbe, alles halb und halb, das Leibkompott ihres Geheimrats.
     </p>
-    <p xml:id="eco_de_000069_1990">
+    <p xml:id="eco_de_0000212_1990">
      Aber wen Lein-Oels auch begegnet haben mochten, Liebing blieb aus, und sie waren nun schon in der Budenstraße oft genug auf und nieder gegangen.
     </p>
-    <p xml:id="eco_de_000069_2000">
+    <p xml:id="eco_de_0000212_2000">
      Aber schließlich sahen sie ihn doch – und da war er auch schon neben ihnen und allerbester Laune und kaufte Pfefferreiter, und die kleine Weidgans wachte auf wie aus einem tiefen Schlafe und lebte wieder auf und sah aus wie ein Kind vor dem Weihnachtsbaum – und schließlich ging Liebing mit beiden hinauf zu Tiburtsiusens. Das war ein wundervoller Abend für die kleine Weidgans.
     </p>
-    <p xml:id="eco_de_000069_2010">
+    <p xml:id="eco_de_0000212_2010">
      Denn Frau Rat Tiburtsius hatte mit allen Gästen, die sich oben bei ihr angesammelt hatten, einen Streifzug hinunter auf den Markt unternommen, und da ging es immer wie im Märchen »Schwan, kleb an«, sie brachten einen ganzen Schwanz mit hinauf.
     </p>
-    <p xml:id="eco_de_000069_2020">
+    <p xml:id="eco_de_0000212_2020">
      Beim Nachhausegehen hing sie sich glücklich und schläfrig in den Arm ihres Mannes ein, und er hatte an ihr schwer zu schleppen, denn er dachte, daß die Sache ein Ende nehmen müsse und was er eigentlich mit dem unsinnigen Geschöpf beginnen solle, und er wußte wieder nicht ein und nicht aus.
     </p>
-    <p xml:id="eco_de_000069_2030">
+    <p xml:id="eco_de_0000212_2030">
      So ging es noch eine Weile fort.
     </p>
-    <p xml:id="eco_de_000069_2040">
+    <p xml:id="eco_de_0000212_2040">
      Eines schönen Abends kam ihm seine Weidgans gar nicht mehr nach Hause. Es war stockfinster, und er wartete wie ein Narr. Sie hatte ihn verlassen.
     </p>
-    <p xml:id="eco_de_000069_2050">
+    <p xml:id="eco_de_0000212_2050">
      So mußte es kommen.
     </p>
-    <p xml:id="eco_de_000069_2060">
+    <p xml:id="eco_de_0000212_2060">
      Das dachte er, so weit man es denken nennen kann – denn er saß da und starrte vor sich hin und fuhr sich mit den Händen ins Haar.
     </p>
-    <p xml:id="eco_de_000069_2070">
+    <p xml:id="eco_de_0000212_2070">
      Was hatte er nun?
     </p>
-    <p xml:id="eco_de_000069_2080">
+    <p xml:id="eco_de_0000212_2080">
      Ein leeres Haus – Unbehagen in allen Ecken – Spott und Hohn, denn wer den Schaden hat, braucht für den Spott nicht zu sorgen; und was das Schlimmste war, einen ungeheuren Schmerz, eine große Leere, es war ihm, als wäre ein Leben ohne die kleine Weidgans ihm unmöglich. Sie fehlte ihm in allen Ecken. Ihre blonden Locken, ihre flinken Schritte – das ganze Persönchen, ihr Hantieren um ihn her und ihre Stimme – ach, auch ihr weimarisches Sprachschimpfieren, was ihm so qualvoll gewesen, jetzt, in der Erinnerung, klang es ihm wie Musik. Und manchmal war es ihm, als führe ihm das lebendige Feuer durch den Körper, wenn er an Liebing dachte, und wie sie nun miteinander auf und davon gegangen.
     </p>
-    <p xml:id="eco_de_000069_2090">
+    <p xml:id="eco_de_0000212_2090">
      Was für ein Esel war er gewesen!
     </p>
-    <p xml:id="eco_de_000069_2100">
+    <p xml:id="eco_de_0000212_2100">
      Aber nein – nein, tausendmal nein, seine kleine Weidgans wie ein Kerkermeister zwingen, das hätte er nie gekonnt – nie. Was hätte er dann gehabt? Ein verzweifeltes, weinendes, übel gelauntes Weibsbild, eine Trauerweide, ein Hauskreuz.
     </p>
-    <p xml:id="eco_de_000069_2110">
+    <p xml:id="eco_de_0000212_2110">
      »Um Gotteswillen!«
     </p>
-    <p xml:id="eco_de_000069_2120">
+    <p xml:id="eco_de_0000212_2120">
      Ja, wenn sie angeflogen gekommen wäre, die dumme kleine Gans – aus freiem Willen – mein Gott – das wäre etwas gewesen.
     </p>
-    <p xml:id="eco_de_000069_2130">
+    <p xml:id="eco_de_0000212_2130">
      Nichts als Kreuz und Aerger hatte er von dem Geschöpf gehabt, dachte er nun wieder wütend weiter. Erst haben sie es ihm aufgehalst – dann hat es nichts als Widerwärtigkeiten gegeben – und die miserable Sprache und die ganze Spießbürgerlichkeit und Langweiligkeit – und auf einmal die Umwandlung – und da, wie sie ihm recht gewesen, läuft sie ihm davon.
     </p>
-    <p xml:id="eco_de_000069_2140">
+    <p xml:id="eco_de_0000212_2140">
      Lein-Oel ging im Zimmer auf und ab und hatte das Gefühl, als preßte ihm jemand den Hals zu, daß ihm die Thränen in die Augen kamen. Das Leben lag so öde vor ihm. Er kam sich wie ein alter, abgedankter, beschimpfter Mensch vor – und um etwas zu thun, zog er die Fächer von der Kommode seines ungetreuen Weibes auf und wollte ihre Wäsche in ein Bündel packen, um ihr alles nachzuschicken. Wie lag da alles so sauber und wohlgeordnet und duftete nach Lavendel. Das Licht, das ihm zu seiner Arbeit leuchtete, hatte einen großen Räuber, brannte trüb und qualmte.
     </p>
-    <p xml:id="eco_de_000069_2150">
+    <p xml:id="eco_de_0000212_2150">
      Mit einem Mal hielt er inne. Es war ihm ganz, als wenn er Schritte gehört hätte, leichte, fliegende Schritte; und ehe er nur in seinem schwerfälligen Kummer zur Besinnung kam, stand sein kleines Weib schon auf der Schwelle mit dick verweintem Gesicht – und weder er, noch sie redeten eine Silbe.
     </p>
-    <p xml:id="eco_de_000069_2160">
+    <p xml:id="eco_de_0000212_2160">
      Das erste, was sie that, war, daß sie die Lichtputzschere nahm und die Flamme schneuzte und den Räuber in der Lichtputze totdrückte.
     </p>
-    <p xml:id="eco_de_000069_2170">
+    <p xml:id="eco_de_0000212_2170">
      »Was machst du denn da?« fragte sie.
     </p>
-    <p xml:id="eco_de_000069_2180">
+    <p xml:id="eco_de_0000212_2180">
      »Deine Sachen wollt' ich dir nachschicken!« antwortete er trocken.
     </p>
-    <p xml:id="eco_de_000069_2190">
+    <p xml:id="eco_de_0000212_2190">
      Da fing sie an zu schluchzen und strich mit der Hand über seinen Aermel.
     </p>
-    <p xml:id="eco_de_000069_2200">
+    <p xml:id="eco_de_0000212_2200">
      »Ach Leinel, siehste, siehste,« begann sie und kam nicht weiter.
     </p>
-    <p xml:id="eco_de_000069_2210">
+    <p xml:id="eco_de_0000212_2210">
      »Die Geschichte muß einmal ein Ende nehmen!« sagte er hart. »Weshalb bist du denn noch einmal hergekommen? – Was glaubst du denn? Für was für einen Esel hältst du mich denn eigentlich?«
     </p>
-    <p xml:id="eco_de_000069_2220">
+    <p xml:id="eco_de_0000212_2220">
      »Ach, für keinen Esel, Leinel – siehste. – Ach, du bist so schrecklich gut – wie kei Mensch auf der Welt sonst. Tausendmal guter als Liebing!« Sie schluchzte herzbrechend.
     </p>
-    <p xml:id="eco_de_000069_2230">
+    <p xml:id="eco_de_0000212_2230">
      »So, da hat er dich wohl sitzen lassen?« fragte er kurz.
     </p>
-    <p xml:id="eco_de_000069_2240">
+    <p xml:id="eco_de_0000212_2240">
      »Ach nee – nee – er hat gewollt, daß ich mit ihm fort sollte« –
     </p>
-    <p xml:id="eco_de_000069_2250">
+    <p xml:id="eco_de_0000212_2250">
      »Na, und du?«
     </p>
-    <p xml:id="eco_de_000069_2260">
+    <p xml:id="eco_de_0000212_2260">
      Sie strich ihm immer lebhafter und zärtlicher mit der Hand über den Aermel.
     </p>
-    <p xml:id="eco_de_000069_2270">
+    <p xml:id="eco_de_0000212_2270">
      »Nee, das hätt' ich nich gethan,« das kam alles unter Thränen kaum hörbar hervor.
     </p>
-    <p xml:id="eco_de_000069_2280">
+    <p xml:id="eco_de_0000212_2280">
      »Weshalb denn nicht – du hast doch sonst – dächt' ich« –
     </p>
-    <p xml:id="eco_de_000069_2290">
+    <p xml:id="eco_de_0000212_2290">
      »Ach nee – ach laß doch! – ach sag' doch nichts, Leinel!«
     </p>
-    <p xml:id="eco_de_000069_2300">
+    <p xml:id="eco_de_0000212_2300">
      Sie wollte nicht, daß er weiter sprechen sollte.
     </p>
-    <p xml:id="eco_de_000069_2310">
+    <p xml:id="eco_de_0000212_2310">
      »Ach du bist so gut – so gut – so gut – so gut« –
     </p>
-    <p xml:id="eco_de_000069_2320">
+    <p xml:id="eco_de_0000212_2320">
      Die Thränen und das Schluchzen und alles, was sie sagte, überstürzte sich zu einem erbarmungswürdigen Durcheinander.
     </p>
-    <p xml:id="eco_de_000069_2330">
+    <p xml:id="eco_de_0000212_2330">
      »Was soll denn nun aber werden?« fragte er barsch. – »Nun soll's wohl so fortgehen, die saubere Geschichte?«
     </p>
-    <p xml:id="eco_de_000069_2340">
+    <p xml:id="eco_de_0000212_2340">
      »Ach nee – nee, nichts, Liebing – Lein-Oel – verbesserte sie sich. «Wirklich nich, Lein-Oel.«
     </p>
-    <p xml:id="eco_de_000069_2350">
+    <p xml:id="eco_de_0000212_2350">
      »Wirklich nich? – So – und das soll ich dir glauben?«
     </p>
-    <p xml:id="eco_de_000069_2360">
+    <p xml:id="eco_de_0000212_2360">
      »Ja, so wahr ich läb'!« rief sie. »Glaub mir, Lein-Oel, glaub mir!«
     </p>
-    <p xml:id="eco_de_000069_2370">
+    <p xml:id="eco_de_0000212_2370">
      Und ganz erbärmlich und demütig küßte sie seine Hand.
     </p>
-    <p xml:id="eco_de_000069_2380">
+    <p xml:id="eco_de_0000212_2380">
      So in dieser Weise sprachen sie noch eine hübsche Weile miteinander.
     </p>
-    <p xml:id="eco_de_000069_2390">
+    <p xml:id="eco_de_0000212_2390">
      Sie schien aus ihrem Liebesrausch wach geworden zu sein und wollte, so nahm auch Lein-Oel es an, in die gewohnten Verhältnisse zurückkehren.
     </p>
-    <p xml:id="eco_de_000069_2400">
+    <p xml:id="eco_de_0000212_2400">
      »So,« sagte er, »du bist also zu Verstand gekommen und hast gemeint, ein guter warmer Ofen ist besser als eine Rakete.«
     </p>
-    <p xml:id="eco_de_000069_2410">
+    <p xml:id="eco_de_0000212_2410">
      »Ach siehste, ja!« rief sie aufschluchzend und fiel in seine Arme und hing an seinem Hals.
     </p>
-    <p xml:id="eco_de_000069_2420">
+    <p xml:id="eco_de_0000212_2420">
      »Leinel, von dir fort, das hätt' ich nich gekonnt, da is mir alles erscht klar geworden.« Und jetzt kamen die reinen Abschiedsthränen, weil sie sich die Trennung wieder vorgestellt haben mochte.
     </p>
-    <p xml:id="eco_de_000069_2430">
+    <p xml:id="eco_de_0000212_2430">
      Und er hielt sie fest in seinen Armen, und was sie nun auch alles miteinander redeten, lief darauf hinaus, daß er seine kleine Weidgans wiedergewonnen hatte.
     </p>
-    <p xml:id="eco_de_000069_2440">
+    <p xml:id="eco_de_0000212_2440">
      »Aber,« sagte er, »was ist denn das, was macht er denn nun mit meinem Manuskript – mit den Fabeln?« –
     </p>
-    <p xml:id="eco_de_000069_2450">
+    <p xml:id="eco_de_0000212_2450">
      »Ach, die hat er ja Goethen schon gezeigt, und der hat gesagt: ›artig, sehr artig‹,« schluchzte sie immer noch, »und will sich die Sachen noch weiter ansehen – siehste!«
     </p>
-    <p xml:id="eco_de_000069_2460">
+    <p xml:id="eco_de_0000212_2460">
      So verging eine gute Weile in Thränen mit Fragen und Antworten.
     </p>
-    <p xml:id="eco_de_000069_2470">
+    <p xml:id="eco_de_0000212_2470">
      Dann gingen sie miteinander in die Küche und besorgten ihr Abendessen und konnten sich gar nicht trennen, wie zwei Leute, die hätten voneinander gerissen werden sollen.
     </p>
-    <p xml:id="eco_de_000069_2480">
+    <p xml:id="eco_de_0000212_2480">
      Und wie sie beide so einträchtiglich wirtschafteten, da fiel die Sünderin ihrem Manne mit erneuten, heißen Thränen um den Hals und schluchzte: »Siehste, daß ich mich so sehr in Liebing verliebt hab', war doch im Grund zu allererscht nur, weil er gegen dich so sehr gut war.«
     </p>
-    <p xml:id="eco_de_000069_2490">
+    <p xml:id="eco_de_0000212_2490">
      »So, also aus Dankbarkeit! – Na, nun hör' mir aber auf, du kleine Kröte.«
     </p>
    </div>
@@ -880,10 +880,10 @@
     <head>
      \*\*\*
     </head>
-    <p xml:id="eco_de_000069_2500">
+    <p xml:id="eco_de_0000212_2500">
      Lein-Oel hatte gemeint, es wäre keine Kunst, ein Weib zu nehmen und hatte sich die Sache unverschämt leicht gemacht, wie Ehemänner das thun. – Dafür war er aber gehörig in die Kur genommen worden, hatte auf eine ganz sonderbare Weise für seine Thorheit büßen und lernen müssen, daß ein Weib nicht so ohne weiteres zu erringen sei. Auf dieser kalten Welt einen Menschen zu haben, der ihm mit Leib und Seele angehört, aus freiem Willen für ihn sorgt und für ihn lebt und denkt und schafft und leidet und sich freut, für ihn hofft, ihn gut und klug und brav und Gott weiß was findet, nur für ihn da ist, wenn das solch ein thörichter Mann wie Lein-Oel einstens für nichts ansieht – der muß in Teufels Küche kommen und ausessen, was er sich eingebrockt hat.
     </p>
-    <p xml:id="eco_de_000069_2510">
+    <p xml:id="eco_de_0000212_2510">
      So soll es immer und allen solchen ergehen.
     </p>
    </div>

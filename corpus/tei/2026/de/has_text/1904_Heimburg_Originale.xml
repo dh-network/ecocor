@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000161" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Originale
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Heimburg, Wilhelmine
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     14998
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1904">
+      1904
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000161_20">
+    Originale
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000161_30">
+     Im Jahre des Heils 1900!
+    </p>
+    <p xml:id="eco_de_0000161_40">
+     Wie komisch diese Neun! Die Acht, die liebe alte Acht, wir schreiben sie nie wieder hinter die Eins. Dieser heimgegangenen Acht möchte ich nachweinen. Sie war meine Jugend; was die Neun nun bringt, das ist Herbst und Winter, für mich und die mir Gleichaltrigen.
+    </p>
+    <p xml:id="eco_de_0000161_50">
+     Ob ich tauschen möchte mit denen, für welche die Neun »Jugend« bedeutet? Ich weiß nicht recht. Mir kommt es so vor, als müsse in der achtzehn die Jugend jünger, das heißt harmloser, rosiger gewesen sein, als habe es in der Achtzehn mehr Gemütlichkeit gegeben, mehr Originelles, wenn ich urteilen soll nach dem, wozu sich die brave Achtzehn als fin de siècle zugespitzt hat.
+    </p>
+    <p xml:id="eco_de_0000161_60">
+     Wo findet man denn heute noch ein richtiges Original, wie sie früher zu Dutzenden umherliefen zum Beispiel in meiner guten braven Vaterstadt – – – burg? Ich meine nicht die gelehrten Originale, die zerstreuten Professoren und dergleichen, ich meine die aus dem Volke, denen wir als Schulgören nachliefen, die wir bewunderten oder verlachten, je nachdem.
+    </p>
+    <p xml:id="eco_de_0000161_70">
+     So was gibt's nicht mehr. Die neue Zeit ist so nivellierend, so schablonierend; – einer ist wie der andere, und wollte sich eine ungewöhnliche Erscheinung aus der Menge heben – eins, zwei, drei hätte sie der Mann der Polizei beim Wickel und führte sie auf Nummer Sicher.
+    </p>
+    <p xml:id="eco_de_0000161_80">
+     Ich möchte ihnen ein paar Worte widmen, diesen Originalen meiner Jugendzeit; es wäre doch schade, wenn sie vergessen würden!
+    </p>
+    <p xml:id="eco_de_0000161_90">
+     Da taucht zuerst einer auf, den wir Kinder geradezu mit Staunen und Ehrfurcht betrachteten. Das war »Trollpapa«. Woher er kam der Fahrt, und wie sein Nam' und Art? – das vermochte niemand zu ergründen. Im Frühjahr erschien er plötzlich und zog durch die Gassen, einen wunderlichen Anblick gewährend. Er trug auf dem Kopfe einen Reifen, an dem eine Menge abgestimmter Schellen befestigt war; auf dem Rücken eine große Trommel, die Schläger hatte er vermittelst einer Schnur mit seinen Füßen in Verbindung gesetzt. In den Händen hielt er eine Ziehharmonika, von der ein Triangel herabhing, und all diese Instrumente setzte er kopfschüttelnd, mit den Füßen tretend und mit den Händen spielend und den Triangel schlagend in Bewegung, so daß ein gewisser Rhythmus herauskam. Die Krönung erhielt das Konzert noch durch den krächzenden Gesang dieses kleinen vermückerten Männchens, das sich seit ungefähr dreißig Jahren nicht rasiert zu haben schien.
+    </p>
+    <p xml:id="eco_de_0000161_100">
+     Am begehrtesten war ein Lied, mit dem er die Städte des Harzes auf seine Art besang. Mir sind noch einige Strophen in Erinnerung:
+    </p>
+    <p xml:id="eco_de_0000161_110">
+     »Ein Amboß und ein Mühlenstein, Die schwammen bei Thale über den Rhein, Sie schwammen ganz sanft und leise. Ein Frosch verschlang sie alle beid' Zu Pfingsten aus dem Eise.
+    </p>
+    <p xml:id="eco_de_0000161_120">
+     In Blankenburg war ein gewaltig Getümmel, Dort flogen vier gebratene Ochsen gen Himmel, Die Leute sahen's von ferne. Sie glaubten ganz fest, sie glaubten ganz fest, Es wären Kometen und Sterne.
+    </p>
+    <p xml:id="eco_de_0000161_130">
+     Auf der Lauenburg stand ein großer Turm, Der trotzte Wind, Wetter und großem Sturm; Des Morgens da lag er im Grase. Den hatte der Kuhhirt in dasigem Ort Mit seinem Horn umgeblasen.
+    </p>
+    <p xml:id="eco_de_0000161_140">
+     In Halberstadt war ein großer Hahn, Der hatte schon vielen Schaden getan, Der zertrat eine eiserne Brücke. Eine Mücke flog im Schilderhaus um, War das nicht ein großes Unglücke?
+    </p>
+    <p xml:id="eco_de_0000161_150">
+     In Quedlinburg war ein großes Haus, Da flog eine Fledermaus heraus, Die flog in zehntausend Stücken. Da kamen zehntausend Schneider daher, Die wollten sie wieder flicken.«
+    </p>
+    <p xml:id="eco_de_0000161_160">
+     Oder das Lied von dem Lahmen, Tauben und Blinden:
+    </p>
+    <p xml:id="eco_de_0000161_170">
+     »Es wollten 'mal vier einen Hasen fangen, Die kamen auf Krücken und Stelzen gegangen. Der eine, der konnte nicht gehen, Der andre war taub, der dritte war stumm, Der vierte, der konnte nicht sehen. Nun weiß ich gar nicht wie es geschah, Daß der Blinde zuerst den Hasen sah In weiter Entfernung grasen. Der Stumme, der sagt' es dem Tauben laut an, Der Lahme, der haschte den Hasen.«
+    </p>
+    <p xml:id="eco_de_0000161_180">
+     Alles dies ward geleistet für einen Dreier; aber auch mit einem Pfennig war »Trollpapa« zufrieden. Für jedes Haus eine neue Vorstellung unter diesen doch gewiß kulanten Bedingungen. Natürlich zogen wir immer mit, schon um die Selbstgespräche des Alten zu belauschen, der, die ihm folgende Schar gar nicht beachtend, unaufhörlich vor sich hin redete.
+    </p>
+    <p xml:id="eco_de_0000161_190">
+     Die hochlöbliche Polizei grüßte er sehr respektvoll durch Neigen seines schellengeschmückten Hauptes, und der dicke Polizeiwachtweister nickte ihm freundlich zu, faltete die Hände über dem Bauch und lachte. »Trollpapa« war die Sanftmut, die Friedfertigkeit selbst; er ertrug es, wenn die Jungen ihn an seinen langen mürben Rockschößen zogen oder hinterlistig auf die Trommel schlugen; er sprach dann ein bißchen eifriger vor sich hin, aber er duldete es. Nur in einem Falle wurde er wütend, wenn ihn nämlich jemand »Trollpapa« anredete. Sofort flog es ihm rot um die Ohren, er hielt inne im Gesang und schimpfte wie ein Rohrspatz, sich immer noch steigernd in seinem Zorn, dabei furioso die Schellen schüttelnd, die Trommel schlagend und die Harmonika ziehend.
+    </p>
+    <p xml:id="eco_de_0000161_200">
+     »Lausejungens seid ihr! L–Lausejungens!«
+    </p>
+    <p xml:id="eco_de_0000161_210">
+     Es war ein Anblick, der die Menschen lachen machte bis zur Fassungslosigkeit. Ich habe es auch einmal mit angesehen, aber mir stockte das Lachen, denn aus den kleinen vertrockneten Augen liefen ein paar Tränen in den struppigen Bart. Ich schämte mich und ging nach Hause.
+    </p>
+    <p xml:id="eco_de_0000161_220">
+     Armer Trollpapa! Wenn man nur gewußt hätte, wie er eigentlich heißt, ich würde ihn gewiß »Herr« so und so angeredet haben bei Überreichung meines Dreiers.
+    </p>
+    <p xml:id="eco_de_0000161_230">
+     Einmal blieb »Trollpapa« aus. Bei dem Spielen mit den Nachbarskindern wurde eifrig davon gesprochen: merkwürdig, daß er nicht da war um die Zeit, wo der Osterhase legte und die Stare schrien. Wir beschlossen eines Tages, den dicken Polizeiwachtmeister zu fragen: »Kommt denn Trollpapa nicht in diesem Jahre?«
+    </p>
+    <p xml:id="eco_de_0000161_240">
+     »Nee, der kommt nich, der is ja vergangenen heiligen Abend zwischen Gersdorf und Stickelsberge verfroren, grad auf der Feldscheide hat er gesessen, den Rücken an dem Grenzstein. Keiner hat ihn begraben wollen, aber die Stickelsberger haben ihn nehmen müssen, weil daß die Trommel auf ihre Seite lag und sein Ranzen auch.«
+    </p>
+    <p xml:id="eco_de_0000161_250">
+     Armer Trollpapa!
+    </p>
+    <p xml:id="eco_de_0000161_260">
+     Original Nummer zwei! Das war erst einer! Von dem kannten wir wenigstens den Namen. Mechau hieß er, und seines Zeichens war er ein Töpfergeselle. Niemals in meinem Leben habe ich wieder einen so skelettartig mageren Menschen erblickt, und dabei so lang, so himmellang.
+    </p>
+    <p xml:id="eco_de_0000161_270">
+     Seine Kleidung war ganz wunderbar, und unbegreiflich ist es mir stets geblieben, wie er in die unbeschreiblich engen Ärmel seines Rockes mit den großen Händen hineingelangte. Ebenso eng war der auf Taille gearbeitete fettglänzende Tuchrock und das Beinkleid: er glich einer der Karikaturen in den »Fliegenden Blättern«, die aus lauter Strichen bestehen. Den Bart trug er, wie die alten Maler ihn dem Heiland malten, die Haare lang herabwallend, eine Art Barett auf dem Haupte. Ein Paar milde dunkle Augen, die freilich mitunter fanatisch erglühen konnten, begegneten dem Blick des Beschauers.
+    </p>
+    <p xml:id="eco_de_0000161_280">
+     Jeden Sonntag, Vor- und Nachmittag, erschien Mechau in der Kirche, die Worte des Predigers förmlich von den Lippen lesend. In der Gemeinde zu knien, war dort nicht Sitte, der lange Geselle aber warf sich mit einer Inbrunst auf die Knie, daß es mir rätselhaft blieb, wie seine Beinkleider diese leidenschaftliche Andachtsbezeigung aushielten. Uns Kindern war er unheimlich, der lange Mensch, wir liefen vor ihm wie die Hasen vor dem Hunde.
+    </p>
+    <p xml:id="eco_de_0000161_290">
+     Eine Zeitlang blieb Mechau aus unserer Kirche fort und wurde dafür in der St. Nikolaikirche bemerkt bei jedem Gottesdienst. Der dortige Prediger war einer der liebenswürdigsten Menschen, wahrhaft christlich gesinnt, mitleidig, freigebig, und daher besonders vergöttert von den armen Leuten. Er besaß eine Reihe blühender Kinder, darunter zwei Töchter, wirklich reizende Mädchen. Eines Tages predigte der Herr Pastor gar beweglich über das Thema, daß wir alle vor Gottes Throne gleich seien, ob arm oder reich, ob vornehm oder gering: daß wir alle Brüder und Schwestern wären, daß es unsere heiligste Pflicht sei, allen Stolz abzutun und die Armen und Kleinen gleich zu achten den Großen dieser Welt. –
+    </p>
+    <p xml:id="eco_de_0000161_300">
+     Was geschah nun?
+    </p>
+    <p xml:id="eco_de_0000161_310">
+     Das holdselige Pastorstöchterlein hatte wie ein Madonnenbild im Pfarrstuhle gesessen, die großen schönen Augen auf den Vater gerichtet. In irgend einem Winkel der Kirche aber hatte Mechau gekniet, die Tochter gesehen und den Vater gehört, und beides verknüpfte sich in seiner gläubigen Seele zu einer himmlischen Offenbarung, die eitel Gnade und Glanz war. –
+    </p>
+    <p xml:id="eco_de_0000161_320">
+     Der Herr Pastor hatte in seiner Studierstube kaum Talar und Beffchen abgelegt und saß eben im Lehnstuhl am Fenster und schaute auf den alten Friedhof hinab, der gleich einem Garten sein Haus umgab. Der Duft des sonntäglichen Gänsebratens stieg bereits verführerisch in seine Nase, es war so unsäglich friedlich um ihn her, da stolperte das kichernde Mädchen über die Schwelle: »Herr Pastor, der verrückte Mechau will Sie sprechen!«
+    </p>
+    <p xml:id="eco_de_0000161_330">
+     »Lasse ihn eintreten, Kind,« befahl der geistliche Herr in der Meinung, Mechau wolle ein Almosen erbitten.
+    </p>
+    <p xml:id="eco_de_0000161_340">
+     Im Rahmen der Tür erschien gleich darauf der unheimliche Geselle und begann alsbald sein Begehren vorzutragen; das in weiter nichts bestand, als in einem Heiratsantrag seinerseits für das schöne Töchterlein des Herrn Pfarrers.
+    </p>
+    <p xml:id="eco_de_0000161_350">
+     »Mechau! Mechau!« warnte dieser mit erhobenem Finger, »du fällst in Hochmut und Dünkel – wie kannst du so etwas verlangen? Geh heim, mein Sohn, und schlage dir die Dummheit aus dem Kopfe, meine Tochter ist kein Weib für deinesgleichen.«
+    </p>
+    <p xml:id="eco_de_0000161_360">
+     Da ward der arme Mensch irre an Gottes- und Menschenwort. »Sie haben gesagt: wir sind alle gleich vor unserem Schöpfer!« schrie er, »und unser Herr Jesus hat solches auch gesagt, und nun wollen Sie ihn und sich Lügen strafen in derselben Stunde, wo Sie davon gepredigt haben?«
+    </p>
+    <p xml:id="eco_de_0000161_370">
+     »Mechau! Das habt Ihr falsch verstanden,« begann der Pfarrer sanft. Aber Mechau ließ sich nicht besänftigen: er wurde geradezu rasend, schimpfte, schalt und verfluchte die Stätte, auf der er stand.
+    </p>
+    <p xml:id="eco_de_0000161_380">
+     Der entsetzte Pfarrer mußte zum Fenster hinaus den Küster rufen zu seiner Hilfe, und dieser schaffte im Verein mit einigen anderen Männern den armen abgewiesenen Freier in das städtische Krankenhaus, wo er in der gepolsterten Zelle untergebracht wurde und zwei Tage lang die Zwangsjacke trug.
+    </p>
+    <p xml:id="eco_de_0000161_390">
+     Dann wurde er wieder ruhig und man ließ ihn laufen. Jahrelang noch durchschritt er würdevoll, mit schwärmerischem Augenaufschlag, die Straßen der Stadt.
+    </p>
+    <p xml:id="eco_de_0000161_400">
+     Dann blieb auch er plötzlich unsichtbar, verschwand für immer in die Landesirrenanstalt. Die Polizei fand eines Karfreitags, durch Kinder aufmerksam gemacht auf ein Stöhnen, das aus Mechaus Häuschen kam – er bewohnte dasselbe mit seiner Mutter, einer armen Näherin, die ihn so fanatisch liebte, daß sie ihn gänzlich ernährte, so gut und schlecht es von ihren paar Groschen möglich war – also, die Polizei fand Mechau am Boden seines Stübchens gekreuzigt vor, das heißt, er lag mit Stricken festgebunden auf einem großen plumpen Holzkreuz, und seine Mutter hockte weinend neben ihm, beide glaubten, Mechau sei der Erlöser und sie die schmerzensreiche Mutter. Der dicke Polizeiwachtmeister wurde als Kriegsknecht von ihr angesprochen. Mechau selbst hatte vor Schwäche und Mattigkeit die Besinnung verloren: er lag schon seit gestern so da. Man hatte Mühe, ihn wieder so weit zu kräftigen, um mit ihm die Reise nach Halle antreten zu können.
+    </p>
+    <p xml:id="eco_de_0000161_410">
+     Wie ein Lauffeuer verbreitete sich diese Kunde durch die Stadt, und wir Kinder redeten noch lange von der grauenvollen Tat Mechaus mit leiser Stimme und furchtsamen Augen.
+    </p>
+    <p xml:id="eco_de_0000161_420">
+     Original Nummer drei gehörte dem weiblichen Geschlechte an; sie hieß schlechtweg Fräulein von Thadten. Eine einäugige große Person war sie mit glattem Madonnenscheitel, schlampigem dunklenWollkleid, einem bräunlichen dreizipfligen Umschlagetuch und einer Gitarre am verblichenen grünen Seidenband, die sie à la Troubadour handhabte. Die Ärmste trug über dem rechten Auge eine schwarze Lederbinde, und wenn diese sich verschob, sah man, daß das Auge ausgelaufen war. Jeden Monat mindestens einmal erschien sie in meinem elterlichen Hause; das einleitende Geklimper ihrer Gitarre lockte uns Kinder natürlich schnell in den Flur, und wir waren auch kaum die Treppe hinuntergestürzt, da sang sie schon ohrenzerreißend:
+    </p>
+    <p xml:id="eco_de_0000161_430">
+     »Fordre niemand mein Schicksal zu hören, zim zim zim zim zerim, Dem das Leben noch wonnevoll winkt, zim zim zim zerim – –«
+    </p>
+    <p xml:id="eco_de_0000161_440">
+     Sie hatte auch allen Grund, über ihr Schicksal zu schweigen, das arme Geschöpf. Tatsächlich war ihr von dem Leben weiter nichts geblieben als die Ehr' und das alternde Haupt.
+    </p>
+    <p xml:id="eco_de_0000161_450">
+     Wirklich, sie war eine kreuzbrave Person trotz ihres Umhervagabundierens, und sie hätte, falls sie doch ihr Schicksal beschreiben gewollt, mit den Anfangsstrophen von Tiedges »Urania« beginnen können:
+    </p>
+    <p xml:id="eco_de_0000161_460">
+     »Mir auch war ein Leben aufgegangen, Welches reichbekränzte Tage bot.« –
+    </p>
+    <p xml:id="eco_de_0000161_470">
+     Röschen von Thadten hatte in einer wappengeschmückten Wiege gelegen und ihre erste Jugend war eine wohlbehütete gewesen. Dann aber hatte sie, der sorgfältigsten Erziehung ein Schnippchen schlagend, das Verlangen gepackt, Künstlerin zu werden. Von der Familie abgewiesen, war sie einfach desertiert mit einer Wandertruppe unterster Ordnung. Der alte Herr von Thadten, ihr Vater, ließ sie laufen, und doch war es sein einzigster Sprößling! Die fassungslose Gattin rang sich die Hände wund um Erbarmen für ihr Töchterlein; er blieb bei seinem: »Lieber gar kein Kind als solches!«
+    </p>
+    <p xml:id="eco_de_0000161_480">
+     Röschen ließ nichts wieder von sich hören; die Mutter starb vor Gram, der Alte aber lebte noch jahrelang weiter, verlassen, hart, menschenscheu. Als er die Augen schloß in hohen Jahren, war kein Vermögen mehr da, er hatte es verschenkt bei Lebzeiten; nur ein paar Möbel und ein paar hundert Taler, die sich in seinem Schreibtisch fanden, blieben der verschollenen Tochter als Erbe. In den Zeitungen erschien ein Aufruf seitens der Gerichte an sie. Niemand glaubte an ihr Wiederkommen, aber siehe da, eines Tages stand auf dem Rathause vor dem erstaunten Bürgermeister unser Röschen, genau in dem Aufputz wie eben beschrieben, und erhob die Erbschaft. Sie erzählte, wie sie ihr Auge verloren habe bei Gelegenheit einer Feuersbrunst in irgend einer kleinen Stadt, wo die Gesellschaft ihre Bühne in einer leeren Scheuer etabliert hatte. Ein brennender, stürzender Balken habe sie getroffen, darauf sei sie untauglich geworden für die dramatische Kunst und müsse nun leider auf diese Weise ihr Brot erwerben, das heißt, hausieren gehen und singen.
+    </p>
+    <p xml:id="eco_de_0000161_490">
+     Weshalb sie denn nicht bei Lebzeiten des Vaters gekommen sei, um seine Verzeihung zu erbitten? Dazu fühle sie sich zu stolz, hatte sie gesagt, denn sie habe nie etwas Unehrenhaftes getan.
+    </p>
+    <p xml:id="eco_de_0000161_500">
+     Schließlich bat sie die hohe Obrigkeit um das Armenrecht in der Stadt, das man ihr weder bestreiten wollte, noch konnte, denn der alte Herr war in aller Stille manches Stadtarmen Wohltäter gewesen, und so mietete sich Fräukein Rosa von Thadten ein Stübchen in irgend einer winkligen Gasse und unternahm jeden Tag, den Gott werden ließ, ihre Konzerttouren.
+    </p>
+    <p xml:id="eco_de_0000161_510">
+     Nie sah man sie mit jemand reden, sie war zu stolz dazu. Sie steckte ihre Kupferpfennige mit einer wahrhaft großartigen Gebärde in die Tasche, schlug den Zipfel ihres Umschlagtuches über die Schultern, machte eine Verbeugung, wo sie niemand eines Blickes würdigte, und ging ins nächste Haus.
+    </p>
+    <p xml:id="eco_de_0000161_520">
+     Trotz des fehlenden Auges war sie, anfänglich noch, kein übles Frauenzimmer, und manch einer mag gedacht haben, mit der armen Bettelsängerin einen Scherz wagen zu dürfen; aber dem Dreisten ward heimgeleuchtet. Dazumal sang noch die Kurrende auf den Straßen, und der Vorsänger war ein bildhübscher baumlanger Primaner. Dem hat das Fräulein von Thadten einmal eine Ohrfeige geschlagen, die er gewiß nie vergessen und die ihm den Glauben an die Ehrenhaftigkeit schutzloser Weibsleute, auch wenn sie bettelnd vor den Türen singen, hoffentlich recht eingebläut hat.
+    </p>
+    <p xml:id="eco_de_0000161_530">
+     Unsere alte Waschfrau kannte Röschen ein wenig und erzählte uns Kindern, es sei gar fein bei ihr, und über ihrem Bette hingen ein paar welke Lorbeerkränze, die einzigen, die sie pflückte während ihrer bescheidenen Bühnenlaufbahn. Auf der verblichenen Schleife des einen stehe: »Der unvergleichlichen Amalia«.
+    </p>
+    <p xml:id="eco_de_0000161_540">
+     Als sie in ihrem fünfzigsten Jahre an der Cholera starb, just an dem Tage, da die siegreichen Truppen von Sadowa und Königgrätz einzogen, begrub man sie ihrem letzten Willen gemäß neben dem Vater. Sie hatte das kleine von ihm ererbte Kapital hierzu bestimmt, und die Lorbeerkränze legte man in den eilig beschafften, rasch geschlossenen Sarg. Auf ihrem Grabstein, der genau dem des alten Herrn gleicht, steht in leuchtender Goldschrift: »Rosa von Thadten«, und unter derselben hat der empfindsame Künstler eine Lyra eingegraben, einen Schmetterling und die Worte:
+    </p>
+    <p xml:id="eco_de_0000161_550">
+     »Mein Fuß hat gestrauchelt; aber deine Gnade, Herr, hielt mich. Psalm 94. 18.«
+    </p>
+    <p xml:id="eco_de_0000161_560">
+     Und nun zu Schinders Karlinchen! Wie eine Figur des düstersten Mittelalters steht sie vor uns da, dieses hübsche wilde Mädchen mit den schwarzen funkelnden Augen unter der rötlichen üppigen Haarmähne. Eine weißere Haut als Schinders Karline besaß, wird's schwerlich je gegeben haben, einen reizenderen Wuchs ebenfalls nicht.
+    </p>
+    <p xml:id="eco_de_0000161_570">
+     Ihr Vater war der Abdecker; er wohnte weit draußen vor der Stadt. Man erzählt, er sei in seiner Jugend Scharfrichter gewesen und habe bei einer Exekution so große Ungeschicklichkeit gezeigt, daß er sein schreckliches Amt niederlegen mußte. Die Verachtung, die von alters her dem Gewerbe des Henkers anhing, hatte sich in unserer Stadt noch nicht verflüchtigt; die Leute waren gemieden und galten für verdächtig, allerlei lichtscheue Dinge zu treiben, obwohl jenem Manne in seinem einsamen, stillen Gehöft etwas Nachteiliges durchaus nicht zu beweisen war. Das bildschöne Mädchen aber kam des öfteren durch die Straßen. Sie schritt einher wie eine Königin, das bleiche Gesicht von den roten Haaren umrahmt, einen verblichenen blauen Kattunmantel lose umgehängt. Ihre Augen forschten beständig nach rechts und links, ihr schöner Kopf drehte sich blitzgeschwind auf dem weißen Hals, sobald sie witterte, daß die Straßenkinder hinter ihr her waren.
+    </p>
+    <p xml:id="eco_de_0000161_580">
+     Ich habe so düstere leidenschaftlich unglückliche Augen selten gesehen, aber auch nie so aufleuchtende heiße Blicke. Letztere sah ich einmal, als sie mit in die Hüften gestemmten Armen einem jungen Reiteroffizier nachschaute, der gleichgültig und ohne sie eines Blickes zu würdigen an ihr vorüberschritt, sporenklirrend und Reitpeitsche schwenkend. Wirklich verzehrend heiß waren Karlinchens Blicke.
+    </p>
+    <p xml:id="eco_de_0000161_590">
+     Nach einem Weilchen hörte man, sie sei seine Liebste. Er war ein unglücklicher Mensch, ein Spieler und Verschwender. Mit seinem Vater überworfen, von den Gläubigern hart bedrängt, griff er zur Pistole; man fand ihn eines Morgens tot in seinem Schaukelstuhl.
+    </p>
+    <p xml:id="eco_de_0000161_600">
+     Bei dieser Gelegenheit durchbrach das Temperament von Schinders Karline alle konventionellen Grenzen. Sie stürzte nach dem Sterbehause und war von der Leiche, über die sie sich geworfen hatte, nicht zu entfernen. Als man es schließlich mit Gewalt tat, hockte sie die ganze Nacht auf der Straße vor dem offenen Fenster. Bei dem Begräbnis fehlte sie, aber Abends, als der Kirchhof geschlossen werden sollte, fand der Totengräber sie neben dem Hügel, bitterlich schluchzend.
+    </p>
+    <p xml:id="eco_de_0000161_610">
+     Der einzige Mensch, der sie gut behandelte, sei er gewesen, nicht ein einziges Mal habe er sie geschlagen, hörte sie nicht auf zu beteuern, mit einer Betonung, als wollte sie dem alten Manne Bewunderung dafür abnötigen, daß es wirklich einmal einen Menschen gegeben habe, der nicht prügelt.
+    </p>
+    <p xml:id="eco_de_0000161_620">
+     Seit dem Abend war sie übrigens aus der Stadt verschwunden, wenigstens eine lange Zeit hindurch; niemand hörte von ihr.
+    </p>
+    <p xml:id="eco_de_0000161_630">
+     Dann kam sie plötzlich wieder, schreckhafter Erinnerung. Zu jener Zeit wurde auf dem Lande, in einsamen Gehöften, in Forsthäusern, dann aber auch in der Stadt erst recht, wiederholt eingebrochen, und zwar in größtem Maßstabe und mit verblüffender Frechheit. Man konnte erst nicht dahinter kommen, ob es ein Dieb oder eine ganze Bande war; die Türen und Fenster, die Truhen und Schränke schienen sich dem Räuber wie von selbst zu öffnen, die Hunde bellten nicht in solchen Nächten, die Hausbewohner schienen doppelt fest zu schlafen.
+    </p>
+    <p xml:id="eco_de_0000161_640">
+     Die Aufregung in der ganzen Umgegend war groß. In merkwürdigem Zickzack, wie auf dem Schachbrett, wurde heute hier, morgen an einer ganz anderen Ecke des Kreises gestohlen, und damit nicht genug: es bekamen auch diejenigen, die der freche Räuber für reich genug hielt zu einem Aderlaß, in höflichster Weise die Nachricht: dann und dann werde ihnen der Gefürchtete einen Besuch machen. Die gesamte Polizei war natürlich auf den Beinen in solchen Nächten, aber, siehe da, trotz aller Vorsicht seitens der Behörden wurde in den meisten Fällen der Einbruch doch ausgeführt.
+    </p>
+    <p xml:id="eco_de_0000161_650">
+     Mit Recht vermutete man, daß der Verbrecher sein Versteck in den Harzwäldern habe, und man stellte durch Soldaten ein richtiges Kesseltreiben an. Aber es blieb resultatlos, nichts weiter brachte es ein als einen höhnischen Brief an die hochlöbliche Behörde, in welchem derselben das Bedauern ob der vergeblichen Mühe ausgesprochen wurde, unterzeichnet: Hochachtungsvoll Karl Breidling.
+    </p>
+    <p xml:id="eco_de_0000161_660">
+     Breidling kannte man ja, er war, des Raubmordes verdächtig, aus der Untersuchungshaft durchgebrannt und jahrelang verschollen gewesen.
+    </p>
+    <p xml:id="eco_de_0000161_670">
+     Also der!
+    </p>
+    <p xml:id="eco_de_0000161_680">
+     Natürlich wurde umso eifriger auf ihn gefahndet, denn einen so schlimmen Gesellen, dem es auf ein Menschenleben nicht ankam, wollte man möglichst bald hinter Schloß und Riegel wissen. Wenn damals ein paar Frauen auf der Straße zusammenstanden, so redeten sie gewiß von Breidling; an den Stammtischen unterhielten sich die Männer von dem kecken Räuber, in den Kaffeegesellschaften machten sich die Damen grauen, und daß damals kein Kind der Stadt allein in ein dunkles Zimmer ging, das war so gewiß wie das Amen in der Kirche.
+    </p>
+    <p xml:id="eco_de_0000161_690">
+     Eines schönen Tages verbreitete sich die Kunde, daß auf der Münckenburg, einem einsam gelegenen Rittergut, abermals ein Einbruch ausgeführt sei, der alles Dagewesene an Frechheit übertreffe. Unter anderem waren außer Wertsachen und barem Gelde auch die Brillanten der Frau Gräfin Müncken gestohlen, alter kostbarer Familienschmuck.
+    </p>
+    <p xml:id="eco_de_0000161_700">
+     Der Graf setzte eine Belohnung auf auf die Wiedererlangung des Geschmeides – bare fünfhundert Taler.
+    </p>
+    <p xml:id="eco_de_0000161_710">
+     Nach etwa drei Wochen vergeblicher Bemühungen erschien eines Morgens sehr früh eine Frauensperson in der Privatwohnung des Polizeikommissars und verlangte den Herrn allein zu sprechen, um ihm eine wichtige Mitteilung im Vertrauen zu machen. Der Beamte, der in seinem Morgenschlaf gestört war, betrachtete verwundert das sonderbare Wesen, das ihn mit funkelnden schwarzen Augen ansah, indem ihm zugleich ein breiter blutiger Striemen auffiel, der sich vom linken Ohre bis zur Unterlippe herabzog. Die üppigen roten Haare bauschten sich um ein Gesicht, in dem alles bebte und zuckte, die Wangen, die roten, schön geschweiften Lippen. Der Anzug war sonderbar, halb Dame, halb Bauerndirne – ein blaues Samtkleid, und darüber der Kattunmantel, den die Frauen des Volkes tragen, beides naß, mit Kot bespritzt, als ob die Trägerin die Nacht im Freien, im Regen verbracht habe.
+    </p>
+    <p xml:id="eco_de_0000161_720">
+     »Ich weiß, wo Breidling sticht, Herr Polizeikommissar.«
+    </p>
+    <p xml:id="eco_de_0000161_730">
+     »Wer sind Sie?« fragte der Beamte, der erst vor einiger Zeit aus Magdeburg herversetzt war und noch nicht Gelegenheit gehabt hatte, diese populäre Persönlichkeit kennen zu lernen.
+    </p>
+    <p xml:id="eco_de_0000161_740">
+     »Das kann Sie ja gleich sein, Herr Kommissar – ich weiß, wo er die nächste Nacht zu fangen ist. Ich komme übrigens nicht wegen die Belohnung, auf die pfeife ich – ich will den Kerl nur hereinlegen, weil er mich gestern abend beinah totgeschlagen hat.« Sie deutete auf ihr Gesicht. »Wollen Sie nu wissen, wo er sticht?«
+    </p>
+    <p xml:id="eco_de_0000161_750">
+     »Allerdings möchte ich es wissen.«
+    </p>
+    <p xml:id="eco_de_0000161_760">
+     »Da schreiben Sie's uff, aber rasch. Ich muß heut abend noch ins Braunschweigische 'nüber, denn wenn Sie Malhör haben und ihn nicht fangen, schlägt mir der Kerl tot – wenn er mir erwischt. Also, weit zu gehen haben Sie nich, er will heut nacht die Lippertsche Tuchfabrik einen Besuch machen, so um Zwei 'rum. – Adje, Herr Kommissar – ich –«
+    </p>
+    <p xml:id="eco_de_0000161_770">
+     »Nee! Nee, Karlinchen,« erscholl da hinter ihr eine wohlbekannte fette Stimme, und der dicke Polizeiwachtmeister legte ihr die Hand zärtlich auf die Schulter. »Nee, Karlinchen, so 'ner einsamen Reise ins Braunschweigische setzen wir dein kostbares Leben nicht aus; komm man mit ins Kittchen, da bist du sicher vor all und jedes.«
+    </p>
+    <p xml:id="eco_de_0000161_780">
+     Sofort änderte Schinders Karline ihre Taktik, sagte, sie hätte sich man einen Spaß erlauben wollen, und wo Breidling sei, wisse sie gar nicht, hätte auch ihr Leben lang mit ihm nie nichts zu schaffen gehabt. Da diese Angaben aber keinen Glauben fanden, so schritt sie bald darauf mit höhnischem Gesichtsausdruck zwischen zwei Beamten der Numero Sicher entgegen durch die von Weibern und Kindern wimmelnden Straßen, und ihre Kopfhaltung war stolzer denn je, als der Titel »Räuberbraut« und der Name Rosa, womit auf Rinaldos Geliebte, die dem Liede nach Rosa hieß, angespielt wurde, an ihr Ohr schlug und die Kecksten das Lied anstimmten:
+    </p>
+    <p xml:id="eco_de_0000161_790">
+     »In des Waldes tiefsten Gründen«. –
+    </p>
+    <p xml:id="eco_de_0000161_800">
+     Wer natürlich an diesem Abend in der Lippertschen Tuchfabrik nicht gefangen wurde, das war Breidling. Am anderen Morgen erhielt der verehrliche Polizeikommissar ein Schreiben, und zwar durch die Post, in dem der achtungsvoll Unterzeichnete die Genialität der Detektivbeamten in höhnischer Weise pries. »Mit größter Hochachtung verbleibe einstweilen noch als Freiherr Karl Breidling,« war der Brief unterzeichnet.
+    </p>
+    <p xml:id="eco_de_0000161_810">
+     Der freche Gesell hat sich nämlich, wie man später erfuhr, bereits seit dem Morgengrauen in der Stadt aufgehalten, in der Kleidung eines Försters, hatte, mitten unter dem Volke stehend, sein Karlinchen abführen gesehen, hatte die Prügel, die er ihr verabfolgt, mit ihrem Temperament verrechnet und war sich sofort klar, daß sie geputscht hatte. Er blieb also lieber seinem Vorhaben diesmal fern.
+    </p>
+    <p xml:id="eco_de_0000161_820">
+     In einem Postskriptum war dem Schreiben noch hinzugefügt, man möge die Kanaille ja fest verwahren, denn sobald sie frei käme, drehe er ihr das Genick um.
+    </p>
+    <p xml:id="eco_de_0000161_830">
+     Eines Tages aber hatte auch die verhängnisvolle Stunde für diesen Rinaldo geschlagen: man erwischte ihn im Kontor einer Mühle, als er im Begriff war, den Kassenschrank zu öffnen. Diesem Arnheim neuester Konstruktion war er aber nicht gewachsen und die Hilfe seiner Karline fehlte ihm obenein, kurz, man überraschte ihn. Leider erschoß er bei dieser Gelegenheit den jungen Mühlenknappen.
+    </p>
+    <p xml:id="eco_de_0000161_840">
+     Durch endlose Zeugenverhandlungen schleppte sich der Prozeß monatelang hin. Karline, die mit ihm konfrontiert wurde, leugnete jede Beziehung zu ihm und blieb dabei, sie habe damals nur die Polizei necken wollen. Man konnte ihr nichts beweisen, sie wurde auf freien Fuß gesetzt, Breidling aber zu lebenslänglichem Zuchthaus verurteilt.
+    </p>
+    <p xml:id="eco_de_0000161_850">
+     Karlinchen konnte man, als heimatberechtigt, nicht aus der Stadt verweisen. Sie etablierte sich also als Wahrsagerin und hatte bald großen Zulauf. Sie wußte, wo gestohlene Sachen sich befanden, sie konnte behextes Vieh kurieren, sie besaß Wünschelruten und Diebesfinger, und vor allem in Liebesangelegenheiten war ihr Rat und ihre Prophezeiung unfehlbar; es kam fast immer so, wie sie verkündet hatte. Wenn Abends die Fledermäuse flogen, dann schlichen die jungen Mäochen zu ihr. Sie wohnte dort, wo die letzten Häuser stehen, am Wege nach dem großen Kirchhof, und trieb ihr Gewerbe jahrelang voll ungeschwächter Anziehungskraft.
+    </p>
+    <p xml:id="eco_de_0000161_860">
+     Uns Kindern schwand sie allmählich aus dem Gedächtnis, bis eines Winternachmittags, zwischen Weihnachten und Neujahr, als draußen die Schneeflocken stiebten und der Sturm heulte, in unserem Mädchenkränzchen die Rede auf die Zukunft kam und wir mit einbrechender Dunkelheit beim Scheine einer Schiebelampe und zweier Stearinkerzen begannen, das Schicksal auf hergebrachte Art zu befragen – Wie? Was? Wen? Es wurden Apfelschalen geworfen und Buchstaben aus ihnen entziffert, wir ließen Schiffchen schwimmen und gossen Blei. Dann kamen die Karten dran. Das alte Stubenmädchen des Hauses – wir befanden uns bei Klärchen –, die eine Art Vertrauensposten innehatte (sie war bereits bei der Mutter des jetzigen Besitzers bedienstet gewesen), brachte uns grad die obligate Apfeltorte mit Schlagsahne, als wir uns um die Bedeutung eines krausen Stückchens Blei stritten, das die eine für einen Brautkranz, die zweite für einen Großvaterstuhl und die dritte gar für einen Reiter zu Pferde hielt.
+    </p>
+    <p xml:id="eco_de_0000161_870">
+     »Das is ja alles man Unsinn,« meinte die alte Lisette, »wenn Sie was Ordentliches wissen wollen, müssen Sie Schinders Karlinchen fragen, es ist geradezu großartig, was die kann. Mich hat sie neulich wahrgesagt, alles, was mich passiert is im Leben, die Haare sind mich zu Berge gestiegen, so graulte ich mir. Aber dann hat sie gesagt, das Schlechteste läge hinter mich, das letzte Enne wär gut und freundlich – was kann man mehr verlangen? Ich bin ordentlich ruhig seitdem, denn was die sagt, is wahr, und der alten Wollmer hat sie ja vorigtes Jahr auch den Tod prophezeit.«
+    </p>
+    <p xml:id="eco_de_0000161_880">
+     »Das war auch 'ne Kunst,« nahm eine von uns das Wort, »wenn die seit zwei Jahren an der Wassersucht lag!«
+    </p>
+    <p xml:id="eco_de_0000161_890">
+     »Nee! nee, Frailainchen,« meinte Lisette überlegen im Hinausgehen, »so is's nich! Den Tod prophezeien, das is freilich keine Kunst, sterben müssen wir alle; aber Tag und Stunde, so daß die Wollmer den ollen Keßler hat kommen lassen und zu ihm gesagt: ›Meister, morgen über vierzehn Tage muß mein Sarg fertig sein, und nehmen Sie man gleich Maß, und ein Zollner fünf können Sie zugeben aufs Strecken.‹ Und dann auch richtig so sterben, Punkt Schlag neun Uhr Abends, wie Schinders Karline vorkündigt hat, das is doch eine Kunst, das macht sie keiner nach.«
+    </p>
+    <p xml:id="eco_de_0000161_900">
+     Wir saßen da, sahen uns an und fürchteten uns ein bißchen. Es brannten dazumal noch keine elektrischen Lampen, und unheimlich schwarze Schatten lagen hinter jedem alten Möbel; es gab noch unbeleuchtete Korridore und dunkle knarrende Treppen und alte Öfen, in denen der Sturm das Buchenholz zur knatternden Glut blies, und unsere Großmütter und Mütter waren alle noch ein bißchen abergläubisch und glaubten an Ahnungen und Vorbedeutungen und manche gar an leibhaftige Gespenster. Die weiße Frau im königlichen Schlosse zu Berlin hatte noch niemand anzuzweifeln gewagt, und – na, kurz, es war noch höchst romantisch dazumal, romantischer als heute, wo man ganz einfach jedes Gespenst mit Röntgenstrahlen durchleuchten würde, um es auf seine Wesentlichkeit zu prüfen.
+    </p>
+    <p xml:id="eco_de_0000161_910">
+     »Glaubt ihr daran?« fragte eine schüchterne Stimme.
+    </p>
+    <p xml:id="eco_de_0000161_920">
+     »Nein!« sagten wir anderen sämtlich, denn die sogenannte Aufklärung war uns in der höheren Töchterschule eingetrichtert worden. Aber das »Nein!« war zögernd und kleinlaut.
+    </p>
+    <p xml:id="eco_de_0000161_930">
+     Das Haustöchterchen fand endlich den Mut, zu sagen: »Man soll ja nicht daran glauben, aber manches ist doch so sonderbar. – Meine Großmutter behauptet, es gibt so etwas zwischen Himmel und Erde, sie hat's selbst erlebt, wie einmal« –
+    </p>
+    <p xml:id="eco_de_0000161_940">
+     »Bei meiner Mutter ist auch 'mal eingetroffen,« unterbrach eine zweite, »sie hat's, was eine Wahrsagerin ihr prophezeite. Ganz genau hat sie meinen Vater beschrieben, und der lebte damals noch in Magdeburg und war mit keinem Fuß in hiesiger Gegend gewesen; und über den ›langen Weg‹ ist er zu Mutter gekommen, nämlich über England, wo er in einer Shoddyfabrik lernte, bevor er in Großvaters Fabrik kam.«
+    </p>
+    <p xml:id="eco_de_0000161_950">
+     »Ich möcht's auch wissen,« meinte eine andere. »Wenn eine von euch bloß Courage hätte, ich ginge gleich mit zu Schinders Karlinchen.«
+    </p>
+    <p xml:id="eco_de_0000161_960">
+     »Aber, wenn das unsere Eltern erfahren?«
+    </p>
+    <p xml:id="eco_de_0000161_970">
+     »Ach was, wir tun doch nichts Schlechtes!«
+    </p>
+    <p xml:id="eco_de_0000161_980">
+     »Lisette könnte ja mitgehen,« wisperte das schwarzlockige Haustöchterchen.
+    </p>
+    <p xml:id="eco_de_0000161_990">
+     Drei oder vier von uns streikten entschieden, zuletzt blieben nur noch zwei übrig, Klärchen und ich. Sie schlich in die Küche und verhandelte mit der alten Lisette. Klärchens Eltern waren ausgebeten, die meinigen ebenfalls, es stand gar nichts im Wege als das böse Wetter, das Lisette noch als letztes Bedenken hinstellte; aber dieses wurde mit dem Hinweis auf Gummischuhe und Regenschirm aus dem Felde geschlagen. Und richtig, in gruseliger Stimmung und mit lautem Herzklopfen, vermummt bis an die Nasenspitze, arbeiteten wir uns in dem Schneesturm durch die Gassen, über den Schloßplatz und zum Tore hinaus.
+    </p>
+    <p xml:id="eco_de_0000161_1000">
+     Der Weg führte am Wasser entlang, auf dem vereinzelte Eisschollen, wie wir beim Schneelicht deutlich erkennen konnten, langsam dahin schwammen; am jenseitigen Ufer auf der Wiese standen verkrüppelte Weiden, die sich in unheimlichen Gestalten von der Schneefläche abhoben. Die kleinen Häuser zur Rechten sahen wahrhaft tröstend aus mit ihren hellen Fensterchen, obgleich man wußte, daß dort Gesindel wohnt von der allerschlimmsten Sorte. Weiter vor uns hob sich terrassenförmig der Kirchhof empor, den Weg gleichsam sperrend; die Zedern und Zypressen lugten über die Mauer wie schwarze klumpige Gestalten, die ein weißes Tuch übergehängt hatten zum Schutz gegen die anstürmenden feinen Flocken. Ganz von fern klang das Bellen eines Hundes, sonst alles totenstill.
+    </p>
+    <p xml:id="eco_de_0000161_1010">
+     Das Häuschen von Schinders Karlinchen lag dicht an eine alte unbenutzte Kirche geschmiegt; ehemals hatte der Totengräber in ihm gewohnt, jetzt war ihm besseres Asyl geworden nahe der Grabkapelle, dicht an der Friedhofsmauer. In dieser verfallenden Kirche bewahrte man allerhand Gerümpel auf, alte Kreuze und Grabsteine, auf denen die Inschriften unleserlich geworden waren, Knochen und Schädel und wer weiß, was noch Grausiges. Als wir noch Kinder waren, hatten wir zuweilen durch die schadhafte Pforte geblinzelt bei Spaziergängen, aber nie ohne das gehörige Gruseln. –
+    </p>
+    <p xml:id="eco_de_0000161_1020">
+     Hinter Karlinchens Fensterläden schimmerte Licht, das sah ordentlich anheimelnd aus. Der Weg vom Fußsteig bis zu ihrem Hause war sorgsam vom Schnee gereinigt, als erwartete sie Gäste.
+    </p>
+    <p xml:id="eco_de_0000161_1030">
+     »Lisette, wenn nun schon jemand bei ihr ist?« flüsterte Klärchen ängstlich.
+    </p>
+    <p xml:id="eco_de_0000161_1040">
+     »Leicht möglich! Na, wartet nur, ich werd' erst 'mal zugucken.« Lisette schob in ihrem weiten Mantel der Haustür zu und klopfte mächtig.
+    </p>
+    <p xml:id="eco_de_0000161_1050">
+     Sofort erlosch das Licht im Hause: alles blieb muckstill.
+    </p>
+    <p xml:id="eco_de_0000161_1060">
+     Nun nahm Lisette einen Stein, der, vermutlich zu diesem Zweck, auf der Türschwelle lag, und ballerte furchtbar an die Haustür. Darauf tat eine volltönende Frauenstimme die in meiner guten Stadt herkömmliche geistreiche Frage, sobald die Schelle der Haustür klingt: »Ist da wer?«
+    </p>
+    <p xml:id="eco_de_0000161_1070">
+     »Jawohl! Machen Sie man 'mal auf!« antwortete Lisette, »man verklamt ja hier draußen.«
+    </p>
+    <p xml:id="eco_de_0000161_1080">
+     »Was wollen Sie denn?«
+    </p>
+    <p xml:id="eco_de_0000161_1090">
+     »Na, dhun Sie man nich so! Wir wollen wat wahrsagt hebben.«
+    </p>
+    <p xml:id="eco_de_0000161_1100">
+     »Ach so! Na, ick komm glick.«
+    </p>
+    <p xml:id="eco_de_0000161_1110">
+     Es dauerte nicht lange, da schob sich der Riegel der Türe zurück und wir konnten eintreten in den kleinen Flur, der zugleich Küche war und Stall, denn im Hintergrunde lag auf sauberer Streu eine Ziege und in einem abgegitterten Raume hockten einige Hühner auf Stangen. Rechts führte eine Treppe, die wie eine etwas verbesserte Leiter aussah, in das Giebelgeschoß. Auf dem Herd brodelte ein Wasserkessel, und der Duft von Zichorienkaffee, vermischt mit dem Geruch getrockneter Kräuter und des Ziegenstalles, schwebte über dem Ganzen, das notdürftig beleuchtet wurde von einer grün lackierten Öllampe. Schinders Karlinchen aber hielt diese Lampe und sah aus ihrem funkelnden Sehwerkzeug halb mißtrauisch, halb neugierig auf uns herab.
+    </p>
+    <p xml:id="eco_de_0000161_1120">
+     Sie war eine volle mächtige Gestalt. Das rote Haar, unter einem Kopftuch lose aufgesteckt, umrahmte ein blasses Gesicht, dessen rote Lippen über zwei Reihen blendender Zähne lächelten. Sie war sehr sauber und mit einer gewissen Koketterie angezogen, wenigstens erinnere ich mich, eine blitzende Kette über dem dunkeln Spenzer, sowie eine riesige Brosche, in die Korallen eingelegt waren, gesehen zu haben. Sie trug eine buntgestreifte Schürze, den Zipfel halb zurückgeschlagen, und darunter noch eine feinere, ganz helle über dem kurzen Beiderwandrock. Die Füße steckten in zierlichen Pantoffeln.
+    </p>
+    <p xml:id="eco_de_0000161_1130">
+     »Ach so,« sagte sie zu Lisette, »das sind Sie? Sind lange nich hier gewesen.«
+    </p>
+    <p xml:id="eco_de_0000161_1140">
+     »Ich mag nich genau wissen, wann ich sterbe, un das andere haben Sie mich doch all gesagt!« antwortete diese.
+    </p>
+    <p xml:id="eco_de_0000161_1150">
+     »Nu, nu,« meinte Karline begütigend, »zum Sterben hat's jawoll noch gute Wege bei Ihnen. Bitte, meine Fräuleins, treten Sie man näher.« Sie öffnete die Tür zu einem Stübchen, in dem ihr Bett stand, ein Tisch zwischen den Fenstern, ein paar Stühle und ein Schrank. Ein altes Umschlagetuch war über beide Fenster gehangen, im Bauer plusterte ein erschreckter kleiner Vogel, eine Wanduhr tickte. Karline stellte die Lampe auf den Tisch, zog den Tischkasten auf und holte zwei Spiele schmutziger Karten hervor. Dann jagte sie eine Katze aus dem schäbigen Großvaterstuhl am Ofen und bot mir den Platz an, während Klärchen an den Tisch geführt wurde, auf dem Karline die Karten auszulegen begann.
+    </p>
+    <p xml:id="eco_de_0000161_1160">
+     Ich weiß nicht mehr, was für großartige Dinge sie gesagt hat, einiges ist ja wohl eingetroffen, weil es Dinge waren, die das allgemeine Menschenlos mit sich bringt. Es gibt Briefe und Ärger, Krankheiten, Veränderungen und kleine Reisen; daß Klärchen sich verheiraten würde und fortziehen aus der Heimat, das war am Ende auch nichts Unwahrscheinliches.
+    </p>
+    <p xml:id="eco_de_0000161_1170">
+     Mitten im Prophezeien meiner Lebensschicksale wurde die Prophetin gestört, ich erfuhr also nichts Bemerkenswertes. Während sie nämlich im halblauten Gemurmel war, ertönte draußen vor dem Hause das klägliche Miauen einer Katze, das Karlinchen, wie mir schien, in alle Glieder fuhr. Sie hielt lauschend inne, eine graue Blässe überzog ihr Gesicht, und als sich gleich darauf der Katzenschrei wiederholte, sagte sie, sich offenbar zusammenraffend, zu mir: »Dat verdammte Viecher is 'mal wedder uthüsig west! Warten Se man einen Augenblick, ick will 'mal rutergucken.«
+    </p>
+    <p xml:id="eco_de_0000161_1180">
+     Sie verließ das Zimmer: wir hörten sie die Haustür öffnen, und es war uns, als vernähmen wir leises, hastiges Geflüster. Lisette saß wie ein Wachsbild auf ihrem Stuhl, dem Gesichtsausdrucke nach fürchtete sie sich.
+    </p>
+    <p xml:id="eco_de_0000161_1190">
+     »Woll'n wir doch man lieber gehen, Fräulein?« sagte sie halblaut, fast heiser.
+    </p>
+    <p xml:id="eco_de_0000161_1200">
+     Uns war es auch nicht geheuer. Wir hatten uns an der Hand gefaßt und schlichen hinter Lisette her der Stubentür zu, aber wie der alte brave Hausdrache öffnen wollte, war die Türe verschlossen. Oben, über unseren Köpfen, hörten wir geheimnisvolles Rascheln, in das sich das Pfeifen und Brausen des Sturmes mischte, der mit verstärkter Gewalt losgebrochen war. Ganz entsetzt sahen wir uns an. Endlich erfaßte Lisette grimmig abermals die Türklinke, um daran zu rütteln, da gab diese nach und Karlinchen stand vor uns. Noch lag die Blässe auf Wangen und Lippen, aber sie lächelte, und zwar so, daß sie unheimlich aussah, das Gesicht verzerrt.
+    </p>
+    <p xml:id="eco_de_0000161_1210">
+     »Die oll Katz,« sagte sie zu Lisette, »lett kein Ruh, bis man upmakt. Wat hedd so 'n Vieh in Snee herum to ramenten. – So, darf ich bitten, Fräuleins?«
+    </p>
+    <p xml:id="eco_de_0000161_1220">
+     Aber wir erklärten einstimmig, wir müßten nun gehen, kämen ein andermal wieder. Karlinchen redete zwar zu, aber vergeblich, wir opferten, unter Lisettens Versicherung, daß die Herren Papas keinen Spaß verständen, unsere zwei Gutegroschen und stapften in den Schnee hinaus, eng aneinander geschmiegt, den leise schimpfenden weiblichen Cerberus zur Seite.
+    </p>
+    <p xml:id="eco_de_0000161_1230">
+     Vor der Schwelle zeigte der Schnee die Stapfen eines großen Männerfußes, aber so, als wäre hier jemand mit bloßen Füßen gegangen. Auch den ganzen Weg zurück kamen diese Spuren uns entgegen, aber unregelmäßig, als wäre der Mensch gesprungen, und als habe jemand mit den Füßen gescharrt, um die Spuren unkenntlich zu machen.
+    </p>
+    <p xml:id="eco_de_0000161_1240">
+     »Hängen lass' ich mich,« erklärte Lisette, »wenn das eine Katze gewesen is, die da geschrieen hat! Herr Gott, Fräuleins, erzählen Sie doch man nichts, daß wir bei Schinders Karline gewesen sind! Der Papa wirft mich sonst morgen aus dem Hause.«
+    </p>
+    <p xml:id="eco_de_0000161_1250">
+     Wir fühlten uns wie erlöst, als wir wieder in den Straßen der Stadt waren und helle Fenster sahen und freundliche Menschenstimmen hörten in unseren Stuben.
+    </p>
+    <p xml:id="eco_de_0000161_1260">
+     Am folgenden Tage aber kam der größte Schrecken nach: in der Stadt verbreitete sich nämlich die Kunde, Breidling sei Abends zuvor ausgebrochen aus dem Gefängnis, auf schier verwunderliche Art, und daß er zunächst seinem alten Schatz einen Besuch gemacht habe, wie dies auch von Karlinchen bei der alsbald nach Entdeckung der Flucht unternommenen Haussuchung unverhohlen zugestanden sei.
+    </p>
+    <p xml:id="eco_de_0000161_1270">
+     Man hatte sie selbstverständlich verhaftet, aber sie beharrte bei ihrer Aussage, daß sie dem Lumpen nur gerad so viel Rast bei sich gegönnt habe, um Strümpfe und Schuhe anzuziehen und sich durch einen Schluck Kaffee zu stärken; nachher sei er in die Schneenacht hinausgewandert, und irgendwo werde man den Unglücksmenschen schon finden, verklamt oder erfroren, denn bei solchem Wetter bleibe ja nicht einmal ein Vieh lebendig.
+    </p>
+    <p xml:id="eco_de_0000161_1280">
+     Man fand aber Breidling nicht, niemals hörte man wieder von ihm. Einige wollten wissen, er habe irgendwo in den Harzwäldern Geld versteckt gehabt und sei damit nach Amerika entkommen, aber verbürgt ist nichts darüber.
+    </p>
+    <p xml:id="eco_de_0000161_1290">
+     Uns aber wurde es klar, daß der Katzenschrei das Zeichen des gefürchteten Räubers gewesen war, und wir standen am nächsten Nachmittag bei der alten zitternden Lisette in der Küche von Klärchens Mutter und klapperten nachträglich vor Angst mit den Zähnen. »Hätte uns der Kerl ja totschlagen können wie die Mäuse,« stöhnte die Alte. »O Gott! o Gott! Sagt doch man nichts, liebe Fräuleinchens!«
+    </p>
+    <p xml:id="eco_de_0000161_1300">
+     In den Annalen unserer Stadt bildete die Flucht Breidlings ein berühmtes Ereignis. Er hatte sich mit nackten Füßen durch die Esse emporgearbeitet, zu einer Zeit, als noch alles auf den Beinen war im Gefangenenhause. Der rasende Schneesturm ward ihm zum Verbündeten bei seinem halsbrecherischen Wege über Dächer und Mauern.
+    </p>
+    <p xml:id="eco_de_0000161_1310">
+     Wären wir etwas früher aus Karlinchens Hause fortgegangen, wir hätten dem schaurigen Helden unzähliger Einbrüche und einiger Mordtaten auf dem einsamen Wege begegnen müssen, ja vielleicht auf Karlinchens Schwelle – ein Gedanke, der noch lange nachher unsere Nerven schüttelte. Erst viel später haben wir uns dieses Streiches gerühmt; Lisette lag schon im Altweiberstift auf dem Friedhof und konnte keine Schelte mehr bekommen.
+    </p>
+    <p xml:id="eco_de_0000161_1320">
+     Schinders Karlinchens wurde nach gebührender Frist aus der Haft entlassen und bezog ihr Häuschen wieder. Sie »sagte wahr« und lebte still vor sich hin, die hochlöbliche Polizei fand keinen Anlaß, sich einzumischen. Da kam der Krieg 1870.
+    </p>
+    <p xml:id="eco_de_0000161_1330">
+     Unser Regiment zog eines Morgens mit klingendem Spiel ins Feld. Die ganze Stadt war auf den Beinen, ein jeder wollte den braven Jungen seinen Abschiedsgruß gönnen. Man hörte nichts als den munteren Marsch der Regimentsmusik und das taktmäßige Schreiten der Soldaten; es war ein leicht verschleierter Morgen und die Leute auf den Gassen winkten mit stummen Grüßen. Keiner hatte das Herz, »Auf Wiedersehen« zu rufen.
+    </p>
+    <p xml:id="eco_de_0000161_1340">
+     Da auf einmal ein lautes »Hurra!« von der Straßenecke her, wo das Ende der Kolonne soeben eingebogen ist, das Schreien und Rufen übertönt die schon ziemlich ferne Musik. Die ganze Straßenjugend kommt wie die wilde Jagd daher auf klappernden Holzpantoffeln: »Hurra! Schinners Karline! Nu hebben wi all wunnen, nu kann dat Vaderland ruhig sin, nu riten de Franzosen ut – Hurra – Schinners Karline!«
+    </p>
+    <p xml:id="eco_de_0000161_1350">
+     Hinter dem letzten Wagen der Truppe fuhr der Kantinenwirt, der sein Regiment nicht verlassen wollte, in einem Planwägelchen; zwei muntere Pferdchen, die keine Ahnung haben von den Gefahren, denen sie entgegengehen, zügelt er vom Bocke aus, und neben Herrn August Neumann thront im drallen Kattunspenzer, das rote Haar sittsam unter einem blauen Kopftuch versteckt, das ihre Stirn beschattet, Schinders Karlinchen als Marketenderin. Ohne mit der Wimper zu zucken, sitzt sie neben August um »mitzumachen« und achtet des Spottens nicht.
+    </p>
+    <p xml:id="eco_de_0000161_1360">
+     »Adjes, Karlinchen!« scholl es, »lat di nich dodtscheiten!«
+    </p>
+    <p xml:id="eco_de_0000161_1370">
+     »Ach, wat hängen sall, versupt nich!« So tönte es ihr nach.
+    </p>
+    <p xml:id="eco_de_0000161_1380">
+     Sie ist nicht wiedergekommen. Bei Sedan traf eine französische Kugel sie, als sie einen unserer Braven, einen Schwerverwundeten, aus dem Bereiche der Geschosse tragen wollte. Es fand sich ein Testament von ihr vor. Sie vermachte bare dreihundert Taler und ihr Häuschen der uralten Mutter des Breidling, die im Armenhause lebte und die letzten drei Jahre ihres Lebens dazu benutzt hatte, Schinders Karlinchen täglich zu verfluchen als Ursache von ihres Sohnes Verderbnis.
+    </p>
+    <p xml:id="eco_de_0000161_1390">
+     Hiernach wurde sie still und verzehrte einen Taler nach dem andern von ihrer Erbschaft, und als noch zehn davon übrig waren, starb sie.
+    </p>
+    <p xml:id="eco_de_0000161_1400">
+     Schinders Karlinchen erwarb sich mit ihrem Heldentode noch die gute Meinung der Leute. »Courage hatt se doch,« sagten sie –
+    </p>
+    <p xml:id="eco_de_0000161_1410">
+     Ein ungleich friedlicheres Original war Blandine. Ein dürres, kleines altes Weibchen mit einem Gesicht, das aus lauter Lächeln gemacht war und Hunderte von Fältchen um die gutmütigen Augen hatte. Sie trug gewöhnlich ein Kleid von blau und braun geblümtem Wollstoff, nach Großmutterart mit kurzer Taille und mächtigen Puffärmeln: auf dem Haupte eine braune Perücke mit glattem Scheitel, die über den Ohren in breite viersträhnige Flechten überging, welche am Hinterkopf mit einem riesigen Schildpattkamm zu kunstvollem Kauz aufgesteckt waren. Die Stirn schmückte ein schmales seidenes Band, das gerade über der Nase ein goldenes Schildchen hielt, auf dem das Wort »Mutterliebe« eingraviert stand. Eine Haube, wie sie sonst ältere Personen tragen, verschmähte dieses wunderliche sechsundsiebzigjährige Frauenzimmer. Dafür aber trug sie ein schwarzes Taffetschürzchen, weiße Strümpfe, kleine schwarze Schuhe mit kreuzweise gebundenen Bändern und auf der Straße einen Hut aus grüner Seide und ein altmodisches faltiges Mäntelchen, das im Sommer einem Umschlagetuch wich.
+    </p>
+    <p xml:id="eco_de_0000161_1420">
+     In einer abgelegenen Straße, dicht an der Stadtmauer, lag das »Weingartenspittel«, eine Heimstätte für alte Frauen, die im Kampfe des Lebens müde und mürbe geworden. Über dem Eingang des großen zweistöckigen Gebäudes war eine Weintraube in Stein gemeißelt. Im ehemaligen Wallgraben hinter dem Hause befand sich der wunderhübsche Garten mit köstlichen Johannis- und Stachelbeerbüschen und weißblühendem Flieder. Die alten Weiblein zogen ihre Küchenkräuter dort und saßen in altmodischen grün umlaubten Gartenhäuschen während der heißen Sommernachmittage, strickend und nickend. Er hatte etwas Wehmütiges, dieser Garten, in dem die Zentifolien so üppig blühten und die Greisinnen durch ihren Anblick sinnen machten im Andenken an ihre Tage der Rosen, die so weit, weit lagen. Eine Stimmung schwebte über dem ganzen Anwesen wie Abendrot, dem die Schatten der Nacht bereits folgen, Feierabendstimmung, müder, wohliger Friede.
+    </p>
+    <p xml:id="eco_de_0000161_1430">
+     Im Hause war es kühl zur Sommerszeit und warm im Winter. Die alten Frauen hatten es gar gemütlich in ihren kleinen Zimmerchen, deren jede zwei besaß, einen Wohn- und einen Schlafraum. Eine jede hatte ferner einen erhöhten Fensterplatz, auf dem sie strickend oder spinnend saß und zwischen den Asklepiablättern hindurch auf die Straße sehen konnte. Eine jede hatte ein paar verblichene Bilder an der Wand und im Schrank ein Kästchen mit Erinnerungen, aber so viele Raritäten wie Blandine besaß keine.
+    </p>
+    <p xml:id="eco_de_0000161_1440">
+     In meinen Backfischjahren war ich wie toll darauf, Mutter Schumann zu besuchen. Möglich, daß ich ihr lästig gefallen bin mit meiner Neugier, gezeigt hat sie es mir nie. Sie herzte und streichelte mich mit den welken Händen und war stets bereit, mir Auskunft zu geben, wenn ich, im Zimmer umhergehend, alles betrachtend, sie um etwas fragte, das mir just auffiel.
+    </p>
+    <p xml:id="eco_de_0000161_1450">
+     Blandine, so romantisch hieß sie wirklich, trug den gewählten Namen mit Recht. Sie war die Tochter des Schloßkastellans von S., der Residenz eines unweit meiner Vaterstadt gelegenen kleinen Fürstenhauses, und in dem alten spukhaften Bergschloß, in welchem noch aller Überschwang, die ganze Sentimentalität der Sturm- und Drangperiode webte, wuchs sie auf. Die schöngeistige alte Fürstin, die ebenso schöngeistigen Hofdamen hatte Blandine zwar immer nur von fern erblickt, aber sie hatte, gleich ihnen, an den Liebestempeln und Freundschaftsurnen im Park geseufzt und sich mit hinsterbender Romantik förmlich vollgesogen. Als dann der Leihbibliothekar Schumann aus O–burg ihren Vater besuchte, der ein Vetter von diesem war, lernte er Blandine kennen und war angenehm überrascht, eine Demoiselle in ihr zu finden, welche die ganze Literatur jener Zeit kannte und eventuell auch zitieren konnte. Rasch entschlossen hielt er bei dem Vater um das junge Mädchen an, obgleich er zwanzig Jahre mehr zählte als sie und obenein Witwer war.
+    </p>
+    <p xml:id="eco_de_0000161_1460">
+     Blandine hatte einen andern vom Schicksal erwartet. Ihre Fassungslosigkeit bewies wenigstens, daß er ihrem Ideal nicht entsprach, aber da das Schicksal ihr bis jetzt nicht einmal von ferne einen andern gezeigt hatte, dachte sie an die vielen schönen Bücher, in deren Mitte sie künftig leben sollte, schlug die Augen nieder und lispelte ein verschämtes »Ja!«, wie es dazumal comme il faut war.
+    </p>
+    <p xml:id="eco_de_0000161_1470">
+     Glücklich war die Ehe nicht geworden. Der »selige Schumann«, trotzdem er mitten in der schönen Literatur saß, war entsetzlich materiell und geradezu gewesen und hatte absolut kein Verständnis für den himmelblauen Idealismus seiner jungen Frau. Blandine litt klaglos, wie sie allen versicherte, stopfte seine zerrissenen Socken und ertrug schweigend die Zornausbrüche über angebrannte Saubohnen mit Speck, die, entsetzlich genug! sein Lieblingsgericht ausmachten. Die Nachbarn liefen mitunter zusammen, so blitzte und donnerte es bei Bibliothekars, und oftmals fanden sie die junge Frau vor der Haustüre stehend, die sie nicht wieder zu öffnen wagte, nachdem sie geflüchtet war, und lachten sich heimlich schief ob deren poetischer Klage über den »rauhen Gatten, der die Harmonie ihrer Seele trübe«, denn so sprach sie ungefähr.
+    </p>
+    <p xml:id="eco_de_0000161_1480">
+     Es wurde erst friedlicher, als ein Sohn geboren ward. Gelegentlich der Taufe kam der letzte große Krach. Blandine wollte ihn Leontes nennen und der Vater bestand auf Christian, ausgesprochen: »Krischan«. Auch hier mußte sie der rohen Gewalt weichen.
+    </p>
+    <p xml:id="eco_de_0000161_1490">
+     Der »selige Schumann« aber fand schließlich zum allgemeinen Besten und weil er es satt hatte, angebrannte Saubohnen zu essen, einen Ausweg: er nahm seine alte Schwester wieder ins Haus, welche die Wirtschaft führen mußte, und Blandine wurde lediglich für das Geschäft verwandt, allwo sie stets mit dem kleinen Krischan zu finden war, der Ehegemahl höchstselbst ergab sich dem Studium der heimischen Bierbrauereien.
+    </p>
+    <p xml:id="eco_de_0000161_1500">
+     Hier im Laden pries sie mit gewählten Worten ihre Bücher an, und Fremdwörter waren ihre schwache Seite. Ihre Sentimentalität wirkte hochkomisch, so daß es an Lesekunden nicht fehlte. Zahllose Histörchen gab es von ihr: so hatte sie eines Sommerabends in den Flitterwochen mit ihrem Gatten vor der Haustür gesessen, als hinter den Giebeln des alten Schlosses der Mond aufstieg. und sollte sich an ihn lehnend schwärmerisch gehaucht haben: »Geliebter, sieh wie Luna droben lächelt!« Und er hatte gegähnt und die schnöden Worte gesprochen: »Ach, lat em lachen!« Sie sprach auch von »Joethens Ephijenige« und Scotts »Quentchen Dhorwart«. Die »Beinkleider« des Herrn von Bredow gab sie nur unter holdem Erröten, selbst noch als sie bereits eine ältere Frau war. Keine Macht der Erde hätte sie dahin gebracht, dieses Buch zu lesen; sie war überzeugt, es sei »uneßtheetisch«. Dagegen schwärmte sie für Werther, für die schwülstige Erzählungsart eines Miller, dessen »Siegwart« ihr Tränen erpreßte, und diesen verwandte Erzeugnisse, besonders aber für Ritter- und Räubergeschichten. Je herzbrechender die Titel waren, desto dringender empfahl sie die Bücher dem Lesepublikum.
+    </p>
+    <p xml:id="eco_de_0000161_1510">
+     Der Junge wuchs zwischen diesem Vater und dieser Mutter zu einem sonderbaren Kräutlein auf. Vollgepfropft von Empfindsamkeit einerseits und anderseits von Speck und Saubohnen, von dem einen »Leontes« angehaucht, von dem andern »Krischan« angebrüllt, wußte er bald selbst nicht mehr, was er vorstellte. Die Mutter wollte ihn mit wallendem blonden Haupthaar sehen, der Vater ließ ihn heimlich »ratzekahl« scheren. Auf dem Gymnasium rief man ihm die Bonmots seiner Mutter nach, über die er mit Fäusten quittierte, und schließlich kam ein Tag, wo man ihn vergeblich suchte. Erst nach einem Vierteljahr erfuhr man, daß er sich in Hamburg als Schiffsjunge auf einen Ostindienfahrer hatte anwerben lassen, was ja damals noch möglich war, jedenfalls um der Vielseitigkeit seiner elterlichen Erziehung zu entgehen. Er war fort, und ob er je wiederkehren würde, das konnte Gott allein wissen.
+    </p>
+    <p xml:id="eco_de_0000161_1520">
+     Vater Schumann alterierte sich so, daß dieser Ärger, im Verein mit seinen Bierstudien, einen Schlagfluß zuwege brachte an demselben Tage, wo er erfuhr, welchen Weg sein Sohn eingeschlagen hatte. Blandine beklagte und beweinte ihr doppeltes Unglück und erzählte ihren Kunden in wohlgesetzten Worten von ihrer Verlassenheit und sagte, sie fühle, wie es im Gedichte heiße:
+    </p>
+    <p xml:id="eco_de_0000161_1530">
+     »O bitteres Los! Wohl hab' ich nie beim Scheiden So tiefes Weh, so harten Zwang gewußt, Als selbst den Trost des letzten Worts zu meiden. –«
+    </p>
+    <p xml:id="eco_de_0000161_1540">
+     Und anderen gegenüber nannte sie sich Noibe, womit sie wohl Niobe meinen mochte.
+    </p>
+    <p xml:id="eco_de_0000161_1550">
+     Sie verlieh ihre Bücher weiter, begann eine Lebensgeschichte von sich zu schreiben, die leider der Nachwelt verloren gegangen ist, und bedauerte nur immer und immer wieder, daß ihr Leontes sich durch diese Flucht eine klassische Bildung verscherzt habe, da er ja doch so große Talente besaß und schließlich auch namhafte »Stupendien« für die »Uneversität« gehabt haben würde, denn ein einziger Fußfall bei Serenissima würde genügt haben, ihm besagte »Stupendien« zu verschaffen.
+    </p>
+    <p xml:id="eco_de_0000161_1560">
+     Blandine Schumann begann nun mit allerhand schönen Künsten ihr leeres Dasein zu schmücken; sie zeichnete, dichtete und sang, und nach abgelaufener Trauerzeit spielte sie in dem Dilettantenverein »Thalia« Theater. Diese Zeit lag allerdings weit zurück; als ich Blandine kennen lernte, war sie eine alte Frau, wie ich sie oben beschrieb.
+    </p>
+    <p xml:id="eco_de_0000161_1570">
+     Sie zeigte mir einmal ein Blatt, eine Bleistiftstudie, ein ganz wunderliches Krickel-Krackel, darunter hatte sie geschrieben: »Felsreformation aus dem Erlental«. Erst als sie die nähere Erklärung dazu gab, erfuhr man, daß sie »Formation« gemeint hatte.
+    </p>
+    <p xml:id="eco_de_0000161_1580">
+     Blandine, die mit dem Alter immer redseliger geworden war, verkaufte, als beharrlich keine Kunde von dem Sohne zu ihr drang, schließlich die Bibliothek – der Geschmack des Publikums war ohnehin »volgär« geworden, und bezog ihre Stiftsstelle im Weingarten. Hier war es auch, wo ich sie näher kennen lernte und mich zu dem seltsamen Wesen hingezogen fühlte; vielleicht ihrer wunderbar kindlichen Augen, vielleicht auch des nimmermüden Quells ihrer Erzählungen halber. So manchen Nachmittag habe ich in dem Spittelstübchen der Alten gesessen und ihrem zittrigen Gesang zugehört, den sie auf dem Spinettchen begleitete, das so wunderlich dünne, klirrende Töne hatte:
+    </p>
+    <p xml:id="eco_de_0000161_1590">
+     »Guter Mond, du gehst so stille Durch die Abendwolken hin, Gehst so ruhig, und ich fühle, Daß ich schrecklich einsam bin. –«
+    </p>
+    <p xml:id="eco_de_0000161_1600">
+     Das sang sie am liebsten. Schrecklich einsam! Ja, das war sie, aber sie schmückte ihre Einsamkeit aus.
+    </p>
+    <p xml:id="eco_de_0000161_1610">
+     Sie hatte sich in der Erinnerung ihren Seligen zurechtgestutzt zu einem Charakter, der dem Helden ihres Lieblingsromanes glich, augenrollend, wutschnaubend, aber unendlich ritterlich, gerecht, zartfühlend. Ihr Leontes wurde zu einem begeisterten Forscher fremder Weltteile, dessen frühes Grab sie sich in einem Urwald vorstellte, malerisch umrankt von Lianen und sonstigen Schlinggewächsen. Eine indische Fürstentochter in golddurchwirkten Musselingewändern naht bei Lunas keuschem Lichte und begießt diese Stätte mit ihren Tränen, sie hat ihn natürlich geliebt!
+    </p>
+    <p xml:id="eco_de_0000161_1620">
+     Nein, diese Phantasie! Dazu duftete es aus der Porzellanvase, die sie ihren »Postpurry« nannte, so wunderlich süß nach welken Blättern, und zur Erfrischung gab es Holundermilch, die so mild und blumig schmeckte, alles ganz passend zueinander. Ich hätte mir Blandinens Bewirtung auch gar nicht anders vorstellen können, als aus so ungewöhnlichen Sachen. Sie buk kleine Kuchen, die sie »Seladons« nannte, und machte einen Likör aus Rosenblättern, der »Doppelte Liebe« hieß. Noch höre ich, wie sie ihren Sohn zu beschreiben pflegte, und jedesmal fügte sie hinzu: »Ich brauche ja nur den Leontes des Dichters zubeschreiben – so war er auch.« Und dann deklamierte sie:
+    </p>
+    <p xml:id="eco_de_0000161_1630">
+     »Er blühte hold in seinen jungen Tagen, Sein Haar war blond, die Lippe sanft geschwellt. Ein kühnes Herz schien diese Brust zu tragen, Und Mild' und Kraft auf dieser Stirn gesellt. Wohl mochte man beim ersten Anblick fragen. Ist dies Apoll, der Hirt; ist's Mars, der Held? Doch sah man bald, daß solch ein lichtes Auge Zum Leuchten wohl, doch auch zum Blitzen tauge.«
+    </p>
+    <p xml:id="eco_de_0000161_1640">
+     Natürlich mit ganz falschem Pathos. Aber wie staunte ich sie an, wie bedauerte ich, daß diese Blüte der Menschheit mir verloren gegangen war, obgleich meine Großmutter versicherte, Leontes-Christian sei ein dicker untersetzter Bengel mit Stülpnase und strohblond gewesen.
+    </p>
+    <p xml:id="eco_de_0000161_1650">
+     »Er wäre so alt wie Ihr Herr Vater,« schloß Blandine seufzend, »ach – es stirbt als Knabe, wen die Götter lieben.«
+    </p>
+    <p xml:id="eco_de_0000161_1660">
+     So malte, sang und seufzte sie ihr einsames Alter hin; das kleine Gesichtchen schrumpfte immer mehr zusammen, ihr Kleid saß lose und schlotterig und war abgenutzt, aber noch immer blitzte hell das goldene Schildchen mit der »Mutterliebe« auf ihrer Stirn; sie hatte es von ihrer Mutter zur Feier der Konfirmation erhalten.
+    </p>
+    <p xml:id="eco_de_0000161_1670">
+     Eines Tages besuchte uns ein Jugendfreund meines Vaters, ein Maler; beim Spazierengehen trafen wir Blandine, die, ein Gießkännchen in der Hand und in ihrer ganzen verschollenen Pracht, dem Kirchhofe zuwanderte, gefolgt und verhöhnt von so und so viel Straßenjungen. Wir nahmen uns ihrer an, wofür sie mit einem altmodischen Knicks tief untertauchte und »oblischiert« war. Der Maler aber ward ganz begeistert und schwur, uns nicht eher zu verlassen, als bis er das »kostbare alte Stück« gezeichnet habe.
+    </p>
+    <p xml:id="eco_de_0000161_1680">
+     Ich führte ihn ein bei ihr. Sie saß ihm mit größtem Vergnügen, und er war so hingerissen von der »Echtheit dieses Modells«, daß er ihre ganzen Sonderbarkeiten, selbst die Holundermilch in Kauf nahm und die »Bezauberte Rose« von A bis Z anhörte, die sie aus dem Gedächtnis deklamierte.
+    </p>
+    <p xml:id="eco_de_0000161_1690">
+     »Echt! echt! großartig!« murmelte er, und nicht gar lange dauerte es, da prangte Blandine in einer weit verbreiteten illustrierten Zeitschrift.
+    </p>
+    <p xml:id="eco_de_0000161_1700">
+     Es stand nur darunter: »Blandine«. Das Bild aber war wirklich köstlich. Der Künstler hatte das gute, wunderliche, runzelvolle Antlitz unter der braunen Perücke vollendet wiedergegeben, auch das Stirnband mit der »Mutterliebe« fehlte nicht.
+    </p>
+    <p xml:id="eco_de_0000161_1710">
+     Der Zufall wehte diese Zeitung über das große wogende Meer in ein fernes Land und in das Haus eines Deutschen, der seine Heimat und Mutter heimlich verlassen hatte vor länger als vierzig Jahren, Krischan Schumann hieß der Deutsche. Da packte ihn ein wunderliches Gefühl: er nahm seines Sohnes zehnjähriges Töchterlein und reiste mit ihm in die alte Heimat. Ein in harter Arbeit erstarrter, schweigsamer Mensch war er drüben geworden im Kampfe ums Dasein. Die ganze Knorrigkeit des alten Bibliothekars hatte er geerbt, auch dessen Äußeres, aber das zierliche Enkelkind mit dem langen kastanienbraunen Haar und den blauen Augen, das mochte wohl an Blandine erinnern.
+    </p>
+    <p xml:id="eco_de_0000161_1720">
+     So standen diese zwei Fremdlinge eines Tages vor dem Altweiberspittel in der stillen Straße, und Blandine Schumann lugte hinter den Asklepiablättern hervor und wunderte sich, wer das wohl sei. Niewand war da, der die alte Frau hätte vorbereiten können, und so trat plötzlich der breite knorrige Mann unvermittelt vor sie hin, sah die kleine wunderliche Gestalt an und sagte mit leiser Stimme und zuckenden Lippen: »Mutter!«
+    </p>
+    <p xml:id="eco_de_0000161_1730">
+     Sie schüttelte den Kopf, sie kannte ihn nicht, verstand ihn nicht.
+    </p>
+    <p xml:id="eco_de_0000161_1740">
+     Da schob er die Kleine vor: »Das ist deine Großmutter, Kind!«
+    </p>
+    <p xml:id="eco_de_0000161_1750">
+     Mit angstvollen Augen starrte die alte Frau auf das zierliche Geschöpf, dann richtete sie sich auf in ihrem Stuhl und rief wie jammernd: »Zu spät! Zu spät!«
+    </p>
+    <p xml:id="eco_de_0000161_1760">
+     Es waren ihre letzten Worte – Leontes-Krischan konnte seine alte Mutter nur noch begraben.
+    </p>
+    <p xml:id="eco_de_0000161_1770">
+     Er kam vor seiner Abreise zu uns und brachte mir im Auftrage der Verewigten ein abgegriffenes Büchelchen. Es war »Die bezauberte Rose«.
+    </p>
+    <p xml:id="eco_de_0000161_1780">
+     Das sind Gestalten aus der Zeit, da die Acht neben der Eins stand: kleine unscheinbare Tröpflein in der Flutwelle des Jahrhunderts.
+    </p>
+    <p xml:id="eco_de_0000161_1790">
+     Nun ist die Neun neben die Eins getreten und nimmt uns auf in ihre heranrauschende Flut, in der wir vergehen werden. Noch aber leben wir und sehen staunend, was Menschengeist ersonnen und erreicht hat, und harren ehrfurchtsvoll erschauernd noch größerer Offenbarungen, die uns das neue Jahrhundert bringen wird.
+    </p>
+    <p xml:id="eco_de_0000161_1800">
+     Eines aber bringt es nicht, solche eigenartig harmlose Menschen wie die, die ich eben geschildert habe, die es verstanden, auf ihre Art da zu sein.
+    </p>
+    <p xml:id="eco_de_0000161_1810">
+     Die Originale, die sterben aus.
+    </p>
+    <p xml:id="eco_de_0000161_1820">
+     Maiblumen.
+    </p>
+    <p xml:id="eco_de_0000161_1830">
+     Heute früh bin ich ausgegangen, das herrliche Frühlingswetter verlockte mich dazu. Nach diesem Winter, der uns so viel Schnee und Eis brachte, war der laue Wind, der blaue Himmel, der goldene Sonnenschein ein wahrer Hochgenuß, der geradezu berauschend wirkte auf das Gemüt. Die Trottoire in den Straßen des freundlichen Elb-Florenz sind trocken und belebt, auf dem Bismarckplatz trippeln die Kinder durcheinander, schwatzen laut und lachend die Wärterinnen, und der Bäckerjunge, der, eine riesige Tortenschachtel tragend, sich durch das Gedränge schiebt, pfeift was er kann:
+    </p>
+    <p xml:id="eco_de_0000161_1840">
+     »Ist denn kein Stuhl da, Stuhl da, für meine Hulda, Hulda!«
+    </p>
+    <p xml:id="eco_de_0000161_1850">
+     Die Engländerinnen tragen zu ihren Pelzkragen bereits Waschblusen unter den Jaketten und vorjährige Strohhüte. Die Taxameter haben das Verdeck ihrer Wagen geöffnet, und vor dem Bahnhofportale werden große Koffer reisender Leute abgeladen. Glückliche Menschen!
+    </p>
+    <p xml:id="eco_de_0000161_1860">
+     Die Reiselust, die mich plötzlich übermannt! Eine Sehnsucht, so tief und mächtig, nach dem Lande jenseit der Alpen, nach blühenden Mandeln und Mimosen, nach roten und weißen Kamelienblüten, nach dunkelblauen Seen und silberblinkenden Bergspitzen, nach menschendurchfluteten Städten und weißen, in Palmen und Lorbeergestrüpp versteckten Villen.
+    </p>
+    <p xml:id="eco_de_0000161_1870">
+     In diesen Gedanken bin ich die Pragerstraße hinaufgeschritten, ganz mechanisch, ohne zu sehen und zu hören: mitten durch die eiligen geschäftigen Menschen, an den prächtigen Schaufenstern vorüber, immer weiter, bis ich auf dem Markt stehe, vor dem Tischchen der alten Blumenfrau, bei der ich stets zu kaufen pflege. Und da sind sie alle, die lieben Bekannten aus dem Süden. Die goldgelben Mimosenzweige, die ihr leuchtendes Banner so üppig wehen lassen auf der Isola madre; die Narzissen und Anemonen, die man am Monte Rosso pflückt, die gelben Marguerites, und dann der Maiblumenduft, ach, der Maiblumenduft!
+    </p>
+    <p xml:id="eco_de_0000161_1880">
+     Da steht mir wieder zaubergleich die kleine Station zwischen Laveno und Mailand vor Augen, wo barfüßige italienische Kinder Maiblumensträuße verkaufen, so groß, daß man sie kaum zu fassen vermag, und so duftend! Aller Staub, alle Hitze scheinen gewichen aus dem dumpfen Coupé, sobald diese holden Blumen ihren Einzug halten. Und wie ich das letzte Mal dort reiste, brachten mir diese Maiblumen ein Erkennen, da war ich, ohne es zu wissen, mit Lene v. Brandenfeldt in demselben Coupé gefahren. Erst an dem sehnsüchtigen Ausdruck, mit dem ihre Augen an meinem Strauß hingen, erkannte ich sie, und da – doch davon später! – – – –
+    </p>
+    <p xml:id="eco_de_0000161_1890">
+     Ich kaufe der Alten so viel Blumen ab, wie ich zu tragen vermag, und wandere heim, noch immer mit der großen brennenden Reisesehnsucht im Herzen. Es liegt so etwas Festliches heute über allem Treiben, die Leute sehen gesund und lächelnd aus, selbst die Droschkenpferde haben ordentlich einen vergnügten Gesichtsausdruck, und ebenso die armen geplagten Zughunde und die kleinen geduldigen Esel vor den Milchkarren. »Ja, nun kommt gute Zeit, nun wird es warm und lustig in der Welt!« scheint alles zu sprechen.
+    </p>
+    <p xml:id="eco_de_0000161_1900">
+     Zu Hause angelangt, verteile ich die Blumen in die Zimmer: der Maiblumenstrauß findet seinen Platz auf meinem Schreibtisch, dicht neben dem Heft, auf dessen leeren Seiten leider noch keine Zeile geschrieben steht. Aber jetzt weiß ich, was ich schreiben soll, die Maiblumen haben es mir gesagt.
+    </p>
+    <p xml:id="eco_de_0000161_1910">
+     Und sie duften und duften und zaubern alte, längst vergessene Bilder herauf, anknüpfend an jenes Wiedererkennen im schwülen Coupé, über ihre weißen Glöckchen hinweg.
+    </p>
+    <p xml:id="eco_de_0000161_1920">
+     Von Lene v. Brandenfeldt will ich erzählen, von den Tagen, wo wir beide noch weiße und rosa Kleidchen trugen und an eine wundervolle Zukunft glaubten, von den Tagen der Jugend.
+    </p>
+    <p xml:id="eco_de_0000161_1930">
+     »In die Maiblumen gehen« nannten wir es in Steinhagen, wenn wir in den Stadtwald zogen, ein ganzer Trupp junger Frauen, Mädchen und Offiziere; die Mütter folgten uns im Krümperwagen mit der »Fourage«, denn im Försterhause war höchstens heißes Wasser zum Kaffeekochen und frische Milch zu haben. An irgend einer schattigen Stelle wurden Decken ausgebreitet, und man lagerte sich in zwanglosen Gruppen, irgend eine hübsche Frau füllte die goldgeränderten Kaffeetassen der Frau Försterin, die jungen Mädchen präsentierten den Kuchen, und hinter dem nächsten grünen Gebüsch spielte die Regimentsmusik das »Echo im Walde«. Blauer, leichter Zigarettenduft verscheuchte die Mücken, und in das Lachen und Plaudern hinein rief unermüdlich aus der Ferne der Kuckuck. Und über allem der blaue Maihimmel mit seinen weißen Wölkchen, und junges, zartes Buchenlaub und hüpfende Sonnenfleckchen.
+    </p>
+    <p xml:id="eco_de_0000161_1940">
+     Das Offfzierkorps des Ulanenregiments bestand aus durchweg wohlsituierten Leuten. Die Damen entnahmen ihre Toiletten von Gerson in Berlin, die Herren ritten Vollblutpferde, die jüngeren beteiligten sich an den Rennen und hatten in ihrem Kasino wunderbares Tafelsilber und livrierte Diener. Der Kommandeur ließ seine Gesellschaftsdiners direkt von Borchardt kommen aus Berlin, die gemeine Not des Lebens kannte vielleicht keiner von ihnen. Man war natürlich sehr exklusiv, und außer mit dem Landrat und einigen Großgrundbesitzern, die in jeder Weise als ebenbürtig galten, verkehrte man nur noch mit Brandenfeldts.
+    </p>
+    <p xml:id="eco_de_0000161_1950">
+     Herr v. Brandenfeldt, Leutnant a. D., bekleidete die Stelle eines Beamten bei der städtischen Steuer, eine sehr untergeordnete Stellung. Seine Aufnahme in den Regimentskreis verdankte er seinem alten Adel und dem seiner Gattin, einer Tochter aus dem gräflichen Hause Elben. Ein früherer Kommandeur dieses Regiments war ihr Vetter gewesen und hatte die Familie in den Kreis hineingezogen. So sah man sie denn bei den Bällen und in den Gesellschaften, besonders seitdem das Töchterchen erwachsen war. Sie bewohnten ein sehr bescheidenes Quartier, dem unsern gerade gegenüber in der Gertrudengasse, und erfüllten mit jährlich ein bis zwei Soupers ihre gesellschaftlichen Verpflichtungen, bei denen es einfach, aber ganz anständig zuging.
+    </p>
+    <p xml:id="eco_de_0000161_1960">
+     Man speiste dabei von Tellern, die mit einer Grafenkrone geziert waren, und auf altem wappengeschmücktem Damast, den mancher von uns nicht aufdecken konnte, weil er eben kein Wappen besaß. Die Möbel waren gut und solid, und an den Wänden hingen die Bilder einiger gepuderter Ahnen, die sich seltsam genug von der billigen geblümten Tapete abhoben.
+    </p>
+    <p xml:id="eco_de_0000161_1970">
+     Die beiden Damen kleideten sich einfach und geschmackvoll: Frau v. Brandenfeldt schneiderte alles selbst. Der Herr Leutnant a. D. spielte sein L'hombre mit dem Kommandeur, dem Landrat und irgend einem Rittmeister und verlor hin und wieder auch 'mal ein paar Taler mit vollendeter Liebenswürdigkeit. Nach solchem Verlust erschien er dann eine Zeitlang nicht am Spieltisch, unter irgend einem ganz akzeptabeln Vorwand.
+    </p>
+    <p xml:id="eco_de_0000161_1980">
+     Ein Mädchen hielten sie nicht, nur eine alte Aufwartefrau für die gröbsten Arbeiten. Besuch empfingen sie für gewöhnlich nicht, und wie es erst bekannt wurde, daß die Damen ihre eigenen Köchin und Stubenmädchen seien, belästigte man sie nicht mit müßigen Visiten, sondern begnügte sich, sie am dritten Orte zu sehen, wie man denn überhaupt tat, als wüßte man nichts von ihrer ungewöhnlich eingeschränkten Lebensweise.
+    </p>
+    <p xml:id="eco_de_0000161_1990">
+     Lene v. Brandenfeldt war wirklich ein reizendes Mädel, schlank aufgeschossen wie eine Birke, mit duftigem aschblondem Haar, nußbraunen Augen und einer Hautfarbe wie Apfelblüte. Sehr sanft, eher ernst als heiter, und doch bereit, so recht von Herzen mitzulachen und mitzutun, und immer zufrieden mit ihrem kargen Dasein, an das man übrigens nie dachte, wenn man mit ihr zusammen war.
+    </p>
+    <p xml:id="eco_de_0000161_2000">
+     Natürlich zwang die Stellung, die Herr v. Brandenfeldt innehatte, auch zum Verkehr in den Kreisen der Bürger. Lene und ihr Vater taten dies mit selbstverständlicher Liebenswürdigkeit, Frau v. Brandenfeldt aber wurde es sehr schwer. Sie saß mit ihrem feingeschnittenen blassen Gesicht, eine altmodische Moireemantille um die spitzen Schultern, wie fröstelnd auf dem Sofaplatz, welcher übrigens der geborenen Gräfin immer bereitwilligst reserviert wurde, und beteiligte sich mit keinem Worte an den Gesprächen der Frau Apotheker Salzmann, der Frau Oberlehrer Rindenbeißer oder der Frau Stadtrat, welche letztere ihre direkte »Vorgesetzte« war. Dies Schweigen wurde ihr natürlich als Hochmut ausgelegt und war doch nichts weiter, als die Scheu, jene Leute in ihr ärmliches Leben blicken zu lassen. Aufschneiden aber verstand sie nicht, es wäre ihr auch unter aller Würde erschienen. Sie konnte nicht über die Dienstmädchen räsonieren, denn sie hielt keine, und die hohen Preise der Hammel- und Kalbskeulen lagen ihr auch zu fern – war es doch männiglich bekannt, daß Brandenfeldts tägliches Deputat aus einem halben Pfund Kochfleisch bestand, nicht mehr und nicht weniger. Von andern Dingen aber war selten die Rede, so schwieg sie denn.
+    </p>
+    <p xml:id="eco_de_0000161_2010">
+     Lene hatte mir einmal erzählt, daß ihr Vater, als junger Offizier und Ehemann, mit dem Pferde gestürzt und dadurch dienstunfähig geworden sei auf Lebenszeit, Lene war, als erstes Kind, damals gerade geboren. Der Großpapa, der alte Graf, damals schon vom Schlage getroffen und in Pension lebend, konnte nichts tun für den Schwiegersohn, denn er hatte noch sieben unversorgte Komtessen zu Hause, arme, verbitterte Dinger, die mit Sorgen den Moment herankommen sahen, da der Vater die Augen schließen und die Präsidentenpension erlöschen würde. Und so hatte der Leutnant a. D. v. Brandenfeldt den kleinen Posten eines Kassenrendanten in Steinhagen annehmen müssen.
+    </p>
+    <p xml:id="eco_de_0000161_2020">
+     Lene, unbekümmert ob dieser Verhältnisse, wuchs frisch und fröhlich auf, war in bürgerlichen wie in militärischen Kreisen gleich beliebt und bei Festlichkeiten beinahe die begehrteste Dame. Traf es sich aber, daß am gleichen Tage etwas »los war« in beiden Welten, so gab sie stets der Einladung derjenigen Folge, zu der ihr Vater seiner Stellung nach gehörte. Ich allein wußte, wie schwer ihr das wurde, weil ja ihr ganzes Herz bei uns weilte, seitdem der Eberhard v. Wülflingen in unserem Regiment stand.
+    </p>
+    <p xml:id="eco_de_0000161_2030">
+     Wir waren da einmal wieder in die Maiblumen gegangen, lagerten im Walde, tranken Kaffee und waren heiter, wie immer. Ganz am linken Flügel, ein klein wenig abseits auf einer Baumwurzel, saß Lene v. Brandenfeldt und ihr zu Füßen natürlich Eberhard v. Wülflingen. Nun war Eberhard zufällig der einzige im ganzen Regiment, der eine knappe Zulage hatte und sich in manchen Dingen einschränken mußte. Der hübsche, schlanke Junge war vor etwa anderthalb Jahren direkt von den Gardeulanen gekommen, sein Vater, der Rittergutsbesitzer v. Wülflingen, war nicht mehr im stande, ihm die dort nötige hohe Zulage zu gewähren, weil er sich in Börsenspekulationen eingelassen hatte und damit gründlich verkracht war. Der Sohn schien nicht allzuschwer unter diesem Glückswechsel zu leiden; er war immer vergnügt, riesig sparsam und solide und vom ersten Tage an, wo er sie gesehen, in Lene v. Brandenfeldt verliebt. Sie sah ihn auch gern, sehr gern, das glaubte ich bestimmt zu wissen und begriff es vollkommen. Es war eben einer von denen, dem jedes junge Herz zufliegen mußte – liebenswürdig, ritterlich und hübsch. Wirklich, ein prächtiger Mensch!
+    </p>
+    <p xml:id="eco_de_0000161_2040">
+     Der dicke Etatsmäßige war wohl der einzige, der das Paar durch sein Monocle etwas nachdenklich anstarrte und dann, mit einer Grimasse sein Glas fallen lassend, zu seinem Nachbar, dem Rittmeister v. Ollendorf, sagte: »Er wird doch nicht etwa so torhaft sein – was Ollendorf? Ist ja vollkommen okkupiert, der Schwerenöter drüben. Übrigens – entschuldbar – reizender Käfer, die kleine Brandenfeldt.«
+    </p>
+    <p xml:id="eco_de_0000161_2050">
+     Ich hörte es, ohne mir weiter etwas dabei zu denken, ich war eben noch in jenen Jahren, wo man nicht rechnet und berechnet, ja, wo ein Gedanke an prosaische Dinge bei Liebessachen wie eine Entweihung erscheint.
+    </p>
+    <p xml:id="eco_de_0000161_2060">
+     Als der Kaffee getrunken war und wir in den Wald schwärmten, um Maiblumen zu suchen, hing sich Lene an meinen Arm. »Du, Marie, komm mit, ich weiß, wo der beste Maiblumenschlag ist, der Förster hat es mir verraten, als ich im April 'mal mit Vater hier war. – Rasch, daß uns die andern nicht sehen!«
+    </p>
+    <p xml:id="eco_de_0000161_2070">
+     Wir entkamen unbemerkt, niemend folgte uns in die grüne Wirrnis außer einem – Eberhard Wülflingen natürlich. Ich entdeckte ihn, als ich mich umwandte, weil mein Kleid an einem Dornbusch hängen geblieben war.
+    </p>
+    <p xml:id="eco_de_0000161_2080">
+     »Du, Lene, der Wülflingen!«
+    </p>
+    <p xml:id="eco_de_0000161_2090">
+     »So? Laß ihn: tue nicht, als ob du ihn gesehen. Hoffentlich verliert er unsere Spur!«
+    </p>
+    <p xml:id="eco_de_0000161_2100">
+     »Hoffentlich? Bist du jetzt ehrlich, Lene?«
+    </p>
+    <p xml:id="eco_de_0000161_2110">
+     Sie wandte den Kopf, damit ich ihr erglühendes Gesicht nicht sähe, und floh förmlich, als wollte sie die Wahrheit ihrer Worte beweisen; ich natürlich in gleichem Tempo mit. Wir brachen wie die gehetzten Rehe durch die jungen Buchen und Haselnußsträucher und standen endlich stille unter hohen Eichen, durch deren frisches Laub die Sonne flimmerte.
+    </p>
+    <p xml:id="eco_de_0000161_2120">
+     O, der Duft, der Duft! Und die massenhaften weißen Glöckchen, die im leisen Wind zitterten zu unseren Füßen. Ganz berauscht davon, begannen wir zu pflücken.
+    </p>
+    <p xml:id="eco_de_0000161_2130">
+     »Die andern finden so viele nicht,« sagte Lene jetzt, noch immer die Röte der Verlegenheit auf dem lieben Gesicht, »aber ich brauche viel, ich habe Rindenbeißers krankem Röschen einen großen Strauß versprochen; das arme Ding, immer liegt sie da, mit ihren gelähmten Gliedern.«
+    </p>
+    <p xml:id="eco_de_0000161_2140">
+     Es war das letzte, was ich für ein Weilchen von Lene hörte; wir entfernten uns, Blumen pslückend, voneinander. Es war so still, so einsam ringsum, halb verweht klangen die Töne eines Straußschen Walzers herüber: »O junger Mai, o schöner Mai, la la la la, la la la la« – und in weiter Ferne rief wieder der Kuckuck.
+    </p>
+    <p xml:id="eco_de_0000161_2150">
+     Ob es nun der starke betäubende Duft war, der mich so müde, so zeitvergessen machte? Ich sammelte schon lange keine Blumen mehr, ich saß auf der Wurzel einer eben belaubten riesigen Eiche und ordnete langsam, sehr langsam die Blüten und dachte an allerlei, an das, was man denkt mit zwanzig Jahren. Und wie ich mit dem Strauß fertig war und ihn mit biegsamen Grashalmen umwunden hatte, da fiel mir ein, nach Lene zu suchen, aber ich sah sie nicht mehr. Suchend und rufend schritt ich über die kleine Lichtung bis dahin, wo eine Gruppe dunkler Tannen steht, und hinter dieser Tannenwand sah ich plötzlich Lenens weißes Kleid schimmern und neben demselben etwas Blaues, Großes, und zugleich hörte ich eine bewegte Männerstimme sagen: »Aber Helene – Lene – Lene – das kann Ihr Ernst nicht sein!«
+    </p>
+    <p xml:id="eco_de_0000161_2160">
+     Und das mit einer Betonung – einer Betonung – da wußte ich genug. Leise wandte ich mich um, schritt über die Lichtung zurück und verfügte mich auf den Rendezvousplatz. Sie waren alle schon vollzählig versammelt um die Maibowle, bis auf die zwei, und die schien niemand zu vermissen. Noch ein Weilchen, als wir eben zum Fanchonlaufen auf der Wiese antreten wollten, kam Lene allein den Waldweg daher mit ihrer Blumenlast; Eberhard Wülflingen fehlte und Lene tat ganz unbefangen, man sah ihr aber doch an, daß sie etwas Großes, Feierliches erlebt hatte, ihr sonst so blühendes Gesichtchen war sehr blaß.
+    </p>
+    <p xml:id="eco_de_0000161_2170">
+     Am Abend, als wir heimgingen, hing Lene sich wieder an meinen Arm.
+    </p>
+    <p xml:id="eco_de_0000161_2180">
+     »Du, warum bliebst du nicht neben mir beim Blumenpflücken?« fragte sie mit niedergeschlagenen Augen und vorwurfsvollem Klang ihrer Stimme.
+    </p>
+    <p xml:id="eco_de_0000161_2190">
+     »Ich kam unversehens von dir ab,« stotterte ich, »warum aber machst du denn so eine Leichenbittermiene – weinst wohl gar?«
+    </p>
+    <p xml:id="eco_de_0000161_2200">
+     Sie schüttelte den Kopf. »Es ist so traurig,« sagte sie nach einer Weile mit ihrer lieben, leisen Stimme, »wer hätte das auch gedacht: ich habe ihn immer für so vernünftig gehalten. Wir können doch nicht zusammenkommen, Marie, und wenn wir uns noch viel lieber hätten, was ja aber gar nicht möglich ist!«
+    </p>
+    <p xml:id="eco_de_0000161_2210">
+     »Hat er denn gesprochen?« forschte ich atemlos.
+    </p>
+    <p xml:id="eco_de_0000161_2220">
+     »Ja! Er sagte, wir wollten aufeinander warten bis zum Rittmeister, und das – das – siehst du, das ist ja Unsinn.«
+    </p>
+    <p xml:id="eco_de_0000161_2230">
+     »Und daran denkst du in dem Augenblick, wo dir der Mann, den du liebst, endlich seine Neigung gesteht? Du scheinst eben nicht gerade romantisch veranlagt.« Die tiefste Empörung sprach aus mir.
+    </p>
+    <p xml:id="eco_de_0000161_2240">
+     »Romantisch? Nein, romantisch bin ich nicht,« sagte sie. »Du denkst vielleicht, ich liebe ihn nicht? Wirkliche Liebe ist gar nicht romantisch! Weißt du, wenn ich mir vorstelle, daß er einmal so ein Leben führen solle wie mein armer Vater, dann fühle ich nichts mehr als das eine, daß ich es nicht ertragen könnte, es mit anzusehen: – nein, das könnte ich nicht. – Wir sind beide so schrecklich arm, Marie!«
+    </p>
+    <p xml:id="eco_de_0000161_2250">
+     »Du denkst weit hinaus,« gab ich zur Antwort, aufs peinlichste berührt von ihrer praktischen Richtung. Ich hatte sie stets für eine ideal angelegte Natur gehalten, und nun entpuppte sie sich plötzlich nach meinem Dafürhalten als eine hausbackene Seele, die das künftige Wirtschaftsgeld überrechnet in dem Moment, wo ihr, beim Duft der Maiglöckchen, beim Schlag der Finken im Frühlingswald, ihr Liebstes, längst Ersehntes – sein Herz zu Füßen legt!
+    </p>
+    <p xml:id="eco_de_0000161_2260">
+     Sie schritt stumm neben mir, von Zeit zu Zeit preßte sie meinen Arm und ein tiefer Seufzer traf mein Ohr.
+    </p>
+    <p xml:id="eco_de_0000161_2270">
+     »Und was soll denn nun eigentlich werden?« fragte ich strenge.
+    </p>
+    <p xml:id="eco_de_0000161_2280">
+     »Ich weiß es nicht, habe keine Ahnung,« antwortete sie beinahe hastig, »frage mich doch nicht!«
+    </p>
+    <p xml:id="eco_de_0000161_2290">
+     Wir gingen alle über einen schmalen Wiesenpfad, der nur paarweise zu beschreiten war, der Stadt zu. Es war fast dunkel; der Mond stand hinter einer schwarzen Wolkenwand, in der von Zeit zu Zeit ein bläulicher Wetterstrahl aufzuckte. Die Luft war warm und gewitterschwül, und die Frösche sangen ihre Liebeslieder im nahen Bruch. Wir beide waren die Letzten des Zuges, eines langen schmalen Zuges, der sich wie ein Grabgeleite ausgenommen haben würde, wenn nicht das Lachen und Plaudern aus ihm zurückgeschallt hätte. Die ganze Stimmung in der Natur war eine sehnsüchtige, erwartungsvolle, eine echte Frühlingsabendstimmung, und die Blumen in unsern Händen dufteten so süß und schwer.
+    </p>
+    <p xml:id="eco_de_0000161_2300">
+     Ob nur Lene das nicht empfand? »Wo ist Eberhard Wülflingen?« fragte ich leise.
+    </p>
+    <p xml:id="eco_de_0000161_2310">
+     »Voran! Vor einer halben Stunde schon, er muß längst zu Hause sein.«
+    </p>
+    <p xml:id="eco_de_0000161_2320">
+     »Er wird sich deine Antwort anders vorgestellt haben!«
+    </p>
+    <p xml:id="eco_de_0000161_2330">
+     »Er sagte, an der Ausführung würde mein Bedenken ihn nicht hindern. Er will morgen mit den Eltern sprechen – trotz meiner Bitten: es geht ja nicht, es geht wirklich nicht! Ach, du, hätte ich ihn nur nie gesehen!«
+    </p>
+    <p xml:id="eco_de_0000161_2340">
+     Es klang etwas schrecklich Gequältes aus ihrer Stimme, ich ärgerte mich von neuem über die feigen Bedenken und ließ unmutig ihren Arm fahren. »Und das nennst du Liebe?« sagte ich großartig und verächtlich.
+    </p>
+    <p xml:id="eco_de_0000161_2350">
+     Sie antwortete nicht, ich meinte nur, ihre Augen groß und traurig auf mich gerichtet zu sehen. Stumm gingen wir den Rest des Weges miteinander bis zur Stadt. Die Straßen wimmelten noch von Kindern, vor den Haustüren saßen die Leute und genossen die Abendkühle, aus den Gärten leuchteten weiße Blütenbäume, und der Fliederduft kämpfte siegreich mit den Gerüchen, die der Straße eigen zu sein pflegen.
+    </p>
+    <p xml:id="eco_de_0000161_2360">
+     Hinter Wülflingens Fenstern war Licht, und gerade hier stockte der Zug; man trennte sich unter fröhlichem Gute Nacht, um die verschiedenen Penaten aufzusuchen. Lene und ich gingen zusammen weiter, voran ihre und meine Mutter, bis in die Gertrudengasse, wo wir uns ja gegenüber wohnten.
+    </p>
+    <p xml:id="eco_de_0000161_2370">
+     »Überleg' dir's noch!« bat ich leise, wie wir uns ihrem Hause näherten. »›Ein getreues Herz zu wissen‹ – du kennst das Verschen; und so schrecklich arm wird er ja nicht sein, das Kommißvermögen kann ihm sicher sein Vater geben.«
+    </p>
+    <p xml:id="eco_de_0000161_2380">
+     Sie senkte schweigend den Kopf. »Das meinte er auch, aber dennoch – – mein Gott, was ist denn das, die paar Taler?« stotterte sie.
+    </p>
+    <p xml:id="eco_de_0000161_2390">
+     »Na, ich meine! Zwölftausend Taler, was das ist?« fragte ich empört; »wie manche wäre selig damit und dankte Gott auf den Knien dafür.« Und – du bist doch das »Sparsamsein« gewöhnt, dachte ich dabei.
+    </p>
+    <p xml:id="eco_de_0000161_2400">
+     Sie antwortete nicht, und im nächsten Augenblick war sie hinter ihrer Mutter in das Haus getreten.
+    </p>
+    <p xml:id="eco_de_0000161_2410">
+     Am andern Mittag, es war eben zwölf Uhr und die Schulkinder lärmten durch die Gassen, sah ich mitten unter ihnen Eberhard Wülflingen daherkommen im Besuchsanzug mit Ulanka und Tschapka, groß, schlank und stattlich, einen feierlichen, entschlossenen Ausdruck im Gesicht. Er steuerte direkt auf Brandenfeldts Wohnung los.
+    </p>
+    <p xml:id="eco_de_0000161_2420">
+     Aha, er führt aus, was er versprach! – Armer Kerl, du hast gar keine Idee, wie schwankend und prosaisch die Liebe deiner Lene ist! Ich blieb wie festgebannt am Fenster sitzen hinter meinem Nähtischchen und wünschte, die Mauern des Hauses drüben mit meinen Augen durchdringen zu können. Was wird nun werden mit den beiden?
+    </p>
+    <p xml:id="eco_de_0000161_2430">
+     Ein Weilchen später kehrte der Herr Kassenrendant vom Bureau heim, er ging gebückt und langsam – immer, als drückte eine schwere Last seine feine Gestalt hernieder; das Gesicht war blaß und hatte einen leidenden Ausdruck. Der Sommerüberzieher war auch schon recht unmodern, ebenso der Zylinder, trotzdem hatte er das Aussehen eines eleganten Mannes.
+    </p>
+    <p xml:id="eco_de_0000161_2440">
+     Plötzlich fiel mir Lenens Ausspruch ein: »Wenn ich denken müßte, daß er einmal so ein Leben führen sollte wie mein armer Vater, ich ertrüge es nicht!« Ganz unbewußt habe ich wohl den Herrn v. Brandenfeldt darauf angesehen, ach, es mag vielleicht doch eine größere Misere sein, als man ahnen konnte! Lene hat bisher freilich nie geklagt, sie war immer zufrieden gewesen, nur gestern nicht, zum erstenMale. Ob aber der Herr v. Brandenfeldt wirklich unglücklich war? Jedenfalls schien er sehr friedlich mit seiner Frau zu leben. Ich bewunderte bei Gesellschaften immer wieder die altmodische ritterliche Höflichkeit, mit der er nach beendetem Souper beim Gesegnete-Mahlzeit-Wünschen die Hand seiner Gattin küßte, nachdem er gefragt hatte: »Wie geht's dir, meine Liebe?«
+    </p>
+    <p xml:id="eco_de_0000161_2450">
+     Nach einer halben Stunde etwa kam Eberhard Wülflingen wieder aus dem Hause, sehr rot, sehr hastig, wie jemand, der eine große unerwartete Täuschung erfahren hat. Den Kopf im Nacken, ging er rasch die Straße hinunter.
+    </p>
+    <p xml:id="eco_de_0000161_2460">
+     Natürlich! Lene war bei ihrem »Nein!« geblieben. Wie sie das nur konnte! Es ist doch unerhört! Ich meine, wenn man liebt, dann müsse auch die innere, zwingende Notwendigkeit dasein, einander anzugehören, über alle Bedenken hinaus. Lenens »Es geht ja nicht!« schien mir das untrügliche Zeichen einer kleinen Seele zu sein.
+    </p>
+    <p xml:id="eco_de_0000161_2470">
+     Unmutig entfernte ich mich von meinem Beobachterposten und ging nach dem Garten. Dort suchte mich nach einem Weilchen der kleine Nachbarsjunge auf, der von Lene zu Ausgängen und leichten Besorgungen benutzt wurde für das fürstliche Honorar von zehn Pfennig die Woche. Er brachte mir ein mit Bleiftift beschriebenes, eilig zusammengefaltetes Zettelchen:
+    </p>
+    <p xml:id="eco_de_0000161_2480">
+     »Bitte, komm gegen halb zwei Uhr in unsern Garten, ich muß Dich sprechen.
+    </p>
+    <p xml:id="eco_de_0000161_2490">
+     Lene.«
+    </p>
+    <p xml:id="eco_de_0000161_2500">
+     Was sie nur will? Wieder feige jammern und lamentieren über materielle Hindernisse? Wenn sie das tut, nahm ich mir vor, dann bekommt sie von mir Dinge zu hören, die möglicherweise unsere Freundschaft für immer zu Schanden machen, ich kann dann nicht anders. – Zur festgesetzten Stunde ging ich über den Hof des Hauses drüben, in welchem Brandenfeldts das Halbparterre bewohnten: aus der Scheuer führte ein Pförtchen in den Garten, den wir als Kinder bei unsern Spielen benutzt hatten. Durch die Haustüre mochte ich nicht gehen, ich wußte, daß Lenes Eltern zu dieser Zeit Mittagsruhe hielten.
+    </p>
+    <p xml:id="eco_de_0000161_2510">
+     Ich fand Lene meiner schon wartend an der Scheunentür. Sie sah ein bißchen bleich aus, trug ihr marineblaues Alltagskleid, ein weißes Schürzchen und hielt den zierlichen Pompadour mit der ewigen Stickerei in der Hand. Ich betrachtete letzteren ganz entsetzt – sie konnte Handarbeiten fertigen an solchem Tage?
+    </p>
+    <p xml:id="eco_de_0000161_2520">
+     »Liebste Marie,« bat sie, »ich bin dir so dankbar, ich kann nicht allein bleiben mit meinen schweren Gedanken. Setze dich doch ein bißchen mit in die Laube, komm!« Sie zog mich hinein und nötigte mich zum Sitzen: aber ich blieb stehen.
+    </p>
+    <p xml:id="eco_de_0000161_2530">
+     »Ich meinte, du wolltest mich nötig sprechen? Ich habe nicht viel Zeit!« sagte ich streng und ungeduldig.
+    </p>
+    <p xml:id="eco_de_0000161_2540">
+     Sie blieb neben mir stehen und antwortete nicht gleich. Nun erst bemerkte ich, wie ihre Hand, die einen frisch gepflückten Fliederzweig, der auf dem Tische lag, beiseite schob, zitterte, und wie verändert ihr Gesicht war, gramvoll, um zehn Jahre gealtert.
+    </p>
+    <p xml:id="eco_de_0000161_2550">
+     »Du warst gestern schon so unfreundlich,« warf sie mir zaghaft vor.
+    </p>
+    <p xml:id="eco_de_0000161_2560">
+     »Allerdings! Und heute bist du mir ganz unverständlich – ich sah Eberhard Wülflingen von euch wieder herauskommen, und –«
+    </p>
+    <p xml:id="eco_de_0000161_2570">
+     »Mein Gott, es geht nicht anders,« flüsterte sie, mit starren Augen an mir vorübersehend.
+    </p>
+    <p xml:id="eco_de_0000161_2580">
+     Und da riß mir die Geduld, wie eine mühsam zurückgestaute Flut brach mir mein Unwille los. Erbärmlich feige sei sie, eine größere Enttäuschung habe ich noch nie erlebt als bei ihr. Berechnend, materiell sei sie, nicht Liebe sei es, und Eberhard Wülflingen könne froh sein, daß er ein so kleinliches Wesen nicht heimführe, er werde sich hoffentlich bald zu trösten wissen. Damit wandte ich mich um und ging den Weg wieder hinunter, um zur Scheunentür zu gelangen.
+    </p>
+    <p xml:id="eco_de_0000161_2590">
+     Zunächst rührte sich nichts hinter mir, dann aber holte sie mich ein mit eilenden Schritten. »Mariechen,« rief sie halblaut, »du irrst dich, ich kann dir ja nicht alles sagen! Bleibe doch – ich –«
+    </p>
+    <p xml:id="eco_de_0000161_2600">
+     Sie war plötzlich neben mir und hielt mich fest, ihre Augen glühten, sie atmete mühsam. »Du weißt ja gar nicht, was ich erlebe, täglich, stündlich, sonst würdest du nicht so hart urteilen! Ich bitte dich, daß du mir glaubst, ein bißchen glaubst,« flehte sie, »wenn ich dir sage: mein Lebensglück hängt ja an ihm, mein ganzes Glück, und doch – –«
+    </p>
+    <p xml:id="eco_de_0000161_2610">
+     »Doch kann ich Handarbeit machen,« höhnte ich, »und den armen Jungen heimschicken! Weißt du, was ich getan hätte? Entweder wäre ich ihm um den Hals gefallen und hätte gesagt: ›Meinetwegen hungern und dursten, nur bei dir bleiben und mit dir leben!‹ Oder – ich wäre in den Teich gesprungen.«
+    </p>
+    <p xml:id="eco_de_0000161_2620">
+     In diesem Augenblick schmetterte eine hohe klanglose Frauenstimme durch die verträumte Stille des Gartens: »Ganz vernünftig ist sie, wenn sie in ein solches Elend nicht hinein will, ein Elend, wie du es mir bereitet hast, trotz der zwölftausend Taler, mit denen du so groß tatest, als mit deinem Vermögen.«
+    </p>
+    <p xml:id="eco_de_0000161_2630">
+     Wir standen wie angewurzelt. Dicht bei uns befanden sich die geöffneten, nur leicht verhängten Fenster des Schlafzimmers von Lenes Eltern. Stumm, an der Unterlippe nagend, stand Lene da und hielt mich doch erbarmungslos fest an der Hand, wie ich mich auch bemühte, zu fliehen, um nicht hören zu müssen, was dort zwischen ihren Eltern gesprochen wurde.
+    </p>
+    <p xml:id="eco_de_0000161_2640">
+     »Ich dir bereitet?« antwortete die Stimme des Herrn v. Brandenfeldt. »Darüber wollen wir nicht streiten, wer mehr Schuld hat an dem jetzigen Elend, du oder ich.«
+    </p>
+    <p xml:id="eco_de_0000161_2650">
+     »Du! Du als Mann hättest das Leben besser kennen müssen! Was wußte ich denn davon, von dem Wert des Geldes, vom Offizierstand überhaupt? Mein Vater war Jurist in einer hohen Stellung, und Mangel kannte ich nicht bis dahin, im Gegenteil –«
+    </p>
+    <p xml:id="eco_de_0000161_2660">
+     »Dann hätte dein Vater vernünftiger sein und mich mit meinem ehrlich gemeinten Antrag 'rauswerfen sollen! Aber der war ja froh, daß eine von euch unter die Haube kam.«
+    </p>
+    <p xml:id="eco_de_0000161_2670">
+     »Bitte sehr! Papa gab nur nach, weil – weil –«
+    </p>
+    <p xml:id="eco_de_0000161_2680">
+     »Weil du erklärtest, dir das Leben nehmen zu wollen, wenn wir uns nicht kriegten – jawohl!« bestätigte er.
+    </p>
+    <p xml:id="eco_de_0000161_2690">
+     »Hätte ich es mir doch genommen,« schluchzte die Frauenstimme auf, »dann – dann wäre alles besser, dann brauchte ich es nicht mit anzusehen, daß Lene sich halbtot grämt und als altes Mädchen verkümmert und versauert. Ach Gott, mein Gott!«
+    </p>
+    <p xml:id="eco_de_0000161_2700">
+     »Wenn sie das nicht will, muß sie sich eben trösten und den Ronnefahl nehmen, der kann sie ja ernähren.«
+    </p>
+    <p xml:id="eco_de_0000161_2710">
+     Ein gelles Auflachen der Frau war die Antwort, ein wehes Lachen, das wie Messer in das Herz des Hörers schnitt. Dicht am Fenster erklang es, und zugleich bewegte sich der Vorhang. Wir aber flohen wie gejagt um die Ecke des Gebäudes der Scheune zu.
+    </p>
+    <p xml:id="eco_de_0000161_2720">
+     Dort in dem dämmerigen Raum, mit dem gespreizten Balkenwerk unter dem Ziegeldache, dem undefinierbaren Geruch nach dumpfigem Stroh und zahlreichen Mäusekolonien, blieben wir stehen. Wie ein Platzregen hatte dieses Gespräch die Glut meiner moralischen Entrüstung abgekühlt; ich wußte nicht, sollt' ich Lene ansehen oder stumm hinausschreiten. Ich war völlig fassungslos, so groß, so hoch über mir stehend, dünkte sie mich mit meinen hergebrachten Ansichten über Liebe. Und sie stand vor mir und schob mit der Spitze ihres Fußes einige Strohhalme beiseite und sagte: »Und sie haben sich einmal so schrecklich lieb gehabt!«
+    </p>
+    <p xml:id="eco_de_0000161_2730">
+     Ich wußte nicht, was ich darauf erwidern sollte. »Das ist eben die rechte Liebe nicht gewesen,« stotterte ich endlich, um nicht allzu schmählich zu unterliegen.
+    </p>
+    <p xml:id="eco_de_0000161_2740">
+     »Doch, Marie! Sieh, ich habe Briefe, die Mutter an Vater schrieb zu ihrer Brautzeit, so würde ich auch an ihn geschrieben haben, nicht anders. Eine ganze Welt von Liebe und Herzlichkeit, von Opfermut und Treue weht daraus, und ich habe auch Briefe von Vater, freudige, glückselige Briefe, er selbst gab mir diese kleine, während einer Manöverkampagne entstandene Korrespondenz nach einer schrecklichen Szene, die sie beide miteinander hatten, bei welcher ich, wie leider so oft, Zeuge war. Ich sehe noch sein beschämtes, trauriges Gesicht, als er dazu sagte: ›Es war nicht immer so, Lene, wir haben uns einmal sehr, sehr lieb gehabt, und wir meinten es redlich damit.‹ Und nun – ach, Marie! –«
+    </p>
+    <p xml:id="eco_de_0000161_2750">
+     Und plötzlich schlang sie die Arme um meinen Hals und begann zu schluchzen, wild, fassungslos.
+    </p>
+    <p xml:id="eco_de_0000161_2760">
+     »Lene, Lene,« bat ich erschüttert. »Du würdest doch nicht so sein – wie deine Mutter!«
+    </p>
+    <p xml:id="eco_de_0000161_2770">
+     »Weiß ich das heute?« rief sie, innehaltend mit Weinen, »weiß man denn, was die Not aus einem macht, die schreckliche Not?«
+    </p>
+    <p xml:id="eco_de_0000161_2780">
+     Und dann blieb es still zwischen uns, lange, lange, und der schrille Schmerzensschrei zitterte in meiner Seele nach. Ich hielt ihr Köpfchen an meiner Brust und ließ sie schluchzen. Ach, aus wie anderen Augen schaute ihr Gebaren mich jetzt an! »Du mußt ein wenig fortreisen,« begann ich nach langer Zeit, »du wirst es dann, fern von ihnen, leichter überwinden.«
+    </p>
+    <p xml:id="eco_de_0000161_2790">
+     Sie lachte leise und bitter. »Ich – reisen? Wovon denn? Wohin denn? Ist auch gar nicht nötig – er tut's für mich. – Er ist zum Kommandeur gegangen und bittet ihn, mit einem Kameraden der anderen Garnison tauschen zu dürfen.« Und sie strich sich mit einer unendlich müden, trostlosen Gebärde das wirre Haar aus der Stirn und zuckte die Schultern.
+    </p>
+    <p xml:id="eco_de_0000161_2800">
+     »Du willst doch nicht wirklich den Ronnesahl heiraten?« fragte ich endlich.
+    </p>
+    <p xml:id="eco_de_0000161_2810">
+     »Ich will nicht, ach nein, aber ich werde wohl müssen; die Brüder brauchen eine Equipierung, und ich kann den Eltern nicht mehr eine Last sein.«
+    </p>
+    <p xml:id="eco_de_0000161_2820">
+     Sie drückte mir nochmals die Hand und wandte sich in den Garten zurück.
+    </p>
+    <p xml:id="eco_de_0000161_2830">
+     Und dann war sie wieder, wie immer, still, freundlich und heiter. Nur ich wußte, wie es um ihr Herz stand, was dieses gleichgültige Wesen sie kostete. Eberhard v. Wülflingen aber ward versetzt von Steinhagen und kam nie herüber, wenn in unserer Garnison die Kameraden sich zu Liebesmahlen oder Bällen vereinigten. Es war ihm doch wohl sehr, sehr nahe gegangen.
+    </p>
+    <p xml:id="eco_de_0000161_2840">
+     Nach zwei Jahren wurde mein Vater in eine andere, weit entfernte Garnison versetzt, wir mußten Steinhagen verlassen. Im Garten nahm ich Abschied von Lene am Vorabend unserer Reise; wir waren die guten Freundinnen von ehedem geblieben, allein Lene sprach von ihrem Seelenkampf nie wieder mit mir. Daß der Fabrikbesitzer Ronnefahl noch immer auf sie wartete, dachte ich mir wohl, denn er hätte mit seiner stattlichen Erscheinung und seiner gesicherten, behaglichen Lebensstellung längst um eine andere werben können, trotz seiner ziemlich erwachsenen Söhne, von denen der älteste schon Primaner war.
+    </p>
+    <p xml:id="eco_de_0000161_2850">
+     Ich war daher auch nicht allzusehr überrascht, als Lene mir gestand, daß sie jetzt dem zum dritten Male Anfragenden ihr Jawort gegeben habe. Sie sagte das so nebenher, als sei es ganz unwichtig, zwischen allerhand Bitten an mich, ich solle sie da draußen nicht vergessen; aber ob sie viel zum Schreiben käme, das wisse sie ja nicht, glaube es auch kaum, besonders in nächster Zeit nicht, wo sie für ihre kleine Aussteuer zu tun habe, denn ihre Mama sei recht schlecht dran mit den Augen; sie, Lene, müsse wohl alles selbst machen.
+    </p>
+    <p xml:id="eco_de_0000161_2860">
+     Ich wünschte ihr noch aus vollstem Herzen Glück und versprach alles mögliche. »Sind deine Eltern nun zufrieden?« fragte ich noch.
+    </p>
+    <p xml:id="eco_de_0000161_2870">
+     »Ach, doch wohl – sie haben nun weniger schwere Sorgen,« antwortete sie. »Ronnefahl ist sehr gut und opferbereit.« Und dann fügte sie noch hinzu: »Sie saßen vorhin Hand in Hand auf dem Sofa, seit langer Zeit zum ersten Male, und sprachen von ihrem Brautstand.« – Ein kleines gerührtes Lächeln zuckte flüchtig um ihren Mund bei diesen Worten, dann sah sie ein Weilchen starr geradeaus, und wie ihre Gedanken wieder zurückkehrten, umarmte sie mich herzlich. »Lebe wohl, Marie, sei glücklich, recht glücklich!«
+    </p>
+    <p xml:id="eco_de_0000161_2880">
+     Ein- bis zweimal hat sie mir dann noch geschrieben, so gewisse müde, zufriedene Briefe, wie eine Fünfzigjährige sie schreiben könnte; im letzten stand als Nachschrift: »Eberhard hat sich auch verlobt, die Braut heißt Lisette v. Lohmann und ist eine Tochter Friedrich v. Lohmanns, der vor ein paar Jahren geadelt wurde, eines großen Grundbesitzers in unserer Provinz. Sie soll liebenswürdig sein, hübsch und gut – wie freue ich mich für ihn! Es gibt mir viel Frieden.«
+    </p>
+    <p xml:id="eco_de_0000161_2890">
+     Auf meine Frage, wann ihre Hochzeit sei, schwieg sie, und unsere Korrespondenz stockte, ich hörte nichts wieder von ihr. – –
+    </p>
+    <p xml:id="eco_de_0000161_2900">
+     Mich führten weite Reisen in der Welt umher; das kleine märkische Städtchen versank in Vergessenheit, und wenn ich flüchtig an Helene v. Brandenfeldt dachte, dann erschien sie mir als Frau Ronnefahl in dem hübschen Wohnhause nahe der Stärkefabrik als liebevolle Stiefmutter ihrer großen Söhne, wo möglich auch als eigene beglückte Mama. Ihre Eltern stellte ich mir vor, in alter, wiedererwachter Zuneigung auf dem Sofa sitzend, Hand in Hand, wie Lene mir beschrieb, sich erfreuend an der behaglichen Lage, die sie ihrem Kinde verdankten.
+    </p>
+    <p xml:id="eco_de_0000161_2910">
+     Endlich aber kamen Zeiten, wo ich überhaupt nicht mehr an Lene dachte, so viel Neues, Reiches war in mein Leben getreten. – Da fuhr ich an einem herrlichen blauen Frühlingstage, von Laveno kommend, nach Mailand. Das Coupé teilte eine einzige fremde Dame mit uns. Ich beachtete sie kaum, sondern plauderte mit einer Freundin, die mich auf der Reise nach Venedig begleitete.
+    </p>
+    <p xml:id="eco_de_0000161_2920">
+     »Kommt nicht bald die Station, wo es die herrlichen Maiblumen zu kaufen gibt?« fragte ich.
+    </p>
+    <p xml:id="eco_de_0000161_2930">
+     »Ganz recht! Malnate, die nächste ist es.«
+    </p>
+    <p xml:id="eco_de_0000161_2940">
+     Und wie wir dort einfuhren, standen richtig hinter der Barriere wieder die barfüßigen kleinen Italienerburschen mit den riesigen grünweißen Sträußen und schwenkten sie bittend gegen uns. Der Schaffner brachte auf unsern Wunsch zwei große Bukette herüber, und wie wir sie nun im heißen Coupé hatten, da war eine förmliche Woge von frischem süßem Duft um uns, daß aller Staub, alle Hitze wie hinweggeweht schien; es war, als seien wir wieder im deutschen duftenden Laubwald, wo die Finken schlagen.
+    </p>
+    <p xml:id="eco_de_0000161_2950">
+     Und während wir weiterfuhren, sah ich, wie die Dame mir gegenüber mit großen traurigen Blicken auf die Blumen starrte, und von da wanderten diese Blicke empor zu meinen Augen, in das von leicht grauem Haar umrahmte Gesicht trat eine feine Röte, und sie sagte lächelnd: »Hast du denn immer noch die Maiblumen so gern, Marie?«
+    </p>
+    <p xml:id="eco_de_0000161_2960">
+     Zuerst staunte ich sie einen Moment an, dann aber streckte ich beide Hände ihr entgegen mitsamt dem Strauß: »Lene, Lene Brandenfeldt – ist es denn möglich?«
+    </p>
+    <p xml:id="eco_de_0000161_2970">
+     Sie nickte und erwiderte meinen Kuß. »Ich habe oft an dich gedacht,« sprach sie, »ich hätte auch gern an dich geschrieben, aber ich wußte nicht, wo du geblieben warst.«
+    </p>
+    <p xml:id="eco_de_0000161_2980">
+     »Ja, freilich! Aber ich hätte an dich schreiben sollen, Lene; die Adresse wußte ich ja – Frau Ronnefahl in Steinhagen; vergib mir, daß ich so –«
+    </p>
+    <p xml:id="eco_de_0000161_2990">
+     Sie schüttelte den Kopf, und den Strauß, den ich ihr in den Schoß gelegt hatte, zu ihrem Gesicht führend, daß sich dasselbe ganz in den Blüten verbarg, sagte sie, tief den Duft einziehend: »Ich bin Lene Brandenfeldt geblieben – ich – weißt du noch, wie wir einmal in die Maiblumen gingen, Marie?«
+    </p>
+    <p xml:id="eco_de_0000161_3000">
+     Und als ich nickte, fügte sie hinzu: »Siehst du, das konnte ich doch nicht vergessen.«
+    </p>
+    <p xml:id="eco_de_0000161_3010">
+     Dann wurde sie noch röter und sah zum Fenster hinaus.
+    </p>
+    <p xml:id="eco_de_0000161_3020">
+     Ich wagte nicht mehr zu fragen, aber im Herzen bat ich ihr nochmals alles ab, was ich jemals gesagt hatte von Feigheit und Berechnung und vielem anderen. »Und deine Eltern?« fragte ich dann und faßte ihre Hand.
+    </p>
+    <p xml:id="eco_de_0000161_3030">
+     »Ich danke dir! Ihre letzten Jahre waren sorgenloser; ich hatte eine ganz gute Stellung in Berlin – als Gesellschafterin, und die Jungens schlugen gut ein. Aber nun sind sie tot, die lieben alten Leutchen –«
+    </p>
+    <p xml:id="eco_de_0000161_3040">
+     »Und du?«
+    </p>
+    <p xml:id="eco_de_0000161_3050">
+     »Mir geht es gut. Ich habe ja – denke dir – ich habe von meiner Dame ein paar tausend Taler geerbt, ich kann sogar Reisen machen, wie du siehst, und ich wohne jetzt wieder in Steinhagen, in der Wohnung der Eltern. Du solltest mich einmal besuchen, Marie – im Frühjahr, zur Maiblumenzeit! Dann gehen wir beide alten Erinnerungen nach. – Willst du? Freilich, einfach ist's bei mir, grad' noch wie damals.«
+    </p>
+    <p xml:id="eco_de_0000161_3060">
+     Ich reichte ihr schweigend und gerührt die Hand hinüber, und um uns dufteten die Maiblumen und zauberten die Jugend zurück.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

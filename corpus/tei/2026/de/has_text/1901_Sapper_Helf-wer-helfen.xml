@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000172" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Helf, wer helfen kann!
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Sapper, Agnes
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     1422
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1901">
+      1901
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000172_20">
+    Helf, wer helfen kann!
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000172_30">
+     Am heißen Herd in der Küche schaltete mit eifrigen Händen und glühenden Wangen Frida, der liebliche Backfisch. Die Mutter war ausgegangen, um vor Tisch noch einen dringenden Besuch zu machen, und Frida hatte versprochen, ihre ungeteilte Aufmerksamkeit dem Braten zuzuwenden.
+    </p>
+    <p xml:id="eco_de_0000172_40">
+     Da ertönte die Klingel. »Es wird der Vater sein,« dachte Frida und öffnete. Es war aber nicht der Vater, sondern ein Freund desselben, der ihn auf der Durchreise ein paar Stunden besuchen wollte. Frida geleitete ihn in das Besuchszimmer und setzte sich zu dem Gast, der sich freundlich mit ihr unterhielt. Bald aber wurde sie unruhig und hörte nur noch mit halbem Ohr auf den Fremden. Sie dachte an den verlassenen Braten, an das Feuer, das bald ausgehen mußte, und überlegte, ob es nicht unhöflich wäre, wenn sie den Gast allein ließe.
+    </p>
+    <p xml:id="eco_de_0000172_50">
+     Inzwischen hatte der Herr weiter mit ihr gesprochen, Frida hatte aber in ihrer Zerstreutheit nicht viel davon gehört.
+    </p>
+    <p xml:id="eco_de_0000172_60">
+     »Haben Sie auch Töchter?« fragte sie jetzt, um nur irgend etwas zu sagen. Er sah sie erstaunt an.
+    </p>
+    <p xml:id="eco_de_0000172_70">
+     »Das sind eben meine Töchter, von denen ich Ihnen erzählte.«
+    </p>
+    <p xml:id="eco_de_0000172_80">
+     Frida errötete.
+    </p>
+    <p xml:id="eco_de_0000172_90">
+     Es fiel ihr ein, daß er von einer Marie und einer Elise gesprochen hatte.
+    </p>
+    <p xml:id="eco_de_0000172_100">
+     »Ja, ich meine nur, ob Sie viele Töchter haben?« sagte sie in ihrer Verwirrung.
+    </p>
+    <p xml:id="eco_de_0000172_110">
+     Er lächelte. »Nicht sehr viele, bloß zwei.«
+    </p>
+    <p xml:id="eco_de_0000172_120">
+     In diesem Augenblick hörte Frida mit wahrem Entzücken den wohlbekannten Tritt ihres Vaters. Mit großer Freude begrüßten sich die beiden Freunde und eine der ersten Fragen des Vaters an den Gast war: »Du bleibst doch bei uns zu Tisch?« Die Einladung wurde angenommen und Frida von ihrem Vater mit den Worten entlassen: »Nun geh du in die Küche und mach dein Meisterstück!«
+    </p>
+    <p xml:id="eco_de_0000172_130">
+     Ja, ein schönes Meisterstück war es, das Frida vorfand, als sie hinauskam. Schwarz wie eine Kohle lag der Braten in der Pfanne und der Geruch des angebrannten Fleisches erfüllte die ganze Küche. Da war nichts mehr zu retten! Verzweifelt stand die junge Köchin und hatte nur den einen Gedanken: wenn doch die Mutter käme, die wüßte Rat!
+    </p>
+    <p xml:id="eco_de_0000172_140">
+     Da klingelte es wieder. Eifrig sprang Frida zu öffnen. Aber es kam bloß ein Dienstmädchen mit einem Korb am Arm und einem Netz, in dem ein großer Fisch war. Sie kam offenbar vom Markt und hatte den Auftrag, Fridas Eltern auf den nächsten Abend einzuladen. Aber Frida hörte nur halb die Worte des Mädchens. Sie konnte ihre Blicke nicht von dem Fisch abwenden.
+    </p>
+    <p xml:id="eco_de_0000172_150">
+     »Brauchen Sie diesen Fisch für heute mittag?« fragte Frida.
+    </p>
+    <p xml:id="eco_de_0000172_160">
+     »O nein, erst für morgen abend,« antwortete das Mädchen.
+    </p>
+    <p xml:id="eco_de_0000172_170">
+     »Ach, wenn Sie mir den Fisch abtreten möchten! Wir haben unerwartet einen Gast bekommen und ich weiß nun nicht, was ich ihm zu Mittag vorsetzen soll.«
+    </p>
+    <p xml:id="eco_de_0000172_180">
+     »Recht gerne,« antwortete das Mädchen, »ich kann bis morgen schon noch einen Fisch bekommen.«
+    </p>
+    <p xml:id="eco_de_0000172_190">
+     »Ist er tot?« fragte Frida.
+    </p>
+    <p xml:id="eco_de_0000172_200">
+     »Jawohl, aber ganz frisch, eben erst abgeschlagen.«
+    </p>
+    <p xml:id="eco_de_0000172_210">
+     Das Mädchen nahm den Fisch heraus, legte ihn auf eine Platte in der Küche, Frida bezahlte, was das Mädchen verlangte, und gab noch ein schönes Trinkgeld. Als das Mädchen fort war, wandte sich Frida eifrig ihrem Fisch zu, um ihn kunstgerecht zu bereiten. Aber, o Schrecken, der »tote« Fisch hatte sich von der Platte heruntergeschnellt und schlug mit dem Schwanz auf den Küchentisch. Nun war Frida ratlos. Einen halbtoten Fisch aufschneiden, das konnte sie nicht und noch viel weniger ihn töten.
+    </p>
+    <p xml:id="eco_de_0000172_220">
+     »Und das heißt die dumme Person tot!« sagte sie in Verzweiflung, »wenn ich sie nur zurückrufen könnte.«
+    </p>
+    <p xml:id="eco_de_0000172_230">
+     Aber die war nicht mehr zu sehen.
+    </p>
+    <p xml:id="eco_de_0000172_240">
+     Da klingelte es wieder. Jetzt endlich mußte es doch die Mutter sein, die heiß ersehnte. Frida flog zur Türe. Aber diesmal war es nur ein Handwerksbursche und vollends einer, der etwas Warmes zu essen verlangte.
+    </p>
+    <p xml:id="eco_de_0000172_250">
+     »Ach, wir haben ja selbst gar nichts,« sagte Frida in so verzweifeltem Ton, daß ihr der junge Bursche aufs Wort glaubte und wieder davonging. Als er aber die halbe Treppe hinunter war, kam Frida ein Einfall. Sie rief ihm nach: »Hören Sie, können Sie einen Fisch töten?«
+    </p>
+    <p xml:id="eco_de_0000172_260">
+     »Ob ich was kann?« rief der Bursche erstaunt.
+    </p>
+    <p xml:id="eco_de_0000172_270">
+     »Ob Sie einen Fisch ganz tot machen können?«
+    </p>
+    <p xml:id="eco_de_0000172_280">
+     »Warum denn nicht?« sagte er.
+    </p>
+    <p xml:id="eco_de_0000172_290">
+     »O, so kommen Sie doch gleich herauf,« bat Frida, und der Bursche ließ sich's nicht zweimal sagen. Als er den Fisch in der Küche liegen sah, sagte er: »Der ist ja schon tot.«
+    </p>
+    <p xml:id="eco_de_0000172_300">
+     »O bewahre, der tut nur so, und sowie er allein mit mir ist, bewegt er sich wieder; Sie müssen ihn ganz tot machen.«
+    </p>
+    <p xml:id="eco_de_0000172_310">
+     Da ergriff der junge Mann den Fisch und schlug ihm den Kopf mit solcher Macht auf, daß dieser fast davonflog.
+    </p>
+    <p xml:id="eco_de_0000172_320">
+     »Nun ist er gewiß ganz tot,« sagte der Bursche, »ich kann ihm aber auch noch den Bauch aufschlitzen, wenn Sie wollen.«
+    </p>
+    <p xml:id="eco_de_0000172_330">
+     Bereitwilligst reichte Frida ein Messer her. Sie gewann immer mehr Vertrauen zu ihrem Küchenjungen.
+    </p>
+    <p xml:id="eco_de_0000172_340">
+     »Können Sie ihn vielleicht auch ausnehmen?«
+    </p>
+    <p xml:id="eco_de_0000172_350">
+     »Ich habe es zwar noch nie getan, aber so fest wird's nicht sein, daß ich's nicht herausreißen kann. Wollen Sie nicht zusehen, ob ich's recht mache?«
+    </p>
+    <p xml:id="eco_de_0000172_360">
+     »Ich sehe es gut aus der Ferne,« sagte vom Herd aus Frida, die ihr Grauen vor dem Fisch gar nicht mehr los werden konnte.
+    </p>
+    <p xml:id="eco_de_0000172_370">
+     »Darf man alles herausreißen, was darin ist?«
+    </p>
+    <p xml:id="eco_de_0000172_380">
+     »Nehmen Sie nur alles heraus; was gut ist, kann ich ja wieder hineintun.«
+    </p>
+    <p xml:id="eco_de_0000172_390">
+     Der Bursche brauchte nicht einmal seine ganze Kraft, um den Fisch auszunehmen, und er machte seine Sache ganz geschickt.
+    </p>
+    <p xml:id="eco_de_0000172_400">
+     Nun war Frida wieder in glücklicher Stimmung. Ihr Mißtrauen gegen den Tod des Tieres war verschwunden und eifrig machte sie sich daran, den Fisch kunstgerecht zuzubereiten.
+    </p>
+    <p xml:id="eco_de_0000172_410">
+     »Kann ich dem Fräulein sonst noch etwas helfen?« fragte der Bursche.
+    </p>
+    <p xml:id="eco_de_0000172_420">
+     »O ja, bitte, wenn Sie mir noch helfen wollten, kleine Kartoffeln zu richten, wäre ich recht froh.«
+    </p>
+    <p xml:id="eco_de_0000172_430">
+     Einträchtig machten sich die beiden an dies Geschäft
+    </p>
+    <p xml:id="eco_de_0000172_440">
+     und Frida erzählte dabei ihr Mißgeschick mit dem Braten.
+    </p>
+    <p xml:id="eco_de_0000172_450">
+     »Man wird ihn doch noch essen können,« tröstete der Handwerksbursche.
+    </p>
+    <p xml:id="eco_de_0000172_460">
+     »Ach nein, sehen Sie nur her, wie schrecklich er aussieht!«
+    </p>
+    <p xml:id="eco_de_0000172_470">
+     Er fand es nicht so schrecklich, sondern behauptete, da wären noch manche Leute froh daran.
+    </p>
+    <p xml:id="eco_de_0000172_480">
+     »Wenn Sie ihn vielleicht mitnehmen wollten,« sagte Frida ganz schüchtern, »dann müßte ich ihn doch nicht mehr sehen und ungesund ist es, glaube ich, nicht.«
+    </p>
+    <p xml:id="eco_de_0000172_490">
+     »Durchaus nicht,« versicherte der Bursche. Der Braten wurde eingewickelt und verschwand in der Tasche des jungen Mannes, der sich nun dankbar entfernen wollte. Frida aber schenkte ihm für seine Hilfe noch ein Stück Geld und dankte ihm sehr. Vergnügt eilte der Handwerksbursche die Treppe hinunter, auf der ihm Fridas Mutter begegnete. Diese hatte sich bei ihrem Besuch verspätet und kam eiligst herauf. Als sie von Frida hörte, daß ein Gast angekommen war, war ihre erste Frage: »Ist auch der Braten gut geworden?«
+    </p>
+    <p xml:id="eco_de_0000172_500">
+     »Ach nein, Mutter, der ist verbrannt, so lange ich den Herrn unterhalten mußte. Aber wir haben einen prächtigen Fisch für heute mittag!«
+    </p>
+    <p xml:id="eco_de_0000172_510">
+     »Einen Fisch? Woher?«
+    </p>
+    <p xml:id="eco_de_0000172_520">
+     »Von der Köchin des Herrn Dr. N.; sie war da, um euch – oder nein, ich glaube bloß den Vater, auf morgen – oder nein – ich glaube auf übermorgen einzuladen.«
+    </p>
+    <p xml:id="eco_de_0000172_530">
+     »Aber Kind, wo hattest du denn deine Gedanken?«
+    </p>
+    <p xml:id="eco_de_0000172_540">
+     »Ach, bei dem Fisch!«
+    </p>
+    <p xml:id="eco_de_0000172_550">
+     »Nun, laß nur den Braten sehen, wir schneiden noch die schönsten Stücke auf.«
+    </p>
+    <p xml:id="eco_de_0000172_560">
+     »Es geht nicht, Mutter.«
+    </p>
+    <p xml:id="eco_de_0000172_570">
+     »Er kann doch nicht ganz verbrannt sein?«
+    </p>
+    <p xml:id="eco_de_0000172_580">
+     »Ich mochte ihn gar nicht mehr sehen und habe ihn dem Handwerksburschen mitgegeben, der mir den schrecklichen Fisch totschlug!«
+    </p>
+    <p xml:id="eco_de_0000172_590">
+     »Kind, du wirst doch den dreipfündigen Rindsbraten nicht hergegeben haben?«
+    </p>
+    <p xml:id="eco_de_0000172_600">
+     Alle weiteren Erörterungen wurden durch den Gast abgeschnitten, der, als er die Stimme der Hausfrau hörte, herauskam, sie lebhaft begrüßte und in Beschlag nahm. Als Frida bei Tisch den wohlgeratenen Fisch auftrug, erntete sie großes Lob, aber sie schlug beschämt die Augen nieder und dachte an den verbrannten Braten. Die Herren aber waren in heiterer Stimmung.
+    </p>
+    <p xml:id="eco_de_0000172_610">
+     »Aha,« sprach der Gast, »da merkt man doch gleich, daß man in einer katholischen Stadt ist, ihr habt heute, am Freitag, Fisch. Ich finde es sehr hübsch, wenn man sich nach der Sitte des Ortes richtet.«
+    </p>
+    <p xml:id="eco_de_0000172_620">
+     Als am Abend der Gast fort war und die Mutter alles erfahren hatte, berechnete sie im stillen: Ein feiner Fisch und ein Trinkgeld dem Mädchen, ein dreipfündiger Rindsbraten und ein Trinkgeld dem Handwerksburschen – und sie kam zu dem Schluß, auch den dringendsten Besuch nie mehr vor Tisch zu machen.
+    </p>
+    <p xml:id="eco_de_0000172_630">
+     Der Handwerksbursche zehrte mittags und abends an dem Braten, von dem er nur die verbrannte Rinde abgelöst hatte, und er fragte sich, ob er es wohl noch einmal in seinem Leben zu so einem kräftigen Stück Fleisch bringen werde.
+    </p>
+    <p xml:id="eco_de_0000172_640">
+     Frida aber tat um Mitternacht einen lauten Schrei, denn ihr träumte, der Fisch sei vom Tisch herunter und in ihren Schoß gesprungen!
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

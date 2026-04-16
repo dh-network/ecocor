@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000160" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Maiblumen
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Heimburg, Wilhelmine
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     5756
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1904">
+      1904
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000160_20">
+    Maiblumen
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000160_30">
+     Heute früh bin ich ausgegangen, das herrliche Frühlingswetter verlockte mich dazu. Nach diesem Winter, der uns so viel Schnee und Eis brachte, war der laue Wind, der blaue Himmel, der goldene Sonnenschein ein wahrer Hochgenuß, der geradezu berauschend wirkte auf das Gemüt. Die Trottoire in den Straßen des freundlichen Elb-Florenz sind trocken und belebt, auf dem Bismarckplatz trippeln die Kinder durcheinander, schwatzen laut und lachend die Wärterinnen, und der Bäckerjunge, der, eine riesige Tortenschachtel tragend, sich durch das Gedränge schiebt, pfeift was er kann:
+    </p>
+    <p xml:id="eco_de_0000160_40">
+     »Ist denn kein Stuhl da, Stuhl da, für meine Hulda, Hulda!«
+    </p>
+    <p xml:id="eco_de_0000160_50">
+     Die Engländerinnen tragen zu ihren Pelzkragen bereits Waschblusen unter den Jaketten und vorjährige Strohhüte. Die Taxameter haben das Verdeck ihrer Wagen geöffnet, und vor dem Bahnhofportale werden große Koffer reisender Leute abgeladen. Glückliche Menschen!
+    </p>
+    <p xml:id="eco_de_0000160_60">
+     Die Reiselust, die mich plötzlich übermannt! Eine Sehnsucht, so tief und mächtig, nach dem Lande jenseit der Alpen, nach blühenden Mandeln und Mimosen, nach roten und weißen Kamelienblüten, nach dunkelblauen Seen und silberblinkenden Bergspitzen, nach menschendurchfluteten Städten und weißen, in Palmen und Lorbeergestrüpp versteckten Villen.
+    </p>
+    <p xml:id="eco_de_0000160_70">
+     In diesen Gedanken bin ich die Pragerstraße hinaufgeschritten, ganz mechanisch, ohne zu sehen und zu hören: mitten durch die eiligen geschäftigen Menschen, an den prächtigen Schaufenstern vorüber, immer weiter, bis ich auf dem Markt stehe, vor dem Tischchen der alten Blumenfrau, bei der ich stets zu kaufen pflege. Und da sind sie alle, die lieben Bekannten aus dem Süden. Die goldgelben Mimosenzweige, die ihr leuchtendes Banner so üppig wehen lassen auf der Isola madre; die Narzissen und Anemonen, die man am Monte Rosso pflückt, die gelben Marguerites, und dann der Maiblumenduft, ach, der Maiblumenduft!
+    </p>
+    <p xml:id="eco_de_0000160_80">
+     Da steht mir wieder zaubergleich die kleine Station zwischen Laveno und Mailand vor Augen, wo barfüßige italienische Kinder Maiblumensträuße verkaufen, so groß, daß man sie kaum zu fassen vermag, und so duftend! Aller Staub, alle Hitze scheinen gewichen aus dem dumpfen Coupé, sobald diese holden Blumen ihren Einzug halten. Und wie ich das letzte Mal dort reiste, brachten mir diese Maiblumen ein Erkennen, da war ich, ohne es zu wissen, mit Lene v. Brandenfeldt in demselben Coupé gefahren. Erst an dem sehnsüchtigen Ausdruck, mit dem ihre Augen an meinem Strauß hingen, erkannte ich sie, und da – doch davon später! – – – –
+    </p>
+    <p xml:id="eco_de_0000160_90">
+     Ich kaufe der Alten so viel Blumen ab, wie ich zu tragen vermag, und wandere heim, noch immer mit der großen brennenden Reisesehnsucht im Herzen. Es liegt so etwas Festliches heute über allem Treiben, die Leute sehen gesund und lächelnd aus, selbst die Droschkenpferde haben ordentlich einen vergnügten Gesichtsausdruck, und ebenso die armen geplagten Zughunde und die kleinen geduldigen Esel vor den Milchkarren. »Ja, nun kommt gute Zeit, nun wird es warm und lustig in der Welt!« scheint alles zu sprechen.
+    </p>
+    <p xml:id="eco_de_0000160_100">
+     Zu Hause angelangt, verteile ich die Blumen in die Zimmer: der Maiblumenstrauß findet seinen Platz auf meinem Schreibtisch, dicht neben dem Heft, auf dessen leeren Seiten leider noch keine Zeile geschrieben steht. Aber jetzt weiß ich, was ich schreiben soll, die Maiblumen haben es mir gesagt.
+    </p>
+    <p xml:id="eco_de_0000160_110">
+     Und sie duften und duften und zaubern alte, längst vergessene Bilder herauf, anknüpfend an jenes Wiedererkennen im schwülen Coupé, über ihre weißen Glöckchen hinweg.
+    </p>
+    <p xml:id="eco_de_0000160_120">
+     Von Lene v. Brandenfeldt will ich erzählen, von den Tagen, wo wir beide noch weiße und rosa Kleidchen trugen und an eine wundervolle Zukunft glaubten, von den Tagen der Jugend.
+    </p>
+    <p xml:id="eco_de_0000160_130">
+     »In die Maiblumen gehen« nannten wir es in Steinhagen, wenn wir in den Stadtwald zogen, ein ganzer Trupp junger Frauen, Mädchen und Offiziere; die Mütter folgten uns im Krümperwagen mit der »Fourage«, denn im Försterhause war höchstens heißes Wasser zum Kaffeekochen und frische Milch zu haben. An irgend einer schattigen Stelle wurden Decken ausgebreitet, und man lagerte sich in zwanglosen Gruppen, irgend eine hübsche Frau füllte die goldgeränderten Kaffeetassen der Frau Försterin, die jungen Mädchen präsentierten den Kuchen, und hinter dem nächsten grünen Gebüsch spielte die Regimentsmusik das »Echo im Walde«. Blauer, leichter Zigarettenduft verscheuchte die Mücken, und in das Lachen und Plaudern hinein rief unermüdlich aus der Ferne der Kuckuck. Und über allem der blaue Maihimmel mit seinen weißen Wölkchen, und junges, zartes Buchenlaub und hüpfende Sonnenfleckchen.
+    </p>
+    <p xml:id="eco_de_0000160_140">
+     Das Offfzierkorps des Ulanenregiments bestand aus durchweg wohlsituierten Leuten. Die Damen entnahmen ihre Toiletten von Gerson in Berlin, die Herren ritten Vollblutpferde, die jüngeren beteiligten sich an den Rennen und hatten in ihrem Kasino wunderbares Tafelsilber und livrierte Diener. Der Kommandeur ließ seine Gesellschaftsdiners direkt von Borchardt kommen aus Berlin, die gemeine Not des Lebens kannte vielleicht keiner von ihnen. Man war natürlich sehr exklusiv, und außer mit dem Landrat und einigen Großgrundbesitzern, die in jeder Weise als ebenbürtig galten, verkehrte man nur noch mit Brandenfeldts.
+    </p>
+    <p xml:id="eco_de_0000160_150">
+     Herr v. Brandenfeldt, Leutnant a. D., bekleidete die Stelle eines Beamten bei der städtischen Steuer, eine sehr untergeordnete Stellung. Seine Aufnahme in den Regimentskreis verdankte er seinem alten Adel und dem seiner Gattin, einer Tochter aus dem gräflichen Hause Elben. Ein früherer Kommandeur dieses Regiments war ihr Vetter gewesen und hatte die Familie in den Kreis hineingezogen. So sah man sie denn bei den Bällen und in den Gesellschaften, besonders seitdem das Töchterchen erwachsen war. Sie bewohnten ein sehr bescheidenes Quartier, dem unsern gerade gegenüber in der Gertrudengasse, und erfüllten mit jährlich ein bis zwei Soupers ihre gesellschaftlichen Verpflichtungen, bei denen es einfach, aber ganz anständig zuging.
+    </p>
+    <p xml:id="eco_de_0000160_160">
+     Man speiste dabei von Tellern, die mit einer Grafenkrone geziert waren, und auf altem wappengeschmücktem Damast, den mancher von uns nicht aufdecken konnte, weil er eben kein Wappen besaß. Die Möbel waren gut und solid, und an den Wänden hingen die Bilder einiger gepuderter Ahnen, die sich seltsam genug von der billigen geblümten Tapete abhoben.
+    </p>
+    <p xml:id="eco_de_0000160_170">
+     Die beiden Damen kleideten sich einfach und geschmackvoll: Frau v. Brandenfeldt schneiderte alles selbst. Der Herr Leutnant a. D. spielte sein L'hombre mit dem Kommandeur, dem Landrat und irgend einem Rittmeister und verlor hin und wieder auch 'mal ein paar Taler mit vollendeter Liebenswürdigkeit. Nach solchem Verlust erschien er dann eine Zeitlang nicht am Spieltisch, unter irgend einem ganz akzeptabeln Vorwand.
+    </p>
+    <p xml:id="eco_de_0000160_180">
+     Ein Mädchen hielten sie nicht, nur eine alte Aufwartefrau für die gröbsten Arbeiten. Besuch empfingen sie für gewöhnlich nicht, und wie es erst bekannt wurde, daß die Damen ihre eigenen Köchin und Stubenmädchen seien, belästigte man sie nicht mit müßigen Visiten, sondern begnügte sich, sie am dritten Orte zu sehen, wie man denn überhaupt tat, als wüßte man nichts von ihrer ungewöhnlich eingeschränkten Lebensweise.
+    </p>
+    <p xml:id="eco_de_0000160_190">
+     Lene v. Brandenfeldt war wirklich ein reizendes Mädel, schlank aufgeschossen wie eine Birke, mit duftigem aschblondem Haar, nußbraunen Augen und einer Hautfarbe wie Apfelblüte. Sehr sanft, eher ernst als heiter, und doch bereit, so recht von Herzen mitzulachen und mitzutun, und immer zufrieden mit ihrem kargen Dasein, an das man übrigens nie dachte, wenn man mit ihr zusammen war.
+    </p>
+    <p xml:id="eco_de_0000160_200">
+     Natürlich zwang die Stellung, die Herr v. Brandenfeldt innehatte, auch zum Verkehr in den Kreisen der Bürger. Lene und ihr Vater taten dies mit selbstverständlicher Liebenswürdigkeit, Frau v. Brandenfeldt aber wurde es sehr schwer. Sie saß mit ihrem feingeschnittenen blassen Gesicht, eine altmodische Moireemantille um die spitzen Schultern, wie fröstelnd auf dem Sofaplatz, welcher übrigens der geborenen Gräfin immer bereitwilligst reserviert wurde, und beteiligte sich mit keinem Worte an den Gesprächen der Frau Apotheker Salzmann, der Frau Oberlehrer Rindenbeißer oder der Frau Stadtrat, welche letztere ihre direkte »Vorgesetzte« war. Dies Schweigen wurde ihr natürlich als Hochmut ausgelegt und war doch nichts weiter, als die Scheu, jene Leute in ihr ärmliches Leben blicken zu lassen. Aufschneiden aber verstand sie nicht, es wäre ihr auch unter aller Würde erschienen. Sie konnte nicht über die Dienstmädchen räsonieren, denn sie hielt keine, und die hohen Preise der Hammel- und Kalbskeulen lagen ihr auch zu fern – war es doch männiglich bekannt, daß Brandenfeldts tägliches Deputat aus einem halben Pfund Kochfleisch bestand, nicht mehr und nicht weniger. Von andern Dingen aber war selten die Rede, so schwieg sie denn.
+    </p>
+    <p xml:id="eco_de_0000160_210">
+     Lene hatte mir einmal erzählt, daß ihr Vater, als junger Offizier und Ehemann, mit dem Pferde gestürzt und dadurch dienstunfähig geworden sei auf Lebenszeit, Lene war, als erstes Kind, damals gerade geboren. Der Großpapa, der alte Graf, damals schon vom Schlage getroffen und in Pension lebend, konnte nichts tun für den Schwiegersohn, denn er hatte noch sieben unversorgte Komtessen zu Hause, arme, verbitterte Dinger, die mit Sorgen den Moment herankommen sahen, da der Vater die Augen schließen und die Präsidentenpension erlöschen würde. Und so hatte der Leutnant a. D. v. Brandenfeldt den kleinen Posten eines Kassenrendanten in Steinhagen annehmen müssen.
+    </p>
+    <p xml:id="eco_de_0000160_220">
+     Lene, unbekümmert ob dieser Verhältnisse, wuchs frisch und fröhlich auf, war in bürgerlichen wie in militärischen Kreisen gleich beliebt und bei Festlichkeiten beinahe die begehrteste Dame. Traf es sich aber, daß am gleichen Tage etwas »los war« in beiden Welten, so gab sie stets der Einladung derjenigen Folge, zu der ihr Vater seiner Stellung nach gehörte. Ich allein wußte, wie schwer ihr das wurde, weil ja ihr ganzes Herz bei uns weilte, seitdem der Eberhard v. Wülflingen in unserem Regiment stand.
+    </p>
+    <p xml:id="eco_de_0000160_230">
+     Wir waren da einmal wieder in die Maiblumen gegangen, lagerten im Walde, tranken Kaffee und waren heiter, wie immer. Ganz am linken Flügel, ein klein wenig abseits auf einer Baumwurzel, saß Lene v. Brandenfeldt und ihr zu Füßen natürlich Eberhard v. Wülflingen. Nun war Eberhard zufällig der einzige im ganzen Regiment, der eine knappe Zulage hatte und sich in manchen Dingen einschränken mußte. Der hübsche, schlanke Junge war vor etwa anderthalb Jahren direkt von den Gardeulanen gekommen, sein Vater, der Rittergutsbesitzer v. Wülflingen, war nicht mehr im stande, ihm die dort nötige hohe Zulage zu gewähren, weil er sich in Börsenspekulationen eingelassen hatte und damit gründlich verkracht war. Der Sohn schien nicht allzuschwer unter diesem Glückswechsel zu leiden; er war immer vergnügt, riesig sparsam und solide und vom ersten Tage an, wo er sie gesehen, in Lene v. Brandenfeldt verliebt. Sie sah ihn auch gern, sehr gern, das glaubte ich bestimmt zu wissen und begriff es vollkommen. Es war eben einer von denen, dem jedes junge Herz zufliegen mußte – liebenswürdig, ritterlich und hübsch. Wirklich, ein prächtiger Mensch!
+    </p>
+    <p xml:id="eco_de_0000160_240">
+     Der dicke Etatsmäßige war wohl der einzige, der das Paar durch sein Monocle etwas nachdenklich anstarrte und dann, mit einer Grimasse sein Glas fallen lassend, zu seinem Nachbar, dem Rittmeister v. Ollendorf, sagte: »Er wird doch nicht etwa so torhaft sein – was Ollendorf? Ist ja vollkommen okkupiert, der Schwerenöter drüben. Übrigens – entschuldbar – reizender Käfer, die kleine Brandenfeldt.«
+    </p>
+    <p xml:id="eco_de_0000160_250">
+     Ich hörte es, ohne mir weiter etwas dabei zu denken, ich war eben noch in jenen Jahren, wo man nicht rechnet und berechnet, ja, wo ein Gedanke an prosaische Dinge bei Liebessachen wie eine Entweihung erscheint.
+    </p>
+    <p xml:id="eco_de_0000160_260">
+     Als der Kaffee getrunken war und wir in den Wald schwärmten, um Maiblumen zu suchen, hing sich Lene an meinen Arm. »Du, Marie, komm mit, ich weiß, wo der beste Maiblumenschlag ist, der Förster hat es mir verraten, als ich im April 'mal mit Vater hier war. – Rasch, daß uns die andern nicht sehen!«
+    </p>
+    <p xml:id="eco_de_0000160_270">
+     Wir entkamen unbemerkt, niemend folgte uns in die grüne Wirrnis außer einem – Eberhard Wülflingen natürlich. Ich entdeckte ihn, als ich mich umwandte, weil mein Kleid an einem Dornbusch hängen geblieben war.
+    </p>
+    <p xml:id="eco_de_0000160_280">
+     »Du, Lene, der Wülflingen!«
+    </p>
+    <p xml:id="eco_de_0000160_290">
+     »So? Laß ihn: tue nicht, als ob du ihn gesehen. Hoffentlich verliert er unsere Spur!«
+    </p>
+    <p xml:id="eco_de_0000160_300">
+     »Hoffentlich? Bist du jetzt ehrlich, Lene?«
+    </p>
+    <p xml:id="eco_de_0000160_310">
+     Sie wandte den Kopf, damit ich ihr erglühendes Gesicht nicht sähe, und floh förmlich, als wollte sie die Wahrheit ihrer Worte beweisen; ich natürlich in gleichem Tempo mit. Wir brachen wie die gehetzten Rehe durch die jungen Buchen und Haselnußsträucher und standen endlich stille unter hohen Eichen, durch deren frisches Laub die Sonne flimmerte.
+    </p>
+    <p xml:id="eco_de_0000160_320">
+     O, der Duft, der Duft! Und die massenhaften weißen Glöckchen, die im leisen Wind zitterten zu unseren Füßen. Ganz berauscht davon, begannen wir zu pflücken.
+    </p>
+    <p xml:id="eco_de_0000160_330">
+     »Die andern finden so viele nicht,« sagte Lene jetzt, noch immer die Röte der Verlegenheit auf dem lieben Gesicht, »aber ich brauche viel, ich habe Rindenbeißers krankem Röschen einen großen Strauß versprochen; das arme Ding, immer liegt sie da, mit ihren gelähmten Gliedern.«
+    </p>
+    <p xml:id="eco_de_0000160_340">
+     Es war das letzte, was ich für ein Weilchen von Lene hörte; wir entfernten uns, Blumen pslückend, voneinander. Es war so still, so einsam ringsum, halb verweht klangen die Töne eines Straußschen Walzers herüber: »O junger Mai, o schöner Mai, la la la la, la la la la« – und in weiter Ferne rief wieder der Kuckuck.
+    </p>
+    <p xml:id="eco_de_0000160_350">
+     Ob es nun der starke betäubende Duft war, der mich so müde, so zeitvergessen machte? Ich sammelte schon lange keine Blumen mehr, ich saß auf der Wurzel einer eben belaubten riesigen Eiche und ordnete langsam, sehr langsam die Blüten und dachte an allerlei, an das, was man denkt mit zwanzig Jahren. Und wie ich mit dem Strauß fertig war und ihn mit biegsamen Grashalmen umwunden hatte, da fiel mir ein, nach Lene zu suchen, aber ich sah sie nicht mehr. Suchend und rufend schritt ich über die kleine Lichtung bis dahin, wo eine Gruppe dunkler Tannen steht, und hinter dieser Tannenwand sah ich plötzlich Lenens weißes Kleid schimmern und neben demselben etwas Blaues, Großes, und zugleich hörte ich eine bewegte Männerstimme sagen: »Aber Helene – Lene – Lene – das kann Ihr Ernst nicht sein!«
+    </p>
+    <p xml:id="eco_de_0000160_360">
+     Und das mit einer Betonung – einer Betonung – da wußte ich genug. Leise wandte ich mich um, schritt über die Lichtung zurück und verfügte mich auf den Rendezvousplatz. Sie waren alle schon vollzählig versammelt um die Maibowle, bis auf die zwei, und die schien niemand zu vermissen. Noch ein Weilchen, als wir eben zum Fanchonlaufen auf der Wiese antreten wollten, kam Lene allein den Waldweg daher mit ihrer Blumenlast; Eberhard Wülflingen fehlte und Lene tat ganz unbefangen, man sah ihr aber doch an, daß sie etwas Großes, Feierliches erlebt hatte, ihr sonst so blühendes Gesichtchen war sehr blaß.
+    </p>
+    <p xml:id="eco_de_0000160_370">
+     Am Abend, als wir heimgingen, hing Lene sich wieder an meinen Arm.
+    </p>
+    <p xml:id="eco_de_0000160_380">
+     »Du, warum bliebst du nicht neben mir beim Blumenpflücken?« fragte sie mit niedergeschlagenen Augen und vorwurfsvollem Klang ihrer Stimme.
+    </p>
+    <p xml:id="eco_de_0000160_390">
+     »Ich kam unversehens von dir ab,« stotterte ich, »warum aber machst du denn so eine Leichenbittermiene – weinst wohl gar?«
+    </p>
+    <p xml:id="eco_de_0000160_400">
+     Sie schüttelte den Kopf. »Es ist so traurig,« sagte sie nach einer Weile mit ihrer lieben, leisen Stimme, »wer hätte das auch gedacht: ich habe ihn immer für so vernünftig gehalten. Wir können doch nicht zusammenkommen, Marie, und wenn wir uns noch viel lieber hätten, was ja aber gar nicht möglich ist!«
+    </p>
+    <p xml:id="eco_de_0000160_410">
+     »Hat er denn gesprochen?« forschte ich atemlos.
+    </p>
+    <p xml:id="eco_de_0000160_420">
+     »Ja! Er sagte, wir wollten aufeinander warten bis zum Rittmeister, und das – das – siehst du, das ist ja Unsinn.«
+    </p>
+    <p xml:id="eco_de_0000160_430">
+     »Und daran denkst du in dem Augenblick, wo dir der Mann, den du liebst, endlich seine Neigung gesteht? Du scheinst eben nicht gerade romantisch veranlagt.« Die tiefste Empörung sprach aus mir.
+    </p>
+    <p xml:id="eco_de_0000160_440">
+     »Romantisch? Nein, romantisch bin ich nicht,« sagte sie. »Du denkst vielleicht, ich liebe ihn nicht? Wirkliche Liebe ist gar nicht romantisch! Weißt du, wenn ich mir vorstelle, daß er einmal so ein Leben führen solle wie mein armer Vater, dann fühle ich nichts mehr als das eine, daß ich es nicht ertragen könnte, es mit anzusehen: – nein, das könnte ich nicht. – Wir sind beide so schrecklich arm, Marie!«
+    </p>
+    <p xml:id="eco_de_0000160_450">
+     »Du denkst weit hinaus,« gab ich zur Antwort, aufs peinlichste berührt von ihrer praktischen Richtung. Ich hatte sie stets für eine ideal angelegte Natur gehalten, und nun entpuppte sie sich plötzlich nach meinem Dafürhalten als eine hausbackene Seele, die das künftige Wirtschaftsgeld überrechnet in dem Moment, wo ihr, beim Duft der Maiglöckchen, beim Schlag der Finken im Frühlingswald, ihr Liebstes, längst Ersehntes – sein Herz zu Füßen legt!
+    </p>
+    <p xml:id="eco_de_0000160_460">
+     Sie schritt stumm neben mir, von Zeit zu Zeit preßte sie meinen Arm und ein tiefer Seufzer traf mein Ohr.
+    </p>
+    <p xml:id="eco_de_0000160_470">
+     »Und was soll denn nun eigentlich werden?« fragte ich strenge.
+    </p>
+    <p xml:id="eco_de_0000160_480">
+     »Ich weiß es nicht, habe keine Ahnung,« antwortete sie beinahe hastig, »frage mich doch nicht!«
+    </p>
+    <p xml:id="eco_de_0000160_490">
+     Wir gingen alle über einen schmalen Wiesenpfad, der nur paarweise zu beschreiten war, der Stadt zu. Es war fast dunkel; der Mond stand hinter einer schwarzen Wolkenwand, in der von Zeit zu Zeit ein bläulicher Wetterstrahl aufzuckte. Die Luft war warm und gewitterschwül, und die Frösche sangen ihre Liebeslieder im nahen Bruch. Wir beide waren die Letzten des Zuges, eines langen schmalen Zuges, der sich wie ein Grabgeleite ausgenommen haben würde, wenn nicht das Lachen und Plaudern aus ihm zurückgeschallt hätte. Die ganze Stimmung in der Natur war eine sehnsüchtige, erwartungsvolle, eine echte Frühlingsabendstimmung, und die Blumen in unsern Händen dufteten so süß und schwer.
+    </p>
+    <p xml:id="eco_de_0000160_500">
+     Ob nur Lene das nicht empfand? »Wo ist Eberhard Wülflingen?« fragte ich leise.
+    </p>
+    <p xml:id="eco_de_0000160_510">
+     »Voran! Vor einer halben Stunde schon, er muß längst zu Hause sein.«
+    </p>
+    <p xml:id="eco_de_0000160_520">
+     »Er wird sich deine Antwort anders vorgestellt haben!«
+    </p>
+    <p xml:id="eco_de_0000160_530">
+     »Er sagte, an der Ausführung würde mein Bedenken ihn nicht hindern. Er will morgen mit den Eltern sprechen – trotz meiner Bitten: es geht ja nicht, es geht wirklich nicht! Ach, du, hätte ich ihn nur nie gesehen!«
+    </p>
+    <p xml:id="eco_de_0000160_540">
+     Es klang etwas schrecklich Gequältes aus ihrer Stimme, ich ärgerte mich von neuem über die feigen Bedenken und ließ unmutig ihren Arm fahren. »Und das nennst du Liebe?« sagte ich großartig und verächtlich.
+    </p>
+    <p xml:id="eco_de_0000160_550">
+     Sie antwortete nicht, ich meinte nur, ihre Augen groß und traurig auf mich gerichtet zu sehen. Stumm gingen wir den Rest des Weges miteinander bis zur Stadt. Die Straßen wimmelten noch von Kindern, vor den Haustüren saßen die Leute und genossen die Abendkühle, aus den Gärten leuchteten weiße Blütenbäume, und der Fliederduft kämpfte siegreich mit den Gerüchen, die der Straße eigen zu sein pflegen.
+    </p>
+    <p xml:id="eco_de_0000160_560">
+     Hinter Wülflingens Fenstern war Licht, und gerade hier stockte der Zug; man trennte sich unter fröhlichem Gute Nacht, um die verschiedenen Penaten aufzusuchen. Lene und ich gingen zusammen weiter, voran ihre und meine Mutter, bis in die Gertrudengasse, wo wir uns ja gegenüber wohnten.
+    </p>
+    <p xml:id="eco_de_0000160_570">
+     »Überleg' dir's noch!« bat ich leise, wie wir uns ihrem Hause näherten. »›Ein getreues Herz zu wissen‹ – du kennst das Verschen; und so schrecklich arm wird er ja nicht sein, das Kommißvermögen kann ihm sicher sein Vater geben.«
+    </p>
+    <p xml:id="eco_de_0000160_580">
+     Sie senkte schweigend den Kopf. »Das meinte er auch, aber dennoch – – mein Gott, was ist denn das, die paar Taler?« stotterte sie.
+    </p>
+    <p xml:id="eco_de_0000160_590">
+     »Na, ich meine! Zwölftausend Taler, was das ist?« fragte ich empört; »wie manche wäre selig damit und dankte Gott auf den Knien dafür.« Und – du bist doch das »Sparsamsein« gewöhnt, dachte ich dabei.
+    </p>
+    <p xml:id="eco_de_0000160_600">
+     Sie antwortete nicht, und im nächsten Augenblick war sie hinter ihrer Mutter in das Haus getreten.
+    </p>
+    <p xml:id="eco_de_0000160_610">
+     Am andern Mittag, es war eben zwölf Uhr und die Schulkinder lärmten durch die Gassen, sah ich mitten unter ihnen Eberhard Wülflingen daherkommen im Besuchsanzug mit Ulanka und Tschapka, groß, schlank und stattlich, einen feierlichen, entschlossenen Ausdruck im Gesicht. Er steuerte direkt auf Brandenfeldts Wohnung los.
+    </p>
+    <p xml:id="eco_de_0000160_620">
+     Aha, er führt aus, was er versprach! – Armer Kerl, du hast gar keine Idee, wie schwankend und prosaisch die Liebe deiner Lene ist! Ich blieb wie festgebannt am Fenster sitzen hinter meinem Nähtischchen und wünschte, die Mauern des Hauses drüben mit meinen Augen durchdringen zu können. Was wird nun werden mit den beiden?
+    </p>
+    <p xml:id="eco_de_0000160_630">
+     Ein Weilchen später kehrte der Herr Kassenrendant vom Bureau heim, er ging gebückt und langsam – immer, als drückte eine schwere Last seine feine Gestalt hernieder; das Gesicht war blaß und hatte einen leidenden Ausdruck. Der Sommerüberzieher war auch schon recht unmodern, ebenso der Zylinder, trotzdem hatte er das Aussehen eines eleganten Mannes.
+    </p>
+    <p xml:id="eco_de_0000160_640">
+     Plötzlich fiel mir Lenens Ausspruch ein: »Wenn ich denken müßte, daß er einmal so ein Leben führen sollte wie mein armer Vater, ich ertrüge es nicht!« Ganz unbewußt habe ich wohl den Herrn v. Brandenfeldt darauf angesehen, ach, es mag vielleicht doch eine größere Misere sein, als man ahnen konnte! Lene hat bisher freilich nie geklagt, sie war immer zufrieden gewesen, nur gestern nicht, zum erstenMale. Ob aber der Herr v. Brandenfeldt wirklich unglücklich war? Jedenfalls schien er sehr friedlich mit seiner Frau zu leben. Ich bewunderte bei Gesellschaften immer wieder die altmodische ritterliche Höflichkeit, mit der er nach beendetem Souper beim Gesegnete-Mahlzeit-Wünschen die Hand seiner Gattin küßte, nachdem er gefragt hatte: »Wie geht's dir, meine Liebe?«
+    </p>
+    <p xml:id="eco_de_0000160_650">
+     Nach einer halben Stunde etwa kam Eberhard Wülflingen wieder aus dem Hause, sehr rot, sehr hastig, wie jemand, der eine große unerwartete Täuschung erfahren hat. Den Kopf im Nacken, ging er rasch die Straße hinunter.
+    </p>
+    <p xml:id="eco_de_0000160_660">
+     Natürlich! Lene war bei ihrem »Nein!« geblieben. Wie sie das nur konnte! Es ist doch unerhört! Ich meine, wenn man liebt, dann müsse auch die innere, zwingende Notwendigkeit dasein, einander anzugehören, über alle Bedenken hinaus. Lenens »Es geht ja nicht!« schien mir das untrügliche Zeichen einer kleinen Seele zu sein.
+    </p>
+    <p xml:id="eco_de_0000160_670">
+     Unmutig entfernte ich mich von meinem Beobachterposten und ging nach dem Garten. Dort suchte mich nach einem Weilchen der kleine Nachbarsjunge auf, der von Lene zu Ausgängen und leichten Besorgungen benutzt wurde für das fürstliche Honorar von zehn Pfennig die Woche. Er brachte mir ein mit Bleiftift beschriebenes, eilig zusammengefaltetes Zettelchen:
+    </p>
+    <p xml:id="eco_de_0000160_680">
+     »Bitte, komm gegen halb zwei Uhr in unsern Garten, ich muß Dich sprechen.
+    </p>
+    <p xml:id="eco_de_0000160_690">
+     Lene.«
+    </p>
+    <p xml:id="eco_de_0000160_700">
+     Was sie nur will? Wieder feige jammern und lamentieren über materielle Hindernisse? Wenn sie das tut, nahm ich mir vor, dann bekommt sie von mir Dinge zu hören, die möglicherweise unsere Freundschaft für immer zu Schanden machen, ich kann dann nicht anders. – Zur festgesetzten Stunde ging ich über den Hof des Hauses drüben, in welchem Brandenfeldts das Halbparterre bewohnten: aus der Scheuer führte ein Pförtchen in den Garten, den wir als Kinder bei unsern Spielen benutzt hatten. Durch die Haustüre mochte ich nicht gehen, ich wußte, daß Lenes Eltern zu dieser Zeit Mittagsruhe hielten.
+    </p>
+    <p xml:id="eco_de_0000160_710">
+     Ich fand Lene meiner schon wartend an der Scheunentür. Sie sah ein bißchen bleich aus, trug ihr marineblaues Alltagskleid, ein weißes Schürzchen und hielt den zierlichen Pompadour mit der ewigen Stickerei in der Hand. Ich betrachtete letzteren ganz entsetzt – sie konnte Handarbeiten fertigen an solchem Tage?
+    </p>
+    <p xml:id="eco_de_0000160_720">
+     »Liebste Marie,« bat sie, »ich bin dir so dankbar, ich kann nicht allein bleiben mit meinen schweren Gedanken. Setze dich doch ein bißchen mit in die Laube, komm!« Sie zog mich hinein und nötigte mich zum Sitzen: aber ich blieb stehen.
+    </p>
+    <p xml:id="eco_de_0000160_730">
+     »Ich meinte, du wolltest mich nötig sprechen? Ich habe nicht viel Zeit!« sagte ich streng und ungeduldig.
+    </p>
+    <p xml:id="eco_de_0000160_740">
+     Sie blieb neben mir stehen und antwortete nicht gleich. Nun erst bemerkte ich, wie ihre Hand, die einen frisch gepflückten Fliederzweig, der auf dem Tische lag, beiseite schob, zitterte, und wie verändert ihr Gesicht war, gramvoll, um zehn Jahre gealtert.
+    </p>
+    <p xml:id="eco_de_0000160_750">
+     »Du warst gestern schon so unfreundlich,« warf sie mir zaghaft vor.
+    </p>
+    <p xml:id="eco_de_0000160_760">
+     »Allerdings! Und heute bist du mir ganz unverständlich – ich sah Eberhard Wülflingen von euch wieder herauskommen, und –«
+    </p>
+    <p xml:id="eco_de_0000160_770">
+     »Mein Gott, es geht nicht anders,« flüsterte sie, mit starren Augen an mir vorübersehend.
+    </p>
+    <p xml:id="eco_de_0000160_780">
+     Und da riß mir die Geduld, wie eine mühsam zurückgestaute Flut brach mir mein Unwille los. Erbärmlich feige sei sie, eine größere Enttäuschung habe ich noch nie erlebt als bei ihr. Berechnend, materiell sei sie, nicht Liebe sei es, und Eberhard Wülflingen könne froh sein, daß er ein so kleinliches Wesen nicht heimführe, er werde sich hoffentlich bald zu trösten wissen. Damit wandte ich mich um und ging den Weg wieder hinunter, um zur Scheunentür zu gelangen.
+    </p>
+    <p xml:id="eco_de_0000160_790">
+     Zunächst rührte sich nichts hinter mir, dann aber holte sie mich ein mit eilenden Schritten. »Mariechen,« rief sie halblaut, »du irrst dich, ich kann dir ja nicht alles sagen! Bleibe doch – ich –«
+    </p>
+    <p xml:id="eco_de_0000160_800">
+     Sie war plötzlich neben mir und hielt mich fest, ihre Augen glühten, sie atmete mühsam. »Du weißt ja gar nicht, was ich erlebe, täglich, stündlich, sonst würdest du nicht so hart urteilen! Ich bitte dich, daß du mir glaubst, ein bißchen glaubst,« flehte sie, »wenn ich dir sage: mein Lebensglück hängt ja an ihm, mein ganzes Glück, und doch – –«
+    </p>
+    <p xml:id="eco_de_0000160_810">
+     »Doch kann ich Handarbeit machen,« höhnte ich, »und den armen Jungen heimschicken! Weißt du, was ich getan hätte? Entweder wäre ich ihm um den Hals gefallen und hätte gesagt: ›Meinetwegen hungern und dursten, nur bei dir bleiben und mit dir leben!‹ Oder – ich wäre in den Teich gesprungen.«
+    </p>
+    <p xml:id="eco_de_0000160_820">
+     In diesem Augenblick schmetterte eine hohe klanglose Frauenstimme durch die verträumte Stille des Gartens: »Ganz vernünftig ist sie, wenn sie in ein solches Elend nicht hinein will, ein Elend, wie du es mir bereitet hast, trotz der zwölftausend Taler, mit denen du so groß tatest, als mit deinem Vermögen.«
+    </p>
+    <p xml:id="eco_de_0000160_830">
+     Wir standen wie angewurzelt. Dicht bei uns befanden sich die geöffneten, nur leicht verhängten Fenster des Schlafzimmers von Lenes Eltern. Stumm, an der Unterlippe nagend, stand Lene da und hielt mich doch erbarmungslos fest an der Hand, wie ich mich auch bemühte, zu fliehen, um nicht hören zu müssen, was dort zwischen ihren Eltern gesprochen wurde.
+    </p>
+    <p xml:id="eco_de_0000160_840">
+     »Ich dir bereitet?« antwortete die Stimme des Herrn v. Brandenfeldt. »Darüber wollen wir nicht streiten, wer mehr Schuld hat an dem jetzigen Elend, du oder ich.«
+    </p>
+    <p xml:id="eco_de_0000160_850">
+     »Du! Du als Mann hättest das Leben besser kennen müssen! Was wußte ich denn davon, von dem Wert des Geldes, vom Offizierstand überhaupt? Mein Vater war Jurist in einer hohen Stellung, und Mangel kannte ich nicht bis dahin, im Gegenteil –«
+    </p>
+    <p xml:id="eco_de_0000160_860">
+     »Dann hätte dein Vater vernünftiger sein und mich mit meinem ehrlich gemeinten Antrag 'rauswerfen sollen! Aber der war ja froh, daß eine von euch unter die Haube kam.«
+    </p>
+    <p xml:id="eco_de_0000160_870">
+     »Bitte sehr! Papa gab nur nach, weil – weil –«
+    </p>
+    <p xml:id="eco_de_0000160_880">
+     »Weil du erklärtest, dir das Leben nehmen zu wollen, wenn wir uns nicht kriegten – jawohl!« bestätigte er.
+    </p>
+    <p xml:id="eco_de_0000160_890">
+     »Hätte ich es mir doch genommen,« schluchzte die Frauenstimme auf, »dann – dann wäre alles besser, dann brauchte ich es nicht mit anzusehen, daß Lene sich halbtot grämt und als altes Mädchen verkümmert und versauert. Ach Gott, mein Gott!«
+    </p>
+    <p xml:id="eco_de_0000160_900">
+     »Wenn sie das nicht will, muß sie sich eben trösten und den Ronnefahl nehmen, der kann sie ja ernähren.«
+    </p>
+    <p xml:id="eco_de_0000160_910">
+     Ein gelles Auflachen der Frau war die Antwort, ein wehes Lachen, das wie Messer in das Herz des Hörers schnitt. Dicht am Fenster erklang es, und zugleich bewegte sich der Vorhang. Wir aber flohen wie gejagt um die Ecke des Gebäudes der Scheune zu.
+    </p>
+    <p xml:id="eco_de_0000160_920">
+     Dort in dem dämmerigen Raum, mit dem gespreizten Balkenwerk unter dem Ziegeldache, dem undefinierbaren Geruch nach dumpfigem Stroh und zahlreichen Mäusekolonien, blieben wir stehen. Wie ein Platzregen hatte dieses Gespräch die Glut meiner moralischen Entrüstung abgekühlt; ich wußte nicht, sollt' ich Lene ansehen oder stumm hinausschreiten. Ich war völlig fassungslos, so groß, so hoch über mir stehend, dünkte sie mich mit meinen hergebrachten Ansichten über Liebe. Und sie stand vor mir und schob mit der Spitze ihres Fußes einige Strohhalme beiseite und sagte: »Und sie haben sich einmal so schrecklich lieb gehabt!«
+    </p>
+    <p xml:id="eco_de_0000160_930">
+     Ich wußte nicht, was ich darauf erwidern sollte. »Das ist eben die rechte Liebe nicht gewesen,« stotterte ich endlich, um nicht allzu schmählich zu unterliegen.
+    </p>
+    <p xml:id="eco_de_0000160_940">
+     »Doch, Marie! Sieh, ich habe Briefe, die Mutter an Vater schrieb zu ihrer Brautzeit, so würde ich auch an ihn geschrieben haben, nicht anders. Eine ganze Welt von Liebe und Herzlichkeit, von Opfermut und Treue weht daraus, und ich habe auch Briefe von Vater, freudige, glückselige Briefe, er selbst gab mir diese kleine, während einer Manöverkampagne entstandene Korrespondenz nach einer schrecklichen Szene, die sie beide miteinander hatten, bei welcher ich, wie leider so oft, Zeuge war. Ich sehe noch sein beschämtes, trauriges Gesicht, als er dazu sagte: ›Es war nicht immer so, Lene, wir haben uns einmal sehr, sehr lieb gehabt, und wir meinten es redlich damit.‹ Und nun – ach, Marie! –«
+    </p>
+    <p xml:id="eco_de_0000160_950">
+     Und plötzlich schlang sie die Arme um meinen Hals und begann zu schluchzen, wild, fassungslos.
+    </p>
+    <p xml:id="eco_de_0000160_960">
+     »Lene, Lene,« bat ich erschüttert. »Du würdest doch nicht so sein – wie deine Mutter!«
+    </p>
+    <p xml:id="eco_de_0000160_970">
+     »Weiß ich das heute?« rief sie, innehaltend mit Weinen, »weiß man denn, was die Not aus einem macht, die schreckliche Not?«
+    </p>
+    <p xml:id="eco_de_0000160_980">
+     Und dann blieb es still zwischen uns, lange, lange, und der schrille Schmerzensschrei zitterte in meiner Seele nach. Ich hielt ihr Köpfchen an meiner Brust und ließ sie schluchzen. Ach, aus wie anderen Augen schaute ihr Gebaren mich jetzt an! »Du mußt ein wenig fortreisen,« begann ich nach langer Zeit, »du wirst es dann, fern von ihnen, leichter überwinden.«
+    </p>
+    <p xml:id="eco_de_0000160_990">
+     Sie lachte leise und bitter. »Ich – reisen? Wovon denn? Wohin denn? Ist auch gar nicht nötig – er tut's für mich. – Er ist zum Kommandeur gegangen und bittet ihn, mit einem Kameraden der anderen Garnison tauschen zu dürfen.« Und sie strich sich mit einer unendlich müden, trostlosen Gebärde das wirre Haar aus der Stirn und zuckte die Schultern.
+    </p>
+    <p xml:id="eco_de_0000160_1000">
+     »Du willst doch nicht wirklich den Ronnesahl heiraten?« fragte ich endlich.
+    </p>
+    <p xml:id="eco_de_0000160_1010">
+     »Ich will nicht, ach nein, aber ich werde wohl müssen; die Brüder brauchen eine Equipierung, und ich kann den Eltern nicht mehr eine Last sein.«
+    </p>
+    <p xml:id="eco_de_0000160_1020">
+     Sie drückte mir nochmals die Hand und wandte sich in den Garten zurück.
+    </p>
+    <p xml:id="eco_de_0000160_1030">
+     Und dann war sie wieder, wie immer, still, freundlich und heiter. Nur ich wußte, wie es um ihr Herz stand, was dieses gleichgültige Wesen sie kostete. Eberhard v. Wülflingen aber ward versetzt von Steinhagen und kam nie herüber, wenn in unserer Garnison die Kameraden sich zu Liebesmahlen oder Bällen vereinigten. Es war ihm doch wohl sehr, sehr nahe gegangen.
+    </p>
+    <p xml:id="eco_de_0000160_1040">
+     Nach zwei Jahren wurde mein Vater in eine andere, weit entfernte Garnison versetzt, wir mußten Steinhagen verlassen. Im Garten nahm ich Abschied von Lene am Vorabend unserer Reise; wir waren die guten Freundinnen von ehedem geblieben, allein Lene sprach von ihrem Seelenkampf nie wieder mit mir. Daß der Fabrikbesitzer Ronnefahl noch immer auf sie wartete, dachte ich mir wohl, denn er hätte mit seiner stattlichen Erscheinung und seiner gesicherten, behaglichen Lebensstellung längst um eine andere werben können, trotz seiner ziemlich erwachsenen Söhne, von denen der älteste schon Primaner war.
+    </p>
+    <p xml:id="eco_de_0000160_1050">
+     Ich war daher auch nicht allzusehr überrascht, als Lene mir gestand, daß sie jetzt dem zum dritten Male Anfragenden ihr Jawort gegeben habe. Sie sagte das so nebenher, als sei es ganz unwichtig, zwischen allerhand Bitten an mich, ich solle sie da draußen nicht vergessen; aber ob sie viel zum Schreiben käme, das wisse sie ja nicht, glaube es auch kaum, besonders in nächster Zeit nicht, wo sie für ihre kleine Aussteuer zu tun habe, denn ihre Mama sei recht schlecht dran mit den Augen; sie, Lene, müsse wohl alles selbst machen.
+    </p>
+    <p xml:id="eco_de_0000160_1060">
+     Ich wünschte ihr noch aus vollstem Herzen Glück und versprach alles mögliche. »Sind deine Eltern nun zufrieden?« fragte ich noch.
+    </p>
+    <p xml:id="eco_de_0000160_1070">
+     »Ach, doch wohl – sie haben nun weniger schwere Sorgen,« antwortete sie. »Ronnefahl ist sehr gut und opferbereit.« Und dann fügte sie noch hinzu: »Sie saßen vorhin Hand in Hand auf dem Sofa, seit langer Zeit zum ersten Male, und sprachen von ihrem Brautstand.« – Ein kleines gerührtes Lächeln zuckte flüchtig um ihren Mund bei diesen Worten, dann sah sie ein Weilchen starr geradeaus, und wie ihre Gedanken wieder zurückkehrten, umarmte sie mich herzlich. »Lebe wohl, Marie, sei glücklich, recht glücklich!«
+    </p>
+    <p xml:id="eco_de_0000160_1080">
+     Ein- bis zweimal hat sie mir dann noch geschrieben, so gewisse müde, zufriedene Briefe, wie eine Fünfzigjährige sie schreiben könnte; im letzten stand als Nachschrift: »Eberhard hat sich auch verlobt, die Braut heißt Lisette v. Lohmann und ist eine Tochter Friedrich v. Lohmanns, der vor ein paar Jahren geadelt wurde, eines großen Grundbesitzers in unserer Provinz. Sie soll liebenswürdig sein, hübsch und gut – wie freue ich mich für ihn! Es gibt mir viel Frieden.«
+    </p>
+    <p xml:id="eco_de_0000160_1090">
+     Auf meine Frage, wann ihre Hochzeit sei, schwieg sie, und unsere Korrespondenz stockte, ich hörte nichts wieder von ihr. – –
+    </p>
+    <p xml:id="eco_de_0000160_1100">
+     Mich führten weite Reisen in der Welt umher; das kleine märkische Städtchen versank in Vergessenheit, und wenn ich flüchtig an Helene v. Brandenfeldt dachte, dann erschien sie mir als Frau Ronnefahl in dem hübschen Wohnhause nahe der Stärkefabrik als liebevolle Stiefmutter ihrer großen Söhne, wo möglich auch als eigene beglückte Mama. Ihre Eltern stellte ich mir vor, in alter, wiedererwachter Zuneigung auf dem Sofa sitzend, Hand in Hand, wie Lene mir beschrieb, sich erfreuend an der behaglichen Lage, die sie ihrem Kinde verdankten.
+    </p>
+    <p xml:id="eco_de_0000160_1110">
+     Endlich aber kamen Zeiten, wo ich überhaupt nicht mehr an Lene dachte, so viel Neues, Reiches war in mein Leben getreten. – Da fuhr ich an einem herrlichen blauen Frühlingstage, von Laveno kommend, nach Mailand. Das Coupé teilte eine einzige fremde Dame mit uns. Ich beachtete sie kaum, sondern plauderte mit einer Freundin, die mich auf der Reise nach Venedig begleitete.
+    </p>
+    <p xml:id="eco_de_0000160_1120">
+     »Kommt nicht bald die Station, wo es die herrlichen Maiblumen zu kaufen gibt?« fragte ich.
+    </p>
+    <p xml:id="eco_de_0000160_1130">
+     »Ganz recht! Malnate, die nächste ist es.«
+    </p>
+    <p xml:id="eco_de_0000160_1140">
+     Und wie wir dort einfuhren, standen richtig hinter der Barriere wieder die barfüßigen kleinen Italienerburschen mit den riesigen grünweißen Sträußen und schwenkten sie bittend gegen uns. Der Schaffner brachte auf unsern Wunsch zwei große Bukette herüber, und wie wir sie nun im heißen Coupé hatten, da war eine förmliche Woge von frischem süßem Duft um uns, daß aller Staub, alle Hitze wie hinweggeweht schien; es war, als seien wir wieder im deutschen duftenden Laubwald, wo die Finken schlagen.
+    </p>
+    <p xml:id="eco_de_0000160_1150">
+     Und während wir weiterfuhren, sah ich, wie die Dame mir gegenüber mit großen traurigen Blicken auf die Blumen starrte, und von da wanderten diese Blicke empor zu meinen Augen, in das von leicht grauem Haar umrahmte Gesicht trat eine feine Röte, und sie sagte lächelnd: »Hast du denn immer noch die Maiblumen so gern, Marie?«
+    </p>
+    <p xml:id="eco_de_0000160_1160">
+     Zuerst staunte ich sie einen Moment an, dann aber streckte ich beide Hände ihr entgegen mitsamt dem Strauß: »Lene, Lene Brandenfeldt – ist es denn möglich?«
+    </p>
+    <p xml:id="eco_de_0000160_1170">
+     Sie nickte und erwiderte meinen Kuß. »Ich habe oft an dich gedacht,« sprach sie, »ich hätte auch gern an dich geschrieben, aber ich wußte nicht, wo du geblieben warst.«
+    </p>
+    <p xml:id="eco_de_0000160_1180">
+     »Ja, freilich! Aber ich hätte an dich schreiben sollen, Lene; die Adresse wußte ich ja – Frau Ronnefahl in Steinhagen; vergib mir, daß ich so –«
+    </p>
+    <p xml:id="eco_de_0000160_1190">
+     Sie schüttelte den Kopf, und den Strauß, den ich ihr in den Schoß gelegt hatte, zu ihrem Gesicht führend, daß sich dasselbe ganz in den Blüten verbarg, sagte sie, tief den Duft einziehend: »Ich bin Lene Brandenfeldt geblieben – ich – weißt du noch, wie wir einmal in die Maiblumen gingen, Marie?«
+    </p>
+    <p xml:id="eco_de_0000160_1200">
+     Und als ich nickte, fügte sie hinzu: »Siehst du, das konnte ich doch nicht vergessen.«
+    </p>
+    <p xml:id="eco_de_0000160_1210">
+     Dann wurde sie noch röter und sah zum Fenster hinaus.
+    </p>
+    <p xml:id="eco_de_0000160_1220">
+     Ich wagte nicht mehr zu fragen, aber im Herzen bat ich ihr nochmals alles ab, was ich jemals gesagt hatte von Feigheit und Berechnung und vielem anderen. »Und deine Eltern?« fragte ich dann und faßte ihre Hand.
+    </p>
+    <p xml:id="eco_de_0000160_1230">
+     »Ich danke dir! Ihre letzten Jahre waren sorgenloser; ich hatte eine ganz gute Stellung in Berlin – als Gesellschafterin, und die Jungens schlugen gut ein. Aber nun sind sie tot, die lieben alten Leutchen –«
+    </p>
+    <p xml:id="eco_de_0000160_1240">
+     »Und du?«
+    </p>
+    <p xml:id="eco_de_0000160_1250">
+     »Mir geht es gut. Ich habe ja – denke dir – ich habe von meiner Dame ein paar tausend Taler geerbt, ich kann sogar Reisen machen, wie du siehst, und ich wohne jetzt wieder in Steinhagen, in der Wohnung der Eltern. Du solltest mich einmal besuchen, Marie – im Frühjahr, zur Maiblumenzeit! Dann gehen wir beide alten Erinnerungen nach. – Willst du? Freilich, einfach ist's bei mir, grad' noch wie damals.«
+    </p>
+    <p xml:id="eco_de_0000160_1260">
+     Ich reichte ihr schweigend und gerührt die Hand hinüber, und um uns dufteten die Maiblumen und zauberten die Jugend zurück.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

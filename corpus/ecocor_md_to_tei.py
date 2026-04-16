@@ -71,6 +71,68 @@ def _ascii_filename(name):
     return name
 
 # ---------------------------------------------------------------------------
+# Helpers for YEAR_Surname_Title-Words output filename convention
+# ---------------------------------------------------------------------------
+
+_EXTRA_CHAR_MAP = str.maketrans({
+    '\u2013': '-', '\u2014': '-',   # en-dash, em-dash → hyphen
+    '\u00bb': '', '\u00ab': '',     # » « → removed
+    '\u00e9': 'e', '\u00e8': 'e', '\u00ea': 'e', '\u00eb': 'e',
+    '\u00e0': 'a', '\u00e2': 'a', '\u00e1': 'a',
+    '\u00ee': 'i', '\u00ef': 'i', '\u00ed': 'i',
+    '\u00f4': 'o', '\u00f3': 'o',
+    '\u00fb': 'u', '\u00f9': 'u', '\u00fa': 'u',
+    '\u00e7': 'c', '\u00f1': 'n',
+})
+
+_PEN_NAMES = {'Jean Qui Rit': 'Qui Rit', 'Jean Paul': 'Paul'}
+
+
+def _transliterate_slug(text):
+    """Apply umlaut + accent transliteration to text."""
+    text = text.translate(_UMLAUT_MAP)
+    text = text.translate(_EXTRA_CHAR_MAP)
+    return text
+
+
+def _get_surname(author):
+    """Extract surname (with nobility particle) from a full author name."""
+    if author in _PEN_NAMES:
+        return _PEN_NAMES[author]
+    tokens = author.split()
+    if not tokens:
+        return ''
+    if len(tokens) == 1:
+        return tokens[0]
+    for i in range(1, len(tokens)):
+        if tokens[i].lower() in {'von', 'zu', 'van', 'de'}:
+            return ' '.join(tokens[i:])
+    return tokens[-1]
+
+
+def _surname_slug(surname):
+    """Transliterate and convert surname to hyphen-separated ASCII slug."""
+    surname = _transliterate_slug(surname)
+    surname = re.sub(r'[^\w\s-]', '', surname)
+    surname = re.sub(r'\s+', '-', surname.strip())
+    return surname
+
+
+def _title_slug(title, max_words=3):
+    """Return the first max_words title words as a hyphen-joined ASCII slug."""
+    title = _transliterate_slug(title)
+    title = re.sub(r'[^\w\s-]', '', title)
+    words = [w.strip('-') for w in title.split() if w.strip('-')]
+    return '-'.join(words[:max_words])
+
+
+def _year_slug(year_val):
+    """Extract the first 4-digit year from a year value."""
+    m = re.match(r'(\d{4})', str(year_val).strip())
+    return m.group(1) if m else str(year_val).strip()
+
+
+# ---------------------------------------------------------------------------
 # Path constants
 # All paths are relative to the `corpus/` directory (the script's working
 # directory).  Edit these if the project layout changes.
@@ -290,6 +352,11 @@ class TEI:
         self.outputfilename = self.outputfilename.replace(" ", "")
         self.outputfilename = _ascii_filename(self.outputfilename)
 
+        # Stable key for the ID map — uses the source-txt-based name so that
+        # existing eco IDs are preserved even when outputfilename is later
+        # updated to the YEAR_Surname_Title-Words convention.
+        self.idmap_key = self.outputfilename
+
         # Metadata fields — populated by row_to_tei() after construction
         self.year           = None
         self.wikidataid     = None   # Wikidata entity URL for the *work*
@@ -442,14 +509,26 @@ class TEI:
         If not found, generates a new ID from ``TEI.teiid``, stores it in the
         map, saves the map to disk, and increments ``TEI.teiid``.
         """
-        if self.outputfilename in _id_map:
-            return _id_map[self.outputfilename]
+        if self.idmap_key in _id_map:
+            return _id_map[self.idmap_key]
         # Generate a new ID and persist it
         new_id = f"eco_{self.isolang()}_{TEI.teiid:06d}"
-        _id_map[self.outputfilename] = new_id
+        _id_map[self.idmap_key] = new_id
         _save_id_map(_id_map)
         TEI.teiid += 1
         return new_id
+
+    def make_output_filename(self):
+        """
+        Build the canonical output filename in YEAR_Surname_Title-Words format.
+
+        Requires ``self.year``, ``self.author``, and ``self.title`` to be set
+        (i.e. must be called after ``row_to_tei`` assigns these fields).
+        """
+        year    = _year_slug(self.year or '')
+        surname = _surname_slug(_get_surname(self.author or ''))
+        title   = _title_slug(self.title or '')
+        return f"{year}_{surname}_{title}"
 
     def get_paragraph_id(self, count):
         """
@@ -704,36 +783,9 @@ class TEI:
         numpages.clear()
         numpages.append(str(self.len_words))
 
-        # 5b. ELTeC <size> classification (required by eltec-1.rng)
-        if self.len_words >= 100000:
-            size_key = "long"
-        elif self.len_words >= 50000:
-            size_key = "medium"
-        else:
-            size_key = "short"
-        text_desc = self.tree.find("textDesc")
-        size_tag = self.tree.new_tag("size", xmlns="http://distantreading.net/eltec/ns")
-        size_tag["key"] = size_key
-        text_desc.append(size_tag)
-
-        # 5c. ELTeC <reprintCount> (required; unknown for EcoCor)
-        reprint_tag = self.tree.new_tag("reprintCount", xmlns="http://distantreading.net/eltec/ns")
-        reprint_tag["key"] = "unspecified"
-        text_desc.append(reprint_tag)
-
-        # 5d. ELTeC <timeSlot> derived from publication year
-        year = int(str(self.year)[:4])
-        if year < 1860:
-            slot = "T1"
-        elif year < 1880:
-            slot = "T2"
-        elif year < 1900:
-            slot = "T3"
-        else:
-            slot = "T4"
-        slot_tag = self.tree.new_tag("timeSlot", xmlns="http://distantreading.net/eltec/ns")
-        slot_tag["key"] = slot
-        text_desc.append(slot_tag)
+        # 5b-5d. ELTeC elements (authorGender, size, reprintCount, timeSlot) are
+        # commented out in the stub and not injected here — textDesc is omitted
+        # so that the output complies with TEI-all rather than eltec-1.rng.
 
         # 6. Root element attributes
         root = self.tree.find("TEI")
@@ -835,6 +887,7 @@ def row_to_tei(row):
     new_tei = TEI(title, author, sourcetxtname)
 
     new_tei.year = row["Jahr"]
+    new_tei.outputfilename = new_tei.make_output_filename()
 
     # Work Wikidata ID: convert /wiki/ URLs to /entity/ entity URLs
     try:

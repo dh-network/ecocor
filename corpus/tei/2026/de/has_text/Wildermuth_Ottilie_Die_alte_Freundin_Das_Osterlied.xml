@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_0000127" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000198" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_0000127_20">
+   <p xml:id="eco_de_0000198_20">
     Das Osterlied
    </p>
   </front>
@@ -95,34 +95,34 @@
     <head>
      Das Haus in der Vorstadt.
     </head>
-    <p xml:id="eco_de_0000127_30">
+    <p xml:id="eco_de_0000198_30">
      Als Kind kam es mir gar schön und vergnüglich vor, in einer großen Stadt zu wohnen, und war es unsere höchste Freude, wenn der Vater uns einmal zu einem Besuch in die Residenz mitnahm. »Lauter Schlossen!« rief der kleine Bruder, als er die schönen, hohen Häuser sah, die dazumal erst noch nicht so schön waren wie heute. Wir konnten da gar nicht satt werden, all die Herrlichkeit zu bewundern, vor allem die hohen Schaufenster mit den prächtigen Sachen dahinter. Begehrlich haben sie uns nicht gemacht; sie waren so schön, daß mir wohl wußten, die seien nicht für uns; das Wachspüppchen im rosa Kleide, das unser Nadler daheim das ganze Jahr an seinem Schaufensterlein stehen hatte, nach dem gelüstete mich's viel mehr, weil es eher möglich war, das zu erlangen.
     </p>
-    <p xml:id="eco_de_0000127_40">
+    <p xml:id="eco_de_0000198_40">
      Dann zog man vor das Königsschloß, an den See in die Anlagen, zuletzt auf die Wachtparade und trabte im schönsten Takt hinterher bis zu der Kaserne. Das alles erschien mir prächtig, und die Kinder, die das alle Tage am lichten, hellen Werktag sehen und genießen durften, die kamen mir überaus glücklich vor.
     </p>
-    <p xml:id="eco_de_0000127_50">
+    <p xml:id="eco_de_0000198_50">
      Jetzt sehe ich das wieder anders an. Das endlose Wagengerassel und Pferdegetrampel und Menschengeläufe, der heiße Sonnenschein in den breiten Straßen macht mich müde und betäubt, und wenn ich auch sehe, daß die Residenzkinder mitunter wild und lustig sein können wie auf dem Lande, so freue ich mich doch, daß ich meine Kinderzeit in dem freien, fröhlichen Treiben zubringen durfte, das auf dem Dorf und in kleinen Städtchen viel leichter möglich ist als in Großstädten.
     </p>
-    <p xml:id="eco_de_0000127_60">
+    <p xml:id="eco_de_0000198_60">
      In den Vorstädten aber, da ist Stadt und Land noch hübsch beisammen; es sieht aus, als wären die einzelnen Häuser nur so herausspaziert, weil es ihnen in der Stadt drinnen zu eng geworden; da »deucht mi's luhstig«, wie die Schweizer sagen, ein Kind zu sein. Die Türme und hohen Häuser der Stadt schauen herüber; ihre Herrlichkeiten, die prächtigen Buden mit Elefanten und Zauberkünstlern und die Karusselle, die zur Meßzeit kommen, sind leicht zu erreichen; für alle Tage aber hat man die frische Luft, die freien grünen Spielplätze, von denen man nur manchmal weggejagt wird, wenn Wäscherinnen kommen, ihre Waschseile zu ziehen.
     </p>
-    <p xml:id="eco_de_0000127_70">
+    <p xml:id="eco_de_0000198_70">
      Die Gärtchen da draußen sind freilich nicht so schön und künstlich angelegt wie die Ziergärten der Stadt; doch blühen lustig die Blumen darin, Tulipanen, Rosen und Nelken, blaue Rittersporn, bunte Astern, und vor allem gibt's da Johannisbeeren und Stachelbeeren in Menge, aus denen die Besitzer ein schön Stücklein Geld lösen, wenn auch hie und da unartige Jungen davon geplündert haben.
     </p>
-    <p xml:id="eco_de_0000127_80">
+    <p xml:id="eco_de_0000198_80">
      Gar zu lange wird freilich auch die luftige Schönheit der Vorstädte nicht mehr dauern; da und dort sieht man Bauplätze ausgesteckt, sieht zimmern und mauern, hört Balken sägen und Steine hauen, und bald werden sich stattliche Häuserreihen erheben, wo jetzt noch die unschuldigen Gärtchen stehen.
     </p>
-    <p xml:id="eco_de_0000127_90">
+    <p xml:id="eco_de_0000198_90">
      Die Buben, die da draußen wohnen, die ficht das nicht an; die Bauplätze sind besonders lustig zum Spielen, und nichts schöner als »Fangis« oder »Schlupferles« oder gar »Räuber« zu spielen in so einem neu aufgeschlagenen, halb ausgebauten Haus.
     </p>
-    <p xml:id="eco_de_0000127_100">
+    <p xml:id="eco_de_0000198_100">
      Eines der Häuser, und zwar eines der ersten, die in der Vorstadt entstanden, von der ich rede, war ganz besonders freundlich und sah so recht ländlich aus mit dem Gärtchen davor und dem Rasenplatz dahinter; es gehörte einem Werkmeister, dessen Bauplatz nicht weit hinter dem Hause lag; die nächste Umgebung aber war noch frei geblieben. Am freundlichsten von allen Zimmern sah die große Parterrestube rechts von der Hausthür aus, zumal im Frühling und an kühlen Sommermorgen, wenn die Fenster geöffnet waren, deren breiter Sims allezeit mit schön blühenden Gewächsen geschmückt war. Zu dem Hause trippelten jeden Morgen kleine Mädchen aus der Vorstadt, aus den nahegelegenen Stadtteilen, einige auch aus der inneren Stadt; sie hatten Strickkörbchen am Arm, darin unter Knäuel und Strickzeug ein Butterbrot, etwas Obst oder sonst ein gutes Vesper lag; und obgleich die Mägdlein gerade erst vom Frühstück herkamen, so schauten sie doch schon nach der großen Uhr, die über der Thür eines Uhrmachers der Vorstadt angebracht war, ob es nicht bald Zeit zum Vespern sei. Sie kamen schön gewaschen, mit glattgekämmten Haaren und frischgeflochtenen Zöpfen; auf dem Heimweg, da sahen sie freilich nicht alle mehr so sauber aus; da gab's zerrissene Schürzen, aufgegangene Zöpfe und struppiges Haar, denn die Mädchen sind oft so wild wie die Buben, obwohl sie mit denen nicht spielen durften und meist mit lautem Geschrei zurückgejagt wurden, wenn sie dem Spielplatz der Jungen nahe kamen.
     </p>
-    <p xml:id="eco_de_0000127_110">
+    <p xml:id="eco_de_0000198_110">
      Am Fenster der Parterrestube, da saß zur Stunde, wo die Mädchen kamen, eine noch junge Frau in dunklem Kleid und weißem Häubchen, die ihnen freundlich zunickte, wenn sie schon vom Garten aus riefen: »Guten Morgen, Frau Pfarrerin!« und es gab meist ein Wettrennen bei den Kleinen, wer die erste sei, die der Frau Pfarrerin die Hand zum Morgengruß bieten durfte.
     </p>
-    <p xml:id="eco_de_0000127_120">
+    <p xml:id="eco_de_0000198_120">
      Einiges Getümmel gab es auch, bis all die Mädchen ihren Platz eingenommen hatten auf den Bänken, die in der Stube angebracht waren; bis Frau Pfarrerin die Blumensträußchen, die ihr immer einige der Kinder mitbrachten, ins Wasser gestellt und jede ihr Strickzeug ausgepackt hatte; aber endlich wurde es doch ruhig, als die Lehrerin mit ihrer schönen vollen Stimme ein frommes Morgenlied anstimmte und all die jungen Kinderstimmchen damit zusammenklangen; es klang gar lieblich, und selbst die Steinklopfer vor dem Gartenzaun hielten inne, solange der Morgengesang der Kinder tönte. »Aus dem Munde der jungen Kinder hast du dir ein Lob zugerichtet.«
     </p>
    </div>
@@ -130,40 +130,40 @@
     <head>
      Die Strickschule.
     </head>
-    <p xml:id="eco_de_0000127_130">
+    <p xml:id="eco_de_0000198_130">
      Das Stricken gehört nicht eben zu den Freuden der Kindheit; ich habe schon manch fröhliches junges Gesicht sich weinerlich und Verdrossen verziehen sehen, wenn der Strickstrumpf an die Reihe kommt, oft mit »Nestern«, gefallenen Maschen und verbogenen Nadeln, und wenn die aufgegebenen »Mal 'rum« eben gar nicht zustande kommen wollen.
     </p>
-    <p xml:id="eco_de_0000127_140">
+    <p xml:id="eco_de_0000198_140">
      In die Strickschule der Frau Pfarrer Kraus, die als Witwe vom grünen Dörfchen wieder in die Stadt zurückgekehrt war, um ihre Söhne besser unterrichten zu lassen, in die gingen jedoch alle gern und freuten sich, wenn die Stunde schlug, hinauszuwandern – noch mehr freuten sie sich freilich, wenn die Stunde schlug, wo sie heimspringen durften.
     </p>
-    <p xml:id="eco_de_0000127_150">
+    <p xml:id="eco_de_0000198_150">
      Es war freundlich da draußen in der luftigen, sonnigen Stube, wo die Blumen am Fenster standen und ein Käfig hing mit zwei Kanarienvögelchen, die ganz frei und zahm aus- und einspazierten; aber es war selbst freundlich im Winter durch die herzliche Güte, mit der die Lehrerin verstand, ihnen die Arbeit lieb zu machen.
     </p>
-    <p xml:id="eco_de_0000127_160">
+    <p xml:id="eco_de_0000198_160">
      Die Frau Pfarrerin hatte eine unermüdliche Geduld, die kleinen Finger das »hineinstechen, herumschlingen, herausschlüpfen« zu lehren. Sie hielt streng darauf, daß die aufgegebene Zahl gestrickt wurde, und duldete keine Nester und gefallenen Maschen; aber sie wußte auch gar mancherlei, um den Kindern die Arbeitsstunden zu kürzen und die Arbeit lieb zu machen. Nicht nur die schönen Lieder, welche sie sie singen lehrte und durch die ihre eigene glockenreine Stimme so schön durchklang; sie lehrte sie auch allerlei heitere Reimlein, sie ließ sie Rätsel erraten, in die Wette stricken, alles, was sich neben fleißigem Stricken thun ließ, um in die Arbeit noch Vergnügen zu bringen. Und was für schöne Geschichtchen wußte die Frau Pfarrerin! Nicht gerade so wunderbare Märchen oder gar schauerliche Räuber- und Geistergeschichten, wie sie einige der Kinder daheim von ihren Dienstmädchen gehört hatten, die beim Erzählen sich selber gefürchtet; aber sie konnte so gar nett berichten von der Zeit, wo sie klein gewesen war, von dem Dörflein, wo ihre Kinder bis jetzt aufgewachsen waren, vom Michele und Stoffele, vom Gretle und Liesele dort, daß die Kinder nicht müde wurden, zuzuhören; es waren ihnen die Dorfkinder seither vorgekommen, eines wie das andere, fast wie eine Art von Tierlein; jetzt erst sahen sie, daß es auch verschiedenartige unter ihnen gab, lustige und traurige, gute und böse, wie unter den Kindern der Stadt.
     </p>
-    <p xml:id="eco_de_0000127_170">
+    <p xml:id="eco_de_0000198_170">
      Das muß ich nun freilich sagen, auch über der schönsten Geschichte überhörten sie nicht die Stunde, wo sie, an schönen Tagen im Freien draußen, ihr Vesperbrot essen und sich vergnügen durften. Interstitium (Zwischenpause) nannte ihr Lehrer diese freie Viertelstunde und sie hießen es beharrlich »Unterstützung«, weil sie dachten, diese Zeit sei dazu da, um sich zur Arbeit zu unterstützen. Da gingen denn die Mäulchen zum Essen und zum Plaudern! Von selbst war noch nie eine zur Schulstube zurückgekehrt, Frau Pfarrerin mußte meist zweimal mit dem Glöckchen schellen, und es brauchte eine gute Weile, bis all die Händchen gewaschen waren und die Arbeit wieder im Gange.
     </p>
-    <p xml:id="eco_de_0000127_180">
+    <p xml:id="eco_de_0000198_180">
      Mittwoch war der einzige Tag, wo nachmittags Strickstunde gehalten wurde, weil da keine Schule war, und bei schönem Wetter saß man unter dem großen alten Birnbaum, um den sich Sitze und Tische zogen. Es war ihm schon der Tod geschworen, dem guten, alten Burschen, der doch von seinen jungen Jahren an so viel saftige Birnen heruntergeschüttelt hatte; aber jetzt trug er nicht mehr viele, der Stamm war zerklüftet und an seiner Stelle sollte bald ein Haus gebaut werden; nur die Frau des Werkmeisters hatte Jahr um Jahr immer noch Aufschub für ihn erbeten.
     </p>
-    <p xml:id="eco_de_0000127_190">
+    <p xml:id="eco_de_0000198_190">
      Die kleinen Mädchen ließen sich das einstweilen nicht anfechten; sie saßen gar zu gern unter dem Birnbaum, wo man hinaussah in das weite, grüne Thal, wo man die Marktleute und hie und da auch schöne Wagen und Reiter auf der Straße vorüberziehen sah; Singen und Stricken, Spielen und Plaudern, alles ging noch schöner unter dem Birnbaum.
     </p>
-    <p xml:id="eco_de_0000127_200">
+    <p xml:id="eco_de_0000198_200">
      Freilich schauten oft auch die Knaben herüber von der Baustätte, die ihr Tummelplatz war, und kamen nah und näher gegen den Birnbaum, schnitten Gesichter gegen die Mädchen und riefen ihnen halblaut Spottnamen zu, hatten ihnen auch einmal alle ihre Hütchen genommen, die sie abgelegt hatten, und oben am Geländer des Hühnerstalls, zu dem ein Treppchen hinaufging, aufgehängt und die Hühnerleiter dann weggezogen. Was gab das ein Geschrei und Jammern unter den kleinen Mädchen, als sie ihre schönen Hütchen nicht fanden und sie endlich da oben hängen sahen und nicht wußten, wie sie hinaufkommen sollten!
     </p>
-    <p xml:id="eco_de_0000127_210">
+    <p xml:id="eco_de_0000198_210">
      Frau Pfarrerin aber, so sanft und freundlich sie sonst war, die verstand hier keinen Spaß. Sie erblickte die kleinen Missethäter, die sich hinter einem Busch versteckt hatten, um sich an dem Jammer zu ergötzen, den sie angerichtet.
     </p>
-    <p xml:id="eco_de_0000127_220">
+    <p xml:id="eco_de_0000198_220">
      »'raus da, ihr unartigen Bursche,« kommandierte sie, »im Augenblick holt ihr die Hühnerleiter und steigt hinauf, nehmt sachte und vorsichtig die Hütchen und tragt sie herunter! Ich kenne dich, Roller, und deinen Papa, und ich kenne eure Lehrer; wenn ihr nicht sogleich die Hütchen unverdorben bringt und mir versprecht, daß ihr nie mehr solchen Unfug treiben wollt, so sage ich's heute noch euren Eltern und den Lehrern, dann wird's euch schlecht gehen!«
     </p>
-    <p xml:id="eco_de_0000127_230">
+    <p xml:id="eco_de_0000198_230">
      Und innerlich knurrend, aber doch unverzüglich krochen die Buben unter ihrem Busch hervor, und mit stiller Verwunderung sahen die kleinen, mit heimlichem Kichern die größeren Mädchen, wie sie gehorsam die Leiter anlegten, hinaufkletterten und sachte, sachte eines der Hütchen nach dem anderen herabbrachten und mit halb abgewendetem Gesicht auf den Tisch legten nach der Frau Pfarrerin Befehl. »Wollen's nicht mehr thun,« knurrten sie noch, als sie abzogen.
     </p>
-    <p xml:id="eco_de_0000127_240">
+    <p xml:id="eco_de_0000198_240">
      Die Mädchen hielten sich ganz nahe zusammen, als sie mit ihren wiedereroberten Hütchen heimwärts gingen; sie hatten Angst, ob die Jungen nicht noch Rache an ihnen üben wollten. Die standen in einem Trüppchen zur Seite, als die Mädchen an ihnen vorüberkamen, schämten sich aber doch ein bißchen; nur ein paar der Frechsten riefen ihnen halblaut nach: »Ihr Äfflein, ihr Frätzlein, was braucht ihr Hüte?« Das schadete den Mädchen nichts, und von da an blieben sie unangefochten von den Buben.
     </p>
    </div>
@@ -171,40 +171,40 @@
     <head>
      Die kleine Sarah
     </head>
-    <p xml:id="eco_de_0000127_250">
+    <p xml:id="eco_de_0000198_250">
      Die meisten der Mädchen kamen aus der Stadt, und ihr Weg führte sie an einem großen, ganz neuen Hause vorüber, dem ersten der Vorstadt, das sie immer mit Vergnügen anschauten; es hingen so gar schöne, gemalte Rouleaus vor den Fenstern, auf dem Balkon stand ein goldglänzender Käfig mit einem Papagei, der schreien konnte für vier; wenn die Fenster offen standen, sah man prächtige, buntfarbige Tapeten und allerlei schöne, gemalte Vasen und anderes elegantes Geräte; in der Stadt waren solche Häuser nichts Seltenes, aber in der Vorstadt war es das einzige seiner Art. Ein Garten war nicht davor, aber ein Vorplatz hinter blankem Gitter, dessen Pforte immer offen stand. Auf der eleganten Gartenbank neben der Hausthür saß an jedem schönen Tage, wo die Kinder vorbeikamen, ein kleines Mädchen mit kohlschwarzen Haaren, in elegantem, buntfarbigem Kleidchen mit einer großen Puppe auf dem Schoß. Die Puppe war prächtig aufgeputzt, in einem hellgrünen Kleid; sie hatte einen rosa Seidenhut mit weißen Federn und eine Mantille wie eine große Dame; auch stand ein eleganter Puppenwagen dabei, darin man sie fahren konnte nach Belieben. Das kleine Mädchen schien aber doch etwas Langmeile zu haben und wußte nicht so recht, was sie mit der schönen Dame anfangen sollte; sie schaute oft ganz verlangend den Mädchen nach, wie sie in eifrigem Geplauder vorüberzogen. Als sie bemerkte, daß diese manchmal bewundernd nach ihrer schönen Puppe schauten, da stellte sie sich mit ihr unter die Pforte, hatte ihr auch einmal zur Abwechselung ein rotes Kleid angezogen und ein Strohhütchen mit Blumen aufgesetzt und hielt sie recht vor sich hin, damit sie sie sehen könnten. Die Kinder fanden die Puppe wirklich recht schön, wenn auch Else Müller leise der Minna Kuhn zuflüsterte, sie sei doch ein bißchen »gakelig« angezogen, ihre Puppe Julia daheim sei schöner in einem blaßblauen Kleide.
     </p>
-    <p xml:id="eco_de_0000127_260">
+    <p xml:id="eco_de_0000198_260">
      Auch das Mädchen starrte sie neugierig an, es fiel jedoch keiner ein, ihm einen freundlichen Gruß zu sagen; die Kleine da drinnen, obgleich sie nicht eben scheu aussah, war auch zu schüchtern dazu, und so zogen sie immer stumm aneinander vorüber, »'s sind Judenleute,« vertraute Elfe Müller einmal leise ihren Gespielinnen an, »aber sie sind reich.« Die Kinder dachten sich nichts Besonderes dabei, kamen aber doch noch weniger dazu, mit der kleinen Schwarzhaarigen nähere Bekanntschaft anzuknüpfen.
     </p>
-    <p xml:id="eco_de_0000127_270">
+    <p xml:id="eco_de_0000198_270">
      Einmal aber, bei sehr schmutzigem Wetter im Herbst, da begab sich's auf dem Heimweg von der Strickschule, daß Minna Kuhn der Länge nach hinstürzte; sie war über einen alten Ball gestolpert, und Klärchen Lenz, die auch dabei war, behauptete, sie habe gesehen, wie den der bösartige Franz Roller aus einem Hinterhalt in ihren Weg geworfen.
     </p>
-    <p xml:id="eco_de_0000127_280">
+    <p xml:id="eco_de_0000198_280">
      Nun, das ließ sich nicht mehr ergründen, auch hatte sich Minna keinen Schaden gethan; aber ihr sauberes Kleidchen, das war überall schmutzig geworden, und nun sollte sie am hellen Mittag in einem so garstigen Kleid durch die Stadt gehen! denn sie hatte noch einen weiten Weg.
     </p>
-    <p xml:id="eco_de_0000127_290">
+    <p xml:id="eco_de_0000198_290">
      Die Versuche der Mädchen, das schmutzige Kleid zu reinigen, fielen schlimm aus, und Minna wußte im Augenblick nichts anzufangen, als jämmerlich zu meinen.
     </p>
-    <p xml:id="eco_de_0000127_300">
+    <p xml:id="eco_de_0000198_300">
      Das schwarzäugige Mädchen war unter ihrer Hausthür gestanden und hatte das Unglück mit angeschaut, nun kam sie eilig herbei. »Komm herein, komm herein!« rief sie Minna zu, »unsere Magd soll dir's rein machen!« Minna folgte neugierig, und schweigsam kam ihre Gefährtin nach; es war ihnen nicht leid, einmal in das schöne Haus einzutreten. Eifrig und emsig sprang die kleine Sarah, so hieß das Mädchen, umher und rief der Magd, die gar bald mit einem Schwämme den Schmutz weggewischt hatte und Minna tröstend versicherte, daß keine Flecken bleiben werden.
     </p>
-    <p xml:id="eco_de_0000127_310">
+    <p xml:id="eco_de_0000198_310">
      Nur naß war das Kleid noch, und das Dienstmädchen schlug vor, man solle es ein wenig aufhängen. »Ja, was soll ich thun, bis es trocknet?« fragte Minna.
     </p>
-    <p xml:id="eco_de_0000127_320">
+    <p xml:id="eco_de_0000198_320">
      »Komm nur, du ziehst es aus! Rosine hängt es auf zum Trocknen, und ich bringe einstweilen mein Regenmäntelchen,« rief Sarah.
     </p>
-    <p xml:id="eco_de_0000127_330">
+    <p xml:id="eco_de_0000198_330">
      Minna wollte erst nicht recht; Sarah aber brachte flink einen schönen, dunkelblauen Regenmantel, darein wurde das kleine Persönchen gewickelt, und Sarah holte, während das Kleid trocknen mußte, all ihre kleinen Herrlichkeiten herbei: ihre schönen Puppen, ihr großes Bilderbuch, um sie den Mädchen zu zeigen, die immer noch etwas verwundert und gar nicht so geschwätzig wie sonst in der Stube herumschauten.
     </p>
-    <p xml:id="eco_de_0000127_340">
+    <p xml:id="eco_de_0000198_340">
      »Wo kommt ihr denn her und wo geht ihr hin alle Tage mit euren Körbchen?« fragte Sarah.
     </p>
-    <p xml:id="eco_de_0000127_350">
+    <p xml:id="eco_de_0000198_350">
      »In die Strickschule zu Frau Pfarrerin Kraus,« sagten sie selbstverständlich, erstaunt, daß das Sarah nicht schon wisse. Und nun erzählten sie ihr, wie es so nett sei in der Strickschule mit Singen und Spielen und Erzählen; Sarah horchte ihnen gar aufmerksam zu und wollte immer noch mehr wissen.
     </p>
-    <p xml:id="eco_de_0000127_360">
+    <p xml:id="eco_de_0000198_360">
      Das Kleid war getrocknet; ehe die Mädchen wieder gingen, kam auch noch Frau Lewald, Sarahs Mutter; die war sehr freundlich und schenkte ihnen Backwerk und Äpfel, so daß sie sehr getröstet abzogen, begierig, daheim als Entschuldigung für ihr spätes Kommen zu erzählen von dem Abenteuer in dem schönen Judenhaus. Sarah schaute ihnen nach mit ihren schwarzen Augen, solange sie sie noch sehen konnte.
     </p>
    </div>
@@ -212,31 +212,31 @@
     <head>
      Sarah wird angemeldet.
     </head>
-    <p xml:id="eco_de_0000127_370">
+    <p xml:id="eco_de_0000198_370">
      Die Arbeitsstunde war schon vorüber und das lebhafte kleine Völklein abgezogen; die Frau Pfarrerin war eben daran, die Sachen wieder zu ordnen; da klopfte es und kam eine stattliche, sehr schön gekleidete Dame herein. »Frau Rosalie Lewald,« stellte sie sich vor und sagte, daß sie nicht gar weit von hier, nahe am Stadtthor wohne. Frau Pfarrerin hatte sie noch nie gesehen, bat sie aber freundlich, sich zu setzen.
     </p>
-    <p xml:id="eco_de_0000127_380">
+    <p xml:id="eco_de_0000198_380">
      »Ich habe ein kleines Töchterlein, mein einziges, neun Jahre alt,« hub Frau Lewald an, »das läßt mir Tag und Nacht keine Ruhe mehr, sie wolle zu Ihnen in die Strickschule. Was soll ich thun? Gern lasse ich das Kind nicht von mir; es ist meine einzige Freude daheim; die Söhne sind fort, ich kann ihr geben, was sie will von Spielsachen, und wollte ihr eine Lehrerin ins Haus kommen lassen – wir können das wohl; aber das Kind will eben zu Ihnen kommen wie die anderen Kinder, die sie alle Tage sieht vorbeigehen.«
     </p>
-    <p xml:id="eco_de_0000127_390">
+    <p xml:id="eco_de_0000198_390">
      »Nun, wenn es Ihrer Kleinen Freude macht – es sind ja nur ein paar Stunden des Tags, daß Sie sich von ihr trennen müßten,« meinte die Frau Pfarrerin.
     </p>
-    <p xml:id="eco_de_0000127_400">
+    <p xml:id="eco_de_0000198_400">
      »Ja, sehen Sie, ich will es Ihnen aufrichtig sagen,« erwiderte Frau Lewald. »Es ist, wie gesagt, mein einziges Töchterlein. Dem Kind zuliebe, weil es nicht recht kräftig ist, hat mein Mann das neue Haus hier in der Vorstadt gebaut – es hat uns gekostet viel Geld –, weil der Doktor gesagt, es sei ihm gesund, in freier Luft zu sein. Nun habe ich gehört mehr als einmal, daß Kinder, die in so eine Arbeitsschule gegangen, sind krank geworden oder gar gestorben. Sehen Sie, da liegt's auf mir wie eine stille Angst, wenn ich mein Kind von mir lasse, es möchte mir auch krank werden. – Den Schulunterricht, den lassen wir ihm im Haus von einem Lehrer geben, wenn's gleich viel teurer ist.«
     </p>
-    <p xml:id="eco_de_0000127_410">
+    <p xml:id="eco_de_0000198_410">
      »Die Strickschule wird nicht gerade Ursache am Erkranken sein,« sagte lächelnd die Frau Pfarrerin, »meine kleinen Mädchen sind bis jetzt alle gesund geblieben; ich habe auch deshalb eine Wohnung in der Vorstadt genommen, weil da bessere Luft ist. Es kann ja sein, daß da oder dort Masern oder Scharlach in dem Haus von einem der Kinder ausbricht, da muß man eben vorsichtig sein…«
     </p>
-    <p xml:id="eco_de_0000127_420">
+    <p xml:id="eco_de_0000198_420">
      »Ich will auch darauf nicht mehr sehen, weil es so ein Wunsch ist von der Kleinen, mein Kind steht in Gottes Hand,« sagte die sorgliche Mutter, »aber – Frau Pfarrerin – wir sind Israeliten…«
     </p>
-    <p xml:id="eco_de_0000127_430">
+    <p xml:id="eco_de_0000198_430">
      »Das hindert mich nicht. Ihr Kind mit Liebe aufzunehmen,« sagte Frau Kraus, die es schon erraten hatte.
     </p>
-    <p xml:id="eco_de_0000127_440">
+    <p xml:id="eco_de_0000198_440">
      »Ich glaube es, aber – sehen Sie, es ist unser einzig Töchterlein, wir halten getreu zum Glauben unserer Väter – Sie wissen wohl, daß nicht alle Christen freundlich gegen uns gesinnt sind. Wenn mein Kind sollte gekränkt werden, oder auch – wenn man suchen wollte, es abwendig zu machen von unserem Glauben… Ich könnte es in ein Institut schicken, wo lauter Kinder von Glaubensgenossen sind, aber – wir können uns nicht trennen von dem Kinde.« »Dafür will ich gut stehen, daß Ihre Kleine von den Kindern freundlich behandelt werden soll,« tröstete sie die Frau Pfarrerin; »auch in ihrem Glauben soll das Kind nicht gestört werden; wir singen und sagen freilich manchmal Lieder in unserer Schule, auch lese ich den Kindern aus der Bibel vor, darin sind ja aber auch Ihre heiligen Geschichten…«
     </p>
-    <p xml:id="eco_de_0000127_450">
+    <p xml:id="eco_de_0000198_450">
      »Nun ja, Sie gefallen mir,« entschied Frau Lewald, »und weil mein Kind so gern möchte, so will ich's ihm auch nicht abschlagen; wenn Sie es erlauben, so soll Sarah kommen.«
     </p>
    </div>
@@ -244,25 +244,25 @@
     <head>
      Sarahs Eintritt.
     </head>
-    <p xml:id="eco_de_0000127_460">
+    <p xml:id="eco_de_0000198_460">
      Am Montag darauf war große Bewegung in der Strickschule. Feierlich geleitet von Minna Kuhn und Klärchen Lenz, die sie unter ihre Fittiche genommen hatten, trat die kleine Sarah Lewald ein, fast zu schön geputzt für eine Strickstunde am Werktag. Die Frau Pfarrerin begrüßte sie gar herzlich und freundlich, sie gab ihr die Hand und küßte sie auf die Stirn; auch wurde die Kleine alsbald zutraulich und saß auf dem vorderen Platz auf dem Bänkchen, als ob sie immer da gesessen hätte.
     </p>
-    <p xml:id="eco_de_0000127_470">
+    <p xml:id="eco_de_0000198_470">
      Sarah hatte ein gar zierliches Strickkörbchen von Silberdraht, schöne Stricknadeln von blauem Stahl mit vergoldeten Spitzen und buntes Garn zum Stricken. Aber – das Stricken selbst, das wollte gar nicht gehen, Sarah hatte kaum angefangen, es zu lernen, und hatte ganz und gar keine Freude daran. Die Mädchen, die zuerst respektvoll auf ihre schönen Kleider und auf ihr feines Strickgerät geschaut hatten, sahen jetzt ziemlich geringschätzig, daß das neunjährige Mädchen erst mußte recht Maschen machen lernen, wie das kleine fünfjährige Lottchen Maier, das schon so eifrig an seinem Strickzeug knupperte und von ihrem Wunderknäuel sich immer Bonbons herauszupfen wollte, wovon ihr Garn klebrig wurde. Das blieb aber nicht lange so. Sarah war gar nicht ungeschickt, und als Frau Pfarrerin ihr sagte, sobald sie hübsch stricken könne, so dürfe sie auch eine schöne Arbeit machen, vielleicht einen hübschen Lampenteller für ihre Mama oder einen kleinen Aschenbecher für Papa, da war sie so eifrig und so aufmerksam, daß in kurzer Zeit schon ihr Strickzeug neben den besten sich durfte sehen lassen.
     </p>
-    <p xml:id="eco_de_0000127_480">
+    <p xml:id="eco_de_0000198_480">
      Stumm blieb sie auch nicht, die kleine Sarah, wie am ersten Tag, wo sie die großen schwarzen Augen so weit aufgemacht und nur ganz still herumgeschaut hatte in der Stube, die gar nicht so schön, nicht mit so vielen bunten Sachen ausgeschmückt war, wie ihre Zimmer daheim, und die ihr doch so wohl gefiel.
     </p>
-    <p xml:id="eco_de_0000127_490">
+    <p xml:id="eco_de_0000198_490">
      Die Frau Pfarrerin hatte ein einziges Töchterlein gehabt, das ihr früh schon gestorben war; von dem hatte eine Freundin ihr ein schönes Bild gemalt, das vorn an der Wand hing, so daß die Kinder es gerade im Auge hatten. Auf dem Bilde saß ein weißgekleidetes Kind mit blonden Locken auf einem Rasen, ganz unter Blumen, Blumen auf dem Schoß und Blumen in der Hand; zur Seite aber schwebte ein Engel, der winkte dem Kinde mit einer Hand, mit der anderen deutete er hinauf, hoch zum blauen Himmel; von dem Bilde konnte Sarah den Blick nicht wenden, aber sie war zu schüchtern, um danach zu fragen. Minna und Klärchen führten sie ein bei den anderen Mädchen, sie machten einigermaßen Staat mit ihr; obgleich sie ein Judenkind war, war sie doch noch neu in der Schule und so schön angezogen! Sie rühmten oft und gern davon, wieviel prächtige Sachen sie gesehen in ihrer Eltern Haus; das Mäulchen der kleinen Sarah ging bald so flink wie die anderen, so daß die Frau Pfarrerin oft Stille gebieten mußte.
     </p>
-    <p xml:id="eco_de_0000127_500">
+    <p xml:id="eco_de_0000198_500">
      Still aber wurde die Kleine im Augenblick, wenn morgens vor Beginn der Arbeit die Liederbüchlein herumgegeben wurden und die Frau Pfarrerin sich an das kleine Piano setzte. Die jungen Stimmlein, wenn sie auch noch schwach waren, klangen gar lieblich zusammen; aber Sarahs Stimme tönte aus allen heraus; fast zu voll und zu schön für so ein junges Kind, dachte im stillen die Frau Pfarrerin, die sich von Herzen daran erfreute. Sarah sang mit von ganzer Seele, sie besann sich vielleicht nicht über die Worte; aber sie lebte in dem Gesang und sang so andächtig mit wie die Christenkinder, wenn sie zur Vorbereitung auf die heilige Weihnacht das Adventslied lernten:
     </p>
-    <p xml:id="eco_de_0000127_510">
+    <p xml:id="eco_de_0000198_510">
      »Macht hoch das Thor, die Thüren weit. Es kommt der Herr der Herrlichkeit, Ein König aller Königreich', Ein Heiland aller Welt zugleich.«
     </p>
-    <p xml:id="eco_de_0000127_520">
+    <p xml:id="eco_de_0000198_520">
      Sie hatte ja erzählen hören daheim vom Vater, daß noch einmal ein Messias kommen werde und mit ihm eine herrliche Zeit auf Erden; vielleicht dachte sie daran, wenn sie so von Herzen mitsang, daß der Lehrerin oft das Auge feucht wurde.
     </p>
    </div>
@@ -270,16 +270,16 @@
     <head>
      Sarahs Name
     </head>
-    <p xml:id="eco_de_0000127_530">
+    <p xml:id="eco_de_0000198_530">
      Schöne, besondere Namen sind für kleine Mädchen immer etwas Wichtiges. Ich weiß noch, was für wunderbare Namen wir unseren Puppen beilegten, wie wir sie da und dort in einem Buche aufgeschnappt oder gar selbst erfunden hatten: Gustladine, Sarinka, Roxolana und was sonst alles. Auch die Mädchen in der Strickschule verglichen manchmal ihre Namen untereinander; da war eine Manuela und eine Gabriele, die Jella genannt wurde, so hätten doch gern alle heißen mögen! Die Luischen und Marien, die hatten kaum mehr den Mut, ihre Namen zu nennen. Sarah hatte noch keine von den Mädchen geheißen.
     </p>
-    <p xml:id="eco_de_0000127_540">
+    <p xml:id="eco_de_0000198_540">
      »Höre, warum heißt denn du eigentlich Sarah?« fragte einmal Helene Schnepper, eine der kecksten, in der freien Viertelstunde, während gevespert wurde; »deine Mutter heißt ja Rosalie, und solche Namen sind eigentlich nicht mehr Mode, auch bei den – Juden nicht;« sie scheute sich doch etwas, das auszusprechen. Die anderen Mädchen sahen verwundert auf, Sarah wurde rot und es traten ihr Thränen in die Augen: »Meine Großmutter hat so geheißen, und die war so fromm, auch schön ist sie gewesen; es hängt so ein prächtiges Bild von ihr in unserer großen Stube, da hat sie ein seidenes Kleid an und eine goldene Kette;« sie wußte sonst nicht recht, die Kleine, wie sie ihren ehrlichen Namen verteidigen sollte.
     </p>
-    <p xml:id="eco_de_0000127_550">
+    <p xml:id="eco_de_0000198_550">
      Frau Pfarrerin war eben eingetreten, sie sägte nichts darüber, sie fragte nur: »Wer kann mir etwas erzählen von der Sarah?« Da mußte nun die und jene etwas, keine konnte es freilich so schön erzählen wie die Frau Pfarrerin, daß Sarah nicht nur »so eine alte Jüdin« gewesen sei, wie die kecke Helene gemeint, sondern die Frau des Hirtenfürsten Abraham, bei dem im kühlen Schatten der Palmbäume, unter seiner Hütten Thür die drei wunderbaren Männer eingekehrt sind, unter denen der Herr selber war; wie Sarah sich beeilt hatte, ihnen zu bereiten und zu bringen, was sie nur Gutes hatte, und wie der liebe Gott ihr noch ein Söhnlein beschert zu ihres Herzens Freude. Die kleine Sarah selbst durfte noch erzählen von dem Sohne Isaak, den sein Vater hatte opfern wollen auf des Herrn Befehl, so weh ihm auch das Herz darüber that; wie Isaak sich willig hatte niederlegen lassen auf den Opferaltar, und wie ein Engel vom Himmel hatte Einhalt gethan, so daß die beiden fröhlich und gesund wieder heimgekehrt sind in die Hütte zu der Mutter Sarah.
     </p>
-    <p xml:id="eco_de_0000127_560">
+    <p xml:id="eco_de_0000198_560">
      Sie hatten's ja alle schon gewußt; aber sie haben es doch gern wieder gehört und sich verwundert, daß Sarah so gut aus der Bibel erzählen konnte; die aber war getröstet und schämte sich gar nicht mehr an ihrem Namen.
     </p>
    </div>
@@ -287,31 +287,31 @@
     <head>
      Weihnachten
     </head>
-    <p xml:id="eco_de_0000127_570">
+    <p xml:id="eco_de_0000198_570">
      Die Frau Pfarrerin gab den Kindern keine Aufgaben für daheim, aber sie hatte es gern, wenn sie nach dem Morgenlied einen Spruch oder Liedervers aufsagten; Sarah wurde nie befragt, das betrübte sie fast, aber sie sagte für sich im stillen die Verse oder Sprüche nach; daheim redete sie nicht davon.
     </p>
-    <p xml:id="eco_de_0000127_580">
+    <p xml:id="eco_de_0000198_580">
      Je näher Weihnachten kam, desto lebendiger und bewegter wurde es in der Strickschule; der langweilige Strickstrumpf war nun verbannt, bunte Bündchen, Silberstramin, Seide, Perlen und Wolle wurden zusammengetragen und die raren Kunstwerke verfertigt, bei denen freilich die gute Frau Pfarrerin das Beste that. Minna stupste einen grünen Lampenschirm aus; Manuela, die durfte gar eine seidene Börse häkeln mit Stahlperlen; selbst Lottchen, das allerkleinste, knupperte eifrig an einem roten Streifen, der ein Serviettenband für ihren Papa geben sollte. Sarah arbeitete an dem versprochenen Lampenteller; »aber recht groß muß er werden,« bestellte sie, »daß man unseren Sabbathleuchter darauf stellen kann.« Denn wenn die anderen jetzt erzählten und rühmten nach der Reihe, wie schön es bei ihnen werde am Christabend, wie groß ihr Baum sein werde, wie prächtig die Glaskugeln im vorigen Jahr daran gewesen seien, und wie hell die Lichter, so wollte Sarah doch auch etwas zu rühmen haben. Geschenke bekam sie auch zur Weihnachtszeit, und sie hatte vorher schon mehr als die meisten der Kinder; nur ein Baum wurde nicht angezündet, der Vater hätte das nicht gelitten, wenn auch die Mutter es dem Kinde gern zuliebe gethan hätte. Aber sie erzählte, wie an jedem Sabbathabend der silberne Leuchter mit sieben Armen angezündet werde, das Zimmer ganz schön geschmückt und sie und die Mama sich kleiden in ihre besten Gewänder. »Dann kommt der Vater heim, und wie die Brüder noch da waren, hat er uns allen den Segen gegeben; jetzt bin ich allein, aber er vergißt es kein einzigmal. Und das ist doch auch schön,« rühmte sie, »wenn dann die Stube so hell ist und so rein, und mir sitzen in unseren Festkleidern am schön gedeckten Tisch, während draußen die Leute noch in alten Röcken auf der schmutzigen Gasse sich umtreiben.«
     </p>
-    <p xml:id="eco_de_0000127_590">
+    <p xml:id="eco_de_0000198_590">
      Auch von ihrer Großmutter erzählte sie, die sie einmal hatte besuchen dürfen in einer Stadt, wo die Israeliten noch ganz nach der alten Sitte ihres Volkes leben können. Da hatte man zum Laubhüttenfest in wirklichen Lauben gewohnt, von grünen Tannenzweigen geflochten, und allerlei gute Sachen genossen. Mit ehrfurchtsvollem Schauer hörten die Mädchen, wie am Tage der Zerstörung Jerusalems die Großmutter den ganzen Tag in ihrem Sterbekleide dagesessen sei und habe Klagelieder gesungen. Fast hätte sie's gelüstet, auch ein Judenkind zu sein, zumal da es Sarah so gut hatte, daß sie am Samstag nicht in die Schule durfte, und am Sonntag obendrein nicht.
     </p>
-    <p xml:id="eco_de_0000127_600">
+    <p xml:id="eco_de_0000198_600">
      Nach dem Christtag hatten die Kinder gar viel zu erzählen und zu rühmen von allem, was ihnen das Christkind gebracht. Es verwunderte die Kinder, daß auch Sarah schöne, goldene Ohrgehänge und ein Buch als Festgeschenke zeigte. »Höre,« sagte die kecke Helene, »wie könnt ihr denn Weihnachten feiern? Ihr glaubt ja nicht an den Heiland.« Sarah sah auf mit dem seltsam traurigen Blick, den man manchmal an dem sonst munteren Kinde bemerkte. »Die Mutter will mir doch eine Freude machen,« sagte sie entschuldigend. – »Warum dann gerade am Christtag?« fuhr hartnäckig Helene fort; »der Christtag geht die Juden nichts an.« Die anderen Mädchen verstummten und schauten alle mißbilligend auf Helene; nein, so grob wäre keine von ihnen gewesen. Leise war die Frau Pfarrerin eingetreten, sie hatte es wohl gehört und sah noch Thränen in Sarahs Augen. »Weißt du nicht, Helene, daß der Heiland unter den Juden und als ein Jude geboren ist?« fragte sie, »und daß unsere deutschen Voreltern erst lange nachher von ihm gehört haben?«
     </p>
-    <p xml:id="eco_de_0000127_610">
+    <p xml:id="eco_de_0000198_610">
      »Ja, aber die Juden haben ihn verstoßen und umgebracht,« sagte Helene leise, wie um sich zu rechtfertigen, sie wußte wohl, daß sie hart gewesen war gegen Sarah.
     </p>
-    <p xml:id="eco_de_0000127_620">
+    <p xml:id="eco_de_0000198_620">
      »Nun, glaubst du nicht, daß er gerade um die heilige Weihnachtszeit vielleicht auch noch leise herniederkommt und anklopft bei seinen alten Brüdern?« fragte die Lehrerin sanft.
     </p>
-    <p xml:id="eco_de_0000127_630">
+    <p xml:id="eco_de_0000198_630">
      Es ward nichts mehr darüber gesagt, Sarah war diesen Morgen stiller als sonst; sie wurde nun aber nie mehr geneckt oder geplagt wegen ihres Glaubens. Die Kinder lernten ihre Lieder und ihre Sprüche, das Judenkind sang mit heller Stimme mit, aber beim Aufsagen wurde sie nicht mit aufgerufen.
     </p>
-    <p xml:id="eco_de_0000127_640">
+    <p xml:id="eco_de_0000198_640">
      In der Bibel lasen sie jetzt die schöne Geschichte von Joseph, an der sie immer wieder Freude hatten. Die lebhafte Sarah weinte fast, als sie lasen und Frau Pfarrerin ihnen so schön erzählte, wie der verratene Joseph im prächtigen Fürstensaal die treulosen Brüder, die ihn verkauft hatten, wieder begrüßte mit lautem Weinen. »Glaubt ihr nicht, Kinder,« sagte die Lehrerin mit sanfter Stimme, »daß am Ende der Tage, wenn der Heiland wiederkehrt, auch sein Volk, in dem er geboren, den Bruder wiedererkennen wird, und daß er ihnen zuruft in Liebe: 'Ich bin euer Bruder, den ihr verkauft habt,' daß er sie da an sein Herz nehmen und ihnen alles vergeben wird?«
     </p>
-    <p xml:id="eco_de_0000127_650">
+    <p xml:id="eco_de_0000198_650">
      Die Kinder hatten nicht alle verstanden, was sie meinte, nur Sarah hatte kein Wort verloren; sie schaute sie wieder so ernst und aufmerksam an und blieb still, auch als die anderen wieder zusammen plauderten.
     </p>
    </div>
@@ -319,28 +319,28 @@
     <head>
      Zum Schluß des Winters
     </head>
-    <p xml:id="eco_de_0000127_660">
+    <p xml:id="eco_de_0000198_660">
      Der Winter wurde am Ende lang in der Strickschule, wenn die Fenster fest geschlossen waren und die Kinder die zwei Stunden so ganz in der Stube bleiben sollten; es ist aber allemal wieder Frühling geworden!
     </p>
-    <p xml:id="eco_de_0000127_670">
+    <p xml:id="eco_de_0000198_670">
      Noch ehe es so weit kam, hatte Frau Lewald einmal die ganze Strickschule zu ihrer Sarah eingeladen. Das war eine große Wichtigkeit, als Sarah verkündete: »Hört, meine Mama hat so viel Kuchen gebacken und bestellt noch eine Torte vom Konditor – so groß!« und sie breitete die Arme aus, so weit sie konnte, »und in unser zweitschönstes Zimmer dürfen wir sitzen, da find auch noch grüne Plüschmöbel – in dem allerschönsten, da ist roter Seidendamast!« Helene war sehr im Zweifel, ob sie auch geladen würde, die gutmütige Sarah war zwar lange schon wieder gut Freund mit ihr; aber ob sie's nicht ihrer Mama erzählt hatte? – Nein, das hatte sie nicht. – »Höre,« sagte Helene bedenklich zu Minna, als von der langverkündeten Einladung gesprochen wurde, leise, daß Sarah es nicht hörte, »darf man auch alles essen, was die Juden backen?« – »Dummes Ding,« entgegnete die, »sie dürfen bei uns nicht alles essen, wir aber bei ihnen, so viel mir kriegen.«
     </p>
-    <p xml:id="eco_de_0000127_680">
+    <p xml:id="eco_de_0000198_680">
      Und das that auch Helene redlich, als sie mit den anderen freundlich eingeladen wurde und in der »zweitschönsten« Stube sitzen durfte, die noch sehr schön war, wo Sarah all ihre Puppen und Spielsachen und Bilderbücher aufgestellt hatte, so daß die kleinen Mädchen nicht wußten, wo anfangen mit Spielen, wenn sie Zeit hatten vor dem Essen all der guten Dinge.
     </p>
-    <p xml:id="eco_de_0000127_690">
+    <p xml:id="eco_de_0000198_690">
      Frau Lewald freute sich, daß ihre Sarah, seit sie zur Strickschule ging, so viel munterer und vergnügter war – Sarah hatte ihr nie gesagt, daß sie dort einmal gekränkt worden sei –; so wollte sie gern den Kindern alle Freude machen, und die kleine Sarah war glückselig, daß sie so bewirten durfte! Sie sprang emsig hin und her und brachte immer wieder etwas Schönes zum Besehen oder zum Spielen, ja sie fand für jedes der Kinder noch ein kleines Geschenk, das sie ihnen mitgab. Es war eben gar zu schön bei der Sarah! Helene, die sich fast wie einer der bösen Brüder Josephs vorkam, sagte auf dem Heimweg leise, zu Klärchen: »Du, aber die Juden sind doch recht brav! und weißt, Herr Lewalds, die sind ja noch gar nicht auf der Welt gewesen, wie sie den Heiland getötet haben, die können nichts dafür!« »Sarahs Visitle,« von dem man noch lange redete und der Frau Pfarrerin viel, viel erzählte, war ein schöner Schluß für den langen Winter. Es kam milde, warme Luft und Sonnenschein, so daß man die Fenster aufmachen konnte; die Vöglein, die alle Morgen in Scharen an die Fenster gekommen waren, um die Brosamen aufzupicken, die die Mägdlein ihnen hingestreut, saßen jetzt auf den Bäumen im Garten und sangen zum Dank gar liebliche Weisen. Das Tischchen, daran Frau Pfarrerin saß, stand voll niedlicher Sträußchen, Schneeglöckchen, Veilchen und rote Leberblümchen, die die Mädchen ihr zum Gruße mitgebracht, ja, man konnte noch einmal unter dem Birnbaum draußen sitzen, ehe die Osterferien begannen. Diese sollten diesmal etwas länger währen, da die Frau Pfarrerin verreisen mußte zu einer kranken Schwester.
     </p>
-    <p xml:id="eco_de_0000127_700">
+    <p xml:id="eco_de_0000198_700">
      Sie hatten in letzter Zeit die Geschichte vom Leiden und Tode des Heilands bis zu seiner Auferstehung gelesen, da die heilige Zeit so nahe war. Die Kinder hörten andächtig zu; aber sie hatten es alle schon oft gehört, daheim und in der Schule, es war ihnen nicht so wichtig mehr. Sarah aber, die verwandte kein Auge von der Lehrerin und lauschte auf jedes Wort, das gelesen wurde; ihr sonst so munteres Gesichtchen Wurde gar traurig dabei; als die letzten Worte des Heilandes gelesen wurden, die er am Kreuz gesprochen, da senkte sie tief, tief ihr schwarzes Köpfchen, weil sie nicht wußte, wie sie die Thränen verbergen sollte. Verwundert schauten sie die Kinder an, die ihr zunächst saßen; sie hatten dabei nie weinen müssen. Frau Pfarrerin hatte es wohl bemerkt, und statt, wie sie gewollt, heute abzuschließen, erzählte sie weiter, wie sie nach dem Tode die Leiche des Heilands so sanft und sorgsam in reine Linnen gewickelt und in ein neues Grab gelegt haben. Sarah trocknete ihre Thränen und sah getrösteter aus. Als sie aber noch berichtete, wie die trauernden Frauen das Grab besucht, wie sie es offen gefunden und den Herrn lebendig und auferstanden wiedergesehen hatten in Freude, den sie hatten sterben sehen in Qual – da war's, als nehme man der kleinen Sarah eine Last vom Herzen; ihr ganzes Gesichtchen leuchtete auf, und das Judenkind ging heim, so glücklich, wie sie nie über eine Freude gewesen war, die ihr selbst widerfahren.
     </p>
-    <p xml:id="eco_de_0000127_710">
+    <p xml:id="eco_de_0000198_710">
      Wie hell und wie freudig sang sie in der nächsten Stunde, der letzten vor Ostern, das Osterlied mit:
     </p>
-    <p xml:id="eco_de_0000127_720">
+    <p xml:id="eco_de_0000198_720">
      »Wach' auf, mein Herz, die Nacht ist hin, Die Sonn' ist aufgegangen; Ermuntre dich, mein Geist und Sinn, Den Heiland zu empfangen, Der heute durch des Todes Thor Gebrochen aus dem Grab hervor. Der ganzen Welt zur Wonne!«
     </p>
-    <p xml:id="eco_de_0000127_730">
+    <p xml:id="eco_de_0000198_730">
      Sarah nahm freundlich Abschied von der Lehrerin; sie war erstaunt, baß über die wunderbare Geschichte von den Mädchen gar nicht geredet wurde, wie oft über gewöhnliche Erzählungen. Daheim aber hat sie nichts davon erzählt, sie hat nur leise das Osterlied vor sich hingesagt.
     </p>
    </div>
@@ -353,49 +353,49 @@
     <head>
      Schluß.
     </head>
-    <p xml:id="eco_de_0000127_740">
+    <p xml:id="eco_de_0000198_740">
      Es hat ziemlich lange angestanden, bis diesmal die Strickschule wieder angefangen hat, da die Frau Pfarrerin ihre Schwester nicht früher verlassen konnte. Jetzt waren herrliche Maientage, die Bäume standen in Blüte und es war ein ganz Vergnügliches Wandern für die Kleinen zur Strickschule hinaus in die sonnige Vorstadt.
     </p>
-    <p xml:id="eco_de_0000127_750">
+    <p xml:id="eco_de_0000198_750">
      Es war auch recht unruhig, viel Herumtrippeln und Fragen, bis für jede wieder ihre Arbeit gerüstet und angefangen war. Den Wunderknäuel des kleinen Lottchens hatte ihr inzwischen die Schwester daheim abgestrickt, und sie zeigte ein kleines Porzellanpüppchen, das innen drin gewesen war; man solle ihr jetzt Strümpfchen anfangen für ihr kleines Brüderlein. Die Frau Pfarrerin kam gar nicht zu Atem, und als sie den kleinen Mädchen verhieß, daß sie am kommenden Mittwoch einen schönen Spaziergang mit ihnen machen wolle zur Milchfrau, da ging vollends ein Jubel und Geplauder an, daß sie eigentlich froh war, wie die Abschiedsstunde schlug und die kleine Truppe abzog; es war so still gewesen in dem Pfarrhaus, von dem sie herkam, da mußte sie sich erst wieder gewöhnen an den Lärm, den ihre Schülerinnen machten.
     </p>
-    <p xml:id="eco_de_0000127_760">
+    <p xml:id="eco_de_0000198_760">
      Erst am Nachmittag, als sie allein in ihrem Stübchen saß, fiel ihr ein, daß die kleine Sarah diesen Morgen nicht dagewesen sei. »Ist das Kind wohl krank, oder läßt es die Mutter nicht gern wiederkommen?« besann sie sich; sie hatte ja selbst gefunden, daß es doch für ein Kind andern Glaubens kleine Anstöße geben konnte.
     </p>
-    <p xml:id="eco_de_0000127_770">
+    <p xml:id="eco_de_0000198_770">
      Da klopfte es und es kam eine Frau herein, ganz schwarz, in tiefe Trauer gekleidet. »Frau Lewald!« rief die Pfarrerin erstaunt. Sie hatte kaum die Frau wiedererkannt, die sie nur einmal heiter und in farbigen Kleidern gesehen hatte.
     </p>
-    <p xml:id="eco_de_0000127_780">
+    <p xml:id="eco_de_0000198_780">
      Die Frau trug eine seine Schale von Krystall, mit den allerschönsten Frühlingsblumen gefüllt, die stellte sie auf den Tisch. »Ich soll Ihnen noch einen Gruß sagen von meinem Kinde und soll Ihnen zum Andenken die Schale bringen, sie hat sie in ihrer Krankheit bekommen, es war ihre letzte Freude im Leben.« Und die arme Mutter setzte sich nieder und weinte bitterlich.
     </p>
-    <p xml:id="eco_de_0000127_790">
+    <p xml:id="eco_de_0000198_790">
      »Ihre Sarah tot? Ach, ich wußte ja gar nicht, daß sie krank war!« rief die Pfarrerin tiefbewegt mit Thränen in den Augen. »Sagen Sie, wie ist es denn gekommen? Wie gern hätte ich das liebe Kind noch einmal gesehen!«
     </p>
-    <p xml:id="eco_de_0000127_800">
+    <p xml:id="eco_de_0000198_800">
      »O, wie hatte ich gern gehabt, daß Sie wären hier gewesen!« sagte Frau Lewald; »wie oft hat das Kind noch gefragt nach Ihnen! Es ist krank geworden noch im März, wie einmal wieder so ein paar kalte Tage sind gekommen. Mein Mann hat wollen der Kleinen eine Freude machen und hat sie mitgenommen zu einer Spazierfahrt; aber der Wind ist zu scharf gewesen und es kam ein arger Husten noch in der Nacht. Wir haben den besten Doktor geholt, nachher zwei, hat aber nichts mehr geholfen,« sagte die Mutter in tiefem Leid; »es war eine Lungenentzündung, oft ist sie nicht klar bei Sinnen gewesen. hat viel geredt von der Strickschule, von Ihnen und von den Kindern, und immer wollte sie einen Vers aufsagen und hat immer wieder angefangen:
     </p>
-    <p xml:id="eco_de_0000127_810">
+    <p xml:id="eco_de_0000198_810">
      ›Wach' auf, mein Herz, die Nacht ist hin. Die Sonn' ist aufgegangen.‹
     </p>
-    <p xml:id="eco_de_0000127_820">
+    <p xml:id="eco_de_0000198_820">
      Und sie hat immer wieder gebeten: ›Helft mir doch, ich weiß es nicht weiter.‹ Da schickte ich zu Ihnen, daß Sie mein Kind besuchen möchten und ihr den Vers noch sagen, den sie wissen wollte; aber Sie waren verreist. Am Tag, ehe sie gestorben,« fuhr die Mutter fort, als sie vor Thränen wieder sprechen konnte, »da ist mein Kind ganz klar gewesen; sie hat gewußt, daß sie sterben muß, und hat mich gebeten, ich soll Sie noch recht schön grüßen und soll die Schale, die ihr Vater ihr in der Krankheit gebracht, neu füllen lassen mit recht schönen Blumen und sie Ihnen bringen zum Andenken.«
     </p>
-    <p xml:id="eco_de_0000127_830">
+    <p xml:id="eco_de_0000198_830">
      Der Mutter Stimme erstickte wieder im Weinen, und die Pfarrerin konnte nichts thun, als ihr die Hand geben und mit ihr weinen.
     </p>
-    <p xml:id="eco_de_0000127_840">
+    <p xml:id="eco_de_0000198_840">
      »Meine Schule war ja nun kein Grund zu des Kindes Erkranken,« sagte sie, ehe die Frauen sich trennten, »und doch thut mir's so leid, daß die Sorge sich erfüllt, die Sie zu Anfang gehabt.«
     </p>
-    <p xml:id="eco_de_0000127_850">
+    <p xml:id="eco_de_0000198_850">
      »Ich will nicht klagen darob und nicht grübeln,« sagte Frau Lewald, indem sie ihre Augen trocknete, »wenn mir auch mein einzig lieb Töchterlein von der Seele geht; Gott hat es wohl mit ihm gemacht! Es hat sich ein anderer Geist in dem Kinde geregt, und das hätte bei uns zu vielerlei Jammer und Verwirrung führen können, denn mein Mann hält gar fest an unserem alten Glauben. Jetzt wird der Herr selbst ihr sagen, wie es recht ist; das Kind schläft im Frieden.« Und die Frauen schieden als gute Freundinnen.
     </p>
-    <p xml:id="eco_de_0000127_860">
+    <p xml:id="eco_de_0000198_860">
      Der Maienspaziergang von der Strickschule wurde gemacht am allerschönsten Frühlingstag. In hellen Sommerkleidern, mit Strohhütchen mit Blumen bekränzt, schöne Sträußchen von Frühlingsblüten in der Hand, zog die junge Schar aus mit Freuden. Zuerst aber nahmen sie den Weg über den Friedhof, wo die kleine Sarah schlummert, und legten alle ihre Blumen auf ihrem Grabe nieder.
     </p>
-    <p xml:id="eco_de_0000127_870">
+    <p xml:id="eco_de_0000198_870">
      Es ist sonst nicht Sitte bei den Juden, die Gräber der Toten mit Blumen zu schmücken; der Mutter hat es aber gewiß wohlgethan, wenn sie das Grab ihres Kindes besuchte.
     </p>
-    <p xml:id="eco_de_0000127_880">
+    <p xml:id="eco_de_0000198_880">
      Die kleinen Mädchen waren bald wieder fröhlich und guter Dinge und spielten draußen im Grünen. Die Pfarrfrau aber weilte lange in ihren Gedanken bei dem Kindergrab. Die Schale hält sie hoch in Ehren, und sie denkt heute noch in Liebe des jüdischen Mägdleins, das nun den Schluß gefunden hat zu ihrem Osterliede.
     </p>
    </div>

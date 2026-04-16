@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000092" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000164" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000092_20">
+   <p xml:id="eco_de_0000164_20">
     Klare Rechnung
    </p>
   </front>
@@ -95,343 +95,343 @@
     <head>
      »Wenn du stiehlst, mein Sohn, stiehl mit Bedacht. Es hat schon manch Einen gegeben, der einen Tabakbeutel einsteckte, indessen daneben die fetteste Sau grunzte. Verliere nie deine Ruhe. Stehlen ist ein Geschäft wie ein andres, es kommt nur darauf an, wies gemacht wird. Hauptsache ist Courage und Kaltblütigkeit. Anfänger ziehen die Nacht vor, ich rate dir, den Tag zu wählen. Am hellichten Tag, wenn die vor dir ausspeienden Bauern dir begegnen, dann ist die beste Zeit, einen Schafpelz, der draußen zum Trocknen hängt, oder ein Paar Csizmen mitzunehmen. Den Schafpelz hänge gleich um, die Stiefel zieh an, so entgehst du am ehesten dem Verdacht. Und dann nur langsam vorwärts gegangen. Ist eine Schenke am Wege, tritt ein, ein Schluck Badacsonyer, mit der Wirtin aus einem Glas getrunken, kann nicht schaden. Begegnet dir der Pfarrer, küss' ihm die Hand, und bitt' ihn, er möge deiner am Sonntag in der heiligen Messe gedenken.«
     </head>
-    <p xml:id="eco_de_000092_30">
+    <p xml:id="eco_de_0000164_30">
      »Ebadta! Vater, du bist fein.«
     </p>
-    <p xml:id="eco_de_000092_40">
+    <p xml:id="eco_de_0000164_40">
      »Warum sollte ich nicht fein sein, mein Sohn? Wir sind verunglückte Leute, aber der Anstand mangelt uns nicht. Wir nehmen, weil man uns nicht giebt. In meinem vierten Jahre zog mein Vater zum erstenmal mit mir aus. War noch ein kleiner Knirps, aber verdienen helfen mußt' ich dem Alten. Hundertmal vor dem Gewehrlauf der Panduren stehend, hundertmal gerettet, halbtod geschlagen von Bauernfäusten, monatelang in den stinkenden Zellen der Komitatsgefängnisse schmachtend, mich befreiend, oder von Kameraden befreit, heute am Krepieren vor Hunger, morgen in neuem Anzug in der Andrassystraße spazierend, immer gehetzt, verfolgt, so, Junge, ist das Leben deines Vaters. Aber beim Ochsen des heiligen Lukas –«
     </p>
-    <p xml:id="eco_de_000092_50">
+    <p xml:id="eco_de_0000164_50">
      »Eljen, atyjam, eljen!«
     </p>
-    <p xml:id="eco_de_000092_60">
+    <p xml:id="eco_de_0000164_60">
      Die Augen des Burschen glänzen. Hoch schwingt er sein Glas, in dem köstlicher Meneser aus dem Keller eines Benediktinerabtes perlt.
     </p>
-    <p xml:id="eco_de_000092_70">
+    <p xml:id="eco_de_0000164_70">
      Um sie her wogt ein unübersehbares Grasmeer. Tiefgrüne, zitternde Wellen, die sich flüsternd neigen und wieder aufstehen. Darüber der dunkelblaue, endlose Himmel der Pußta. Und unter dem Himmel, über dem Grasocean, mit weitausgespannten, schlagenden Flügeln, in phönixgleicher Machtherrlichkeit: Die Freiheit.
     </p>
-    <p xml:id="eco_de_000092_80">
+    <p xml:id="eco_de_0000164_80">
      »Eljen, atyjam, eljen!« …
     </p>
-    <p xml:id="eco_de_000092_90">
+    <p xml:id="eco_de_0000164_90">
      Hinter den beiden Männern standen zwei armselige, mit Lumpen überspannte Wagen. Aus dem Innern tönte klägliches Kindergeschrei. Vor dem einen der Gefährte lagen mehrere Männer platt auf dem Bauche und schliefen.
     </p>
-    <p xml:id="eco_de_000092_100">
+    <p xml:id="eco_de_0000164_100">
      »Hör Pista, und noch eins, kedves fiam! Kommts zum schießen, nicht gleich ins Schwarze.« Der Vagabund deutete auf die Brust. »Es kann Unannehmlichkeiten geben, und wegen der Absolution ists auch besser.«
     </p>
-    <p xml:id="eco_de_000092_110">
+    <p xml:id="eco_de_0000164_110">
      »Verstehe, Vater« entgegnete der Jüngling, und seine feinen Nüstern blähten sich leicht. »Also morgen wird weiter gezogen.«
     </p>
-    <p xml:id="eco_de_000092_120">
+    <p xml:id="eco_de_0000164_120">
      »Morgen früh« nickte der Alte. »Übermorgen abend können wir vor St. Imre sein.«
     </p>
-    <p xml:id="eco_de_000092_130">
+    <p xml:id="eco_de_0000164_130">
      Pistas Augen leuchteten.
     </p>
-    <p xml:id="eco_de_000092_140">
+    <p xml:id="eco_de_0000164_140">
      »Und halte das Gewehr in Ehren, es stammt aus der Waffenkammer der Somogyis.«
     </p>
-    <p xml:id="eco_de_000092_150">
+    <p xml:id="eco_de_0000164_150">
      »Soll nicht rosten« knirschte der Junge.
     </p>
-    <p xml:id="eco_de_000092_160">
+    <p xml:id="eco_de_0000164_160">
      Später trennten sie sich. Der Vater kletterte in den Wagen, der Sohn ging, um einen Abendbraten herbeizuschaffen.
     </p>
-    <p xml:id="eco_de_000092_170">
+    <p xml:id="eco_de_0000164_170">
      An Wachteln und Sumpfenten war kein Mangel.
     </p>
-    <p xml:id="eco_de_000092_180">
+    <p xml:id="eco_de_0000164_180">
      Pista zählte achtzehn Jahre. Er war nicht groß, aber von bewundernswerter Ebenmäßigkeit der Glieder. Unter dem schwarzen Lockenwald brannten zwei schöne, dunkle, melancholische Augen. Die schlanke, gekrümmte Nase ließ seine kroatische Abstammung erkennen.
     </p>
-    <p xml:id="eco_de_000092_190">
+    <p xml:id="eco_de_0000164_190">
      Der alte Juhaß kam aus der öden Steppe in der Nähe Csakathurns, zwischen Ungarn und Kroatien.
     </p>
-    <p xml:id="eco_de_000092_200">
+    <p xml:id="eco_de_0000164_200">
      Unabsehbare dürre Heide, ohne Gras, ohne Blumen, hier und da durch eine armselige Lehmhütte unterbrochen, war der erste Anblick, den er als Kind genoß.
     </p>
-    <p xml:id="eco_de_000092_210">
+    <p xml:id="eco_de_0000164_210">
      Sein Vater suchte unter unsäglichen Mühen dem Stück Erde, das er besaß, einige Kartoffeln, ein bißchen Mais abzugewinnen.
     </p>
-    <p xml:id="eco_de_000092_220">
+    <p xml:id="eco_de_0000164_220">
      Sein Weib gebar ihm ein Kind nach dem andern. Die meisten starben bald wieder vor Mangel.
     </p>
-    <p xml:id="eco_de_000092_230">
+    <p xml:id="eco_de_0000164_230">
      Nachdem der Vater fünf Kinder begraben hatte, nahm er das sechste aus der Wiege auf den Rücken, gebot seinem Weib, alles was sie tragen konnte, aufzupacken, und schloß sich einer Vagabundenfamilie an, die bettelnd und stehlend von Ort zu Ort zog.
     </p>
-    <p xml:id="eco_de_000092_240">
+    <p xml:id="eco_de_0000164_240">
      Sie liebten ihren König, aber der König gab ihnen nichts zu essen, oder wenn er gab, war es verschimmeltes Brot in den schrecklichen Komitatsgefängnissen, wo sie der grausamen Willkür der Stuhlrichter preisgegeben waren.
     </p>
-    <p xml:id="eco_de_000092_250">
+    <p xml:id="eco_de_0000164_250">
      Da nahmen sie denn, was sie nicht erhielten.
     </p>
-    <p xml:id="eco_de_000092_260">
+    <p xml:id="eco_de_0000164_260">
      Der Alte starb; sein Sohn trat das Erbe an. Er war ein verwegenerer Räuber als sein Vater. Der hatte aus Not zu stehlen begonnen, dem Sohn machte es Freude. Der Vater hatte mit Brot für seinen Knaben begonnen, der Sohn stahl Wein und Fleisch. Der Vater war nur des Nachts seine Schleichwege gegangen, der Sohn schlenderte, die Pfeife zwischen den Zähnen, bei Tag durch die Bauerndörfer und führte Diebstähle von unerhörter Frechheit aus.
     </p>
-    <p xml:id="eco_de_000092_270">
+    <p xml:id="eco_de_0000164_270">
      Es war ein Dieb von Humor; er ließ die Federn zurück, wenn er nur die Gans hatte. Er stahl nie zu viel, lieber öfters.
     </p>
-    <p xml:id="eco_de_000092_280">
+    <p xml:id="eco_de_0000164_280">
      Er ließ sich nie erwischen, und wenn es ihm einmal geschah, entkam er glücklich, denn er hatte viele Freunde. Merkwürdig viel Freunde. Es gab vermessene Zungen, die behaupteten, mancher Komitatsrichter bezöge von ihm Wein und Tabak, Waaren, die er zu unerhört niedrigen Preisen und von ausgezeichneter Qualität liefere.
     </p>
-    <p xml:id="eco_de_000092_290">
+    <p xml:id="eco_de_0000164_290">
      Nun, man kann ja nicht wissen …
     </p>
-    <p xml:id="eco_de_000092_300">
+    <p xml:id="eco_de_0000164_300">
      Jedenfalls zogen die zwei schmierigen Wagen, in denen sich die Nachkommen der beiden alten Vagabundenfamilien befanden, in ungestörter Ruhe ihre Straße.
     </p>
-    <p xml:id="eco_de_000092_310">
+    <p xml:id="eco_de_0000164_310">
      Sie machten verschiedene Kreuz- und Querfahrten durch die angrenzenden Länder, manchmal kamen sie bis tief nach Siebenbürgen hinab.
     </p>
-    <p xml:id="eco_de_000092_320">
+    <p xml:id="eco_de_0000164_320">
      Jüngsthin hatten Panduren Juhaß den rechten Mittelfinger weggeschossen, da wurde er ärgerlich und peitschte seinen Sohn, weil der Schlingel ewig nur fraß und faulenzte und selbst nichts verdiente.
     </p>
-    <p xml:id="eco_de_000092_330">
+    <p xml:id="eco_de_0000164_330">
      In St. Imre stand eine einsame Mühle. Man munkelte von dem großen Reichtum der Müllerin, deren Söhne flotte Studenten in Budapest waren und den Grafen und Baronen die hübschesten Mädels vor der Nase wegschnappen sollten. Die Müllerin mahlte unterdessen Geld aus den Taschen der armen und reichen Bauern. Sie mahlte und mahlte, damit die Herren Söhne wieder mahlen konnten.
     </p>
-    <p xml:id="eco_de_000092_340">
+    <p xml:id="eco_de_0000164_340">
      Der junge Pista sollte sein Debüt bei ihr feiern.
     </p>
-    <p xml:id="eco_de_000092_350">
+    <p xml:id="eco_de_0000164_350">
      Der Geldschrank stand zur ebenen Erde, sie selbst schlief im ersten Stock.
     </p>
-    <p xml:id="eco_de_000092_360">
+    <p xml:id="eco_de_0000164_360">
      Die Knechte und Mägde waren im Anbau untergebracht.
     </p>
-    <p xml:id="eco_de_000092_370">
+    <p xml:id="eco_de_0000164_370">
      Er sollte die eiserne Geldlade öffnen.
     </p>
-    <p xml:id="eco_de_000092_380">
+    <p xml:id="eco_de_0000164_380">
      Die Söhne verwendeten deren Inhalt dazu, die Gunst kostspieliger Damen in der Hauptstadt zu kaufen, der Vagabund bedurfte seiner zu des Lebens Notdürftigstem. Ihn hatte niemand zur Schule geschickt und Rechtschaffenheit gelehrt, den Hunger zu stillen, war sein kategorischer Imperativ.
     </p>
-    <p xml:id="eco_de_000092_390">
+    <p xml:id="eco_de_0000164_390">
      Nur einige Hände voll Geld aus diesem Uberfluß …
     </p>
-    <p xml:id="eco_de_000092_400">
+    <p xml:id="eco_de_0000164_400">
      Die Wagen verließen die grüne Einöde und näherten sich dem Orte.
     </p>
-    <p xml:id="eco_de_000092_410">
+    <p xml:id="eco_de_0000164_410">
      Der alte Pista goß dem Jungen ein Glas Wein ein.
     </p>
-    <p xml:id="eco_de_000092_420">
+    <p xml:id="eco_de_0000164_420">
      Der Junge schüttete die Hälfte in die Kehle, die andere Hälfte in die Luft.
     </p>
-    <p xml:id="eco_de_000092_430">
+    <p xml:id="eco_de_0000164_430">
      »Auf gutes Gelingen!«
     </p>
-    <p xml:id="eco_de_000092_440">
+    <p xml:id="eco_de_0000164_440">
      Seine Mutter brauchte eine neue Decke; die alte ging schon in Fetzen. Die Mutter, seit Jahren tod krank, war allen zur Last. Aber Juhaß schleppte sie doch mit; sie hatte seinen Jungen geboren, den Pista, den er leidenschaftlich liebte. Auch die Vettern, die zweite Familie, die seit lange mit Juhaß verschwägert war, hatten allerlei Bedürfnisse. Juhaß wollte einmal als Hauptmann auftreten und allen geben, was sie brauchten. Die Männer, die Fays, waren durchweg Schafsköpfe. Man konnte sie etwa um Schweineschmalz oder Tabak schicken, aber so wies irgendwo Mut und Gewandtheit galt, ließ sie ihr Hasenherz sitzen. Juhaß mußte für alle denken und sorgen.
     </p>
-    <p xml:id="eco_de_000092_450">
+    <p xml:id="eco_de_0000164_450">
      Sein Sohn war der einzige, auf den er bauen konnte. Bisher hatte er wenig geleistet. Der Vater hatte ihn stets in den Hintergrund gedrängt, um seiner zu schonen.
     </p>
-    <p xml:id="eco_de_000092_460">
+    <p xml:id="eco_de_0000164_460">
      In der grauen Abendluft tauchten die Wipfel der Linden auf, die die Mühle umgaben. Die Wagen hatten weit draußen vor dem Orte gehalten. Pista und sein Vater schlichen um das im Schatten liegende Gebäude.
     </p>
-    <p xml:id="eco_de_000092_470">
+    <p xml:id="eco_de_0000164_470">
      Die Fays standen Wache.
     </p>
-    <p xml:id="eco_de_000092_480">
+    <p xml:id="eco_de_0000164_480">
      Pista, die Flinte zwischen den Zähnen haltend, in der Hand das notwendigste Werkzeug, drückte seinen schlanken, elastischen Körper durch das offene Fenster der ebenerdigen Wohnung. Er tastete mit den Händen in dem stockdunklen Zimmer vorwärts. Er kannte die Räumlichkeit schon. Vor Monaten, als zum erstenmal in dem Vater der Gedanke aufgetaucht war, aus diesem Geldschrank seine Bedürfnisse zu bezahlen, hatte er den Jungen mitgenommen. Es war an einem Sonntag gewesen. Sie thaten so, als bettelten sie, und legten schließlich, als ihnen niemand die Hausthüre aufschloß, die Köpfe an die Fensterscheiben jenes Zimmers.
     </p>
-    <p xml:id="eco_de_000092_490">
+    <p xml:id="eco_de_0000164_490">
      »Sieh dirs genau an« zischelte der Vater.
     </p>
-    <p xml:id="eco_de_000092_500">
+    <p xml:id="eco_de_0000164_500">
      Der Sohn lächelte.
     </p>
-    <p xml:id="eco_de_000092_510">
+    <p xml:id="eco_de_0000164_510">
      Er hätte es später noch zeichnen können, so gut hatte er sich die Lage der einzelnen Möbel eingeprägt.
     </p>
-    <p xml:id="eco_de_000092_520">
+    <p xml:id="eco_de_0000164_520">
      Aber zum Teufel! Sie mußten die Stellung der Einrichtungsstücke nun verändert haben. Wie er mit der Rechten nach jener Richtung griff, wo früher die eiserne Kasette stand, stürzte mit schmetterndem Klingen ein Gegenstand zu Boden. Im Nu erhob der Haushund ein wütendes Gebell.
     </p>
-    <p xml:id="eco_de_000092_530">
+    <p xml:id="eco_de_0000164_530">
      Pista wollte zum Fenster springen, in diesem Augenblick wurde die Thür aufgerissen, und ein blutjunger Mensch, einen Kienspahn in der Hand, warf sich Pista entgegen.
     </p>
-    <p xml:id="eco_de_000092_540">
+    <p xml:id="eco_de_0000164_540">
      Dieser drückte seine Flinte ab.
     </p>
-    <p xml:id="eco_de_000092_550">
+    <p xml:id="eco_de_0000164_550">
      »Pista!« gellte es von den Lippen des zu Tode Getroffenen…
     </p>
-    <p xml:id="eco_de_000092_560">
+    <p xml:id="eco_de_0000164_560">
      In der Dunkelheit und dem nun im Hause ausbrechenden Lärm gelang es dem Alten mit dem Sohne zu entkommen.
     </p>
-    <p xml:id="eco_de_000092_570">
+    <p xml:id="eco_de_0000164_570">
      Die Knechte, die über den Hof geeilt kamen, ergriffen die beiden Wache stehenden Vagabunden, und glaubten in ihnen die Mörder gefaßt zu haben.
     </p>
-    <p xml:id="eco_de_000092_580">
+    <p xml:id="eco_de_0000164_580">
      »Verfluchtes Vieh!« keuchte Juhaß, als sie zum erstenmal in der stockfinstern Nacht Halt machten, um Atem zu schöpfen.
     </p>
-    <p xml:id="eco_de_000092_590">
+    <p xml:id="eco_de_0000164_590">
      »Es war Lajos« sagte der junge Mörder tonlos, »Lajos, Lajos!«
     </p>
-    <p xml:id="eco_de_000092_600">
+    <p xml:id="eco_de_0000164_600">
      Lajos war der einzige Mensch, mit dem Pista eine Art Kameradschaft hatte. Er stand im gleichen Alter mit Pista und hatte sich schon in vielen Bauernhöfen als Knecht verdingt, aber nirgends lange ausgehalten. Er war der Sohn einer Zigeunerin. Früher, als kleiner Junge, da er noch mit seiner Familie durch die Welt zog, hatte sich das fahrende Volk oftmals getroffen. Die beiden Knaben hatten einander geprügelt und zerzaust, und lieb gewonnen.
     </p>
-    <p xml:id="eco_de_000092_610">
+    <p xml:id="eco_de_0000164_610">
      »Wer hätte gedacht, daß er zu Der geriet« setzte Pista seinen Gedankengang fort. Und plötzlich hatte er sich auf seinen Vater geworfen.
     </p>
-    <p xml:id="eco_de_000092_620">
+    <p xml:id="eco_de_0000164_620">
      »Du Teufel! Du Sohn einer Hündin, du!« Der Vater machte sich aus seiner Umklammerung frei.
     </p>
-    <p xml:id="eco_de_000092_630">
+    <p xml:id="eco_de_0000164_630">
      »Pandurengewissen!« murmelte er verächtlich.
     </p>
-    <p xml:id="eco_de_000092_640">
+    <p xml:id="eco_de_0000164_640">
      Der Sohn hob die Hand zum Schlage auf, eine Sekunde lang starrten sich im Schwarz der Nacht vier haßglühende Augen an, dann war der Eine plötzlich verschwunden.
     </p>
-    <p xml:id="eco_de_000092_650">
+    <p xml:id="eco_de_0000164_650">
      »Pista! Pista!« tönte es ihm nach. Er aber hörte nicht. Er stürzte vorwärts, vorwärts. Und wieder:
     </p>
-    <p xml:id="eco_de_000092_660">
+    <p xml:id="eco_de_0000164_660">
      »Pista!«
     </p>
-    <p xml:id="eco_de_000092_670">
+    <p xml:id="eco_de_0000164_670">
      Diesmal anders. In gebrochenen, gurgelnden Lauten wie aus der Kehle eines Sterbenden.
     </p>
-    <p xml:id="eco_de_000092_680">
+    <p xml:id="eco_de_0000164_680">
      »Pfui Teufel!« rief Pista und spie aus.
     </p>
-    <p xml:id="eco_de_000092_690">
+    <p xml:id="eco_de_0000164_690">
      Ob dieses Bild ihn immer verfolgen, dieser Schrei ewig in seinen Ohren erklingen würde? …
     </p>
-    <p xml:id="eco_de_000092_700">
+    <p xml:id="eco_de_0000164_700">
      Er lief und lief, Gräben übersprang er, und am Rande schilfumgebener Gewässer kroch er geduckt hin. Der Himmel stand in flammenden Abendröten, als er nicht mehr weiter konnte. Auf seinen Lippen hingen blutige Schaumflocken. Achtundvierzig Stunden lang hatte er nichts gegessen, nichts getrunken, nicht geruht. Er sank nieder. Er kühlte sich mit nassem Schlamm das brennende Antlitz. Aus dem Tümpel trank er schmutziges, grünes, trübes Wasser in langen Zügen. Nur das Leben retten, das kostbare Leben …
     </p>
-    <p xml:id="eco_de_000092_710">
+    <p xml:id="eco_de_0000164_710">
      Die Augen fielen ihm zu. Er schlief nicht, denn in seinem Leibe schienen hunderttausend Schmiede zu hämmern. Jedes Äderchen war einer und schlug und schlug darauf los.
     </p>
-    <p xml:id="eco_de_000092_720">
+    <p xml:id="eco_de_0000164_720">
      Aber er ließ sie hämmern, er hätte sich jetzt auch gefangen nehmen lassen, eine solche Apathie war über ihn gekommen. Die Schmiede schlugen darauf los.
     </p>
-    <p xml:id="eco_de_000092_730">
+    <p xml:id="eco_de_0000164_730">
      Plötzlich kam eine schwarze, runde, dicke Wolke über die Felder gelaufen und warf sich auf ihn. Er machte noch einen tiefen Atemzug, dann –
     </p>
-    <p xml:id="eco_de_000092_740">
+    <p xml:id="eco_de_0000164_740">
      Als er erwachte, lag er auf der gleichen Stelle. Lichtblaue, sammetweiche Luft umgab ihn, vom Himmel strahlte die Sonne nieder.
     </p>
-    <p xml:id="eco_de_000092_750">
+    <p xml:id="eco_de_0000164_750">
      Auf den Schwingen eines kaum fühlbaren Morgenwindes kamen die Klänge einer Glocke einher geschwebt…
     </p>
-    <p xml:id="eco_de_000092_760">
+    <p xml:id="eco_de_0000164_760">
      Pista erhob sich. Er taumelte vor Hunger und Schwäche. Er riß die Augen auf. Augenblicklich war alle Schwäche weg. In scharfen Umrissen sah er eine hügelige Landschaft vor sich liegen.
     </p>
-    <p xml:id="eco_de_000092_770">
+    <p xml:id="eco_de_0000164_770">
      Er reckte sich. Dorthin also. Er mußte um jeden Preis essen. Was dann geschah, wußte er noch nicht, aber das wußte er. Er ging ruhig auf den Ort zu.
     </p>
-    <p xml:id="eco_de_000092_780">
+    <p xml:id="eco_de_0000164_780">
      Mitten auf dem Felde kam ihm eine vornehme, junge Dame entgegen. Zweifellos gehörte sich zu dem Schlosse, dessen Türme Pista eben aus den Wipfeln eines großen Parkes aufsteigen sah. Er stellte sich vor die Dame hin und streckte ihr die Hand entgegen. Sie fuhr mit einem leichten Schrei in ihre Tasche und warf eine Handvoll Silbermünzen in seine ausgestreckte Rechte.
     </p>
-    <p xml:id="eco_de_000092_790">
+    <p xml:id="eco_de_0000164_790">
      Er dankte mit einem verächtlichen Grinsen. Hatte die Angst vor ihm!
     </p>
-    <p xml:id="eco_de_000092_800">
+    <p xml:id="eco_de_0000164_800">
      Und plötzlich wurde es ihm ganz schwarz vor den Augen. Hatte sies ihm etwa angesehen, das … das von jüngst? …
     </p>
-    <p xml:id="eco_de_000092_810">
+    <p xml:id="eco_de_0000164_810">
      Er wandte sich nach der Davoneilenden. Die würde ihm nichts schaden, er hatte eine Art Überzeugung davon. Sie lief querfeldein, nicht zurück nach dem Ort.
     </p>
-    <p xml:id="eco_de_000092_820">
+    <p xml:id="eco_de_0000164_820">
      Er war auf einmal so ruhig, so selbstbewußt geworden. Er schritt weiter.
     </p>
-    <p xml:id="eco_de_000092_830">
+    <p xml:id="eco_de_0000164_830">
      Beim ersten Wirtshaus machte er Halt. Es war eine elende Wegkneipe. Ein einäugiges Weib brachte ihm Speck, Brot und Branntwein. Er aß mit gutem Appetit, dann bat er um Wasser und eine Bürste. Sie gab ihm beides. Er reinigte sich ein wenig, zahlte und ging. Im Ort kaufte er sich ein Bündel Hanfseile, warf sie über die Schulter und schritt weiter. In seinem ärmlichen Anzug, die Seile über die Schulter gehängt, wanderte er den schmalen Feldweg hinauf, der neben der Landstraße lief. Er sah aus wie ein Arbeiter, der auf eine Bestellung ins nächste Dorf geht. Ihm Entgegenkommenden blickte er ruhig ins Gesicht und bot ihnen einen guten Abend. Niemand sah ihm nach, niemand kümmerte sich um ihn.
     </p>
-    <p xml:id="eco_de_000092_840">
+    <p xml:id="eco_de_0000164_840">
      Als es Nacht wurde, legte er sich in einen Graben am Wald und schlief.
     </p>
-    <p xml:id="eco_de_000092_850">
+    <p xml:id="eco_de_0000164_850">
      Er besaß noch zwei Silbermünzen. Für die eine wollte er sich morgen Brot kaufen. – Am andern Tage zog er früh aus. Die Straße stieg immer höher.
     </p>
-    <p xml:id="eco_de_000092_860">
+    <p xml:id="eco_de_0000164_860">
      Die Dächer der Hütten nahmen allmählich eine andere Gestalt an.
     </p>
-    <p xml:id="eco_de_000092_870">
+    <p xml:id="eco_de_0000164_870">
      Die Bewohner derselben hatten einen längeren Winter, als die unten im Flachland.
     </p>
-    <p xml:id="eco_de_000092_880">
+    <p xml:id="eco_de_0000164_880">
      Und Pista, seine Stricke über der Schulter, schritt ruhig weiter.
     </p>
-    <p xml:id="eco_de_000092_890">
+    <p xml:id="eco_de_0000164_890">
      Was so ein paar Tropfen vergossenes Blut alt machen!
     </p>
-    <p xml:id="eco_de_000092_900">
+    <p xml:id="eco_de_0000164_900">
      Der Vagabundenjunge von vorgestern war ein Mann geworden. Sein Kopf saß herausfordernd und starr auf dem trotzig getragenen Nacken.
     </p>
-    <p xml:id="eco_de_000092_910">
+    <p xml:id="eco_de_0000164_910">
      Das runde, hübsche Bubengesicht hatte über Nacht den Kainsstempel auf die Stirn erhalten.
     </p>
-    <p xml:id="eco_de_000092_920">
+    <p xml:id="eco_de_0000164_920">
      Die Schrift war deutlich zu lesen. Furchen und Linien, und dazwischen, senkrecht über der Nase, eine tiefe Falte.
     </p>
-    <p xml:id="eco_de_000092_930">
+    <p xml:id="eco_de_0000164_930">
      Ein Elend, ein Fluch, ein verlorenes Leben ließ sich herausbuchstabieren.
     </p>
-    <p xml:id="eco_de_000092_940">
+    <p xml:id="eco_de_0000164_940">
      So ein paar Tropfen vergossenen Blutes! …
     </p>
-    <p xml:id="eco_de_000092_950">
+    <p xml:id="eco_de_0000164_950">
      Rote Tinte, in die sich der Griffel der Gerechtigkeit taucht, um ihr »Verdammt« in die Seele des Verbrechers zu schreiben.
     </p>
-    <p xml:id="eco_de_000092_960">
+    <p xml:id="eco_de_0000164_960">
      »Und auch wegen der Absolution« hatte der Vater gesagt.
     </p>
-    <p xml:id="eco_de_000092_970">
+    <p xml:id="eco_de_0000164_970">
      Aber wer denkt im Augenblick der Notwehr an die Absolution und den ganzen Bettel von Vorschriften und Gesetzen?
     </p>
-    <p xml:id="eco_de_000092_980">
+    <p xml:id="eco_de_0000164_980">
      Der Teufel hols! Pista fühlte sich fast wie gewachsen, seit er Blut fließen gemacht hatte. Und doch wühlte ein brennender Schmerz in seinen Eingeweiden.
     </p>
-    <p xml:id="eco_de_000092_990">
+    <p xml:id="eco_de_0000164_990">
      Er hatte Respekt vor sich bekommen, er war auf einmal etwas, ein Mörder, etwas Großes, Schreckliches, etwas, vor dem sich das Haar auf den Häuptern der Menschen sträubte.
     </p>
-    <p xml:id="eco_de_000092_1000">
+    <p xml:id="eco_de_0000164_1000">
      Und doch hätte er gern sein eigenes Blut hingegeben, um die That damit ungeschehen zu machen.
     </p>
-    <p xml:id="eco_de_000092_1010">
+    <p xml:id="eco_de_0000164_1010">
      Eine junge Stimme in ihm weinte. Das Kind in ihm. Die Seele. Die Blutschuld hatte sie aufgeweckt. –
     </p>
-    <p xml:id="eco_de_000092_1020">
+    <p xml:id="eco_de_0000164_1020">
      Als es spät abends geworden war, ließ sich Pista schweiß- und staubbedeckt unter einer rotbeerigen Esche nieder. Ein Kreuz mit einem Bänkchen stand dabei.
     </p>
-    <p xml:id="eco_de_000092_1030">
+    <p xml:id="eco_de_0000164_1030">
      Nach einiger Zeit kam eine steinalte Frau, einen Rosenkranz in der Hand, kniete auf dem Bänkchen nieder und betete. Pista sah ihr schweigend zu.
     </p>
-    <p xml:id="eco_de_000092_1040">
+    <p xml:id="eco_de_0000164_1040">
      Als sie sich endlich erhob, fragte er:
     </p>
-    <p xml:id="eco_de_000092_1050">
+    <p xml:id="eco_de_0000164_1050">
      »Hast du auch für mich gebetet, Alte?«
     </p>
-    <p xml:id="eco_de_000092_1060">
+    <p xml:id="eco_de_0000164_1060">
      »Für alle armen Seelen« antwortete sie.
     </p>
-    <p xml:id="eco_de_000092_1070">
+    <p xml:id="eco_de_0000164_1070">
      »Hältst du mich für eine arme Seele? Bin ja Fleisch und Bein, Mutter.«
     </p>
-    <p xml:id="eco_de_000092_1080">
+    <p xml:id="eco_de_0000164_1080">
      Sie sah ihn mit ihren hundertjährigen Augen an:
     </p>
-    <p xml:id="eco_de_000092_1090">
+    <p xml:id="eco_de_0000164_1090">
      »Hascher!«
     </p>
-    <p xml:id="eco_de_000092_1100">
+    <p xml:id="eco_de_0000164_1100">
      »Hast recht« sagte er mit versagender Stimme. Und dann: »Ich thu dir nichts; fürchtest dich doch nicht vor mir, Mutter?«
     </p>
-    <p xml:id="eco_de_000092_1110">
+    <p xml:id="eco_de_0000164_1110">
      »Ich fürcht' mich vor niemand mehr« entgegnete sie und heftete die eingesunkenen Augen auf ihn.
     </p>
-    <p xml:id="eco_de_000092_1120">
+    <p xml:id="eco_de_0000164_1120">
      »Drum eben« versetzte er leise, »ich möcht' dich etwas fragen. Aber darfst nicht erschrecken, – giebt's kein Mittel, um Blut von einem abzuwaschen?«
     </p>
-    <p xml:id="eco_de_000092_1130">
+    <p xml:id="eco_de_0000164_1130">
      Die Alte sagte: »O mein Heiland!« und dann ließ sie sich auf das Bänkchen nieder und stützte das Haupt in die Hand.
     </p>
-    <p xml:id="eco_de_000092_1140">
+    <p xml:id="eco_de_0000164_1140">
      Das greise Gedächtnis versuchte die Flügel zu regen. Die Vergangenheit dämmerte noch einmal vor ihr auf.
     </p>
-    <p xml:id="eco_de_000092_1150">
+    <p xml:id="eco_de_0000164_1150">
      Die Sonne scheint in ihr Stübchen, wo sie am Sonntag Nachmittag, während die Andern draußen sind, einsam über das Märchenbuch der Großmutter gebeugt sitzt und liest … Achtzig Jahre sinds her. Ein geheimnisvolles Lächeln spielt um ihre Lippen, als sie den Mund jetzt aufthut. »Der Prinz Wunderhold, goldhaarig und schön wie Gabriel, als er Maria erschien … Eines Tages erschlägt er den Bruder, weil die Rosenkönigin Elfriede diesen ihm vorzog. Zur Strafe wird er in eine Krähe verwandelt. Leichen zu vertilgen und den Menschen den Winter verkündigen, ist fortan sein Beruf. Aber einmal erbarmt sich die silberne Selene seiner und vertraut ihm das erlösende Mittel an, das seiner Seele und seinem Leibe die vorige Königsgewandung zurückgeben kann: … eine reine Jungfrau muß dich küssen! …«
     </p>
    </div>
@@ -439,604 +439,604 @@
     <head>
      – – – – – – – – – – – – – – – – – – – – – – – – – –
     </head>
-    <p xml:id="eco_de_000092_1160">
+    <p xml:id="eco_de_0000164_1160">
      Die Alte lächelt in sich hinein. Ein Büschel roter Beeren fällt vom Baum herab ihr in den Schooß.
     </p>
-    <p xml:id="eco_de_000092_1170">
+    <p xml:id="eco_de_0000164_1170">
      Mit einer fast koketten Geberde steckt sie es hinters Ohr …
     </p>
-    <p xml:id="eco_de_000092_1180">
+    <p xml:id="eco_de_0000164_1180">
      Pista geht langsam weiter.
     </p>
-    <p xml:id="eco_de_000092_1190">
+    <p xml:id="eco_de_0000164_1190">
      Der Kuß einer reinen Jungfrau!
     </p>
-    <p xml:id="eco_de_000092_1200">
+    <p xml:id="eco_de_0000164_1200">
      Ein leises Rot legt sich auf seine Wangen …
     </p>
-    <p xml:id="eco_de_000092_1210">
+    <p xml:id="eco_de_0000164_1210">
      Er ging und ging. Er grübelte vor sich hin, dann und wann schüttelte er mit verächtlichem Lächeln das Haupt.
     </p>
-    <p xml:id="eco_de_000092_1220">
+    <p xml:id="eco_de_0000164_1220">
      Am nächsten Tag kam er hoch oben an einem stattlichen Gebäude vorüber.
     </p>
-    <p xml:id="eco_de_000092_1230">
+    <p xml:id="eco_de_0000164_1230">
      Er schritt durch das weit offen stehende Hausthor, wo man eben Heu hineinführte. Die Stricke auf seiner Schulter ließen die Leute glauben, es sei des Brunnenmeisters Gehilfe, den sie erwarteten.
     </p>
-    <p xml:id="eco_de_000092_1240">
+    <p xml:id="eco_de_0000164_1240">
      Er sah nicht, was er suchte. An einer jungen Magd, die im Hofe wusch, ging er stolz vorüber. Er, der Vagabund, aufgewachsen in dem engen Wagen, der seine Schlaf- und Wohnstube war, kannte das Weib und ihn schauderte davor.
     </p>
-    <p xml:id="eco_de_000092_1250">
+    <p xml:id="eco_de_0000164_1250">
      Das war der einzige weiße Fleck in seiner Seele, der einzige Aristokratismus in seiner Gemeinheit: die Unberührtheit vom Weibe.
     </p>
-    <p xml:id="eco_de_000092_1260">
+    <p xml:id="eco_de_0000164_1260">
      Jetzt sollte er eins küssen, um von seiner Blutschuld erlöst zu werden.
     </p>
-    <p xml:id="eco_de_000092_1270">
+    <p xml:id="eco_de_0000164_1270">
      Wie sich das eigentlich verhalten mochte?
     </p>
-    <p xml:id="eco_de_000092_1280">
+    <p xml:id="eco_de_0000164_1280">
      Aber die Alte hatte es gesagt. Die Alte. Sein Vater hatte ihn Ehrfurcht vor alten Weibern gelehrt. Hexen, allwissende, wären sie oftmals.
     </p>
-    <p xml:id="eco_de_000092_1290">
+    <p xml:id="eco_de_0000164_1290">
      Pista trat in den Garten.
     </p>
-    <p xml:id="eco_de_000092_1300">
+    <p xml:id="eco_de_0000164_1300">
      In einem sorgsam gepflegten Blumenrondell auf einer Bank saß ein blutjunges, etwa vierzehnjähriges Mädchen und las aus einem Buche.
     </p>
-    <p xml:id="eco_de_000092_1310">
+    <p xml:id="eco_de_0000164_1310">
      Pista trat vor sie hin. Sie hatte ihn nicht kommen hören. Plötzlich warf er die Arme um sie. Sie schrie auf.
     </p>
-    <p xml:id="eco_de_000092_1320">
+    <p xml:id="eco_de_0000164_1320">
      »Ich bin der Brunnenmacher« sagte er und sah sie mit lodernden Augen drohend an, »gieb mir einen Kuß, ich verrate es niemand; thust dus nicht, so werfe ich Gift in den Brunnen, daß ihr allesamt sterbt.«
     </p>
-    <p xml:id="eco_de_000092_1330">
+    <p xml:id="eco_de_0000164_1330">
      Sie, einer Ohnmacht nahe, küßte ihn, von seinen Armen halb erwürgt, auf den Mund. Mit geringschätziger Geberde stieß er sie von sich und schwang sich über die Gartenmauer.
     </p>
-    <p xml:id="eco_de_000092_1340">
+    <p xml:id="eco_de_0000164_1340">
      Draußen lief er ein Stück, dann kletterte er auf einen Baum, und saß hier oben im sicheren Laubversteck, indeß die Knechte des Edelhofes im Ort auf ihn Jagd machten.
     </p>
-    <p xml:id="eco_de_000092_1350">
+    <p xml:id="eco_de_0000164_1350">
      In der Nacht verließ er seinen hohen Sitz und ging weiter.
     </p>
-    <p xml:id="eco_de_000092_1360">
+    <p xml:id="eco_de_0000164_1360">
      Er ernährte sich von Kastanien, die er pflückte und röstete. Auch Weintrauben gabs die Fülle. Man brauchte nur über die niederen Zäune zu klettern.
     </p>
-    <p xml:id="eco_de_000092_1370">
+    <p xml:id="eco_de_0000164_1370">
      Die Landschaft nahm nunmehr den Charakter einer wilden Gebirgsgegend an. Hohe, dunkle Felsmassen begannen sich zum Himmel zu recken. Das Brausen naher Wildbäche wurde hörbar.
     </p>
-    <p xml:id="eco_de_000092_1380">
+    <p xml:id="eco_de_0000164_1380">
      Und Pista ging und ging immer zu.
     </p>
-    <p xml:id="eco_de_000092_1390">
+    <p xml:id="eco_de_0000164_1390">
      Wohin denn?
     </p>
-    <p xml:id="eco_de_000092_1400">
+    <p xml:id="eco_de_0000164_1400">
      Er wußte es nicht. Eben weiter.
     </p>
-    <p xml:id="eco_de_000092_1410">
+    <p xml:id="eco_de_0000164_1410">
      Es that ihm wohl, so zu gehen, denn wenn er nicht ging, wenn alles ruhig in ihm war, hörte er jene junge, weinende Stimme in sich.
     </p>
-    <p xml:id="eco_de_000092_1420">
+    <p xml:id="eco_de_0000164_1420">
      Der Kuß der reinen Jungfrau hatte nichts genützt. Entweder war die Alte eine Lügnerin gewesen, oder die Junge nicht rein…
     </p>
-    <p xml:id="eco_de_000092_1430">
+    <p xml:id="eco_de_0000164_1430">
      Als er eines Abends in eine besonders wilde, zerrissene Felsschlucht einbog, sah er sich plötzlich einer hölzernen Hütte gegenüber. Ein winziges Gärtchen, ganz von hohen roten und violetten Georginen umwuchert, umgab sie.
     </p>
-    <p xml:id="eco_de_000092_1440">
+    <p xml:id="eco_de_0000164_1440">
      Auf einer Bank vorm Garten saß ein alter Mann.
     </p>
-    <p xml:id="eco_de_000092_1450">
+    <p xml:id="eco_de_0000164_1450">
      »Jó estét!«
     </p>
-    <p xml:id="eco_de_000092_1460">
+    <p xml:id="eco_de_0000164_1460">
      »Isten Hozta!« antwortete der Alte. »Wohin des Weges, Wanderer?«
     </p>
-    <p xml:id="eco_de_000092_1470">
+    <p xml:id="eco_de_0000164_1470">
      »Weiß selbst nicht« antwortete Pista, schleuderte seine Seile von der Schulter und ließ sich neben dem Alten nieder. »Wo's Arbeit giebt für einen Tagelöhner.«
     </p>
-    <p xml:id="eco_de_000092_1480">
+    <p xml:id="eco_de_0000164_1480">
      »Du, ein Tagelöhner« sagte der Alte, auf die fast mädchenhaft zarten Hände des Jünglings blickend. »Welche Arbeiten hast du denn vornehmlich weg?«
     </p>
-    <p xml:id="eco_de_000092_1490">
+    <p xml:id="eco_de_0000164_1490">
      »Interessiert Euch das?« Pista heftete seine dunklen Augen auf den Greis.
     </p>
-    <p xml:id="eco_de_000092_1500">
+    <p xml:id="eco_de_0000164_1500">
      »Nein, wahrhaftig das interessiert mich nicht. Aber sieh mich nicht so an, sonst fürcht' ich mich vor dir.«
     </p>
-    <p xml:id="eco_de_000092_1510">
+    <p xml:id="eco_de_0000164_1510">
      Das Letztere klang scherzhaft.
     </p>
-    <p xml:id="eco_de_000092_1520">
+    <p xml:id="eco_de_0000164_1520">
      »Hab' niemanden, der mich schützt. Zehn Schritt von hier ist ein tausend Fuß tiefer Abgrund.«
     </p>
-    <p xml:id="eco_de_000092_1530">
+    <p xml:id="eco_de_0000164_1530">
      »Wo denn?« fragte Pista neugierig.
     </p>
-    <p xml:id="eco_de_000092_1540">
+    <p xml:id="eco_de_0000164_1540">
      Der Alte in der braunen Kutte erhob sich mühselig und bog um die Felsecke, von Pista gefolgt.
     </p>
-    <p xml:id="eco_de_000092_1550">
+    <p xml:id="eco_de_0000164_1550">
      Ein schauerlich schönes Bild bot sich dar.
     </p>
-    <p xml:id="eco_de_000092_1560">
+    <p xml:id="eco_de_0000164_1560">
      Berge, Berge, Berge. Einige mit Schnee bedeckt, einige mit kahlen Häuptern.
     </p>
-    <p xml:id="eco_de_000092_1570">
+    <p xml:id="eco_de_0000164_1570">
      Am Saum der senkrecht hinabstürzenden Felswand, in einer Tiefe, wie der Alte sie angegeben hatte, toste ein schäumender Wildbach dahin, der fast die Breite des schmalen Thales ausfüllte.
     </p>
-    <p xml:id="eco_de_000092_1580">
+    <p xml:id="eco_de_0000164_1580">
      Ein gutes Auge konnte einige Hütten erkennen, die sich neben dem Wasser erhoben.
     </p>
-    <p xml:id="eco_de_000092_1590">
+    <p xml:id="eco_de_0000164_1590">
      »Teufel!« rief Pista, »das ist ein Stück Welt. So schön haben wirs unten im Flachlande nicht.«
     </p>
-    <p xml:id="eco_de_000092_1600">
+    <p xml:id="eco_de_0000164_1600">
      Die Augen des Alten glänzten.
     </p>
-    <p xml:id="eco_de_000092_1610">
+    <p xml:id="eco_de_0000164_1610">
      »Nicht wahr? Ich wohne schon an die dreißig Jahr hier oben, und jeden Tag ists mir neu und lieb.«
     </p>
-    <p xml:id="eco_de_000092_1620">
+    <p xml:id="eco_de_0000164_1620">
      Der Jüngling kehrte der Landschaft den Rücken und blickte den Greis an.
     </p>
-    <p xml:id="eco_de_000092_1630">
+    <p xml:id="eco_de_0000164_1630">
      »Dreißig Jahre wohnt ihr hier oben. Beim Ochsen des heiligen Lukas, das ist eine lange Zeit? Seid ihr Priester?«
     </p>
-    <p xml:id="eco_de_000092_1640">
+    <p xml:id="eco_de_0000164_1640">
      »Ja und nein. Ich habe keine Weihen empfangen, aber ich diene dem Guten.«
     </p>
-    <p xml:id="eco_de_000092_1650">
+    <p xml:id="eco_de_0000164_1650">
      Pista lachte rauh auf.
     </p>
-    <p xml:id="eco_de_000092_1660">
+    <p xml:id="eco_de_0000164_1660">
      »Dem Guten? Was heißt das?«
     </p>
-    <p xml:id="eco_de_000092_1670">
+    <p xml:id="eco_de_0000164_1670">
      Der Alte sah den Jüngling mild an.
     </p>
-    <p xml:id="eco_de_000092_1680">
+    <p xml:id="eco_de_0000164_1680">
      »Dem Guten dienen heißt: Entmutigte aufrichten, Kranke pflegen, Frohe noch fröhlicher machen, Verzweifelte trösten.«
     </p>
-    <p xml:id="eco_de_000092_1690">
+    <p xml:id="eco_de_0000164_1690">
      »So, das könnt ihr auch? Das möcht' ich hören« sagte der Vagabund geringschätzig.
     </p>
-    <p xml:id="eco_de_000092_1700">
+    <p xml:id="eco_de_0000164_1700">
      Der Alte legte ihm die Hand auf die Schulter und sah ihm ins Gesicht.
     </p>
-    <p xml:id="eco_de_000092_1710">
+    <p xml:id="eco_de_0000164_1710">
      Pista senkte vor diesem Blick die Augen. Beide schwiegen.
     </p>
-    <p xml:id="eco_de_000092_1720">
+    <p xml:id="eco_de_0000164_1720">
      »Wozu habt ihr denn eine Kutte an, wenn ihr kein Geistlicher seid?« fragte der Jüngling mit trotzig geschürzten Lippen und warf den Kopf in den Nacken.
     </p>
-    <p xml:id="eco_de_000092_1730">
+    <p xml:id="eco_de_0000164_1730">
      »Weil sie warm hält, und ich sie nicht oft zu waschen brauche. Siehst du, das braune Tuch nimmt schwerer Schmutz an als Leinwand, auch der Regen schadet ihm nicht.«
     </p>
-    <p xml:id="eco_de_000092_1740">
+    <p xml:id="eco_de_0000164_1740">
      »Warum habt ihr denn kein Kruzifix bei Eurer Hütte, wie andre Eremiten?« fuhr Pista unfreundlich zu fragen fort.
     </p>
-    <p xml:id="eco_de_000092_1750">
+    <p xml:id="eco_de_0000164_1750">
      »Da steht ja eins« antwortete der Greis, auf den Waldrand gegenüber seinem Häuschen deutend – sie hatten ihren Aussichtspunkt wieder verlassen. »Die Bauern haben es heraufgebracht.«
     </p>
-    <p xml:id="eco_de_000092_1760">
+    <p xml:id="eco_de_0000164_1760">
      Pista schüttelte den Kopf.
     </p>
-    <p xml:id="eco_de_000092_1770">
+    <p xml:id="eco_de_0000164_1770">
      »Ihr seid ein spaßiger Heiliger, ich wette, ihr glaubt nicht mehr als ich.«
     </p>
-    <p xml:id="eco_de_000092_1780">
+    <p xml:id="eco_de_0000164_1780">
      »Oho, dummer Junge!« Die Augen des Alten lohten auf. »Du Kickindiewelt willst dich mit mir, dem lebenserfahrenen Greis, messen. Du glaubst nicht aus Dummheit, ich weiß, ich brauche nicht mehr zu glauben.«
     </p>
-    <p xml:id="eco_de_000092_1790">
+    <p xml:id="eco_de_0000164_1790">
      »Ihr wißt?«
     </p>
-    <p xml:id="eco_de_000092_1800">
+    <p xml:id="eco_de_0000164_1800">
      Zaghaft kam es über die Lippen des Burschen. Seine schönen traurigen Augen bohrten sich in die des Alten.
     </p>
-    <p xml:id="eco_de_000092_1810">
+    <p xml:id="eco_de_0000164_1810">
      »Ihr müßt schon vergeben, ich … ich kenn' mich in den Dingen wenig aus« sagte er in der Weise eines zutraulichen Tieres, sich dem Alten immer mehr nähernd. »Was wißt ihr denn?«
     </p>
-    <p xml:id="eco_de_000092_1820">
+    <p xml:id="eco_de_0000164_1820">
      »Das kann ich dir nicht mitteilen, Bube; zehn Jahre müßtest du an meiner Seite sein, dann würdest dus auch wissen, ohne daß ich dir ein Wort zu sagen brauchte.«
     </p>
-    <p xml:id="eco_de_000092_1830">
+    <p xml:id="eco_de_0000164_1830">
      »Das ist eine lange Zeit« versetzte Pista nachdenklich, »so lang hielt ichs nicht aus.«
     </p>
-    <p xml:id="eco_de_000092_1840">
+    <p xml:id="eco_de_0000164_1840">
      »Wo, hier oben?« sagte der Greis, mit zärtlichem Blicke die Gegend betrachtend.
     </p>
-    <p xml:id="eco_de_000092_1850">
+    <p xml:id="eco_de_0000164_1850">
      »Hier oben nicht, und überhaupt –«. Er vollendete den Satz nicht.
     </p>
-    <p xml:id="eco_de_000092_1860">
+    <p xml:id="eco_de_0000164_1860">
      Der Alte sah ihn still an.
     </p>
-    <p xml:id="eco_de_000092_1870">
+    <p xml:id="eco_de_0000164_1870">
      »Fahrendes Volk … Aber die Seile auf deiner Schulter. Was haben die vollbringen müssen, Mensch? Du kommst weit her und möchtest glauben machen, das nächste Dorf sei deine Heimat.«
     </p>
-    <p xml:id="eco_de_000092_1880">
+    <p xml:id="eco_de_0000164_1880">
      »Seid ihr ein Polizeispitzel?«
     </p>
-    <p xml:id="eco_de_000092_1890">
+    <p xml:id="eco_de_0000164_1890">
      »Nein« entgegnete der Greis lächelnd, »ich bin weder Spitzel, noch Richter, noch Henker. Ich weiß keine Gesetzesparagraphen mehr auswendig, obwohl ich sie einst wußte. Ich weiß nur, daß zweimal zwei vier macht.«
     </p>
-    <p xml:id="eco_de_000092_1900">
+    <p xml:id="eco_de_0000164_1900">
      Er senkte seine Augen in die des Jünglings.
     </p>
-    <p xml:id="eco_de_000092_1910">
+    <p xml:id="eco_de_0000164_1910">
      Pistas Lippen zitterten leise.
     </p>
-    <p xml:id="eco_de_000092_1920">
+    <p xml:id="eco_de_0000164_1920">
      »Zweimal zwei: vier. Das versteh' ich nicht.«
     </p>
-    <p xml:id="eco_de_000092_1930">
+    <p xml:id="eco_de_0000164_1930">
      »Natürlich nicht. Kannst ja nicht lesen, Junge. Oder doch?«
     </p>
-    <p xml:id="eco_de_000092_1940">
+    <p xml:id="eco_de_0000164_1940">
      »Nein« antwortete Pista errötend. »Steht das irgendwo?«
     </p>
-    <p xml:id="eco_de_000092_1950">
+    <p xml:id="eco_de_0000164_1950">
      »Im Einmaleins, und – in der Bibel.«
     </p>
-    <p xml:id="eco_de_000092_1960">
+    <p xml:id="eco_de_0000164_1960">
      »Ah, ihr seid also doch fromm. Mein Vater hat mir gesagt, daß die Bibel das Gebetbuch der Pfaffen sei.«
     </p>
-    <p xml:id="eco_de_000092_1970">
+    <p xml:id="eco_de_0000164_1970">
      »Die Bibel ist kein Gebet-, sondern ein Rechenbuch, das heißt, der Teil von ihr, den ich lese. Das ist der erste, den man das alte Testament nennt. Der andere Teil, das neue, gilt mir weniger. Das haben Söhne einer Zeit geschrieben, der die alte Urweltskraft verloren gegangen war, die nicht mehr den Donner vertrug, sondern psalmierende Engel in die Lüfte setzte, die so feig am Leben hing, daß sie einen Himmel sich zimmerte, wo sie das Tote barg, damit es fortvegetiere. Die konnte nicht mehr rechnen; das Einmaleins war ihr verloren gegangen.«
     </p>
-    <p xml:id="eco_de_000092_1980">
+    <p xml:id="eco_de_0000164_1980">
      »Wie lautet das?« fragte der Junge.
     </p>
-    <p xml:id="eco_de_000092_1990">
+    <p xml:id="eco_de_0000164_1990">
      »Zahn um Zahn, Auge um Auge, Schwäche für Schwäche, Kraft für Kraft, Tod für Tod, oder: zwei mal zwei ist vier, Bube.«
     </p>
-    <p xml:id="eco_de_000092_2000">
+    <p xml:id="eco_de_0000164_2000">
      Pistas Brauen hatten sich zusammengewulstet.
     </p>
-    <p xml:id="eco_de_000092_2010">
+    <p xml:id="eco_de_0000164_2010">
      »Wißt ihr, ich könnt' ja ein paar Tage bei euch hier oben bleiben, mir … ich … der Teufel hols.«
     </p>
-    <p xml:id="eco_de_000092_2020">
+    <p xml:id="eco_de_0000164_2020">
      Er sank auf die Bank und bedeckte das Gesicht mit den Händen.
     </p>
-    <p xml:id="eco_de_000092_2030">
+    <p xml:id="eco_de_0000164_2030">
      Der Alte sagte nichts als: »Bleib.«
     </p>
-    <p xml:id="eco_de_000092_2040">
+    <p xml:id="eco_de_0000164_2040">
      Dann ließ er den jungen Menschen allein und ging in die Hütte.
     </p>
-    <p xml:id="eco_de_000092_2050">
+    <p xml:id="eco_de_0000164_2050">
      Die paar Tropfen Bluts hatten dem Jungen plötzlich die Wissenschaft vom Gewissen gelehrt.
     </p>
-    <p xml:id="eco_de_000092_2060">
+    <p xml:id="eco_de_0000164_2060">
      »Zweimal zwei ist vier« brauste es in seinen Ohren.
     </p>
-    <p xml:id="eco_de_000092_2070">
+    <p xml:id="eco_de_0000164_2070">
      »Teufel!« zischte er, erhob sich, streckte die schlanken Glieder und ging in die Hütte.
     </p>
-    <p xml:id="eco_de_000092_2080">
+    <p xml:id="eco_de_0000164_2080">
      »Ich bin furchtbar hungrig« sagte er zum Alten. »Habt ihr nichts, einige Kastanien, oder –«
     </p>
-    <p xml:id="eco_de_000092_2090">
+    <p xml:id="eco_de_0000164_2090">
      »Kastanien gedeihen hier oben nicht« bemerkte der Greis, »aber Maisbrot und Milch kann ich dir geben, auch Käse, Butter und Eier findest du im Schrank.«
     </p>
-    <p xml:id="eco_de_000092_2100">
+    <p xml:id="eco_de_0000164_2100">
      »Habt ihrs gut« sagte Pista, und schnitt sich ein tüchtiges Stück von dem dargereichten goldgelben Brot ab. »Herrgott, habt ihrs gut.«
     </p>
-    <p xml:id="eco_de_000092_2110">
+    <p xml:id="eco_de_0000164_2110">
      Und er aß und trank begierig die Milch, die ihm sein Wirt reichte.
     </p>
-    <p xml:id="eco_de_000092_2120">
+    <p xml:id="eco_de_0000164_2120">
      »Ja, ich habs gut. Ich bin zufrieden.«
     </p>
-    <p xml:id="eco_de_000092_2130">
+    <p xml:id="eco_de_0000164_2130">
      »Holt ihr euch das alles selbst?«
     </p>
-    <p xml:id="eco_de_000092_2140">
+    <p xml:id="eco_de_0000164_2140">
      »Nein.« Der Alte lächelte. »Das wäre ein zu weiter Weg für meine alten Beine. Die Bauern bringen es herauf.«
     </p>
-    <p xml:id="eco_de_000092_2150">
+    <p xml:id="eco_de_0000164_2150">
      »Sind denn Bauern hier?«
     </p>
-    <p xml:id="eco_de_000092_2160">
+    <p xml:id="eco_de_0000164_2160">
      »Du sahst es ja selbst, da unten am Bache stehen etwa zwanzig Hütten. Die Mühle –«
     </p>
-    <p xml:id="eco_de_000092_2170">
+    <p xml:id="eco_de_0000164_2170">
      Pista zuckte zusammen.
     </p>
-    <p xml:id="eco_de_000092_2180">
+    <p xml:id="eco_de_0000164_2180">
      Den Augen des Alten entging die Bewegung nicht.
     </p>
-    <p xml:id="eco_de_000092_2190">
+    <p xml:id="eco_de_0000164_2190">
      »Die Mühle« fuhr er langsam fort, und sah den Jüngling scharf an, »ein kleines Wirtshaus und etliche Gehöfte. Kannst dir ja die Gegend selbst anschauen, hier vorüber, immer den Berg hinab auf schmalem Graspfad. In zwei Stunden bist du unten.«
     </p>
-    <p xml:id="eco_de_000092_2200">
+    <p xml:id="eco_de_0000164_2200">
      »Ein weiter Weg« versetzte Pista.
     </p>
-    <p xml:id="eco_de_000092_2210">
+    <p xml:id="eco_de_0000164_2210">
      »Für dich nicht, du mußt das Gehen doch gewohnt sein.«
     </p>
-    <p xml:id="eco_de_000092_2220">
+    <p xml:id="eco_de_0000164_2220">
      »Habt ihr unten etwas zu besorgen?«
     </p>
-    <p xml:id="eco_de_000092_2230">
+    <p xml:id="eco_de_0000164_2230">
      »Nein, das nicht. Wenn du dich mir nützlich machen willst, kannst du es auf andere Weise. Zerkleinere mir Holz, rühr die Milch zu Butter –«
     </p>
-    <p xml:id="eco_de_000092_2240">
+    <p xml:id="eco_de_0000164_2240">
      »Ich kann also einige Zeit bei euch bleiben?«
     </p>
-    <p xml:id="eco_de_000092_2250">
+    <p xml:id="eco_de_0000164_2250">
      »Ja. Wohin willst du dann?«
     </p>
-    <p xml:id="eco_de_000092_2260">
+    <p xml:id="eco_de_0000164_2260">
      »Das weiß ich nicht« sagte der Bursche finster.
     </p>
-    <p xml:id="eco_de_000092_2270">
+    <p xml:id="eco_de_0000164_2270">
      »Wie soll ich dich rufen?« fragte der Einsiedler.
     </p>
-    <p xml:id="eco_de_000092_2280">
+    <p xml:id="eco_de_0000164_2280">
      »Wie ich heiße: Pista Juhaß.«
     </p>
-    <p xml:id="eco_de_000092_2290">
+    <p xml:id="eco_de_0000164_2290">
      »So heißest du?«
     </p>
-    <p xml:id="eco_de_000092_2300">
+    <p xml:id="eco_de_0000164_2300">
      Und plötzlich stand der Alte auf und legte seine wuchtigen Hände auf die Schultern des Jünglings.
     </p>
-    <p xml:id="eco_de_000092_2310">
+    <p xml:id="eco_de_0000164_2310">
      »Pista Juhaß, warum bebtest du, als ich das Wort: Mühle aussprach?«
     </p>
-    <p xml:id="eco_de_000092_2320">
+    <p xml:id="eco_de_0000164_2320">
      »Weshalb fragt ihr mich? …«
     </p>
-    <p xml:id="eco_de_000092_2330">
+    <p xml:id="eco_de_0000164_2330">
      »Du wirsts doch sagen, ich sehe es ja, deine Lippen brennen darnach.«
     </p>
-    <p xml:id="eco_de_000092_2340">
+    <p xml:id="eco_de_0000164_2340">
      »Ihr … ja … aber … nun so wißt es, weil ich in einer Mühle Einen … getötet hab' …«
     </p>
-    <p xml:id="eco_de_000092_2350">
+    <p xml:id="eco_de_0000164_2350">
      Seine Augen rollten wild. Ein rötliches Licht brach aus ihnen.
     </p>
-    <p xml:id="eco_de_000092_2360">
+    <p xml:id="eco_de_0000164_2360">
      Der Greis legte still seine Rechte auf sie. –
     </p>
-    <p xml:id="eco_de_000092_2370">
+    <p xml:id="eco_de_0000164_2370">
      Sie teilten ein Lager, wie sie ihr Brot teilten. Pista machte sich nützlich, wo er konnte, brachte und zerhackte Holz, rührte Butter aus der Milch, die der Alte erhielt. Als zum erstenmal ein Bauer den greisen Einsiedler aufsuchte, erblaßte er. Der Alte blickte ihn ermutigend an und zog ihn ins Gespräch mit dem Ankömmling.
     </p>
-    <p xml:id="eco_de_000092_2380">
+    <p xml:id="eco_de_0000164_2380">
      »Ein Vetter von mir« sagte er zu diesem.
     </p>
-    <p xml:id="eco_de_000092_2390">
+    <p xml:id="eco_de_0000164_2390">
      »Also euer Schwestersohn –.«
     </p>
-    <p xml:id="eco_de_000092_2400">
+    <p xml:id="eco_de_0000164_2400">
      »Nicht so« lächelte der Eremit, »ein anderes Verwandschaftsverhältnis, aber wenn ihrs nicht in euern Schädel bringt, laßts euch nicht anfechten.«
     </p>
-    <p xml:id="eco_de_000092_2410">
+    <p xml:id="eco_de_0000164_2410">
      Der Bauer erzählte unten, des heiligen Mannes Schwestersohn sei da. Einer nach dem andern kam herauf, um den Greis zu beglückwünschen, daß er nun nicht mehr allein sei.
     </p>
-    <p xml:id="eco_de_000092_2420">
+    <p xml:id="eco_de_0000164_2420">
      »Du siehst« sagte der Alte, »hier bist du sicher.«
     </p>
-    <p xml:id="eco_de_000092_2430">
+    <p xml:id="eco_de_0000164_2430">
      »Ich sehs wohl« entgegnete Pista mit heißauflodernder Dankbarkeit im Blick. Aber trotz der kräftigen Nahrung, der gesunden Bewegung in der herrlichen Luft, kam etwas Greisenhaftes in das Wesen des Jünglings. Er ging gebückt wie unter einer unsichtbaren Last einher; manchmal verzog sich sein Antlitz in qualvollem Krampfe, als ob eine Säge seine Eingeweide zerschnitte.
     </p>
-    <p xml:id="eco_de_000092_2440">
+    <p xml:id="eco_de_0000164_2440">
      Diese Säge ging gleichmäßig hin und her, mit ihren scharfen einschneidenden Zähnen, heute und gestern, und morgen und immer würde sie gleichmäßig ihren Gang gehen.
     </p>
-    <p xml:id="eco_de_000092_2450">
+    <p xml:id="eco_de_0000164_2450">
      Einmal schleuderte Pista die Holzhacke weit von sich, und bedeckte stöhnend das Gesicht mit den Händen.
     </p>
-    <p xml:id="eco_de_000092_2460">
+    <p xml:id="eco_de_0000164_2460">
      »Mensch, Mensch« rief der Greis an ihn herantretend, »sei doch ruhig. Zweimal zwei ist vier, vergiß das nicht. Der Tag kommt, da du wieder giebst, was du nahmst. Bis dahin heiter, und den Kopf in die Höhe.«
     </p>
-    <p xml:id="eco_de_000092_2470">
+    <p xml:id="eco_de_0000164_2470">
      »Muß er kommen?«
     </p>
-    <p xml:id="eco_de_000092_2480">
+    <p xml:id="eco_de_0000164_2480">
      »Ja« antwortete der Alte mit blitzenden Augen, »zu deinem Heil. Sags dir doch täglich, und du wirst still in dir.«
     </p>
-    <p xml:id="eco_de_000092_2490">
+    <p xml:id="eco_de_0000164_2490">
      Und einmal, als der Klausner ihn wieder so verzweifelt erblickte, zog er ihn neben sich auf das Bänkchen.
     </p>
-    <p xml:id="eco_de_000092_2500">
+    <p xml:id="eco_de_0000164_2500">
      »Will dir eine Geschichte erzählen, Bursch'. Da hinten im Hegyalyer Gebiet, wo Mandeln und Trauben wachsen wie in Italien, hatte ich meinen Hof. Er war nicht prächtig, aber groß genug, um zwei Menschen mit einem Rudel Kinder reich zu ernähren. Felder, Wald und Äcker gehörten dazu. Ich war sehr jung, kaum zwanzig Jahr, da nahm ich mir auf Zureden der Meinigen eine Frau. Sie war nicht schlechter oder besser als die andern. Denn sie sind alle gleich, nur die Kleider, die sie tragen, sind verschieden. Also sie wurde mein Weib.
     </p>
-    <p xml:id="eco_de_000092_2510">
+    <p xml:id="eco_de_0000164_2510">
      Nach kurzer Zeit hatte sie jeglichen Reiz für mich eingebüßt. Eine andere gefiel mir besser. Diese war die Gattin eines Vetters von mir. Eines Tages stieg ich ihr nach in die Speisekammer, wohin sie Milch zu holen ging, und küßte sie auf den Mund. Ich erhielt eine Ohrfeige. Das war mir neu, und gefiel mir so gut, daß ich nun keine Gelegenheit vergehen ließ, diesen Kuß, sei es durch Blicke, durch Geberden ihr gegenüber, zu erneuern. Ich verfolgte sie kunstgerecht mit allen Finten eines gewiegten Jägers und erreichte mein Ziel.
     </p>
-    <p xml:id="eco_de_000092_2520">
+    <p xml:id="eco_de_0000164_2520">
      Kurze Zeit darauf starb sie. Selbstvorwürfe und, wie ich glaube, die Furcht vor Entdeckung hatten ihre Gesundheit gebrochen.
     </p>
-    <p xml:id="eco_de_000092_2530">
+    <p xml:id="eco_de_0000164_2530">
      Ihr Tod ergriff mich tief.
     </p>
-    <p xml:id="eco_de_000092_2540">
+    <p xml:id="eco_de_0000164_2540">
      Ein Anderer geworden, wollte ich zu meinem Weibe, zu den Schirmgöttern meines häuslichen Herdes zurückkehren.
     </p>
-    <p xml:id="eco_de_000092_2550">
+    <p xml:id="eco_de_0000164_2550">
      Eines Abends, als ich guter Vorsätze voll früher als sonst mein Wohnzimmer betrat, und mich auf das Sofa ausstrecken wollte, fand ich Spuren von Cigarrenasche auf demselben.
     </p>
-    <p xml:id="eco_de_000092_2560">
+    <p xml:id="eco_de_0000164_2560">
      ›War jemand hier?‹ fragte ich meine Gattin.
     </p>
-    <p xml:id="eco_de_000092_2570">
+    <p xml:id="eco_de_0000164_2570">
      ›Niemand‹ sagte sie gleichgültig. Meine Knechte, das wußte ich, würden sich nie erlaubt haben, rauchend diesen Raum zu betreten; es mußte also doch Besuch dagewesen sein.
     </p>
-    <p xml:id="eco_de_000092_2580">
+    <p xml:id="eco_de_0000164_2580">
      ›Hier sehe ich Cigarrenasche‹ fuhr ich hartnäckig fort, ›warum leugnest du, daß jemand anwesend war?‹
     </p>
-    <p xml:id="eco_de_000092_2590">
+    <p xml:id="eco_de_0000164_2590">
      Jetzt warf meine Frau einen Blick auf das Sofa und errötete brennend.
     </p>
-    <p xml:id="eco_de_000092_2600">
+    <p xml:id="eco_de_0000164_2600">
      ›Das ist – merkwürdig‹ stotterte sie.
     </p>
-    <p xml:id="eco_de_000092_2610">
+    <p xml:id="eco_de_0000164_2610">
      ›Warum errötest du denn?‹ fragte ich noch immer verdachtlos.
     </p>
-    <p xml:id="eco_de_000092_2620">
+    <p xml:id="eco_de_0000164_2620">
      Da stürzte sie ohne Antwort aus dem Zimmer. In diesem Augenblick packte es mich.
     </p>
-    <p xml:id="eco_de_000092_2630">
+    <p xml:id="eco_de_0000164_2630">
      Ich ging ihr nach in die Küche, wo sie so that, als suchte sie einen Kehrbesen, um die Spuren der Asche wegzuputzen. Ich nahm sie in die Arme.
     </p>
-    <p xml:id="eco_de_000092_2640">
+    <p xml:id="eco_de_0000164_2640">
      ›Weib, wer ist in meiner Abwesenheit hier gewesen?‹
     </p>
-    <p xml:id="eco_de_000092_2650">
+    <p xml:id="eco_de_0000164_2650">
      ›Janos.‹
     </p>
-    <p xml:id="eco_de_000092_2660">
+    <p xml:id="eco_de_0000164_2660">
      Das war der Gatte meiner Geliebten.
     </p>
-    <p xml:id="eco_de_000092_2670">
+    <p xml:id="eco_de_0000164_2670">
      ›Janos, und … weiter‹ fragte ich mit lohenden Augen.
     </p>
-    <p xml:id="eco_de_000092_2680">
+    <p xml:id="eco_de_0000164_2680">
      ›Was denn weiter? Nichts‹ log sie.
     </p>
-    <p xml:id="eco_de_000092_2690">
+    <p xml:id="eco_de_0000164_2690">
      ›Nun‹ sagte ich ruhig und nahm meinen Hut vom Kleiderrechen, ›ich will hinüber, ihn zur Rede zu stellen, was er in meiner Abwesenheit hier gesucht hat.‹
     </p>
-    <p xml:id="eco_de_000092_2700">
+    <p xml:id="eco_de_0000164_2700">
      ›Thus nicht!‹ kreischte sie.
     </p>
-    <p xml:id="eco_de_000092_2710">
+    <p xml:id="eco_de_0000164_2710">
      Da hatte ich das erste Geständnis.
     </p>
-    <p xml:id="eco_de_000092_2720">
+    <p xml:id="eco_de_0000164_2720">
      ›Sag mir nur eins,‹ fragte ich sie, den Hut wieder zurückhängend, ›bist du schon eine – Meineidige geworden, oder standest du erst im Begriff es zu werden?‹
     </p>
-    <p xml:id="eco_de_000092_2730">
+    <p xml:id="eco_de_0000164_2730">
      ›Ach Gott!‹ heulte sie, ›ich weiß nicht, wies kam, eines Abends –‹
     </p>
-    <p xml:id="eco_de_000092_2740">
+    <p xml:id="eco_de_0000164_2740">
      Da hatte ich das zweite Geständnis.
     </p>
-    <p xml:id="eco_de_000092_2750">
+    <p xml:id="eco_de_0000164_2750">
      Ein reines Weib würde sich unter einer solchen Anklage aufgebäumt haben, sie heulte und wollte gleich die ganze unsaubere Geschichte erzählen.
     </p>
-    <p xml:id="eco_de_000092_2760">
+    <p xml:id="eco_de_0000164_2760">
      ›Schweig!‹ befahl ich. ›Hier ist das Herrenzimmer, erzähls im Hof deinen Genossinnen, den Viehmägden. Hinaus!‹
     </p>
-    <p xml:id="eco_de_000092_2770">
+    <p xml:id="eco_de_0000164_2770">
      Ich faßte sie an den Zöpfen und stieß sie über die Schwelle.
     </p>
-    <p xml:id="eco_de_000092_2780">
+    <p xml:id="eco_de_0000164_2780">
      Dann lud ich meinen Revolver und begab mich auf den Weg zu Janos.
     </p>
-    <p xml:id="eco_de_000092_2790">
+    <p xml:id="eco_de_0000164_2790">
      Plötzlich packte mich ein Gedanke.
     </p>
-    <p xml:id="eco_de_000092_2800">
+    <p xml:id="eco_de_0000164_2800">
      Wie, ich wollte ihn niederschießen, ich, der nicht ein Jota besser gehandelt hatte als er selbst? Ich, der ich ebenso eingebrochen war in seine Rechte, wie er in die meinen? Ich glaube, ich habe damals hell aufgelacht vor Wut und Verzweiflung.
     </p>
-    <p xml:id="eco_de_000092_2810">
+    <p xml:id="eco_de_0000164_2810">
      Kannst du dir vorstellen, wenn man an Händen und Füßen gefesselt auf einem breiten Tisch liegt und weiß, daß man sterben muß, und die Henkersknechte kommen mit feinen Bürsten und beginnen einem die nackten Fußsohlen zu streichen, zu kitzeln, mit welchen Gefühlen man da lacht? Und doch lacht man. So lange, bis blutiger Schaum auf den Lippen steht, die Muskeln des geknebelten Leibes die wahnwitzigsten Figuren bilden und die Augen einem zum Kopf heraustreten. So lachte ich in jener Nacht.
     </p>
-    <p xml:id="eco_de_000092_2820">
+    <p xml:id="eco_de_0000164_2820">
      Aber ich kehrte nicht um.
     </p>
-    <p xml:id="eco_de_000092_2830">
+    <p xml:id="eco_de_0000164_2830">
      ›Janos‹ sagte ich vor ihn hintretend, ›ists – Zufall, oder –‹
     </p>
-    <p xml:id="eco_de_000092_2840">
+    <p xml:id="eco_de_0000164_2840">
      ›Oder was?‹ schrie er.
     </p>
-    <p xml:id="eco_de_000092_2850">
+    <p xml:id="eco_de_0000164_2850">
      ›Vergeltung‹ entgegnete ich.
     </p>
-    <p xml:id="eco_de_000092_2860">
+    <p xml:id="eco_de_0000164_2860">
      Da riß er die Waffe aus meiner Hand und schlug mir den Kolben über den Schädel, daß ich zusammenbrach.
     </p>
-    <p xml:id="eco_de_000092_2870">
+    <p xml:id="eco_de_0000164_2870">
      Als ich erwachte, stand ein Priester an meinem Bette.
     </p>
-    <p xml:id="eco_de_000092_2880">
+    <p xml:id="eco_de_0000164_2880">
      ›Vergieb, auf daß dir vergeben werde‹ sagte er, ›in kurzem wirst du vor Gott stehen, bedenke –‹
     </p>
-    <p xml:id="eco_de_000092_2890">
+    <p xml:id="eco_de_0000164_2890">
      ›Papperlapap‹ unterbrach ich ihn, trotz der höllischen Schmerzen in meinem halbzertrümmerten Gehirn, ›sag mir lieber, ist – – meine Frau noch hier?‹
     </p>
-    <p xml:id="eco_de_000092_2900">
+    <p xml:id="eco_de_0000164_2900">
      ›Nein‹ antwortete der Priester rauh, ›sie hat sich an dem Abend, da du sie – ertapptest, erhängt.‹
     </p>
-    <p xml:id="eco_de_000092_2910">
+    <p xml:id="eco_de_0000164_2910">
      ›Recht so‹ sagte ich, fiel zurück und verlor wieder das Bewußtsein.
     </p>
-    <p xml:id="eco_de_000092_2920">
+    <p xml:id="eco_de_0000164_2920">
      Als ich nach Monaten meine Gesundheit und den vollständigen Gebrauch meiner Vernunft erlangt hatte, verkaufte ich den Hof und ging in die Welt.
     </p>
-    <p xml:id="eco_de_000092_2930">
+    <p xml:id="eco_de_0000164_2930">
      Ich war wie ein Stummer, wie ein Tauber geworden. Alle Lockungen des Lebens ließen mich kalt. Ich warf mich auf verschiedene Studien, um den Kummer in mir zu bewältigen.
     </p>
-    <p xml:id="eco_de_000092_2940">
+    <p xml:id="eco_de_0000164_2940">
      Ich hatte gesündigt, bezahlt dafür, eigentlich hätte ich ruhig sein können. Aber es schien mir, als hätte ich noch zu wenig, viel zu wenig gethan. Ich trieb mich auf Bibliotheken, Universitäten, auf Renn- und andern Sportplätzen umher. Nichts erfüllte mich mit Genugthuung.
     </p>
-    <p xml:id="eco_de_000092_2950">
+    <p xml:id="eco_de_0000164_2950">
      Es mußte ein ›Mehr‹ noch in der Welt geben. Wo lag dies? Ich glaubte nicht an Länder überm Mond, wo weißgekleidete Jungfrauen Hosianna singen; zum Pfaffen habe ich nie getaugt.
     </p>
-    <p xml:id="eco_de_000092_2960">
+    <p xml:id="eco_de_0000164_2960">
      Mein Kanaan lag auf der Erde. Meine Erlösung geschah durch mich selbst. Das wußte ich, aber das wie wußte ich nicht.
     </p>
-    <p xml:id="eco_de_000092_2970">
+    <p xml:id="eco_de_0000164_2970">
      Schließlich begann ich zum Wein meine Zuflucht zu nehmen.
     </p>
-    <p xml:id="eco_de_000092_2980">
+    <p xml:id="eco_de_0000164_2980">
      Der Rausch und der Tod! Sie beide sind die letzten Freunde des Unglücklichen. Aber der Rausch bleibt zuweilen aus, wenn man ihn ruft, Freund Tod versagt nie seine Gegenwart, wenn man ihrer ernstlich begehrt. Ich hatte beschlossen, dies zu thun. Heute Nacht wollte ich ihn mir zur Gesellschaft einladen. Der Revolver lag bereit. Da fliegt mir ein Brief herein. Mein Lehrer, – ich trieb auf der Universität mathematische Studien, – mein Lehrer, den ich sehr liebte, mehr als andre Menschen, läge schwer krank darnieder, wollte ich ihn noch einmal sehen, so solle ich schleunigst kommen.
     </p>
-    <p xml:id="eco_de_000092_2990">
+    <p xml:id="eco_de_0000164_2990">
      Ja, den wollte ich noch sehen, bevor ich, vielleicht auch er, ging. Ich eilte zu ihm. Er saß aufrecht in seinem Bette. Seine Augen standen weit offen, ein unbeschreiblicher Glanz leuchtete aus ihnen. So leuchten Sterne, bevor sie erlöschen…
     </p>
-    <p xml:id="eco_de_000092_3000">
+    <p xml:id="eco_de_0000164_3000">
      ›Er stirbt‹ wimmerte seine Frau mir ins Ohr.
     </p>
-    <p xml:id="eco_de_000092_3010">
+    <p xml:id="eco_de_0000164_3010">
      Auf seiner Stirn stand kein Schweißtropfen. Um den Mund lag ein göttliches verzeihendes Lächeln. Er verzieh dem Leben.
     </p>
-    <p xml:id="eco_de_000092_3020">
+    <p xml:id="eco_de_0000164_3020">
      ›Erkennen Sie mich?‹ flüsterte ich.
     </p>
-    <p xml:id="eco_de_000092_3030">
+    <p xml:id="eco_de_0000164_3030">
      ›Wie sollt' ich nicht‹ antwortete er, ›ja ich erblicke dich, aber ich bin viel höher als du, ich sage dir, es ist ein Göttliches …‹
     </p>
-    <p xml:id="eco_de_000092_3040">
+    <p xml:id="eco_de_0000164_3040">
      ›Was, was?‹ rief ich.
     </p>
-    <p xml:id="eco_de_000092_3050">
+    <p xml:id="eco_de_0000164_3050">
      ›Zu sterben, zu fühlen wie man aufgeht in der Unendlichkeit. Meine Seele sträubt ihr Gefieder –‹
     </p>
-    <p xml:id="eco_de_000092_3060">
+    <p xml:id="eco_de_0000164_3060">
      Seine Augen wurden wie zwei Wunderthore, durch die eine strahlende Ewigkeit blickt, – es waren keine Augen mehr, es waren Abgründe voll Licht …
     </p>
-    <p xml:id="eco_de_000092_3070">
+    <p xml:id="eco_de_0000164_3070">
      ›Heilige Entfremdung, ich grüße dich, beflügelte Sohle, eile … eile‹ … und plötzlich ging das Lächeln des Menschen in die Majestät eines Gottmenschen über …
     </p>
-    <p xml:id="eco_de_000092_3080">
+    <p xml:id="eco_de_0000164_3080">
      Er war dahin …
     </p>
-    <p xml:id="eco_de_000092_3090">
+    <p xml:id="eco_de_0000164_3090">
      Da reckte ich den Kopf in die Höhe und rannte davon.
     </p>
-    <p xml:id="eco_de_000092_3100">
+    <p xml:id="eco_de_0000164_3100">
      Ich jubelte in die Nacht hinaus, in die weite, unendliche Sternennacht.
     </p>
-    <p xml:id="eco_de_000092_3110">
+    <p xml:id="eco_de_0000164_3110">
      Mir war, als hätte ich mich selbst gefunden, mein Heil entdeckt, als hätte ich – Gott begriffen!
     </p>
-    <p xml:id="eco_de_000092_3120">
+    <p xml:id="eco_de_0000164_3120">
      Aus den Brunnen der Nacht schien es mir entgegen zu rauschen: Thor kümmere dich nicht, ich, die Kraft, die Weltkraft, die den Planeten Sonnen, und den Menschen das große Einmaleins gab, ich sühne, nicht du, ich! Zahn um Zahn, Auge um Auge! Vergiß es nicht, dieses Gesetz aller Weisheit, diesen Urboden, der alle Bedingungen deiner inneren Befreiung hervorbringt.
     </p>
-    <p xml:id="eco_de_000092_3130">
+    <p xml:id="eco_de_0000164_3130">
      Ich will auf einen hohen Berg steigen, sprach ich in mir, der Sonne ins Antlitz lachen, und allen Menschen verkünden, daß sie in seliger Unbekümmertheit leben dürfen.
     </p>
-    <p xml:id="eco_de_000092_3140">
+    <p xml:id="eco_de_0000164_3140">
      Ich habe den Tod eines Gerechten gesehen.
     </p>
-    <p xml:id="eco_de_000092_3150">
+    <p xml:id="eco_de_0000164_3150">
      Ich habe den Glauben an die Vergeltung empfangen!
     </p>
    </div>
@@ -1044,238 +1044,238 @@
     <head>
      – – – – – – – – – – – – – – – – – – – – – – – – – –
     </head>
-    <p xml:id="eco_de_000092_3160">
+    <p xml:id="eco_de_0000164_3160">
      Ich kam hierher und erzählte den Menschen von der Gerechtigkeit, die Gott ist, und von Gott, der die Gerechtigkeit ist.
     </p>
-    <p xml:id="eco_de_000092_3170">
+    <p xml:id="eco_de_0000164_3170">
      Sie fassen es auf, wie sies verstehen. Aber Bube, du, hast du denn das alles verstanden, du Kind der Straße?« …
     </p>
-    <p xml:id="eco_de_000092_3180">
+    <p xml:id="eco_de_0000164_3180">
      »Verstanden?« stammelte der Jüngling weiß im Gesichte, »ich weiß nicht, … aber es ging wie ein Sturm von euch aus, und der hat mich fortgerissen …«
     </p>
-    <p xml:id="eco_de_000092_3190">
+    <p xml:id="eco_de_0000164_3190">
      »Also Knabe vergiß nicht, daß – zweimal zwei vier ist, und – lache.«
     </p>
-    <p xml:id="eco_de_000092_3200">
+    <p xml:id="eco_de_0000164_3200">
      Es kam etwas wie eine Würde über den Landstreicher. Seine Haltung, seine Art zu sprechen, zu essen, zu gehen, begann einen Adel zu zeigen, wie er nur Vornehmen eigen ist.
     </p>
-    <p xml:id="eco_de_000092_3210">
+    <p xml:id="eco_de_0000164_3210">
      Seit jenem Abend, da der Alte seine Seele vor ihm entblößt hatte, sprachen sie wenig mehr miteinander. Jeder wußte alles vom Andern. Es herrschte ein schweigendes Einverständnis zwischen ihnen. Der Junge stand noch immer in seinem Gethsemane, und fragte sich: Muß es denn sein? Ist es unvermeidlich daß die Vergeltung ihre schwarzen Wolken über mir sammelt? Wenns nicht unumgänglich nötig wäre! … das Leben ist doch so schön …
     </p>
-    <p xml:id="eco_de_000092_3220">
+    <p xml:id="eco_de_0000164_3220">
      Kein Tag verging, ohne daß er eine Fülle neuer Erfahrungen aufnahm.
     </p>
-    <p xml:id="eco_de_000092_3230">
+    <p xml:id="eco_de_0000164_3230">
      Das Auge des Alten hing oft an ihm. Wer hätte dessen Ausdruck enträtselt?
     </p>
-    <p xml:id="eco_de_000092_3240">
+    <p xml:id="eco_de_0000164_3240">
      Eine heilige Grausamkeit schien aus ihm zu sprechen, vielleicht aber war es auch ein Anderes.
     </p>
-    <p xml:id="eco_de_000092_3250">
+    <p xml:id="eco_de_0000164_3250">
      Der Sommer neigte sich seinem Ende zu.
     </p>
-    <p xml:id="eco_de_000092_3260">
+    <p xml:id="eco_de_0000164_3260">
      Stürme brachen an. Über den Häuptern der Berge sammelten sich Blitze.
     </p>
-    <p xml:id="eco_de_000092_3270">
+    <p xml:id="eco_de_0000164_3270">
      Wochenlange Regen, dann ein müder blauer Tag, und wieder wochenlange Regen.
     </p>
-    <p xml:id="eco_de_000092_3280">
+    <p xml:id="eco_de_0000164_3280">
      Von unten dröhnte das Geheul des hochhinflutenden Wildbachs herauf.
     </p>
-    <p xml:id="eco_de_000092_3290">
+    <p xml:id="eco_de_0000164_3290">
      Oft hörten es die Beiden in der Nacht, wenn sie schlaflos auf ihrem Lager ruhten.
     </p>
-    <p xml:id="eco_de_000092_3300">
+    <p xml:id="eco_de_0000164_3300">
      Selten besuchte sie jetzt jemand.
     </p>
-    <p xml:id="eco_de_000092_3310">
+    <p xml:id="eco_de_0000164_3310">
      Sie hatten im Sommer ihre Wintervorräte gut bewirtschaftet, so daß sie keine Not zu leiden brauchten.
     </p>
-    <p xml:id="eco_de_000092_3320">
+    <p xml:id="eco_de_0000164_3320">
      Statt der Milch, genossen sie Wein, den der Eremit zum Geschenk erhalten und in einer Felshöhlung aufbewahrt hatte.
     </p>
-    <p xml:id="eco_de_000092_3330">
+    <p xml:id="eco_de_0000164_3330">
      Eines Tages brauste der Sturm gewaltiger denn je. Ein wolkenbruchartiger Regen hatte die letzten Blätter von den Bäumen gewaschen, Furchen in den Boden gegraben und an vielen Tannen die Wurzeln bloßgelegt.
     </p>
-    <p xml:id="eco_de_000092_3340">
+    <p xml:id="eco_de_0000164_3340">
      Man konnte kaum gehen, das Wasser stand zollhoch auf Wegen und Stegen. Der Boden vermochte es nicht mehr aufzusaugen.
     </p>
-    <p xml:id="eco_de_000092_3350">
+    <p xml:id="eco_de_0000164_3350">
      In der Nacht erwachten die Beiden über das Donnern des Baches, das schauerlich von unten herauf drang.
     </p>
-    <p xml:id="eco_de_000092_3360">
+    <p xml:id="eco_de_0000164_3360">
      Am Morgen trat der Alte kopfschüttelnd hinter den Felsvorsprung und sah hinab.
     </p>
-    <p xml:id="eco_de_000092_3370">
+    <p xml:id="eco_de_0000164_3370">
      Erschreckt fuhr er sich über den kahlen Schädel. Herrgott, täuschten ihn seine Augen, oder war wirklich ein Teil der Häuser fortgeschwemmt.
     </p>
-    <p xml:id="eco_de_000092_3380">
+    <p xml:id="eco_de_0000164_3380">
      »Pista!« schrie er, die Hände an den Mund haltend, hinüber.
     </p>
-    <p xml:id="eco_de_000092_3390">
+    <p xml:id="eco_de_0000164_3390">
      Pista erschien.
     </p>
-    <p xml:id="eco_de_000092_3400">
+    <p xml:id="eco_de_0000164_3400">
      »Sieh da hinab. Erblickst du das Wirtshaus, die Mühle, oder ist dort nicht ein reißender Strudel, der allerlei Gebälk herumtreibt?«
     </p>
-    <p xml:id="eco_de_000092_3410">
+    <p xml:id="eco_de_0000164_3410">
      »Ein Haufen dunkler Gegenstände, ich weiß nicht, sinds Balken oder Holzstämme, schwimmt da; eben reißt sie das Wasser hinunter.«
     </p>
-    <p xml:id="eco_de_000092_3420">
+    <p xml:id="eco_de_0000164_3420">
      Die Hände des Alten zerrten erregt an der Kutte.
     </p>
-    <p xml:id="eco_de_000092_3430">
+    <p xml:id="eco_de_0000164_3430">
      »Herrgott, Herrgott, wenn meine Beine mich trügen, dort unten könnte man helfen, retten, bergen.«
     </p>
-    <p xml:id="eco_de_000092_3440">
+    <p xml:id="eco_de_0000164_3440">
      Und plötzlich wandte er sich an Pista.
     </p>
-    <p xml:id="eco_de_000092_3450">
+    <p xml:id="eco_de_0000164_3450">
      »Möchtest du nicht hinab, Pista? du könntest dir warmen Dank verdienen.«
     </p>
-    <p xml:id="eco_de_000092_3460">
+    <p xml:id="eco_de_0000164_3460">
      Der junge Mensch nickte.
     </p>
-    <p xml:id="eco_de_000092_3470">
+    <p xml:id="eco_de_0000164_3470">
      »Wenn ihr glaubt …«
     </p>
-    <p xml:id="eco_de_000092_3480">
+    <p xml:id="eco_de_0000164_3480">
      Er starrte auf das brüllende Gewässer unter sich.
     </p>
-    <p xml:id="eco_de_000092_3490">
+    <p xml:id="eco_de_0000164_3490">
      Und plötzlich überfiel Todesblässe sein Antlitz.
     </p>
-    <p xml:id="eco_de_000092_3500">
+    <p xml:id="eco_de_0000164_3500">
      Er sah fragend auf den Alten.
     </p>
-    <p xml:id="eco_de_000092_3510">
+    <p xml:id="eco_de_0000164_3510">
      Aber dieser stand bewegungslos da und hielt beide Augen mit machtvollem Blick auf ihn gerichtet.
     </p>
-    <p xml:id="eco_de_000092_3520">
+    <p xml:id="eco_de_0000164_3520">
      Da warf der Junge den Kopf in den Nacken.
     </p>
-    <p xml:id="eco_de_000092_3530">
+    <p xml:id="eco_de_0000164_3530">
      »Lebt wohl!«
     </p>
-    <p xml:id="eco_de_000092_3540">
+    <p xml:id="eco_de_0000164_3540">
      »Halt!«
     </p>
-    <p xml:id="eco_de_000092_3550">
+    <p xml:id="eco_de_0000164_3550">
      Der Greis trat einen Schritt auf ihn zu.
     </p>
-    <p xml:id="eco_de_000092_3560">
+    <p xml:id="eco_de_0000164_3560">
      Und beide sanken einander in die Arme … Ein Zittern lief durch Pistas Glieder.
     </p>
-    <p xml:id="eco_de_000092_3570">
+    <p xml:id="eco_de_0000164_3570">
      Er beugte das Knie.
     </p>
-    <p xml:id="eco_de_000092_3580">
+    <p xml:id="eco_de_0000164_3580">
      Der Alte legte ihm die wuchtigen Hände fest aufs Haupt.
     </p>
-    <p xml:id="eco_de_000092_3590">
+    <p xml:id="eco_de_0000164_3590">
      »Und jetzt hinab, Sohn.«
     </p>
-    <p xml:id="eco_de_000092_3600">
+    <p xml:id="eco_de_0000164_3600">
      Der Jüngling raste den schlüpfrigen Grasabhang hinunter.
     </p>
-    <p xml:id="eco_de_000092_3610">
+    <p xml:id="eco_de_0000164_3610">
      Ein wildes Zigeunerlied, das er jahrelang vergessen hatte, trat auf seine Lippen.
     </p>
-    <p xml:id="eco_de_000092_3620">
+    <p xml:id="eco_de_0000164_3620">
      Sturm und neubeginnende Regenschauer schlugen ihm in das blasse Gesicht.
     </p>
-    <p xml:id="eco_de_000092_3630">
+    <p xml:id="eco_de_0000164_3630">
      Er achtete auf nichts.
     </p>
-    <p xml:id="eco_de_000092_3640">
+    <p xml:id="eco_de_0000164_3640">
      Halbwegs blickte er noch einmal zurück.
     </p>
-    <p xml:id="eco_de_000092_3650">
+    <p xml:id="eco_de_0000164_3650">
      Schon in beträchtlicher Höhe über sich sah er den Alten mit fliegendem Mantel dastehen und seinen Weg verfolgen.
     </p>
-    <p xml:id="eco_de_000092_3660">
+    <p xml:id="eco_de_0000164_3660">
      Er glaubte den funkelnden Blick jener gewaltigen Augen zu sehen, die Hand des Mannes auf den Schultern zu fühlen, den der Tod zum Leben bekehrt hatte.
     </p>
-    <p xml:id="eco_de_000092_3670">
+    <p xml:id="eco_de_0000164_3670">
      Pista winkte einen Gruß hinauf und stürzte weiter.
     </p>
-    <p xml:id="eco_de_000092_3680">
+    <p xml:id="eco_de_0000164_3680">
      Das Brausen und Donnern um ihn wurde lauter. Einzelne Töne, wie von Menschen kommend, mischten sich hinein.
     </p>
-    <p xml:id="eco_de_000092_3690">
+    <p xml:id="eco_de_0000164_3690">
      Er wischte sich den Schweiß aus dem eiskalten Gesichte.
     </p>
-    <p xml:id="eco_de_000092_3700">
+    <p xml:id="eco_de_0000164_3700">
      Und endlich war er unten.
     </p>
-    <p xml:id="eco_de_000092_3710">
+    <p xml:id="eco_de_0000164_3710">
      Am Ufer einen Haufen halbnackter Menschen, die tropfend von Wasser, ihre armselige Habe dem tosenden Element entreißen wollen.
     </p>
-    <p xml:id="eco_de_000092_3720">
+    <p xml:id="eco_de_0000164_3720">
      »Der Schwestersohn des Heiligen, gebt Platz! Vielleicht hilft er uns retten …«
     </p>
-    <p xml:id="eco_de_000092_3730">
+    <p xml:id="eco_de_0000164_3730">
      »Aber zum Teufel, verdammte Krämerseelen, laßt doch euere Kartoffelsäcke, wenns euer Leben gilt …«
     </p>
-    <p xml:id="eco_de_000092_3740">
+    <p xml:id="eco_de_0000164_3740">
      Pista stieß mit den Füßen in den aufgeschichteten Kram der Armen.
     </p>
-    <p xml:id="eco_de_000092_3750">
+    <p xml:id="eco_de_0000164_3750">
      Sie sahen ihn verwundert an.
     </p>
-    <p xml:id="eco_de_000092_3760">
+    <p xml:id="eco_de_0000164_3760">
      Sind die Kartoffel und der Hausrat nicht ebensoviel wert wie das nackte Leben? Was haben sie von diesem ohne jenes?
     </p>
-    <p xml:id="eco_de_000092_3770">
+    <p xml:id="eco_de_0000164_3770">
      In diesem Augenblick ein herzzerreißender Schrei.
     </p>
-    <p xml:id="eco_de_000092_3780">
+    <p xml:id="eco_de_0000164_3780">
      In der Mitte des wilden Stromes treibt ein Bottich mit einem dicken Weibe darin, das zwei Heugabeln als Ruder benutzt.
     </p>
-    <p xml:id="eco_de_000092_3790">
+    <p xml:id="eco_de_0000164_3790">
      Gegenüber sieht das Dach einer Hütte aus dem Wasser. Ein Knabe steht darauf.
     </p>
-    <p xml:id="eco_de_000092_3800">
+    <p xml:id="eco_de_0000164_3800">
      »Die Betten, wirf die Betten heraus!« brüllt die Mutter dem Kinde zu. »Hörst du, die Betten.«
     </p>
-    <p xml:id="eco_de_000092_3810">
+    <p xml:id="eco_de_0000164_3810">
      Sie will gegen die Hütte rudern – da ein Krach, das Dach ist zusammengebrochen.
     </p>
-    <p xml:id="eco_de_000092_3820">
+    <p xml:id="eco_de_0000164_3820">
      Ein verzweifeltes Geheul; das Kind rettet sich auf einen schwimmenden Balken, es schreit nach der Mutter. Das Weib, sein Gleichgewicht im Schrecken verlierend, ist ins Wasser gestürzt. In abgerissenen, gurgelnden Tönen kreischt es um Hilfe; niemand hört es, jeder hat mit den Seinen und dem eigenen Jammer zu thun.
     </p>
-    <p xml:id="eco_de_000092_3830">
+    <p xml:id="eco_de_0000164_3830">
      »Erbarmen, Pista, Pista!«
     </p>
-    <p xml:id="eco_de_000092_3840">
+    <p xml:id="eco_de_0000164_3840">
      Das Kind gegenüber winselt und schaut hilflos auf die ertrinkende Mutter.
     </p>
-    <p xml:id="eco_de_000092_3850">
+    <p xml:id="eco_de_0000164_3850">
      »Pista!«
     </p>
-    <p xml:id="eco_de_000092_3860">
+    <p xml:id="eco_de_0000164_3860">
      War das nicht ein ähnlicher Schrei wie jener damals des Nachts, ein Todesschrei? …
     </p>
-    <p xml:id="eco_de_000092_3870">
+    <p xml:id="eco_de_0000164_3870">
      Man vergißt die nicht. – – –
     </p>
-    <p xml:id="eco_de_000092_3880">
+    <p xml:id="eco_de_0000164_3880">
      Und plötzlich hallt es wie der Posaunenstoß des jüngsten Tages an Juhaß Ohren:
     </p>
-    <p xml:id="eco_de_000092_3890">
+    <p xml:id="eco_de_0000164_3890">
      »Zweimal zwei ist vier.«
     </p>
-    <p xml:id="eco_de_000092_3900">
+    <p xml:id="eco_de_0000164_3900">
      Klare Rechnung …
     </p>
-    <p xml:id="eco_de_000092_3910">
+    <p xml:id="eco_de_0000164_3910">
      Einen Augenblick Besinnen. – Die menschliche Natur erhebt flehend die Hände, und bettelt um Gnade …
     </p>
-    <p xml:id="eco_de_000092_3920">
+    <p xml:id="eco_de_0000164_3920">
      Da bricht ein Lachen aus seinen Augen, ein Blitz des Triumphs … »Eljen«, brüllt er, »Eljen, a világosság«, und springt in den hoch aufspritzenden weißen Gischt.
     </p>
-    <p xml:id="eco_de_000092_3930">
+    <p xml:id="eco_de_0000164_3930">
      Seine Hände erfassen die Haare der Frau, sie aber in ihrer Todesnot wirft die Arme um seinen Hals und zwingt ihn hinunter …
     </p>
    </div>
@@ -1283,10 +1283,10 @@
     <head>
      – – – – – – – – – – – – – – – – – – – – – – – – – –
     </head>
-    <p xml:id="eco_de_000092_3940">
+    <p xml:id="eco_de_0000164_3940">
      Oben stand und stand der Alte und wartete. Als es Abend wurde, und wieder Abend, trat er hinaus und blickte in den Schlund, aus dem der Donner schwächer heraufklang.
     </p>
-    <p xml:id="eco_de_000092_3950">
+    <p xml:id="eco_de_0000164_3950">
      Und er breitete wie segnend die Hände aus …
     </p>
    </div>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000195" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Das Geheimnis des Amerikaners
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Heyking, Elisabeth von
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     3845
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1905">
+      1905
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000195_20">
+    Das Geheimnis des Amerikaners
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000195_30">
+     Diese Geschichte trug sich einst in Peking zu in einer jener Perioden politischer Windstille, wenn der Schritt der Zeit innezuhalten scheint und die wie Zwischenakte in der großen ostasiatischen Tragikomödie sind.
+    </p>
+    <p xml:id="eco_de_0000195_40">
+     Alle Regierungen waren der chinesischen Frage gründlich überdrüssig. Monatelang waren die Staatskanzleien durch mühsame Verhandlungen in Atem erhalten worden, die endlich mit einem in Peking unterzeichneten Vertrag ihren Abschluß gefunden hatten. Die ganze offizielle Welt seufzte erleichtert auf.
+    </p>
+    <p xml:id="eco_de_0000195_50">
+     Die in Peking beglaubigten fremden Gesandten, die des Ernstes der Lage halber schon lange ihren Posten nicht mehr hatten verlassen können, erbaten sich nun einige Monate Urlaub, um sich in ihren Heimaten zu erholen, wobei sie alle ihre ersten Sekretäre aufs wärmste als Geschäftsträger empfahlen. Wenn ein Gesandter auf Urlaub gehen will, entdeckt er allemal ganz hervorragende Eigenschaften in seinem ersten Sekretär.
+    </p>
+    <p xml:id="eco_de_0000195_60">
+     Dem billigen Verlangen der Gesandten ward entsprochen, und nacheinander verließen sie das Vater land des Prinzen Tuan und seiner Boxer, ihre sorgenvollen, sphynxartigen Mienen hinter den hohen Mauern Pekings zurücklassend. Als sie sich erst an Bord der Schiffe befanden, die sie entführen sollten, und sie die braunen Takuforts im Nebel verschwinden sahen, waren diese gewichtigen Persönlichkeiten zu ausgelassenen Schulknaben geworden, die auf Ferien gehen.
+    </p>
+    <p xml:id="eco_de_0000195_70">
+     Der Sommer ließ sich ruhig und friedlich an. Ein allgemeiner guter Wille, der aus sehr viel Ermüdung entstanden war, herrschte auf unsrer kleinen Erde.
+    </p>
+    <p xml:id="eco_de_0000195_80">
+     Die leitenden Sterne auf den großen europäischen Staatsbühnen gingen nun ebenfalls auf Sommerurlaub und bei ihrer Abreise nach dem Meeresstrande, dem Gebirge oder den Kurorten, war die letzte Weisung, die sie ihren offiziellen Ersatzmännern erteilten: »Und um Himmelswillen hütet euch vor Verwicklungen in China!«
+    </p>
+    <p xml:id="eco_de_0000195_90">
+     Demgemäß erhielten die in Peking als Geschäftsträger zurückgebliebenen ersten Sekretäre sämtlich dieselben Instruktionen, die sich alle über die Bewahrung der traditionellen Freundschaft für China, die Wiederherstellung von Ordnung und Sicherheit, die Entwicklung der natürlichen Reichtümer des Landes und die Wiederbelebung des so unselig gestörten Handels ausließen, aber hinter diesen schönen Redensarten nur den einen Wunsch klar erkennen ließen, für lange hinaus nichts mehr von diesem fernen Lande zu hören, das man so tief und gründlich satt bekommen hatte.
+    </p>
+    <p xml:id="eco_de_0000195_100">
+     Doch die Geschäftsträger teilten keineswegs diese Auffassung. Sie waren sämtlich von dem Wunsche verzehrt, sich auszuzeichnen und sich aus der Haut des alten China ein persönliches Ruhmesmäntelchen zu schneidern. Sie taten noch unendlich viel wichtiger, als jemals die Gesandten selbst getan hatten; jedes ihrer Worte, ihre ganze Haltung trug den Stempel zurückhaltender Würde und der etwas blasierten Schwermut jener, die die eigene Größe vereinsamt. Unausgesetzt posierten sie »Staatsmann,« als wären fortwährend die Objektive eines Photographen auf sie gerichtet – ja, mehr noch, als hafteten die Augen der ganzen Welt auf ihnen. Und das Schicksal, meinten sie, würde ihnen, sicherlich zu Hilfe kommen; sechs Monate waren eine lange Zeit, und während dieser Zeit müßte ja irgend ein bedeutungsvoller Zwischenfall eintreten, der ihnen die erwünschte Gelegenheit, ihre bis jetzt im Dunkel gebliebenen Talente ans Licht zu bringen, bieten würde. Sie überwachten sorglich jede Aktion der chinesischen Regierung, sie beschützten ihre Staatsangehörigen, so wie diese noch nie beschützt worden waren, sie hätten zur Hebung des Handels jeden Untertan des himmlischen Reiches gern persönlich zum Ankauf fremder Erzeugnisse gezwungen, sie vertieften sich in die Finanz- und Bergwerksfragen, sie überwachten sich gegenseitig mit Eifersucht, sie häuften Bericht auf Bericht, Depesche auf Depesche.
+    </p>
+    <p xml:id="eco_de_0000195_110">
+     Und hinter dieser staunenswerten Tätigkeit barg sich die Erwartung des so heiß ersehnten Zwischenfalles: ein Missionarsmord, ein Staatsstreich der Kaiserin, ein Putschversuch der Reformpartei, ein Volksaufstand, eine noch so kleine fremdenfeindliche Kundgebung – alles wäre ihnen willkommen gewesen! Und allabendlich beim Schlafengehen seufzten sie: »Na, morgen aber sicher!«
+    </p>
+    <p xml:id="eco_de_0000195_120">
+     Doch Tag für Tag verging und brachte nur zunehmende Hitze und Staub. Dann begannen die großen Sommerregen auf die weiten Ebenen von Petschili nieder zu gehen.
+    </p>
+    <p xml:id="eco_de_0000195_130">
+     Die Gesandten verbrachten gewöhnlich den schrecklichen chinesischen Sommer am Strand von Pei ta ho oder in irgend einem buddhistischen Tempel der benachbarten Berge, die Geschäftsträger jedoch harrten alle mutig in der Stadt der vielen Gerüche aus. Nicht an Ort und Stelle zu sein, wenn endlich der gewisse Zwischenfall käme, hätten sie sich niemals verziehen.
+    </p>
+    <p xml:id="eco_de_0000195_140">
+     In jenen Tagen wohnte im »Hôtel Tallieu« zu Peking ein Unternehmer aus Amerika. Man wußte, daß er große Viehherden und Weideplätze in Arizona besaß, und es hieß, er habe dem Prinzen Tsching den Vorschlag gemacht, die chinesische Kavallerie zu reorganisieren, indem er an ihre Spitze Cowboys aus Arizona stellte, da diese, wie er behauptete, in Cuba bei einem Roughrider-Korps glänzende Dienste geleistet hätten. Prinz Tsching, der damals gerade mit dringenderen Fragen beschäftigt war, hatte jedoch dem Projekt keine Folge gegeben. Seitdem wußte man nicht recht, was den amerikanischen Unternehmer noch in Peking zurück hielt.
+    </p>
+    <p xml:id="eco_de_0000195_150">
+     An einem drückend heißen Morgen ließ sich Mr. Sharp – so hieß der Amerikaner – bei Herrn Jagomirsky melden, dem Geschäftsträger einer großen Nachbarmacht Chinas – (eigentlich eine ungenaue Angabe, da während der letzten Jahre fast alle Mächte Nachbarn Chinas geworden sind). Herr Jagomirsky befand sich in der denkbar übelsten Laune; abends vorher war er bis zu später Stunde im Pekinger Klub geblieben, wo man immerfort Durst hat, und während des Restes der glühend heißen Nacht hatte ihn ein blutgieriger, unter das Bettnetz geratener Moskito um den Schlaf gebracht. Gleichwohl empfing er Mr. Sharp.
+    </p>
+    <p xml:id="eco_de_0000195_160">
+     Beide Herren blieben etwa eine Viertelstunde im Arbeitskabinett des Geschäftsträgers eingeschlossen, worauf die schläfrigen chinesischen Boys, die im Vorzimmer etwas eingenickt waren, zu ihrem höchsten Erstaunen sahen, wie der große, der wichtige, der würdige Jagomirsky selbst, lächelnd und leuchtenden Auges, den kleinen amerikanischen Unternehmer bis zur Türe geleitete. Gleich darauf kehrte Jagomirsky in sein Kabinett zurück und rief den Boys den Befehl zu: »Ich wünsche unter keinen Umständen gestört zu werden, ich bin für niemanden zu sprechen«.
+    </p>
+    <p xml:id="eco_de_0000195_170">
+     Mr. Sharp ging nicht ins Hôtel zurück. Er setzte seinen Weg durch die Gesandtschaftsstraße fort, sich an die Mauern drückend, die auf das blendende Weiß der staubigen Straße noch einen schmalen Schattenstreifen, gleich einem violetten Bande, warfen. Mr. Sharp blieb vor dem hohen roten Tor eines andern Gesandtschaftsgebäudes stehen und klopfte einigemale mit seinem Stock an die hölzerne Türe; ein chinesicher Portier in notdürftigster Toilette lugte verstohlen durch das kleine Guckloch in der Tür, um zu sehen, wer ihn wohl zu dieser Stunde stören mochte, und Mr. Sharp fragte ihn, ob sein Herr zu Hause sei.
+    </p>
+    <p xml:id="eco_de_0000195_180">
+     Der Geschäftsträger Waterstoppel war stets bei Tagesanbruch auf. Seit Stunden schon saß er an seinem Schreibtisch, bedeckte Seite auf Seite mit seiner kleinen, gedrängten Schrift und addierte lange Zahlenreihen aneinander. Er war nämlich mit der Abfassung eines seiner, wie er sie nannte, »Fundamentalberichte« beschäftigt, der in diesem Falle die annähernde Zahl der alljährlich im chinesischen Reiche verbrauchten Schuhe berechnete. Er war der schreibseligste Mann in Peking. Und das will etwas heißen.
+    </p>
+    <p xml:id="eco_de_0000195_190">
+     Dicke Schweißtropfen standen auf Herrn Waterstoppels Stirn, als der Portier Mr. Sharp anmeldete. Sichtlich ungern trennte er sich von seinen Schreibereien und verschloß sie eifersüchtig in eine Schublade, auf daß ja kein indiskreter Blick seines Besuchers ihre statistischen Geheimnisse erhaschen könne. Dann schob er seine Brille bis über die Stirn hinauf, wodurch man seine kurzsichtigen Augen mit den zitternden Lidern gewahrte und erhob sich, um den amerikanischen Unternehmer zu empfangen.
+    </p>
+    <p xml:id="eco_de_0000195_200">
+     Eine Viertelstunde später begleitete der korpulente, pomphafte Herr Waterstoppel, dessen Grundsatz es doch war, daß die persönliche Würde eines Vertreters immer groß genug sein müsse, um die Kleinheit des von ihm vertretenen Landes auszugleichen, Mr. Sharp bis zum äußeren roten Tor des Gesandtschaftsgebäudes hinaus. Er bot ihm sogar zur Rückkehr ins Hotel seinen Maultierkarren an, Mr. Sharp lehnte jedoch dankend ab; hatte er doch, wie er sagte, viel schlimmere Hitze gekannt, wenn er in den Ebenen von Arizona einem verlaufenen Stück Vieh nachgaloppiert war.
+    </p>
+    <p xml:id="eco_de_0000195_210">
+     In sein Haus zurückkehrend sagte Herr Waterstoppel dem Portier, daß er dringend zu schreiben habe, und der Chinese blickte ihm mit der scheuen Ehrfurcht nach, die seine Rasse noch für die hegt, die mit Schreibwerkzeugen arbeiten.
+    </p>
+    <p xml:id="eco_de_0000195_220">
+     Es war glühend heiß geworden. Die Luft zitterte. Allenthalben stiegen schwüle Dünste auf. Mr. Sharp überschritt die Kanalbrücke und schlug die Richtung nach dem entgegengesetzten Ende der Gesandtschaftsstraße ein. Hier pochte er wieder an ein rotes Tor und verlangte Herrn Villamore zu sprechen.
+    </p>
+    <p xml:id="eco_de_0000195_230">
+     Ein chinesischer Diener führte ihn in ein dunkles Gemach. Die Fensterläden waren geschlossen, aber durch ihre Spalten sickerten einige Lichtstrahlen herein. Allmählich unterschied Mr. Sharp einen umgeworfenen Stuhl und einen Tisch, dessen Decke heruntergerutscht war und im Herabgleiten mehrere Bücher, eine Flasche und einen Aschenbecher mit sich auf den Fußboden gezogen hatte. Kleidungsstücke lagen in wirrer Unordnung umher. An der äußersten Wand des Zimmers stand ein Bett, das durch die Weiße seines Moskitonetzes dämmerte.
+    </p>
+    <p xml:id="eco_de_0000195_240">
+     Mr. Sharp vernahm ein aus dieser Richtung kommendes, lang anhaltendes Gähnen, und nun wurden die weißen Vorhänge zurückgeschlagen und er erblickte einen Mann, der, im Bette sitzend, sich dehnte und seine Augen rieb. Er trug einen dünnen Schlafanzug, der seine langen abgezehrten Glieder erkennen ließ; breite, dunkle Ringe umgaben seine Augen, an seinem fleischlosen Halse traten die Muskeln wie Schnüre hervor, und seine Haare klebten von nächtlichem Schweiß an den eingefallenen Schläfen.
+    </p>
+    <p xml:id="eco_de_0000195_250">
+     »Was, Sie sind's, Herr Sharp?« gähnte der Geschäftsträger Villamore. Dann bemerkte er plötzlich den Zustand seines Zimmers, rief auf Chinesisch seinen Boy, stellte ihn wegen der Unordnung zur Rede, und indes der Diener die Läden öffnete und schweigend aufräumte, überschüttete ihn sein Herr mit einer wahren Sturzwelle von chinesischen Flüchen. Alsdann wandte sich Herr Villamore an seinen Besucher:
+    </p>
+    <p xml:id="eco_de_0000195_260">
+     »Bitte tausendmal um Entschuldigung, Sie so zu empfangen, Sie sehen mich ganz bestürzt, aber auch, welche Nacht! welche Nacht! Oh, diese verteufelten kleinen Chinesinnen und all das Zeug, was sie erzählen! Die lieben Kollegen, die nicht Dolmetscher gewesen sind, werden niemals wissen, was ihnen da entgeht. Was für Geheimnisse sind mir nicht schon auf einem Schlafpolster zugeflüstert worden.«
+    </p>
+    <p xml:id="eco_de_0000195_270">
+     Mr. Sharp bekam noch einige Zeit die, in ein ganzes Netz von politischen und finanziellen Geheimnissen verstrickten, verliebten Erinnerungen Villamores zu hören. Denn Villamore verstand es, seine Neigungen mit Berücksichtigung der dienstlichen Interessen zu plazieren. Er bevorzugte stets »verteufelte kleine Chinesinnen«, die Beziehungen zu der offiziellen chinesischen Welt hatten, und so war er denn auch einer der wenigst schlecht unterrichteten unter den fremden Vertretern.
+    </p>
+    <p xml:id="eco_de_0000195_280">
+     Nachdem sich seine Beredsamkeit erschöpft hatte, bat Mr. Sharp um die Erlaubnis, ihm nun seinerseits die Angelegenheit, die ihn herführte, vorzutragen.
+    </p>
+    <p xml:id="eco_de_0000195_290">
+     »Sprechen Sie, sprechen Sie, ich stehe ganz zu Ihrer Verfügung,« versetzte der Geschäftsträger, nur mit Mühe eine neue Anwandlung zum Gähnen unterdrückend.
+    </p>
+    <p xml:id="eco_de_0000195_300">
+     Eine Viertelstunde darauf verließ Mr. Sharp das Gesandtschaftsgebäude. Der Geschäftsträger hatte den Amerikaner bis zum Straßentor geleitet, obwohl er seine nackten Füße in aller Eile bloß in Pantoffeln gesteckt hatte und sein Schlafanzug nur halb durch einen langen Bademantel verdeckt wurde, dessen Faltenwurf an eine antike Toga erinnerte.
+    </p>
+    <p xml:id="eco_de_0000195_310">
+     »Und vor allen Dingen, mein lieber Sharp, vergessen Sie nicht, daß Sie morgen bei mir speisen,« sagte er und klopfte dem Amerikaner freundschaftlich auf die Schulter.
+    </p>
+    <p xml:id="eco_de_0000195_320">
+     Dann ging er geradewegs in sein Arbeitszimmer und benachrichtigte seinen Boy unter einer Flut chinesischer Verwünschungen, es würde ihm übel ergehen, falls er ihn, durch wen es auch sei, stören ließe.
+    </p>
+    <p xml:id="eco_de_0000195_330">
+     Am Abend dieses Tages gingen von Peking drei Depeschen nach verschiedenen Richtungen ab. Ein Spezial-Kourier, der wahrhaftig ganz wie ein Kosack aussah, brachte eine der Depeschen zu der nächsten Station einer der Bahnlinien, die in der Zukunft große Welthandelsstraßen werden sollen. Ein Kaufmann, der die finanziellen Hilfsmittel Chinas studiert hatte und nunmehr, aller Illusionen bar, nach Niederländisch-Indien zurückkehrte, übernahm die Beförderung der zweiten Depesche bis Singapore und von dort weiter. Die dritte wurde ganz einfach dem von Sir Robert Hart so umsichtig geleiteten Postdienste anvertraut.
+    </p>
+    <p xml:id="eco_de_0000195_340">
+     Darauf vergingen Tage auf Tage in trostloser Einförmigkeit. Man konnte jedoch bemerken, daß drei Geschäftsträger glücklicher und befriedigter als die andren aussahen. Diese drei schienen immerfort die Gesellschaft des Mr. Sharp aufzusuchen, dessen Existenz man bis dahin so ziemlich ignoriert hatte. Jetzt erhielt der Amerikaner häufig Einladungen in die drei Gesandtschaften und in den Pekinger Klub, einen gesellschaftlichen Vereinigungsort, der wie ein Gefängnishof aussieht, und wo seine neuen Freunde einander das Vergnügen streitig machten, ihn zu einem Cock-tail aufzufordern. Diese Sachlage konnte nicht lange den wachsamen Augen eines andren Geschäftsträgers, Herrn Fürette, entgehen, der überhaupt stets Herrn Jagomirsky mit eifersüchtiger politischer Liebe zu beobachten pflegte; er trachtete nun mit allem Geschick, von seinen drei Kollegen herauszubekommen, welches Motiv sie für diese in Peking so seltene Miene freudiger Stimmung haben könnten. Er bekam jedoch nur ausweichende Antworten.
+    </p>
+    <p xml:id="eco_de_0000195_350">
+     Villamore erwiderte, er habe die Bekanntschaft einer kleinen Chinesin gemacht, entzückender als alle andren; sie sei die Adoptivtochter eines Eunuchen der Kaiserin, und er rechne darauf, durch dieses junge Mädchen wertvolle Auskünfte über die Intrigen am kaiserlichen Hofe zu erhalten. »Ein Land durch seine Frauen studieren, das ist das Wahre!« rief Villamore.
+    </p>
+    <p xml:id="eco_de_0000195_360">
+     Waterstoppel versicherte Herrn Fürette, die Statistik biete einem starken Geist zahllose Hilfsquellen der Befriedigung und vertraute ihm zugleich unter dem Siegel größter Verschwiegenheit an, daß er im Begriff stehe, einen Fundamentalbericht zu beenden, über die Anzahl der Stahlfedern, welche die fremden Fabrikanten alljährlich in China absetzen könnten, wenn man die Chinesen durch einen Vertrag zwänge, sich dieser kleinen, so bequemen Utensilien zu bedienen und den Gebrauch der Pinsel aufzugeben, womit sie seit Urzeiten ihre seltsamen Schriftzeichen malen.
+    </p>
+    <p xml:id="eco_de_0000195_370">
+     Herr Jagomirsky gab Herrn Fürette zu verstehen, daß er als Vertreter der einzigen Macht, die in China große Politik treibe und eine Aktionslinie besitze, von der sie niemals abweiche, leichter als die andren Vertreter Anlaß zu Befriedigung finden könne, weil alle Zeitläufe, ob ruhige oder bewegte, ihm die Ernte der seit langen Jahren regelmäßig bestellten Saat zu bescheren vermöchten.
+    </p>
+    <p xml:id="eco_de_0000195_380">
+     Doch Herr Fürette gab sich mit diesen Antworten nicht zufrieden. Er forschte weiter. Mit der jedem Diplomaten so unentbehrlichen Fähigkeit des Beobachtens und Kombinierens begabt, erkannte er, dass Mr. Sharp auf unerklärliche Weise mit der geheimen Ursache der Zufriedenheit seiner drei Kollegen im Zusammenhange stand. Er beschloß dies Geheimnis zu ergründen, machte sich an Mr. Sharp heran und überhäufte ihn mit Aufmerksamkeiten.
+    </p>
+    <p xml:id="eco_de_0000195_390">
+     Das Ergebnis aller seiner Schritte, der Liebenswürdigkeit, die er entwickelte, der Zuvorkommenheiten, womit er den amerikanischen Unternehmer zu gewinnen wußte, ließ nicht lange auf sich warten: eines Abends, nach einem ausgezeichneten Diner unter vier Augen, das mit den besten Weinen aus Herrn Fürettes Heimat befeuchtet worden war, rückte Mr. Sharp mit der Sprache heraus.
+    </p>
+    <p xml:id="eco_de_0000195_400">
+     In derselben Nacht noch, sofort nach Weggang seines Gastes, setzte sich Herr Fürette an den Schreibtisch und verfaßte folgende Depesche:
+    </p>
+    <p xml:id="eco_de_0000195_410">
+     »Streng vertraulich. No… Peking,
+    </p>
+    <p xml:id="eco_de_0000195_420">
+     den… August 19…
+    </p>
+    <p xml:id="eco_de_0000195_430">
+     Herr Minister!
+    </p>
+    <p xml:id="eco_de_0000195_440">
+     Ich beehre mich Euerer Exzellenz gehorsamst zu melden, daß ein gewisser p. Sharp, gebürtig aus dem Staate Arizona in den Vereinigten Staaten, wo er ausgedehnte Ländereien und zahlreiche Herden besitzt, sich zur Zeit in Peking befindet. Er sagt mir, daß er ein unfehlbares Mittel gefunden habe, um das Geschlecht noch ungeborener Wesen nach Belieben zu bestimmen. Er gibt an, Tausende von erfolgreichen Versuchen bei Rindern und Pferden angestellt zu haben und behauptet zuversichtlich, daß sein Mittel sich mit der gleichen untrüglichen Wirkung auch auf die menschliche Rasse anwenden ließe. Mr. Sharp erzählt mir, er sei nach Peking gekommen, um sein Geheimnis dem Kaiser von China zu verkaufen, und er hätte auch sicherlich große Chancen gehabt, einen hohen Preis zu erzielen; denn, wie Euerer Exzellenz ohne Zweifel bekannt ist, entbehren die uns in allen Stücken so ungleichen Chinesen jeden chevaleresken Sinn für das schöne Geschlecht und betrachten die Geburt eines Mädchens als eine Schande und eine von den Göttern verhängte Strafe. Da sich jedoch der Zeitpunkt der Rückkehr des Kaisers, von seiner großen Reise an die entlegensten Ahnengräber, in seine gute Stadt Peking, angeblich noch nicht vorher sagen läßt, hat Mr. Sharp, der, wie all seine Landsleute Eile hat, darauf verzichtet, Seine himmlische Majestät zu erwarten. Wie ich anzunehmen Grund habe, hat Mr. Sharp meinem Kollegen von der X.schen Gesandtschaft, Herrn Jagomirsky, gewisse Anerbietungen gemacht und letzterer dürfte, über diesen für alle Völker, deren Schicksal mit der Fortdauer einer Dynastie verbunden ist, so hoch interessanten Gegenstand, seiner Regierung Bericht erstattet haben.
+    </p>
+    <p xml:id="eco_de_0000195_450">
+     Ich glaubte auf diese Tatsache die Aufmerksamkeit Euerer Exzellenz lenken zu sollen, deren hoher Einsicht es nicht entgehen dürfte, von welch weittragender politischer Bedeutung es sein würde, wenn wir Herrn Jagomirsky beim Ankauf des Mittels zuvorkämen, und es alsdann seinem Souverän zum Geschenk anböten, wodurch der befreundeten und verbündeten Nation wieder einmal dargetan würde, wie sehr uns ihre teuersten Interessen am Herzen liegen und wie völlig wir uns ihren intimsten Hoffnungen anschließen.
+    </p>
+    <p xml:id="eco_de_0000195_460">
+     Ich darf den Verhaltungsbefehlen entgegen sehen, die Euere Exzellenz mir zu erteilen hochgeneigtest belieben werden.«
+    </p>
+    <p xml:id="eco_de_0000195_470">
+     Nachdem er dies niedergeschrieben, legte sich Herr Fürette zu Bett und schlief wie einer, der weiß, daß sein Vaterland ihn binnen weniger Tage als großen Mann anerkennen wird.
+    </p>
+    <p xml:id="eco_de_0000195_480">
+     Am nächsten Morgen ward die Depesche abgesandt.
+    </p>
+    <p xml:id="eco_de_0000195_490">
+     Wieder verstrichen einige Tage. Das einzige interessante Vorkommnis in Peking war die Ankunft des berühmten Milliardärs, X. Y. Z. Wanderbald mit seiner jungen Frau. Sie waren auf ihrer Yacht gekommen, um Japan zu besuchen und wollten nun nicht nach San Francisko zurückkehren, ohne die chinesische Hauptstadt, die Große Mauer und die Ming-Gräber gesehen zu haben. Anfangs gab dieser Besuch zu wilden Gerüchten Veranlassung, und man sprach von nichts geringerem als von der geplanten Pachtung der chinesischen »offenen Tür« durch einen amerikanischen Riesentrust. Bald jedoch mußte man sich davon überzeugen lassen, daß Mr. und Mrs. Wanderbald mit ihrem zahlreichen Gefolge einfach nur als Globetrotters reisten.
+    </p>
+    <p xml:id="eco_de_0000195_500">
+     Während sie auf dem Wege nach der Großen Mauer waren, liefen drei chiffrierte Depeschen in Peking ein. Die eine war an Herrn Jagomirsky persönlich adressiert. Der Geschäftsträger entzifferte sie daher selbst, statt diese Arbeit wie sonst den jungen Dolmetscher-Eleven zu überlassen. Er las folgendes:
+    </p>
+    <p xml:id="eco_de_0000195_510">
+     »Der Gegenstand Ihrer Geheimdepesche No… hat mein Befremden erregt, und ich kann es mir nur aus einem Übereifer erklären, daß Sie sich dazu haben hinreißen lassen, mir einen so seltsamen Vorschlag zu unterbreiten. Ich will die Frage unerörtert lassen, ob unter gewissen rein physischen Gesichtspunkten selbst Allerhöchste Persönlichkeiten denselben Naturgesetzen unterworfen sein mögen wie andre Wesen. Keinenfalls würde ich mich jedoch je dazu bereit finden lassen, an der betreffenden hohen Stelle in Anregung zu bringen, den von Ihnen erwähnten Abenteurer zu konsultieren. Sie werden ersucht, sich in Zukunft in Ihren Berichten auf die laufenden Geschäfte zu beschränken.«
+    </p>
+    <p xml:id="eco_de_0000195_520">
+     Herr Jagomirsky, der seit Wochen davon träumte, daß beim dereinstigen Erscheinen des ersehnten Thronerben, der Dank des Vaterlandes auch ihm in der Ferne gebühren würde, war niedergeschmettert und machte seiner Enttäuschung in einem langen, unverständlichen Fluche Luft.
+    </p>
+    <p xml:id="eco_de_0000195_530">
+     Herr Waterstoppel erhielt gleichfalls eine Depesche, und er entzifferte sie persönlich; denn nimmermehr hätte er diese Arbeit dem jungen Kanzlisten anvertraut, der von morgens bis abends seine endlosen Berichte mundierte. Die Geheimschrift war in den Augen des Herrn Waterstoppel wie das heiligste Mysterium des diplomatischen Kultes, und wenn er sich derselben bediente, fühlte er sich als Hohepriester, der eine heilige Handlung vollzieht. Nachdem er seine kleine Arbeit beendigt, las er folgende klare Übertragung der dunklen Zahlen, die man ihm telegraphiert hatte:
+    </p>
+    <p xml:id="eco_de_0000195_540">
+     »Die Erfindung, von der Sie schreiben, ist wahrscheinlich die reine Charlatanerie. Indessen, wäre dem auch nicht so, so berührt sie doch eine Frage, in welcher der Hof sicherlich vorziehen wird, sich dem zu unterwerfen, was der Wille des Himmels bestimmt. Mit Interesse werde ich Ihre Berichte über den Wiederaufschwung des Handels in China entgegen nehmen.«
+    </p>
+    <p xml:id="eco_de_0000195_550">
+     Herr Waterstoppel las, putzte seine Brille und las noch einmal. Dann ließ er seinen großen Kopf zwischen die Schultern sinken, mit der kläglichen Miene eines armen Wichtes, dessen gute Absichten verkannt worden sind. Er verschloß eigenhändig den Chiffre in die Feuerfeste der Gesandtschaft und setzte sich wieder an seinen Schreibtisch, wo er sofort einen neuen handelsstatistischen Bericht begann. Denn Herr Waterstoppel war ein Mann von hervorragender Ordnungsliebe und von strengstem Pflichtgefühl.
+    </p>
+    <p xml:id="eco_de_0000195_560">
+     Die dritte Depesche war an Herrn Villamore adressiert. Ein Zweifel darüber, wer dieses Telegramm entziffern würde, war ausgeschlossen, denn Herr Villamore kumulierte zur Zeit in seiner mageren Person die Funktionen eines Geschäftsträgers, Sekretärs, Dolmetschers und Kanzlisten. Er stellte den Chiffrierkasten auf die Tischecke zwischen einer Tasse Tee, einem Tintenfläschchen und einem zerknitterten Kragen und währenddem er im Chiffrierschlüssel nachschlug und die entzifferten Worte mit Bleistift auf seine Manschette notierte, summte er diese nach einer Melodie der »Bohême« vor sich hin:
+    </p>
+    <p xml:id="eco_de_0000195_570">
+     »Depesche No… vom… erhalten. Bedaure unendlich, das Ihnen gemachte Anerbieten nicht annehmen zu können. Für derartigen Kauf keine Fonds disponibel. Da jedoch der Erfinder sein Geheimnis sicher einem andern Hof verkaufen wird, hoffen wir dasselbe von letzterem durch eine freundschaftliche Kombination zu erhalten. Sehr gerührt von Ihrem Eifer.«
+    </p>
+    <p xml:id="eco_de_0000195_580">
+     Herr Villamore zündete eine Zigarette an, warf Chiffre und Papiere in einen halboffenen Koffer und machte sich, leise vor sich hinpfeifend, auf den Weg nach dem Klub.
+    </p>
+    <p xml:id="eco_de_0000195_590">
+     Herr Fürette hatte noch keine Antwort auf seine Depesche erhalten. Von Stunde zu Stunde erwartete er sie. Er traute sich nicht mehr aus dem Hause zu gehen, wollte niemanden empfangen und blieb wie fest genagelt hinter einem Fenster seines Arbeitskabinettes stehen, von wo aus er die Eingangstüre überwachen konnte; ingrimmig trommelte er auf die Scheiben. »Seit einigen Tagen ist unser großer Mann unausstehlich,« sagte einer der jüngeren Herren der Gesandtschaft. »Sapristi ja! seine Nerven halten 's nicht mehr aus,« meinte ein zweiter, und mit einem Seufzer fügte der Dritte hinzu: »Das kommt von diesem schauderhaften Nest, wo man ja nie ein nettes Mädel zu sehen kriegt.«
+    </p>
+    <p xml:id="eco_de_0000195_600">
+     Endlich eines Nachmittags, als seine Ungeduld sich zu einer Art von physischem Leiden gesteigert hatte, überbrachte man Herrn Fürette die so brennend ersehnte Depesche. Er riß das Kuvert auf und entzifferte atemlos:
+    </p>
+    <p xml:id="eco_de_0000195_610">
+     »Antwort auf Depesche No… Wärmsten Dank für Ihr Anerbieten. Herzliche Glückwünsche zu dem Eifer, der Initiative, dem hohen Patriotismus, die Sie in diesem Falle bewiesen haben. Erstehen Sie das Geheimnis um jeden Preis. Wir geben Ihnen unbeschränkte Vollmacht, das Geschäft abzuschließen. Strengste Geheimhaltung und diskreteste Behandlung der Angelegenheit sind unerläßlich, um unsre Intervention aczeptabel zu machen. Senden Sie uns den Erfinder mit nächstem Postdampfer. Zählen Sie auf die Dankbarkeit der Regierung.«
+    </p>
+    <p xml:id="eco_de_0000195_620">
+     Herr Fürette stieß einen langen Seufzer der Erleichterung aus. Er konnte sich an dem Telegramm nicht satt sehen und las es immer wieder, während seine durch langes Warten und Schlaflosigkeit angegriffenen Züge sich glätteten und allmählich einen Ausdruck triumphierenden Glückes annahmen. Endlich griff er nach Hut, Stock und Handschuhen und schritt mit der Miene eines Welteneroberers nach dem Hotel Tallieu, wo Mr. Sharp wohnte.
+    </p>
+    <p xml:id="eco_de_0000195_630">
+     Wie er wieder heimkam, hat Herr Fürette niemals genau gewußt. Als er sein Zimmer betrat, schwankte er wie ein Trunkener. Sein Blick glitt über den Spiegel, und er glaubte einen Fremden zu sehen, so bleich und verzerrt war sein Gesicht. Kraftlos ließ er sich vor seinem Schreibtisch auf den Sessel fallen und stieß dumpfe Laute aus, gleich den Klagen eines Tieres, dem man seine Jungen geraubt. Nach einiger Zeit zog er ein Blatt Papier an sich heran und schrieb mit zitternder Hand: »Ich habe die schmerzliche Pflicht, Euerer Exzellenz gehorsamst anzuzeigen, daß Mr. Sharp, Besitzer des in meiner Depesche No… erwähnten Geheimnisses, seine Erfindung an Herrn X. Y. Z. Wanderbald verkauft und sich auf dessen Yacht nach San Francisko eingeschifft hat.«
+    </p>
+    <p xml:id="eco_de_0000195_640">
+     Herr Fürette raffte noch die Kraft zusammen, die Depesche selbst zu chiffrieren, dann ließ er sie expedieren.
+    </p>
+    <p xml:id="eco_de_0000195_650">
+     Neun Monate später las man in den Newyorker Blättern: »Mrs. X. Y. Z. Wanderbald, die reizende junge Frau des bekannten Multimillionärs, hat einem prächtigen Jungen das Leben gegeben. Wir freuen uns zu erfahren, daß Mutter und Sohn sich wohl befinden und bringen unsre aufrichtigen Gratulationen den beglückten Eltern des Baby Wanderbald dar.«
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

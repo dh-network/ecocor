@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_0000129" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000200" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_0000129_20">
+   <p xml:id="eco_de_0000200_20">
     Es ging ein Engel durch das Haus
    </p>
   </front>
@@ -94,376 +94,376 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_0000129_30">
+    <p xml:id="eco_de_0000200_30">
      Ein nettes Pfarrhaus ist das zu Wiesenau, wenn auch, wie die meisten Pfarrhäuser, weder elegant noch großartig erbaut. Es schaut hell nach seiner Vorderseite auf die Straße aus den blanken Fenstern, auf deren Gesims Rosen und Levkojen stehen, mit den schneeweißen Gardinen dahinter; es ist auch freundlich nach der Rückseite, die in den wohlgepflegten Hausgarten geht, wo neben den sauberen Gemüsebeeten die Blumen nicht versäumt werden und von den ersten Schneeglöckchen und Veilchen bis zu den letzten roten Geranien allezeit etwas Blühendes zu sehen ist.
     </p>
-    <p xml:id="eco_de_0000129_40">
+    <p xml:id="eco_de_0000200_40">
      Freundlich war das Pfarrhaus; es kehrten da gern die Bauersleute ein, die ein Anliegen zum Herrn Pfarrer führte, und ebenso gern gute Bekannte aus benachbarten Pfarrdörfern oder aus der nahegelegenen kleinen Stadt. Nur still war es darin, fast gar zu still; denn der Kindersegen fehlte, den man sich fast unzertrennlich von einem rechten Pfarrhaus denkt, und der Pfarrer selbst und seine Frau haben das am tiefsten empfunden. Es kamen auch manchmal Kindergäste, besonders zur Zeit, wo im Garten die Johannisbeeren und Stachelbeeren und später die Äpfel und Birnen reif wurden: Pfarrsöhne und -töchterlein oder Sprößlinge aus befreundeten Häusern der Stadt; sie wurden alle freundlich empfangen und reichlich bewirtet. Es fehlte ihnen aber doch, daß zum Hause selbst so gar kein Kind gehörte, mit dem sie spielen, keine Spielsachen da waren, mit denen sie sich belustigen konnten; die Mägdlein unterhielten sich im Garten, die Buben jagten die Katze und die Hühner untereinander im Hof herum und machten einen Lärm und Unfug, daß man froh war, wenn die wilde Schar wieder abzog.
     </p>
-    <p xml:id="eco_de_0000129_50">
+    <p xml:id="eco_de_0000200_50">
      Und doch, wenn sie alle fort waren und die Frau Pfarrerin wieder Ordnung geschafft hatte in ihren Stuben, so sah sie sich oft wehmütig darin um und seufzte leise: »Wir sind doch recht allein.« Aber sie hatte aufgehört zu klagen, daß ihr ein eigenes Kind versagt war.
     </p>
-    <p xml:id="eco_de_0000129_60">
+    <p xml:id="eco_de_0000200_60">
      Der Frühling war nahe, aber er kam diesmal nicht freundlich; die schönen Veilchen, Krokus und roten Leberblümchen, die sonst den Pfarrgarten um diese Zeit schmückten, waren fast weggeschwemmt vom Regen, und draußen in der Welt sah es noch viel betrübter aus.
     </p>
-    <p xml:id="eco_de_0000129_70">
+    <p xml:id="eco_de_0000200_70">
      Der Pfarrer saß frühmorgens in seiner Studierstube, in der gewöhnlich das Frühstück eingenommen wurde; er las in der Zeitung und war traurig gestimmt über das viele Elend, das namentlich in Ostpreußen, wo schon im vorigen Jahre die Ernte zerstört worden war, durch die anhaltende Kälte und Nasse veranlaßt worden, und sah fast verwundert auf, als seine Hausfrau mit ganz heiterem Angesicht hereintrat, um das Frühstück zu bringen.
     </p>
-    <p xml:id="eco_de_0000129_80">
+    <p xml:id="eco_de_0000200_80">
      »Du siehst ja aus, als wäre dir etwas besonders Frohes widerfahren,« sagte der Pfarrer; »mir ist's eigentlich nicht so vergnüglich ums Herz, wenn man sieht, wieviel Jammer in der Welt draußen ist.«
     </p>
-    <p xml:id="eco_de_0000129_90">
+    <p xml:id="eco_de_0000200_90">
      »Nun, lach' mich nicht aus!« sagte die Pfarrfrau, indem sie sich zu ihm setzte und ihm den Kaffee einschenkte; »ich träume sonst selten lebhaft, habe ja, Gott sei Dank, einen gesunden Schlaf; heut' nacht aber habe ich einen so lieblichen Traum gehabt, daß er mich jetzt noch freut.«
     </p>
-    <p xml:id="eco_de_0000129_100">
+    <p xml:id="eco_de_0000200_100">
      »Das wäre!« sagte lächelnd der Pfarrer, der gerade nicht viel auf Träume hielt.
     </p>
-    <p xml:id="eco_de_0000129_110">
+    <p xml:id="eco_de_0000200_110">
      »Ich bin vielleicht,« erzählte die Pfarrfrau, zuerst etwas leise, »gestern abend ein bißchen betrübt eingeschlafen. Die Schulmeisterin ist bei mir gewesen mit einem netten Töchterlein; da ist mir's nachher wohl etwas still und leer vorgekommen bei uns. Nun träumte mir erst gegen Morgen, wo die Träume immer am lebhaftesten sind – du darfst aber nicht lachen –, es sei ein Engel durch unser Haus gegangen.«
     </p>
-    <p xml:id="eco_de_0000129_120">
+    <p xml:id="eco_de_0000200_120">
      »Ist er vom Himmel heruntergeflogen?« fragte wieder mit leisem Lächeln der Pfarrer.
     </p>
-    <p xml:id="eco_de_0000129_130">
+    <p xml:id="eco_de_0000200_130">
      »Nein, er kam durch unsere hintere Hausthür vom Garten herein; eine holdselige Kindergestalt in glänzend weißem Kleide; das ganze Haus wurde hell davon. Leise und licht wandelte sie durch alle Gänge des Hauses, bis sie zur vorderen Hausthür wieder hinausging; ich sah lange noch den hellen Schein.«
     </p>
-    <p xml:id="eco_de_0000129_140">
+    <p xml:id="eco_de_0000200_140">
      »Schade, daß du sie nicht festgehalten!« meinte der Pfarrer.
     </p>
-    <p xml:id="eco_de_0000129_150">
+    <p xml:id="eco_de_0000200_150">
      »Hat mir auch leid gethan,« sagte die Pfarrfrau; »aber es blieb doch hell, und als ich aufwachte, war mir noch ganz wohl zu Mute.«
     </p>
-    <p xml:id="eco_de_0000129_160">
+    <p xml:id="eco_de_0000200_160">
      »Nun, auch ein schöner Traum ist etwas wert,« sagte freundlich der Pfarrer. »Es soll ja, so Gott will, nicht an guten Engeln in unserem Hause fehlen, auch wenn es still bleibt darin.«
     </p>
-    <p xml:id="eco_de_0000129_170">
+    <p xml:id="eco_de_0000200_170">
      Das Frühstück war genossen, die Pfarrfrau machte die Tassen rein, während der Pfarrer ihr aus der Zeitung vorlas; dann räumte sie alles sorgfältig weg und ging hinauf in ihr Wohnzimmer. Da war's freilich wieder recht still, wie sie so an dem Nähtischchen saß, und mit leisem Seufzer dachte sie an den holdseligen Engel in ihrem Traum.
     </p>
-    <p xml:id="eco_de_0000129_180">
+    <p xml:id="eco_de_0000200_180">
      Während sie in dem süddeutschen Pfarrhaus von lichten Engeln träumten und auch die Regengüsse des Frühlings nicht viel mehr verderben konnten als die schönen Gartenblümlein und vielleicht das Frühobst, da flog über einen anderen Gau unseres deutschen Landes der Engel bitteren Jammers; da war ein Herzeleid und eine Not, wie man sie selbst in jenen armen Gegenden seit Menschengedenken nicht erlebt hatte.
     </p>
-    <p xml:id="eco_de_0000129_190">
+    <p xml:id="eco_de_0000200_190">
      In Ostpreußen war es, vor allem in dem Landstrich Masuren in der Nähe des Städtchens Rhein, wo das Elend am furchtbarsten wütete. Die Ernte von zwei Jahren war fast ganz verloren gegangen; die bittere Armut, die elenden Wohnungen, zum Teil nur eine Art von Erdlöchern, brachten die entsetzliche Krankheit des Hungertyphus. Die kleinen Städte hatten nicht Mittel, nicht Thatkraft genug, dem Elend abzuhelfen; die elenden Kranken zogen noch bettelnd umher, blieben am Wege liegen oder starben in ihren erbärmlichen Löchern und verpesteten die Luft für die Gesunden; es war noch nicht leicht in Christenlanden ein solcher Jammer erhört worden.
     </p>
-    <p xml:id="eco_de_0000129_200">
+    <p xml:id="eco_de_0000200_200">
      Vor einer dieser Hütten saß im Abendlicht ein Mägdlein, ein Kind von bald vier Jahren, allein, allein auf der weiten Gotteswelt. Vater, Mutter und Geschwister waren nach und nach gestorben; die kleine Lina hatte nicht verstanden, wie denn all der Jammer gekommen; sie war wie durch ein Wunder gesund geblieben, wenn auch zart und dünn wie ein Fädelein. Sie war herumgetrippelt an den elenden Lagern der Ihrigen, hatte den Kranken Wasser gebracht, wenn sie danach riefen – sonst hatte sie ihnen ja nichts zu bringen. Sie hatte an alten Brotrinden, an getrockneten Rüben genagt, die ihre Mutter, die letzte, welche starb, ihr noch zugeschoben.
     </p>
-    <p xml:id="eco_de_0000129_210">
+    <p xml:id="eco_de_0000200_210">
      Heute hatte man auch die Mutter fortgeschafft; das Kind hatte geweint, bitterlich, schmerzlich – es mußte kaum warum; jetzt saß es auf der Schwelle der elenden Hütte, mutterseelenallein. Wer noch lebte in der verpesteten Gegend, der hatte für sich zu sorgen, keine Seele bekümmerte sich um die Waise.
     </p>
-    <p xml:id="eco_de_0000129_220">
+    <p xml:id="eco_de_0000200_220">
      Die Sterne stiegen auf; es blickte hinauf, sie funkelten so hell. Niemand hatte der kleinen Lina noch von dem Vater im Himmel erzählt, von dessen ewiger Macht und Liebe die Sterne uns verkünden; ach, das arme Kind hatte auch noch wenig erlebt, das ihr sagen konnte von einem gütigen Vater; aber es freute sich doch an den schönen Sternlichtern und schaute hinauf, bis der bitterliche Frost, der durch ihre dünnen Kleidchen zog, es mahnte, ein Obdach zu suchen.
     </p>
-    <p xml:id="eco_de_0000129_230">
+    <p xml:id="eco_de_0000200_230">
      Es graute dem Kind, in die Hütte zurückzukehren, wo sie alle gestorben waren. Es fühlte den entsetzlichen Pesthauch, der da drinnen wehte, auch wenn es niemand davor warnte. In der Nahe war ein Stall, wo ein Bauer, der noch zu den Wohlhabenden gehörte, eine Kuh und ein paar Ziegen stehen hatte; die Thür war angelehnt: da schlüpfte die kleine Lina hinein. Es war warm darin und die Ausdünstung der Tiere viel besser noch als die Pestluft der Hütte; sie grub sich ein in ein Häuflein Heu und Stroh, das in der Ecke war. Da lag sie, verlassen, verloren, vergessen. Aber es hat doch noch ein Stern durch das Fensterlein geschienen, gerade auf das arme Kind, das da eingeschlummert war, friedlich, wie in einem Bette.
     </p>
-    <p xml:id="eco_de_0000129_240">
+    <p xml:id="eco_de_0000200_240">
      In der höchsten Not kam die beste Hilfe. Der Notruf der armen Gemeinden war weithin gedrungen; es kamen Geldmittel, Lebensmittel, Kleider und – was das Beste von allem – es kamen hilfreiche Menschen.
     </p>
-    <p xml:id="eco_de_0000129_250">
+    <p xml:id="eco_de_0000200_250">
      Die Johanniter, eine Gesellschaft von Männern meist aus hohen Ständen, die sich nach dem Beispiel der ersten Christen dem Dienste der Armen und Kranken widmen, sandten Aerzte, sandten Wein, Lebensmittel, eiserne Oefen zur Erwärmung der elenden Hütten; sie ließen die hungernden Kinder in den Armenschulen speisen, ja sie kamen selbst und fürchteten sich nicht vor den verpesteten Wohnungen, um den Unglücklichen Hilfe zu bringen.
     </p>
-    <p xml:id="eco_de_0000129_260">
+    <p xml:id="eco_de_0000200_260">
      Männerhilfe allein reicht aber nicht aus bei Kranken; da kam noch eine edle Frau, die Gräfin Anna Stolberg, mit zwei Diakonissinnen zur Zeit, wo die Not am höchsten war. Die Johanniter hatten, so gut es in der Eile möglich war, Krankenhäuser errichten lassen mit luftigen, trockenen Zimmern, dahin man die armen Kranken geschafft hatte. Und wie Engel des Trostes wandelten nun die Diakonissinnen in diesen Gemächern des Jammers, die noch lange nicht ausreichen wollten für all die Kranken. Reine Betten wurden hergeschafft, die Kranken gebadet, gelabt und erquickt; ohne Scheu vor der grauenvollen Krankheit waren die Schwestern Tag und Nacht um sie, zur Hilfe und Erquickung der Lebenden, zum Trost der Sterbenden.
     </p>
-    <p xml:id="eco_de_0000129_270">
+    <p xml:id="eco_de_0000200_270">
      Mutter Anna, so hieß die Gräfin Stolberg als Oberin des Diakonissenhauses, ging auch in den elenden Hütten umher, um zu sehen, wo noch Kranke zu retten, Gesunde zu pflegen waren. Sie fürchtete keine noch so verpestete Wohnung, und manchem Kranken, an dessen Bett sie wie ein Engel getreten, ist noch in der letzten Stunde ein freudiger Glaube an den Vater im Himmel aufgegangen, da es auf der Erde so gute Menschen gebe. Aber Mutter Anna hatte ihre Kraft erschöpft; sie wurde krank, mußte abreisen nach Haus und ist bald darauf in der Heimat sanft und selig entschlafen.
     </p>
-    <p xml:id="eco_de_0000129_280">
+    <p xml:id="eco_de_0000200_280">
      Die Not in Masuren war damit aber noch nicht vorüber, und wenn auch die Gräfin Stolberg ihr Leben eingebüßt hatte im Dienst der Liebe, so fanden doch noch andere Diakonissinnen den Mut, hinzureisen in die unglückliche Gegend, und auch sie brachten Trost und Hilfe, wo sie konnten.
     </p>
-    <p xml:id="eco_de_0000129_290">
+    <p xml:id="eco_de_0000200_290">
      So kam denn eines Abends Schwester Luise, eine dieser Diakonissinnen, recht müde von dem Gang durch eines der armseligen Dörfchen zurück; da sah sie auf der Schwelle einer Stallthür ein Mägdlein sitzen, elend, schmutzig, mit verwirrten Haaren, in Lumpen gekleidet.
     </p>
-    <p xml:id="eco_de_0000129_300">
+    <p xml:id="eco_de_0000200_300">
      Sie ging zu ihm hin, wie sie nach allen Verlassenen und Verkümmerten auf ihrem Wege sah; auf dem blassen, schmalen Gesichtchen, in den klaren Äuglein dieses Kindes lag unter Schmutz und Lumpen noch etwas besonders Holdseliges, das sie zu ihm hinzog.
     </p>
-    <p xml:id="eco_de_0000129_310">
+    <p xml:id="eco_de_0000200_310">
      »Wo wohnst du, Kleine?« fragte sie.
     </p>
-    <p xml:id="eco_de_0000129_320">
+    <p xml:id="eco_de_0000200_320">
      »Da,« sagte das Kind freundlich, auf die Stallthür zeigend.
     </p>
-    <p xml:id="eco_de_0000129_330">
+    <p xml:id="eco_de_0000200_330">
      »Ach geh, da wirst du nicht wohnen! Wo sind denn deine Eltern, deine Geschwister?«
     </p>
-    <p xml:id="eco_de_0000129_340">
+    <p xml:id="eco_de_0000200_340">
      »Alle, alle tot,« sagte die kleine Lina ganz ruhig; sie wußte es ja schon lange.
     </p>
-    <p xml:id="eco_de_0000129_350">
+    <p xml:id="eco_de_0000200_350">
      Eben als die Schwester sich umsah, wen sie noch fragen könnte, kam der Mann, dem der Stall gehörte, um nach seinem Vieh zu sehen. »Gehört die Kleine hierher?« fragte ihn Schwester Luise.
     </p>
-    <p xml:id="eco_de_0000129_360">
+    <p xml:id="eco_de_0000200_360">
      »Die gehört eigentlich gar niemand,« sagte der Mann; »ihre Leute sind alle gestorben und haben thut sie auch nichts. Es ist schon einige Zeit her, da hab' ich sie eines Morgens in der Ecke von meinem Stall gefunden; in ihr Erdloch, wo all ihre Leute gestorben waren, wollte sie nicht wieder hinein, nehm's ihr nicht übel. Heimnehmen konnt' ich sie nicht, habe selbst nicht viel Platz, und man wußte noch nicht, ob nicht das Gift schon in ihr steckt. Aber ich bin ein barmherziger Mensch, in meinem Stall habe ich sie gelassen und habe ihr auch mehr Stroh gegeben, daß sie ganz warm liegt; wenn ich das Vieh füttere, bring' ich ihr allemal einen Bissen mit, und wenn die Sonne scheint, kann sie heraussitzen auf die Schwelle.«
     </p>
-    <p xml:id="eco_de_0000129_370">
+    <p xml:id="eco_de_0000200_370">
      Der »barmherzige Mensch« sah nach seinem Vieh; Schwester Luise aber nahm das Kind, das gleich gar zutraulich sein mageres Händchen in ihre Hand legte, mit sich; sie wollte ihr bei den Diakonissinnen eine Unterkunft suchen, bis sie sonst für das verlassene Tröpflein sorgen konnte.
     </p>
-    <p xml:id="eco_de_0000129_380">
+    <p xml:id="eco_de_0000200_380">
      »Willst du mit mir kommen?« fragte sie.
     </p>
-    <p xml:id="eco_de_0000129_390">
+    <p xml:id="eco_de_0000200_390">
      »Freilich, gern,« sagte freundlich die Kleine und trippelte fröhlich fort mit der guten fremden Frau. Es war vollends dunkel geworden; aber der Stern funkelte hell, der durch das Fensterlein geschienen hatte in den Stall, wo das Mägdlein gelegen, verlassen und vergessen.
     </p>
-    <p xml:id="eco_de_0000129_400">
+    <p xml:id="eco_de_0000200_400">
      Im Pfarrhaus zu Wiesenau saßen sie beim Abendessen. Um diese Zeit pflegte es besonders still dort zu sein. Die Leute im Dorf, die früh aufstehen und hart arbeiten, die gehen auch bald zur Ruhe, und im Pfarrhaus hatte niemand mehr etwas zu thun um diese Zeit, wenn man nicht einmal den Herrn Pfarrer zu einem Todkranken holen wollte.
     </p>
-    <p xml:id="eco_de_0000129_410">
+    <p xml:id="eco_de_0000200_410">
      Nur dreimal in der Woche schellte abends noch das Glöcklein an der hinteren Hausthür, und das war ein willkommener Klang; dann kam Kunle, der alte Gemeindebote, der dreimal wöchentlich zur Oberamtsstadt wanderte und Zeitungen und Briefe herausbrachte. Sein Kommen war immer eine angenehme Unterbrechung; zuerst las man die Briefe, wenn solche da waren; sodann nahm der Pfarrer den einen Flügel der Zeitung, um zu sehen, wie es in der Welt draußen zuging, die Frau Pfarrerin den anderen, in dem Traueranzeigen und sonstige Nachrichten kamen, und man sprach darüber, bis es Zeit war, den Abendsegen zu lesen und zu Bette zu gehen.
     </p>
-    <p xml:id="eco_de_0000129_420">
+    <p xml:id="eco_de_0000200_420">
      Kunle, der Bote, betrieb sein Amt mit Verstand; die Zeitung, die er ja offen erhielt, studierte er unterwegs, und während er das Gläslein Liqueur austrank, das ihm an kühlen Abenden die Frau Pfarrerin einschenkte, teilte er schon das Merkwürdigste daraus mit, soweit er's verstand: »Bei den Franzosen sieht's letz aus!« oder: »I moi, der Türk' wöll se au wieder rega.« Die Briefe, die ließ er natürlich unberührt; aber er war so bekannt mit dem Briefwechsel im Pfarrhaus, daß er gleich an Handschrift und Postzeichen erkannte, woher sie kamen. So überreichte er auch heute der Frau Pfarrerin einen »von der Frau Mama«; den anderen, an den Pfarrer, besah er mit einem gewissen Respekt: »Der kommt weit her, aus dem Preußischen!«
     </p>
-    <p xml:id="eco_de_0000129_430">
+    <p xml:id="eco_de_0000200_430">
      »Aus Duisburg, von meinem alten Freund,« sagte der Pfarrer, als der Bote mit etwas unbefriedigter Neugier abgegangen war, und las den Brief mit großer Aufmerksamkeit.
     </p>
-    <p xml:id="eco_de_0000129_440">
+    <p xml:id="eco_de_0000200_440">
      »Luise,« sagte er, als er ihn gelesen, zu seiner Frau mit einer gewissen Feierlichkeit, so daß sie Brief und Strickzeug liegen ließ und zu ihm aufsah; »Luise, der Pfarrer schreibt, unter den Kindern aus Ostpreußen, die im Waisenhause zu Duisburg untergebracht worden sind, sei ein ganz und gar verwaistes Mägdlein, ein besonders liebes Kind. Was meinst du, Luise? Wir haben oft schon davon gesprochen, ein Kind anzunehmen. Lies einmal den Brief selbst!« Frau Luise las den Brief, sie legte ihn nieder mit feuchten Augen und sagte: »Wenn du meinst, so wollen wir's versuchen in Gottes Namen.« – »Wir wollen's noch beschlafen,« sagte der Pfarrer.
     </p>
-    <p xml:id="eco_de_0000129_450">
+    <p xml:id="eco_de_0000200_450">
      Am anderen Morgen hatten beide ein freudiges Herz dazu, fast noch mehr als am Abend, und so schrieb der Pfarrer nach Duisburg, er wolle das Kind abholen, sobald die Jahreszeit zur Reise günstiger geworden sei, und wolle es treulich halten und erziehen wie ein eigen Töchterlein. Dies Kind aber war die kleine Lina, welche die Diakonissin in jener Nacht von der Schwelle des Stalles weggeführt hatte.
     </p>
-    <p xml:id="eco_de_0000129_460">
+    <p xml:id="eco_de_0000200_460">
      Es war voller, schöner Frühling geworden und man hoffte allenthalben, daß jetzt ein segensreiches Jahr den Jammer der vorigen gut machen werde. Im Pfarrgarten zu Wiesenau war es schön grün und blühten Maienblumen und Jelängerjelieber, ja die Rosen fingen schon an, Knospen zu treiben.
     </p>
-    <p xml:id="eco_de_0000129_470">
+    <p xml:id="eco_de_0000200_470">
      Oben im Pfarrhaus waren die Fenster geöffnet, damit die milde Frühlingssonne hereinscheine; die Frau Pfarrerin hatte heute gar nötig zu schaffen und war den ganzen Tag nebst Lisbeth, ihrer treuen Dienerin, emsig treppauf und treppab gegangen. Es war ein wichtiger Tag, der Pfarrer sollte diesen Abend noch eintreffen mit der kleinen Pflegetochter.
     </p>
-    <p xml:id="eco_de_0000129_480">
+    <p xml:id="eco_de_0000200_480">
      Nun war alles fertig. In der Wohnstube war schon der Tisch zum Abendbrot bereit, obgleich es noch heller Tag war. Es waren heute drei Gedecke gelegt; auf dem dritten Platz stand ein kleiner Zinnteller, der hell wie Silber glänzte; auf dem hatte die Frau Pfarrerin gespeist, wie sie als Kind noch am Tisch ihrer Eltern gesessen hatte. »Mein silberig's Tellerlein« hatte sie es genannt; jetzt hatte sie's wieder hervorgeholt und schön blank geputzt für das neue Pflegekind.
     </p>
-    <p xml:id="eco_de_0000129_490">
+    <p xml:id="eco_de_0000200_490">
      Sie ging ins Schlafzimmer. Da stand neben ihrem Bett eine neue, kleine Bettstelle mit schneeweißen Kissen und Linnen und Decken; am Fenster ein Kindertischchen nebst einer kleinen Bank mit Lehne daran; auf der Bank saß eine schön geputzte Puppe im Rosakleid, auf dem Tischchen lag ein buntes Bilderbuch; die gute Pfarrfrau hatte sich recht Gewalt anthun müssen, nicht noch mehr zu rüsten, sie hätte gern alles, was schön war, dem Kinde zur Freude bereitet. Mit Kleidern wollte sie noch warten, bis das Kind selbst da war; nur schönes Weißzeug, Strümpfe, Hemdchen und Höschen lagen zierlich geordnet in dem oberen Fach ihres Weißzeugschrankes.
     </p>
-    <p xml:id="eco_de_0000129_500">
+    <p xml:id="eco_de_0000200_500">
      Eben überschaute sie alles mit stiller Freude, da klopfte es und kam die Frau Bürgermeisterin mit einem Anliegen an den Herrn Pfarrer; in heller Herzensfreude zeigte ihr die Pfarrfrau, was sie alles für ihren Pflegling bereitet; man wußte schon im Dorf, warum der Pfarrer abgereist war. »Ist recht schön,« sagte die Frau Bürgermeisterin, die im Dorf für eine sehr gescheite Frau galt, »fast gar zu schön. Wenn's nur auch gut geht! Ist immer ein gewagtes Ding, so einen fremden Vogel in sein Nest zu setzen.«
     </p>
-    <p xml:id="eco_de_0000129_510">
+    <p xml:id="eco_de_0000200_510">
      »Nun, wir wollen zu Gott hoffen, daß es gut gehe,« sagte die Pfarrfrau; »es ist ja ein ihm wohlgefälliges Werk, sich einer Waise anzunehmen, und das Kind ist so jung, da ist es noch leicht zu erziehen.«
     </p>
-    <p xml:id="eco_de_0000129_520">
+    <p xml:id="eco_de_0000200_520">
      »Mag wohl sein, aber so ein Kind von Lumpenleuten aus dem Schlowakenland, das ist doch rischkiert, und wenn's schlecht geht, hat man's nicht gleich wieder los. Ein Schwager selig von meiner Base hat einmal einen Waisenbuben aufgenommen, der ist spater durchgegangen und hat einen roten Regenschirm und die Geldbüchse mitgenommen.«
     </p>
-    <p xml:id="eco_de_0000129_530">
+    <p xml:id="eco_de_0000200_530">
      »Das fürchte ich zunächst nicht,« sagte die Pfarrfrau lachend und stellte ihren Regenschirm in den Kasten. Sie war aber froh, als die Frau Bürgermeisterin mit ihrer Weisheit abgezogen war; ihr Gerede hatte doch ihr freudiges Herz getrübt. Da trat sie wieder an das kleine Bett, faltete die Hände und bat Gott, daß er des Kindes Eingang und ihr Werk an ihm segnen möge; dann war sie wieder getrost.
     </p>
-    <p xml:id="eco_de_0000129_540">
+    <p xml:id="eco_de_0000200_540">
      Aber lang wurde ihr allmählich die Zeit und sie stand wieder und wieder am Fenster der Wohnstube, das auf die Straße ging. Der Pfarrer wollte mit einem Gefährt von der Stadt her kommen, nun sollten sie doch da sein! Die Sonne neigte sich schon zum Untergang.
     </p>
-    <p xml:id="eco_de_0000129_550">
+    <p xml:id="eco_de_0000200_550">
      Da – schellte mit einemmal das Glöcklein der hinteren Hausthür. Die Pfarrerin eilte hinaus; wie kam's denn, daß sie durch die Gartenthür kamen und nicht von der Straße her? Der Pfarrer war schon eingetreten. Wie ein lauterer Goldstrom flutete der Abendsonnenschein durch die Thür; auf der Schwelle in all dem Glanz stand ein holdseliges kleines Mädchen mit hellen Löckchen ums Gesicht und großen, verwunderten Augen. »Es geht ein Engel durch das Haus,« war der unwillkürliche Gedanke der Pfarrfrau, als sie das Kind so im Sonnenlichte stehen sah, und mit der Liebe einer eigenen Mutter schloß sie das Mägdlein in die Arme.
     </p>
-    <p xml:id="eco_de_0000129_560">
+    <p xml:id="eco_de_0000200_560">
      Die Kleine war sehr müde von der Reise und verfiel alsbald in tiefen Schlummer, als man sie in ihr Bettchen gelegt. Der Pfarrer erzählte, wie es gekommen, daß sie durch den Garten eingetreten; er hatte, da der Abend so schön war, das Gefährt am Eingange des Dorfes zurückgeschickt – Gepäck hatte die kleine Lina nicht mitgebracht – und war zu Fuß durch den Garten mit ihr gegangen. Es war dem Pfarrer, der noch nie mit Kindern gereist war, vorher etwas bange gewesen vor der weiten Reise mit der Kleinen. »Aber ich sage dir, Luise,« sagte er ganz glücklich, »es ist ein herziges Ding und hat mir gar keine Last und Mühe gemacht; so zutraulich, verständig und folgsam hat sie sich zu mir gehalten, so zufrieden mit allem! – Luise, ich glaube, wir haben's gut getroffen.«
     </p>
-    <p xml:id="eco_de_0000129_570">
+    <p xml:id="eco_de_0000200_570">
      Die Pfarrerin beugte sich mit inniger Liebe über das schlafende Gesichtchen und konnte kaum erwarten, bis der Morgen kam, wo sie ihr neues Eigentum ganz in Besitz nehmen durfte.
     </p>
-    <p xml:id="eco_de_0000129_580">
+    <p xml:id="eco_de_0000200_580">
      Die Kleine lag noch in tiefem Schlummer, als ihre Pflegemutter leise hinausging, um das Frühstück zu besorgen. Sie war erwacht, als diese zurückkam; mit verwirrten Härchen, aber mit rot geschlafenen Bäcklein saß sie aufrecht und strich mit den dünnen Händchen vergnügt über das weiße Deckbett. »Das schöne Bettlein gehört mir?« fragte sie mit lachendem Gesichtchen und glänzenden Äuglein. – »Das ist dein,« rief die neue Mutter und schloß sie in die Arme; »und sag' mir, Lina, willst du mich lieb haben?« – »Gewiß,« sagte das Kind und schmiegte ihr Köpfchen an sie wie ein Hühnchen unter die schirmenden Flügel der Henne.
     </p>
-    <p xml:id="eco_de_0000129_590">
+    <p xml:id="eco_de_0000200_590">
      »Nun aber ankleiden, Lina,« sagte die Mutter. – »Ja,« nickte diese ernsthaft; »Strümpflein zuerst, dann das Röckchen,« und sie that das ordentlich, wie sie es im Waisenhaus gewöhnt worden war; »dann aber waschen,« sagte sie mit freundlichem Nicken und bot willig ihr Gesichtchen dar. Der Anzug war bald in Ordnung; nur die Härchen waren schlimm verwirrt worden auf der Reise, da der Herr Pfarrer nicht, damit umgehen konnte, kleine Mädchen zu frisieren. Es war der neuen Mutter bange auf das Geschrei, wie sie es schon von Kindern beim Kämmen gehört hatte; Lina schrie nur einmal, als sie gerupft wurde; »es thut aber nicht lange weh,« sagte sie selbst wieder tröstend, wie man's ihr im Waisenhaus gesagt hatte. – »Ja, es muß sein, Lina, deine Härchen werden sonst ganz wirr,« sagte die Mutter. – »Und dann wird's nachher so schön!« sagte die Kleine wieder beruhigt und ließ sich ohne einen Schrei glatt und fertig kämmen.
     </p>
-    <p xml:id="eco_de_0000129_600">
+    <p xml:id="eco_de_0000200_600">
      Sie legte ihr Händchen zutraulich in das der neuen Mutter, als es hinunterging zum Frühstück. Scheu war das Kind nicht, das so wild aufgewachsen und in letzter Zeit mit vielerlei Leuten in Verkehr gekommen war; sie war voll lauter, heller Freude und Verwunderung über alles, was sie sah. »O, wie schön!« rief sie, als man ihr ein Schüsselchen von blauem Porzellan gab, und »o, wie gut!« als sie die süße Milch und die frische Semmel verzehrte. Am Fenster hing ein Kanarienvogel im Käfig, über den sie in hellen Jubel ausbrach; als aber das Frühstück vorüber war und die Mutter sagte: »So, Lina, nun gehen wir hinauf, komm, du darfst die Löffelchen tragen!« da nickte sie zufrieden: »Ja, Löffelein tragen,« und trippelte emsig hinterher.
     </p>
-    <p xml:id="eco_de_0000129_610">
+    <p xml:id="eco_de_0000200_610">
      Oben da durfte sie nun die neue Puppe und den eigenen kleinen Tisch in Besitz nehmen, das war ein Glück! Daheim hatte sie nie eine gesehen; im Waisenhaus waren so ein paar verwahrloste Puppen mit zerstoßenen Nasen als allgemeines Eigentum dagewesen, die waren aber nie an die kleine Lina gekommen, und nun so eine schöne, nagelneue Puppe im Rosakleid, die noch ein Strohhütchen auf hatte, ganz eigen! Sie nahm sie in den Arm, dann hielt sie sie wieder von sich weg, um sie zu betrachten; dann sprang sie mit ihr herum oder setzte sie respektvoll in die Ecke des Bänkchens und machte ihr Besuch; von all den freudebringenden Bewohnern aus dem Puppenland hat wohl keines ein Kind glücklicher gemacht als die neue Marie, wie sie nach dem Rat der Mutter getauft wurde, ihre kleine Herrin.
     </p>
-    <p xml:id="eco_de_0000129_620">
+    <p xml:id="eco_de_0000200_620">
      Ein neues und fröhliches Leben begann im Pfarrhause mit dem kleinen Töchterlein. So viel Glück von dem Kinde hatte sich die Pfarrfrau nicht versprochen, wenn sie sich auch von Herzen darauf gefreut hatte. Sie hatte gefürchtet, ein Kind, unter so rohen, verkümmerten Leuten aufgewachsen, werde vielleicht unartige Angewöhnungen, gemeine Redensarten angenommen haben; aber es war, als ob ein Engel dies Kind behütet hätte vor allem Schlechten und Unreinen. Der Gehorsam, den manche Kinder so schwer lernen, war der kleinen Lina ganz natürlich; ein Wort der Mutter genügte, wo ihr etwas zu verweisen oder zu sagen war. »Nicht wahr, so essen?« fragte sie, nachdem man ihr einmal gezeigt, wie sie Löffel und Gabel halten solle, und gab sich alle Mühe, es in vorgeschriebener Weise zu thun; »so ist's recht!« lobte sie dann sich selber vergnügt, wenn die Mutter ihr freundlich zunickte. »Ja nicht das schöne Schürzlein verderben!« ermahnte sie sich mit den Worten der Mutter, wenn sie sich zum Essen setzte, und strich nachher vergnügt daran hinunter, wenn es rein geblieben war.
     </p>
-    <p xml:id="eco_de_0000129_630">
+    <p xml:id="eco_de_0000200_630">
      Wunderbar, daß dem Kinde, in einem Erdloch und im Stalle aufgewachsen, der Sinn für Ordnung und Reinheit wie angeboren schien! Schon im Waisenhaus hatte sie gelernt, ihre Kleider beim Zubettegehen nett und ordentlich aufeinander zu legen, und in der kleinen Wirtschaft mit Puppe und Geschirrlein auf ihrem Tischchen und in der Schublade hielt sie allezeit zierliche Ordnung.
     </p>
-    <p xml:id="eco_de_0000129_640">
+    <p xml:id="eco_de_0000200_640">
      Lisbeth, die Hausmagd, war zuerst etwas bedenklich gewesen, als sie gehört, daß ihr Herr ein ganz armes, heimatloses Kind von den Wasserpolacken heraus als ein eigenes Kind ins Haus nehmen wolle, und sie war fast ärgerlich geworden, als man so viel Umstände und Zubereitungen für die Aufnahme von dem Bettlerskind gemacht.
     </p>
-    <p xml:id="eco_de_0000129_650">
+    <p xml:id="eco_de_0000200_650">
      Aber schon vom ersten Morgen an, als die Kleine in ihre Küche getrippelt kam und ihr die Löffelein brachte: »Da, die sollst du wieder schön machen!« als sie so vergnügt das blinkende Küchengerät betrachtete und sich hoch verwunderte, daß Lisbeth die schwere Wassergölte auf dem Kopf tragen konnte, hatte die Kleine ihr Herz gewonnen, und oft bemerkte sie gegen die Pfarrfrau: »'s ist wahr, 's ist ein lieb's Kind; weiß Gott, wo's bei dem herkommt, daß 's so brav ist; die reichsten Leute können ihre Kinder oft nicht so ziehen!«
     </p>
-    <p xml:id="eco_de_0000129_660">
+    <p xml:id="eco_de_0000200_660">
      Und wie glücklich war das Kind in seiner neuen Heimat! Es hatte nichts Lautes, nichts Lärmendes, wie es ja auch zart von Gestalt war; aber wie ein munteres Vöglein hüpfte es den ganzen Tag und sang leise vor sich hin. Es war ihm alles so neu und alles so schön, und so jung es war, es hatte seine Äuglein hell offen für alles Gute und fand immer etwas, über das es sich freuen konnte.
     </p>
-    <p xml:id="eco_de_0000129_670">
+    <p xml:id="eco_de_0000200_670">
      Wie war es so vergnügt, wenn es mit der Mutter in den Garten durfte und da all die schönen Blumen sah, das arme Kind, dem bisher so gar keine Blume geblüht hatte; es wußte bald, von welchen Blumen es brechen durfte und von welchen nicht und spielte glückselig mit gelben Ringelblumen und blauem Rittersporn oder was eben im Überflusse wuchs. Am liebsten war ihm, wenn es der Mama helfen durfte; es hielt so wichtig sein kleines Körbchen unter, wenn sie Bohnen pflückte; auch las es Unkraut zusammen, das sie ausgerupft hatte: es kam sich da ganz wie eine große, nützliche Person vor.
     </p>
-    <p xml:id="eco_de_0000129_680">
+    <p xml:id="eco_de_0000200_680">
      Besonders stolz und glücklich war die kleine Lina, wenn sie hie und da, wenn Mama nicht Zeit hatte, mit dem Papa allein spazieren gehen durfte und Mauserle, der getreue kleine Haushund, der zu ihren besonderen Freunden gehörte, nebenher sprang. Fröhlich hüpfte sie an des Vaters Hand dahin und hatte stets eine Menge zu fragen und zu erzählen; dazwischen pflückte sie schöne Sträußchen von Gänseblumen, gelben Butterblumen und blauen Glocken und fragte immer ganz zuversichtlich, wenn sie dieselben dem Papa verehrte: »Aber nicht wahr, das ist schön?« – »Freilich,« sagte der, »nur kann ich's nicht gut tragen, willst du's nicht behalten?« – »O ja,« sagte sie ebenso vergnügt; »dann bringen wir's der Mama mit,« und sie trottelte zufrieden mit ihrem Schatz heim. Auch in Papas Studierstube durfte sie zuweilen kommen, regelmäßig am Sonntagabend, wo er ihr die alte Bilderbibel zeigte und daraus erzählte, soweit es die Kleine schon verstehen konnte. Wie wunderbar fiel die Kunde von dem Vater im Himmel, von dem Heiland, der auf die Erde herniedergekommen, um den armen Menschen zu helfen, in des Kindes Seele, dem niemand noch die selige Botschaft gebracht; wie freuten ihre kindlichen Fragen den Pfarrer, der sonst bei Kindern so viel Gleichgültigkeit und Stumpfheit fand!
     </p>
-    <p xml:id="eco_de_0000129_690">
+    <p xml:id="eco_de_0000200_690">
      »Und alles sieht der liebe Gott vom Himmel 'runter?« fragte sie einmal.
     </p>
-    <p xml:id="eco_de_0000129_700">
+    <p xml:id="eco_de_0000200_700">
      »Alles, liebes Kind.«
     </p>
-    <p xml:id="eco_de_0000129_710">
+    <p xml:id="eco_de_0000200_710">
      »Da hat er mich auch gesehen, wie ich nicht gewußt habe, wo ich schlafen soll und in den Stall geschlüpft bin?«
     </p>
-    <p xml:id="eco_de_0000129_720">
+    <p xml:id="eco_de_0000200_720">
      »Auch dich, Kind, und er hat es uns ins Herz gegeben, daß wir dich zu uns holen sollen.«
     </p>
-    <p xml:id="eco_de_0000129_730">
+    <p xml:id="eco_de_0000200_730">
      »Aber das hat der liebe Gott gescheit gemacht!« rief die kleine Lina und schlug ihre Händlein zusammen.
     </p>
-    <p xml:id="eco_de_0000129_740">
+    <p xml:id="eco_de_0000200_740">
      Sie hatte ein wunderbares Gedächtnis; die schönen Liederverse, die ihr die Mutter sagte, behielt sie wie von selbst, und es klang so gar lieblich, wenn sie mit ihrem hellen Stimmlein vor sich hin sagte:
     </p>
-    <p xml:id="eco_de_0000129_750">
+    <p xml:id="eco_de_0000200_750">
      »Weil ich Jesu Schäflein bin, Freu' ich mich nur immerhin Über meinen guten Hirten, Der mich wohl weiß zu bewirten. Der mich liebet, der mich kennt Und bei meinem Namen nennt.«
     </p>
-    <p xml:id="eco_de_0000129_760">
+    <p xml:id="eco_de_0000200_760">
      Wie nachdenklich schaute sie mit den klaren Augen zum sternenhellen Himmel auf, wenn sie am Fenster saß, auf des Vaters Schoß geschmiegt. »Nicht wahr, Papa, das sind nur Löchlein in dem dunkelblauen Wolkenhimmel,« fragte sie, »und da guckt der goldig helle Himmel ein klein, klein bißchen heraus? Oder sind's die Lichter von den hellen, schönen Häusern, darin die Engelein wohnen?«
     </p>
-    <p xml:id="eco_de_0000129_770">
+    <p xml:id="eco_de_0000200_770">
      Gar manches Zeichen tiefen Nachdenkens in dem Kinderköpfchen überraschte die Pflegeeltern, denen der Besitz des ungewöhnlich begabten und liebenswürdigen Töchterleins immer lieber, immer reicher und eigener wurde.
     </p>
-    <p xml:id="eco_de_0000129_780">
+    <p xml:id="eco_de_0000200_780">
      Auch den Dorfkindern war das »Pfarrlinele« höchst wichtig und es versammelte sich eine ganze Schar um sie, als sie zum erstenmal in einem der zierlichen neuen Kleidchen, die ihr die Mama gemacht, mit ihrer Puppe auf der Hausstaffel erschien. Lina war auch vor den Kindern nicht scheu und hielt ihnen freundlich die Puppe hin: »Nicht wahr, die ist schön?« – »Jo freilich,« sagten die kleinen Mädchen und guckten begehrlich darnach. – »Darfst sie ein klein bißchen in den Arm nehmen,« erlaubte die gutmütige Kleine und gab sie der nächsten; »du auch, du auch!« dann zu den anderen, bis die schöne Marie bei all den Mädchen die Runde gemacht hatte. Lina war bald mit ihnen allen bekannt; die Mutter wollte nicht, daß sie ihre wilden Spiele teilen oder mit ihnen herumstreifen solle; aber ein paar ordentliche Kinder durften abends im Hof mit ihr spielen, und jedes war glücklich, wenn es dem Pfarrlinele schönes Obst, frischgebackenen Kuchen oder im Herbst reife Trauben bringen konnte. Das war ja auch lauter neue Herrlichkeit – die Beeren im Garten, die prächtigen Bäume; von denen rote Apfel und blaue Pflaumen geschüttelt wurden – für das arme Kind, das kaum ein paar elende, verkrüppelte Fruchtbäume gesehen hatte. Wie lustig sprang sie mit den anderen aufzulesen, und wie erstaunt betrachtete sie die hoch aufgehäuften Körbe von der schönen Frucht, die ihr so kostbar schien! »Aber du, das ist gut!« hatte sie höchst verwundert gerufen, als sie die erste süße Pflaume aß, die ihr Nachbars Jakob am Gartenzaun etwas blöckisch darbot. »Du dumm's Pfarrlinele, des weiß i scho lang,« antwortete der Bube, dem das gar nichts Neues mehr war.
     </p>
-    <p xml:id="eco_de_0000129_790">
+    <p xml:id="eco_de_0000200_790">
      Das Wunderbarste war noch die Traubenlese, wo sie selbst mit einem kleinen Häpchen in ein nagelneues Kübelein Trauben schneiden durfte, das Kind der düsteren Ebene, das nie in seinem Leben einen Weinberg erblickt hatte.
     </p>
-    <p xml:id="eco_de_0000129_800">
+    <p xml:id="eco_de_0000200_800">
      Die gute Pfarrfrau lebte jetzt erst ihre eigene Kinderzeit wieder durch und viel schöner noch, als sie selbst sie empfunden, weil diesem Kinde alles so zu Dank und Freude ward.
     </p>
-    <p xml:id="eco_de_0000129_810">
+    <p xml:id="eco_de_0000200_810">
      Lina durfte auch Besuche mitmachen in den Pfarrhäusern der Nachbarschaft. Das herzige, freundliche Kind, das ein besonders gutes Gedächtnis auch für Bekannte hatte und nicht leicht ein Gesicht vergaß, das sie einmal gesehen, einen Namen, den sie einmal gehört, war überall willkommen, wo Kinder waren und wo keine waren; es belästigte niemand. In kinderlosen Häusern, wo nicht viel Spielzeug war, konnte es sich mit einer alten, verschollenen Puppe oder mit einem Fußschemel, der dann sein Hündlein war, höchst vergnügt unterhalten. Bei Kindern aber war die kleine Lina vollends die liebste Gespielin; mit ihr gab es nie Streit, jedes Spiel machte sie mit ihrem hellen, lachenden Gesichtchen so lustig mit, daß die anderen alle erst recht vergnügt wurden und sich schämten an ihrem kleinen Neiden und Streiten; und dazu that die kleine Lina doch gar nichts, als daß sie selbst zufrieden war und freundlich gegen alle.
     </p>
-    <p xml:id="eco_de_0000129_820">
+    <p xml:id="eco_de_0000200_820">
      Hoch willkommen war sie im Doktorhaus der kleinen Nachbarstadt, wohin sie manchmal mit den Eltern durfte. Dort hatte sie zwar nur Buben zu Spielkameraden, das Mägdlein war noch zu klein; aber es waren vier liebe, muntere, kleine Bursche, und wenn sonst die Buben oft meinen, es sei eine Schande, mit Mädchen zu spielen: um die kleine Lina bemühten sie sich alle. Es war so gar nett, wie die Kleine sich an allem freute, über alles sich verwunderte und so gut mit allem zu spielen wußte: da wollte dann jeder ihr sein Bestes und Schönstes bringen und zeigen. Eugen brachte die Bilderbücher, Max holte die Bleisoldaten und versicherte sie: »Ja, Lina, da können auch Mädchen mit spielen, sie dürfen dann Marketenderinnen werden.« Was das sei, wußte Linchen freilich nicht, war's aber auch zufrieden. Hermann, der wollte sie gar in den Stall zu den Pferden führen, an denen er so große Freude hatte; da fürchtete sie sich aber doch ein bißchen davor. Otto schlug immer zuerst vor, in den Garten zu gehen, und das war auch das Allervergnüglichste. Der Garten am Doktorhaus, darin viel Grasplätze und prächtige Obstbäume sind, war nach zwei Seiten beschattet von der uralten hohen Stadtmauer; dicht daran stößt ein hoher alter Turm mit einer Altane, auf der Sonntags die Musikanten einen schönen Choral blasen. Nach vorn ist die Mauer niedriger und steht eine Laube, von der man hinausschauen kann auf die Straße; da war denn das kleine Volk seelenvergnügt, ob's nun Stachelbeeren und Johannisbeeren zu pflücken gab, ob Birnen aufzulesen, die gar nirgends sonst so süß und gut wachsen, oder ob man sich tummelte mit Ball und Spiel auf dem grünen Rasenboden.
     </p>
-    <p xml:id="eco_de_0000129_830">
+    <p xml:id="eco_de_0000200_830">
      Lina war früher ermüdet als die Knaben; dann setzte sie sich in die Laube und schaute hinaus, was da alles zum Thor hinaus- und hereinging; es waren freilich meist Leute, die vom Felde kamen, Kühe, Schafe, Fuhrwerk; dann war's aber ein um so größeres Vergnügen, wenn eines etwas Besonderes entdeckte und rief: »Ich seh' eine schöne Frau!« oder: »Ich seh' eine Kutsch'!« Das Hinaussehen hätte können gefährlich werden; aber Lina, die nie vergaß, was man ihr befohlen hatte, hub allemal ihr Fingerlein in die Höhe, wenn eines sich zu weit hinausbiegen wollte, und sagte, wie ihr die Mutter eingeschärft: »Ja nicht hinausliegen!« und auch die größeren Jungen folgten willig dem kleinen Linchen.
     </p>
-    <p xml:id="eco_de_0000129_840">
+    <p xml:id="eco_de_0000200_840">
      So lebte und blühte das verlassene Waisenkind, das barmherzige Liebe am Weg aufgelesen hatte, fröhlich und glücklich in seiner neuen, guten Heimat, und man durfte wohl sagen, wie einst vom Jesuskinde: Es fand Gnade bei Gott und den Menschen. Selbst die Frau Bürgermeisterin mußte zugeben, daß bei diesem holdseligen Kinde all ihre finsteren Befürchtungen nicht eingetroffen seien. Weil sie aber eine Frau von ängstlichem Gemüt war, so sprach sie jetzt eine andere Sorge aus: »Ich fürchte nur, Frau Pfarrerin, das Kind ist zu brav, solche Kinder werden nicht alt.« Diese Sorge wollte die Pfarrfrau nicht an sich kommen lassen, blühte doch das Kind auf wie ein Röslein, wenn es auch immer zart blieb.
     </p>
-    <p xml:id="eco_de_0000129_850">
+    <p xml:id="eco_de_0000200_850">
      Vom Christtag, vom heiligen Weihnachtsabend hatte Lina durch die anderen Kinder auch gehört, und es klang ihr wunderbar, wenn sie ihr erzählten von dem Baum mit Lichtern, von schönen Sachen, die das Christkind bringe: dem armen Kind hatte ja nie eine Seele einen Weihnachtsbaum angezündet!
     </p>
-    <p xml:id="eco_de_0000129_860">
+    <p xml:id="eco_de_0000200_860">
      Der Christabend kam und die gute Pfarrfrau hatte sich viel mehr noch darauf gefreut als das Kind. Es war ja zum erstenmal, daß sie einen Weihnachtsbaum schmücken durfte; sie hatte lange schon allerlei heimlich vorbereitet, und Lina war manchmal zur Lisbeth in die Küche gekommen und hatte, mit dem Finger auf dem Mund, gesagt: »Gar nicht sehen, was Mama macht!« – »Nicht in die schöne Stube gehen!« wie es ihre Art war, es ernsthaft zu wiederholen, was ihr befohlen worden war.
     </p>
-    <p xml:id="eco_de_0000129_870">
+    <p xml:id="eco_de_0000200_870">
      Der heilige Abend kam, Linchen durfte unten beim Papa sein in seiner Studierstube, ja sogar auf seinem Schoß sitzen; man zündete da keine Lampe an, auch als es dunkel wurde. Der klare Mond und die hellen Sterne schienen herein, gerade auf des Kindes liebliches Angesicht. Oben hatte die Mama gar viel zu schaffen und zu sorgen.
     </p>
-    <p xml:id="eco_de_0000129_880">
+    <p xml:id="eco_de_0000200_880">
      Und der Pfarrer erzählte dem lauschenden Kinde von der ersten heiligen Christnacht, wie die Engel mit der seligen Botschaft nicht zuerst vor ein Königsschloß gekommen, sondern zu den armen Hirten einsam, draußen auf dem dunkeln Felde, und wie diese das Heilandskind im Stalle gefunden in der elenden Krippe und doch umstrahlt vom Licht und Glanze der Engel des Himmels. Linchen hörte die heilige Geschichte nicht zum erstenmal; diesmal aber durchzog es wunderbar ihr kleines Herz, wenn sie gedachte, was sie sonst fast vergessen hatte, wie sie einst kümmerlich und verlassen draußen auf der öden Heide gewesen und auch im Stall gelegen; und besser als viele Kinder, die in Glück und Behagen aufgewachsen sind, konnte sie begreifen, wie wunderbar den Hirten auf dem Felde zu Mute gewesen, als die Klarheit des Herrn sie umleuchtete.
     </p>
-    <p xml:id="eco_de_0000129_890">
+    <p xml:id="eco_de_0000200_890">
      »Kommt!« rief droben die Mutter; sie mußten ihren Weg noch im Dunkeln die Stiege hinaufkrabbeln; oben aber strahlte helles Licht durch die geöffnete Thür: da leuchtete ein Christbaum, auf dessen Spitze ein Engel schwebte mit goldenen Flügeln; gar zierlich aus Moos mit Blümlein und Steinchen gebildet stand da die Krippe mit dem göttlichen Kind, dabei Maria und Joseph, der Engel im weißen Gewand und die anbetenden Hirten.
     </p>
-    <p xml:id="eco_de_0000129_900">
+    <p xml:id="eco_de_0000200_900">
      Lina stand still mit leuchtenden Augen vor all der Herrlichkeit. Erst nach und nach konnte sie ihre anderen Gaben sehen und in Empfang nehmen: das neue warme Kleidchen und zierliche Pelzmützchen, die alte Puppe im neuen Gewand, daneben noch ein Kindchen im Korbwagen mit Häubchen und Wickelkissen – es war fast zu viel. Allmählich erst konnte sie ihre Freude aussprechen, sie mußte immer wieder die Hände zusammenschlagen und rufen: »O, wie schön!« ihrem Puppenkind ein Wiegeliedlein singen und es schlafen legen, und dann Fräulein Marie, ihre alte Puppe, wieder begrüßen und ihr all die neuen Sachen zeigen.
     </p>
-    <p xml:id="eco_de_0000129_910">
+    <p xml:id="eco_de_0000200_910">
      Essen konnte sie nicht an diesem Abend; aber sie folgte willig der Mutter, als diese sie zu Bett brachte. Fräulein Marie durfte diesmal im neuen Puppenwagen schlafen; das Wickelkind, das noch keinen Namen hatte, nahm sie ins eigene Bettchen mit sich.
     </p>
-    <p xml:id="eco_de_0000129_920">
+    <p xml:id="eco_de_0000200_920">
      Sie betete noch mit der Mutter das schöne Weihnachtsverslein, das sie gelernt, mit der ihr eigenen Innigkeit:
     </p>
-    <p xml:id="eco_de_0000129_930">
+    <p xml:id="eco_de_0000200_930">
      »Halleluja, denn uns ist heut' Ein göttlich Kind geboren,«
     </p>
-    <p xml:id="eco_de_0000129_940">
+    <p xml:id="eco_de_0000200_940">
      dann, beim Gutenachtsagen, schlang sie ihre Ärmchen um der Mutter Hals und sagte leise: »Aber Mama, im Himmel, wo der liebe Heiland immerfort ist und wo die Engel herkommen, da muß es erst am allerschönsten sein!« – »Jawohl, Linchen,« sagte die Mutter und küßte sie mit nassen Augen; sie wußte selbst nicht, warum die Worte des Kindes sie so wehmütig stimmten nach all der Freude.
     </p>
-    <p xml:id="eco_de_0000129_950">
+    <p xml:id="eco_de_0000200_950">
      Es war Herbst geworden; da hatte Kunle, der Bote, auch einmal wieder einen Brief ins Pfarrhaus gebracht, aber keinen erfreulichen. Die Mutter der Pfarrfrau, die ziemlich entfernt wohnte, war schwer erkrankt, und solange der Pfarrer noch wiederholt den Brief durchlas, ob denn die Krankheit wohl so gefährlich sei, hatte die Pfarrfrau schon Lisbeth zum Wirt geschickt, der einzigen Person des Dorfes, die ein Chaislein besaß, um zu bestellen, daß er sie am anderen Tag nach der Stadt fahre, wo sie dann mit der Post weitergehen konnte.
     </p>
-    <p xml:id="eco_de_0000129_960">
+    <p xml:id="eco_de_0000200_960">
      »Nicht wahr, ich muß doch gleich zur Mutter reisen?« fragte sie ihren Mann. – »Freilich,« sagte dieser betrübt, »da bleibt keine andere Wahl.«
     </p>
-    <p xml:id="eco_de_0000129_970">
+    <p xml:id="eco_de_0000200_970">
      »Aber die Kleine?« fragte die Pfarrfrau besorgt.
     </p>
-    <p xml:id="eco_de_0000129_980">
+    <p xml:id="eco_de_0000200_980">
      »Zu der kranken Mutter kannst du sie nicht mitnehmen, so läßt du sie eben hier; Lisbeth wird ihr ja nichts geschehen lassen.«
     </p>
-    <p xml:id="eco_de_0000129_990">
+    <p xml:id="eco_de_0000200_990">
      »Ich weiß nicht,« meinte besorgt die Frau, »Lisbeth ist ein gutes Mädchen und hat die Kleine gern; aber sie ist so gar nicht gewöhnt, allein mit ihr umzugehen; ich glaube, sie könnte sie nicht einmal anziehen…«
     </p>
-    <p xml:id="eco_de_0000129_1000">
+    <p xml:id="eco_de_0000200_1000">
      »Ja, das könnte ich auch nicht,« gestand der Pfarrer.
     </p>
-    <p xml:id="eco_de_0000129_1010">
+    <p xml:id="eco_de_0000200_1010">
      »Und du, lieber Mann, mußt viel auswärts sein, in Kirche und Schule und bei Kranken, kannst auch in deiner Studierstube das Kind nicht immer brauchen: da wäre es doch oft allein. Wie wär's, wenn ich es morgen mitnähme und zu Doktors brächte, bis ich zurückkomme? Da ist's gut aufgehoben.«
     </p>
-    <p xml:id="eco_de_0000129_1020">
+    <p xml:id="eco_de_0000200_1020">
      »Nu, die haben selber Kinder genug,« meinte der Pfarrherr.
     </p>
-    <p xml:id="eco_de_0000129_1030">
+    <p xml:id="eco_de_0000200_1030">
      »Unsere Lina nehmen sie doch noch gern,« sagte zuversichtlich die Frau.
     </p>
-    <p xml:id="eco_de_0000129_1040">
+    <p xml:id="eco_de_0000200_1040">
      Linchen war verwundert, als die Mutter am anderen Morgen schon ganz angekleidet an ihrem Bette stand. »Steh auf, Kind, ich muß verreisen zu meiner Mama, die ist so krank.« »Verreisen! – Darf ich mit?«
     </p>
-    <p xml:id="eco_de_0000129_1050">
+    <p xml:id="eco_de_0000200_1050">
      »Nicht ganz, Kind; aber du darfst vielleicht so lange zu den Doktorsbuben, bis ich dich wieder abhole.«
     </p>
-    <p xml:id="eco_de_0000129_1060">
+    <p xml:id="eco_de_0000200_1060">
      »Zu den Doktorsbuben!« rief Lina in heller Freude und zog eifrig die frischen Strümpfchen an, die Mama ihr aufs Bett gelegt; »da freue ich mich! Gelt, deine Mama wird wieder gesund?« fragte sie, weil ihr jetzt erst bei dem betrübten Aussehen der Mutter einfiel, warum sie ging.
     </p>
-    <p xml:id="eco_de_0000129_1070">
+    <p xml:id="eco_de_0000200_1070">
      »Weiß nicht, Kind. Wenn dich Doktors nicht brauchen können, so fährst du mit dem Jakob wieder heim zum Papa.«
     </p>
-    <p xml:id="eco_de_0000129_1080">
+    <p xml:id="eco_de_0000200_1080">
      »O, sie können mich brauchen!« rief die Kleine so sicher wie gestern die Mama, »und dem Papa bringe ich eine schöne Birne mit, so groß!« und sie spreitete die Ärmchen weit auseinander; sie mochte eben gar zu gern bei den Doktorsbuben sein, zumal da jetzt auch das kleine Mägdlein dort gehen konnte und ein gar herziges Dinglein war.
     </p>
-    <p xml:id="eco_de_0000129_1090">
+    <p xml:id="eco_de_0000200_1090">
      Das Gefährt stand vor dem Haus, der Pfarrer half seiner Frau beim Einsteigen und gab ihr noch viel gute Wünsche für die Mutter mit. »Wo ist Lina?« Die hatte noch Abschied genommen von Lisbeth und von den Hühnern und von dem Kanarienvöglein; jetzt stand sie unter der Hausthür, das Licht der Morgensonne schien goldig auf die hellen Locken und das liebliche Gesicht – der Pfarrfrau fiel ihr Traum wieder ein. »Es ging ein Engel durch das Haus,« sagte sie wie in Gedanken vor sich hin, während die Kleine vergnügt in den Wagen hüpfte; war es nur der Gedanke an die kranke Mutter, nur der Abschied vom Gatten, der sie so traurig machte? Im Doktorhause ward die kleine Lina mit Jubel aufgenommen und es war keine Frage, ob man sie brauchen könne oder nicht. Es war zwar kein überflüssiger Raum da, aber zwei der Buben zeigten sich mit Vergnügen bereit, in ein Bett zu liegen, wenn es auch vielleicht bei Nacht ein paar Püffe gab. Lina wurde in das Schlafzimmer der Eltern gebettet, wo auch das kleine Mägdlein schlief, und die Pfarrfrau konnte ruhig abreisen zu der kranken Mutter, nachdem sie ihr Linchen wieder und wieder in die Arme geschlossen und geküßt hatte. »Adieu, liebe, liebe Mama; gelt, du kommst bald wieder?« rief diese mit leichtem Herzen und wandte sich zu den Doktorsbuben, die schon anfingen, ihre kleinen Herrlichkeiten auszukramen.
     </p>
-    <p xml:id="eco_de_0000129_1100">
+    <p xml:id="eco_de_0000200_1100">
      Ein fröhliches Leben begann nun für die Kinder; die kleine Lina war der allgemeine Liebling, und jeden Morgen wußte einer der Buben ein neues Vergnügen, das bevorstand; sie waren ganz erfinderisch, ihrem kleinen, liebenswürdigen Gaste stets neue Unterhaltungen zu bereiten; auch das herzige Schwesterlein freute sich schon an der freundlichen Lina.
     </p>
-    <p xml:id="eco_de_0000129_1110">
+    <p xml:id="eco_de_0000200_1110">
      »Und jetzt ist's geschickt, daß du gekommen bist, Linele,« sagte der Große am sechsten Tag; »morgen haben wir Vakanz, da holt man das Öhmd von der Wiese und wir dürfen auf dem Wagen heimfahren!«
     </p>
-    <p xml:id="eco_de_0000129_1120">
+    <p xml:id="eco_de_0000200_1120">
      »Und Samstag thut man die Zuckerbirn' herunter!« versprach Eugen; kurz, jeder wußte etwas Schöneres für den jungen Gast.
     </p>
-    <p xml:id="eco_de_0000129_1130">
+    <p xml:id="eco_de_0000200_1130">
      Am Tage der Heuernte zog denn Lina mit den Buben seelenvergnügt hinaus auf die Wiese. Geschafft haben sie draußen gerade nicht viel, obgleich Linchen zuerst eifrig helfen wollte; aber sie bauten sich Nester im Heu und spielten Versteckens; sie tummelten sich auf der abgemähten Wiese und ließen sich den kühlen Most herrlich schmecken, den die Leute zur Erfrischung mitgenommen hatten. Lina, die sonst im Essen und Trinken sehr bescheiden war, trank viel davon. »Ich habe so Durst,« sagte sie zu Hermann; »aber wenn ich's schlucke, thut mir's weh im Hals.«
     </p>
-    <p xml:id="eco_de_0000129_1140">
+    <p xml:id="eco_de_0000200_1140">
      »Du wirst Halsweh kriegen,« belehrte dieser, der schon ein kleiner Doktor war; »da macht man in der Nacht einen Umschlag um den Hals, dann vergeht's.«
     </p>
-    <p xml:id="eco_de_0000129_1150">
+    <p xml:id="eco_de_0000200_1150">
      Es wurde Abend. Der Wagen war hoch geladen; sorgsam half man den Kindern hinauf, und sie saßen königlich vergnügt hoch oben weich gebettet in dem duftigen Heu. Die Buben sangen und jubilierten; Linchen, sonst das munterste Singvöglein, war diesmal stiller als gewöhnlich. Wie die Doktorsfrau daheim den Kindern vom Wagen herunterhalf, da fand sie, daß des Kindes Händchen und Wangen glühten; sie brachte sie gleich zu Bett und holte ihr einen kühlen Trank – am anderen Morgen lag Linchen heiß und glühendrot in ihrem Bette. »Es ist das Scharlachfieber,« sagte der Doktor, indem er sich besorgt über sie beugte.
     </p>
-    <p xml:id="eco_de_0000129_1160">
+    <p xml:id="eco_de_0000200_1160">
      Das war den Buben ein Jammer, daß sie nun nicht mit Lina spielen durften und alle in ein entferntes Zimmer gehen mußten! »Wann wird sie wieder gesund?« fragten sie wohl zehnmal; der Vater aber erwiderte nicht viel darauf. »Das Kind ist sehr krank,« sagte er zu seiner Frau und ließ auch noch den zweiten Arzt der Stadt holen zur Beratung, damit ja nichts versäumt werde. Die kleine Kranke wurde gebettet, gepflegt, behütet, sorgsamer noch als ein eigen Kind des Hauses; die gute Doktorsfrau saß an ihrem Bette Tag und Nacht, hielt ihr die heißen Händchen, kühlte ihr die glühende Stirn und bot ihr erfrischenden Saft zu trinken. Linchen wußte nichts davon, sie lag meist bewußtlos in Fieberträumen, und der Doktor, der das Bettchen fast nicht mehr verließ, schüttelte traurig den Kopf, so oft er ihr heißes Händchen faßte: er wußte, das Kind werde nicht mehr genesen.
     </p>
-    <p xml:id="eco_de_0000129_1170">
+    <p xml:id="eco_de_0000200_1170">
      Nicht lange sollten Krankheit und Leiden der Kleinen dauern; man sah bald, daß es zu Ende ging. Der Pfarrer kam noch, sein Töchterlein zu besuchen – sie hat ihn nicht mehr erkannt. Der Mutter wurde Botschaft gesandt; sie reiste, so schnell sie konnte, und sah ihr Linchen wieder – im Sarge. Leise, leicht und sanft war das Kind eingeschlummert nach all der Glut und Hitze des Fiebers; was Menschenkunst und Liebe und Pflege vermocht, das war geschehen, es zu retten; aber der liebe Gott hatte es anders gewollt.
     </p>
-    <p xml:id="eco_de_0000129_1180">
+    <p xml:id="eco_de_0000200_1180">
      Da lag das Kind in seinem letzten Bettchen recht wie ein friedliches Engelsbild, schneeweiß unter lauter Blumen; die allerschönsten Rosen und Lilien, Jelängerjelieber und Nelken hatten sie ihm zum letzten Schmucke in den Sarg gelegt. Die klaren Äuglein waren geschlossen; um den Mund aber lag noch ein Lächeln; und wie bitterlich sie weinten, die das Kind so innig lieb gehabt, sie fühlten doch, daß es geborgen war in einer noch schöneren Heimat, als die es auf Erden gefunden.
     </p>
-    <p xml:id="eco_de_0000129_1190">
+    <p xml:id="eco_de_0000200_1190">
      Viele Knaben und Mädchen folgten dem Sarg, der bedeckt war mit Kränzen und Blumen, und sangen das schöne Lied:
     </p>
-    <p xml:id="eco_de_0000129_1200">
+    <p xml:id="eco_de_0000200_1200">
      Das Mägdlein schläft; ihr Eltern jammert nicht. Gönnt ihm die süße Ruh'; Aus Blumen blickt sein friedevoll Gesicht Und spricht euch tröstlich zu: Ein lieblich Los ist mir beschieden. Ich lieg' und schlafe ganz mit Frieden; Das Mägdlein schläft.
     </p>
-    <p xml:id="eco_de_0000129_1210">
+    <p xml:id="eco_de_0000200_1210">
      Das Mägdlein schläft; noch einen letzten Kuß Auf seinen blassen Mund. O Mutterherz, so sei es denn, weil's muß; Gott, hilf durch diese Stund'! Ihr Kinder, folgt mit Chorgesange Dem Schwesterlein zum letzten Gange; Das Mägdlein schläft.
     </p>
-    <p xml:id="eco_de_0000129_1220">
+    <p xml:id="eco_de_0000200_1220">
      Das Mägdlein schläft; nun Hirte, nimm's an's Herz, Es ist ja ewig dein; Ihr Sterne, blicket freundlich niederwärts Und hütet sein Gebein. Ihr Winde, weht mit leisem Flügel Um diesen blumenreichen Hügel; Das Mägdlein schläft.
     </p>
-    <p xml:id="eco_de_0000129_1230">
+    <p xml:id="eco_de_0000200_1230">
      (R. Gerok.)
     </p>
-    <p xml:id="eco_de_0000129_1240">
+    <p xml:id="eco_de_0000200_1240">
      Ein guter Freund des Pfarrhauses, ein Geistlicher der Nachbarschaft, dem Linchen bei seinem letzten Besuch dort freundlich nachgerufen hatte: »Komm bald wieder!« der ist gekommen an sein Grab und hat dem Kinde den letzten Gruß mitgegeben von der Erde; er hat die Mutter getröstet damit, daß sie dem Kinde schöne, freundliche Tage hat auf Erden bereiten dürfen, ehe es heimgehen sollte zum Himmel, für den es früh reif geworden.
     </p>
-    <p xml:id="eco_de_0000129_1250">
+    <p xml:id="eco_de_0000200_1250">
      Auf dem sonnigen, hochgelegenen Kirchhof der kleinen Stadt am Neckarstrande hat das Kind der nordischen Steppe sein letztes Ruheplätzchen gefunden – und die Eltern sind einsam heimgekehrt.
     </p>
-    <p xml:id="eco_de_0000129_1260">
+    <p xml:id="eco_de_0000200_1260">
      So hat das Mägdlein kurz gelebt und doch nicht vergeblich. Wie ein Engelsgruß ist es in das stille Haus gekommen; sein lauteres, holdseliges Wesen, sein fromm und gehorsam Herz hat Friede und Freude mitgebracht, überall, wo es war. Wenn die Eltern jetzt in schmerzlichem Heimweh ihres Töchterleins gedenken, so freuen sie sich doch auch, daß es ihnen eigen gewesen, daß sie nichts als Liebes und Gutes von ihm im Gedächtnis behalten, und sie sagen aus tiefster Seele: » Es ist ein Engel durch unser Haus gegangen.«
     </p>
    </div>

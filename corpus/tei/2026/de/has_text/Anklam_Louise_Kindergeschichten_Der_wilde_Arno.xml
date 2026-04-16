@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000065" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000208" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000065_20">
+   <p xml:id="eco_de_0000208_20">
     Der wilde Arno
    </p>
   </front>
@@ -94,220 +94,220 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000065_30">
+    <p xml:id="eco_de_0000208_30">
      Arno war der Sohn einer Predigerwitwe: sein Vater war schon gestorben, als er kaum sechs Jahre zählte.
     </p>
-    <p xml:id="eco_de_000065_40">
+    <p xml:id="eco_de_0000208_40">
      Da seiner Erziehung nun dessen strenge, leitende Hand fehlte und die Mutter gegen ihren Liebling oft allzu nachsichtig war, daher kam es auch wohl, daß er zuweilen über die Stränge schlug und recht übermütig war.
     </p>
-    <p xml:id="eco_de_000065_50">
+    <p xml:id="eco_de_0000208_50">
      Er war ein kluger, geweckter Junge mit freundlichen blauen Augen, und trotz seiner wilden Streiche hatte ihn jedermann sehr gern. Auch seine Schulkameraden waren ihm sehr zugetan. Wenn er einmal unter ihnen fehlte, so hieß es einstimmig: »Schade, daß der Arno heute nicht hier ist, nun ist es lange nicht so lustig.« Das verhielt sich auch wohl so, denn stets war er der Anstifter aller tollen Streiche, welche die ausgelassene Knabenschar vollführte.
     </p>
-    <p xml:id="eco_de_000065_60">
+    <p xml:id="eco_de_0000208_60">
      Von seiner Tollheit und seinem Übermut wußte auch Nachbars Knecht Jürgen ein Wort zu erzählen. Es wohnte nämlich nebenan eine Familie, die sich von Milchverkauf und Viehzucht ernährte. Obwohl er sonst mit deren Knecht Jürgen auf gutem Fuße stand, so machte er sich dennoch ein Vergnügen daraus, ihn zu foppen und zu necken, wo er nur konnte.
     </p>
-    <p xml:id="eco_de_000065_70">
+    <p xml:id="eco_de_0000208_70">
      Wenn er sah, daß Jürgen nebenan in die Kneipe ging, um ein Schnäpschen zum Frühstück zu trinken, so schlich er sich schnell wie der Wind in den Stall. Da setzte er den Kühen Papierdüten oder Büsche auf die Hörner, band sie mit Stroh an den Schwänzen zusammen, daß es aussah, als ob diese einen Tanz aufführten. Dann schrieb er mit großen Buchstaben an die Stalltür:
     </p>
-    <p xml:id="eco_de_000065_80">
+    <p xml:id="eco_de_0000208_80">
      ›O Jürgelein, wenn du gehst ein Schnäpschen trinken. Dann sich gleich die Kühe einander froh zuwinken. Siehst du, wie sie sich drehen und tanzen Galopp, Munter im Kreise geht es immer: Hü, ho, hopp, hopp!‹
     </p>
-    <p xml:id="eco_de_000065_90">
+    <p xml:id="eco_de_0000208_90">
      Wenn dann der Knecht zurückkam, beobachtete er ihn lachend durch den Zaun. Wütend rief Jürgen nun, sobald er die tanzenden Kühe erblickte: »Treffe ich einmal den Schlingel, der sich solch einen gottlosen Spaß gemacht hat, nicht heil soll der mir vom Hofe kommen!«
     </p>
-    <p xml:id="eco_de_000065_100">
+    <p xml:id="eco_de_0000208_100">
      »Was schiltst du denn so, Jürgen, wer hat dich geärgert?« fragte dann, teilnehmend aus seinem Versteck hervortretend, der Übeltäter Arno.
     </p>
-    <p xml:id="eco_de_000065_110">
+    <p xml:id="eco_de_0000208_110">
      Da nun Jürgen ahnungslos die Geschichte erzählte, sagte er tröstend: »Beruhige dich nur, Jürgen, ein andermal werde ich aufpassen, wenn du fortgehst, und ich verspreche dir, daß ich den Schlingel mit einer tüchtigen Tracht Schläge vom Hof jagen werde, der soll an mich denken, wenn ich ihn dabei ertappe.«
     </p>
-    <p xml:id="eco_de_000065_120">
+    <p xml:id="eco_de_0000208_120">
      »Das wäre sehr gut von dir, Arnochen«, sagte wieder besänftigt Jürgen. »Sieh doch nur, was die Range hier an die Stalltür geschmiert hat!«
     </p>
-    <p xml:id="eco_de_000065_130">
+    <p xml:id="eco_de_0000208_130">
      Arno las und lachte, daß er sich die Seiten hielt über den gelungenen Spaß.
     </p>
-    <p xml:id="eco_de_000065_140">
+    <p xml:id="eco_de_0000208_140">
      Doch nicht immer blieben seine übermütigen Streiche ohne unangenehme Folgen für ihn. Eines Tages, als gerade Jahrmarkt im Städtchen war, wurde er von seinem Freunde, Ernst Werner, eingeladen, ihn zu besuchen.
     </p>
-    <p xml:id="eco_de_000065_150">
+    <p xml:id="eco_de_0000208_150">
      »Komm nur,« bat dieser, »wir wollen uns einen sehr frohen Nachmittag machen und in unserem Garten ordentlich Äpfel und Birnen schütteln.«
     </p>
-    <p xml:id="eco_de_000065_160">
+    <p xml:id="eco_de_0000208_160">
      Das ließ sich Arno nicht zweimal anbieten. Bei den reichen Werners wurde er stets sehr gut aufgenommen; in ihrem Garten gab es gar schönes Obst, und in die Bäume klettern, das war so recht nach seinem Sinn.
     </p>
-    <p xml:id="eco_de_000065_170">
+    <p xml:id="eco_de_0000208_170">
      Sehr gerne nahm er daher die Einladung an, und da auch seine Mutter nichts dagegen einzuwenden hatte, so fand er sich schon bald nach Tisch bei seinem Freunde ein. Ernst war sehr erfreut über sein frühes Kommen, und sie tollten zuerst nach Herzenslust in dem schönen großen Garten herum. Nachher wanderten sie mit vollgepfropften Taschen Obst zu dem nahe gelegenen Eichwäldchen hinaus, dort trafen sie noch mehrere Schulkameraden, denen sie sich anschlossen. Sie amüsierten sich nun alle prächtig zusammen, bis die beiden Freunde sich erinnerten, daß es wohl Zeit zur Rückkehr sei, wenn sie sich noch den Jahrmarkt ansehen wollten.
     </p>
-    <p xml:id="eco_de_000065_180">
+    <p xml:id="eco_de_0000208_180">
      Da gab es nun viel zu sehen, und beide waren einig darüber, heute einen herrlichen Nachmittag verlebt zu haben. Doch man muß den Tag nicht vor dem Abend loben! Diese Erfahrung sollte auch der übermütige Arno noch machen. »Sieh nur den dicken Töpfer dort,« sagte er zu Ernst, »wie ein Löwe steht er da vor seinen Töpfen und verfolgt jeden mit grimmigen Blicken, der in die Nähe seines Platzes kommt und nichts kauft.
     </p>
-    <p xml:id="eco_de_000065_190">
+    <p xml:id="eco_de_0000208_190">
      Ich werde einmal im Galopp über den schmalen Steg quer über seinen Platz laufen. Da komme ich ja sehr gut hinüber, ohne auch nur das geringste entzwei zu machen, aber der behäbige Meister wird natürlich einen Schreck bekommen und ein Zetergeschrei erheben. Das wird ein Hauptspaß, sage ich dir!«
     </p>
-    <p xml:id="eco_de_000065_200">
+    <p xml:id="eco_de_0000208_200">
      »Das tue nur lieber nicht,« warnte Ernst, »du könntest dabei doch Schaden anrichten, und dann schlüge der Mensch einen furchtbaren Lärm, und du müßtest alles bezahlen!«
     </p>
-    <p xml:id="eco_de_000065_210">
+    <p xml:id="eco_de_0000208_210">
      »Ach was!« rief Arno, »ich sage dir ja, nichts, rein gar nichts mache ich entzwei.« Und im wilden Lauf jagte er davon und über den Platz des Töpfers. Glücklich kam er denn auch wirklich, begleitet von den Flüchen und Schelten des erzürnten Meisters, fast bis zu Ende hinüber. Da aber plötzlich glitt er auf einem großen glatten Scherben, den er in seiner übermütigen Lust nicht bemerkt hatte, aus, und fiel mitten in die Tassen, Teller und Töpfe hinein.
     </p>
-    <p xml:id="eco_de_000065_220">
+    <p xml:id="eco_de_0000208_220">
      An beiden Händen blutend, wurde er von dem erzürnten Töpfer zu seiner Mutter geführt, und die arme Witwe mußte allen Schaden, den er angerichtet, ersetzen. Das ging Arno nun aber doch sehr zu Herzen, und er fühlte tiefe Reue über seinen Übermut.
     </p>
-    <p xml:id="eco_de_000065_230">
+    <p xml:id="eco_de_0000208_230">
      »Weine nicht, liebe Mutter,« bat er, »ich werde dir nie wieder Kummer bereiten. Ich weiß ja, wie dir oft das Geld zu dem Nötigsten fehlt, und ich will mich bemühen, recht bald etwas zu verdienen, um dir das wiederzugeben, was du heute so unnütz für mich bezahlen mußtest.«
     </p>
-    <p xml:id="eco_de_000065_240">
+    <p xml:id="eco_de_0000208_240">
      »Ich möchte wissen, womit du wohl etwas verdienen wolltest«, erwiderte die bekümmerte Mutter. »Wenn du dich nicht änderst, dann wird nie etwas aus dir werden.«
     </p>
-    <p xml:id="eco_de_000065_250">
+    <p xml:id="eco_de_0000208_250">
      Arno liebte seine Mutter über alles, und er war so traurig, ihr solchen Kummer gemacht zu haben, daß er einige Tage, still und nachdenklich umherging.
     </p>
-    <p xml:id="eco_de_000065_260">
+    <p xml:id="eco_de_0000208_260">
      Die Schulkameraden neckten ihn und sagten: »Dein Besuch bei dem Herrn Töpfermeister scheint dir sehr schlecht bekommen zu sein, du machst ja ein Gesicht wie die Katze, wenn es donnert. Eigentlich kannst du doch noch von Glück sagen, daß du mit einem blauen Auge davongekommen bist.«
     </p>
-    <p xml:id="eco_de_000065_270">
+    <p xml:id="eco_de_0000208_270">
      Nach einigen Tagen aber war die fatale Geschichte wieder vergessen, auch Arno hatte seinen Mut wiedergewonnen und war so vergnügt und der Anführer beim Spiel, wie sonst. Leider aber war er nicht so flott beim Lernen, wie bei der Ausübung mutwilliger Streiche. Nur zu oft bekam er von seinen Lehrern Verweise und Strafe wegen seiner Unaufmerksamkeit, denn selten waren seine Gedanken auf das gerichtet, was der Lehrer erklärte, weil er stets allerlei Unsinn im Kopf hatte. –Da ich nun aber so schlecht gewesen, so mancherlei von Arnos dummen Streichen zu verraten, will ich es auch wieder gutmachen und von seinen guten Seiten erzählen. Arno war, wie schon erwähnt, ein mutiger und gefälliger Junge, der mit seinen Spaßen auch recht oft gute Werke vollbrachte, wie ihr, meine lieben Leser, aus folgendem sogleich hören werdet:
     </p>
-    <p xml:id="eco_de_000065_280">
+    <p xml:id="eco_de_0000208_280">
      Eines Tages stand er vor dem Platze einer alten Obsthändlerin, um sich Pflaumen zu kaufen. Als die Alte ihm von seinem Zehnpfennigstück fünf Pfennig herausgeben wollte, rief sie plötzlich erschrocken aus: »Ick habe meine Geldtasche verloren«, und sie suchte und suchte, überall herum, konnte sie aber doch nicht finden. »Vielleicht hab ick se och bei mich zu Hause jelassen,« sagte sie, »aber jetzt kann ick hier doch nich fortjehen, unterdessen könnte mich doch das janze Obst jestohlen werden. Oh, Jotte doch, bis zum Abend muß ick nu noch diese Angst ausstehen.«
     </p>
-    <p xml:id="eco_de_000065_290">
+    <p xml:id="eco_de_0000208_290">
      »Gehen Sie schnell nach Hause und sehen Sie nach«, sagte Arno. »Ich will hier so lange Wache halten, bis Sie wiederkommen und wohl aufpassen, daß Ihnen kein Schaden geschehen soll.«
     </p>
-    <p xml:id="eco_de_000065_300">
+    <p xml:id="eco_de_0000208_300">
      »Ach, junger Herr, bis bei mich zu Hause, dat is enen weiten Weg, da würde Ihn denn doch die Zeit lang werden, und Se würden nich so lange aushalten, bis dat ick wiederkommen tu«, sagte die Obsthändlerin.
     </p>
-    <p xml:id="eco_de_000065_310">
+    <p xml:id="eco_de_0000208_310">
      Aber Arno versprach so fest, ausharren zu wollen, wie lange es auch dauern möge, daß die Alte, die doch in großer Sorge ihres Geldes wegen war, sich bereden ließ, und mit dem Versprechen, sobald als möglich wieder da sein zu wollen, abging.
     </p>
-    <p xml:id="eco_de_000065_320">
+    <p xml:id="eco_de_0000208_320">
      »Ich will ihr alles verkaufen,« dachte Arno, »damit sie eine ganze Handvoll Geld bekommt, wenn sie zurückkehrt.«
     </p>
-    <p xml:id="eco_de_000065_330">
+    <p xml:id="eco_de_0000208_330">
      Mit lauter Stimme rief er jedem Vorbeikommenden zu: »Kauft Obst! Solche herrlichen Früchte habt ihr noch nie gegessen! Solche prachtvollen Birnen, Äpfel und Pflaumen wie die meinigen kriegt ihr nirgends!«
     </p>
-    <p xml:id="eco_de_000065_340">
+    <p xml:id="eco_de_0000208_340">
      Lachend und sich darüber amüsierend, standen die Leute still, traten heran und kauften wirklich alle etwas. Ein neben seinem Platze stehender Obsthändler sagte ihm Bescheid und half gefällig beim Einmessen.
     </p>
-    <p xml:id="eco_de_000065_350">
+    <p xml:id="eco_de_0000208_350">
      Arno war sehr emsig bei der Arbeit, und als er endlich aufblickte, bemerkte er einen ganzen Schwarm seiner Kameraden abseits stehen, die ihm zusahen und sich über ihn belustigten.
     </p>
-    <p xml:id="eco_de_000065_360">
+    <p xml:id="eco_de_0000208_360">
      »Was steht ihr denn da und gafft?« rief er. »Kommt nur und kauft mir den Rest ab. Solche schöne Birnen und solche süße, reife Pflaumen bekommt ihr nicht alle Tage!«
     </p>
-    <p xml:id="eco_de_000065_370">
+    <p xml:id="eco_de_0000208_370">
      »Seit wann bist du denn Obsthändler geworden?« Mit dieser Frage kamen sie nun alle lachend und jubelnd angelaufen und riefen: »Hoch lebe Arno, der neue Obsthändler!«
     </p>
-    <p xml:id="eco_de_000065_380">
+    <p xml:id="eco_de_0000208_380">
      Und wenn jeder von ihnen auch nur für zehn Pfennige kaufte, so waren es doch ihrer viele, und die Körbe waren leer, als die Alte ganz außer Atem zurückkehrte.
     </p>
-    <p xml:id="eco_de_000065_390">
+    <p xml:id="eco_de_0000208_390">
      Natürlich war sie sehr erfreut, daß Arno in ihrer Abwesenheit so gute Geschäfte gemacht und alles verkauft hatte, was ihr wohl kaum bis zum Abend gelungen wäre.
     </p>
-    <p xml:id="eco_de_000065_400">
+    <p xml:id="eco_de_0000208_400">
      »Womit soll ick Ihn dat danken, liebes, freundliches, junges Herrchen?« sagte sie, als ihr Arno eine ganze Handvoll Geld übergab. »Ne, Jotte doch, wat sin Se doch für enen juten Jungen. Was wird Ihr Mutterchen noch vor 'ne Freude an Ihn erleben. Jott, wenn ick enen solchen Prachtjungen hätte! Kommen Se doch man recht often und holen Se sich eine Düte Obst von mich.«
     </p>
-    <p xml:id="eco_de_000065_410">
+    <p xml:id="eco_de_0000208_410">
      Das tat Arno aber nicht. Stets ging er in weitem Bogen auf seinem Schulwege über den Platz, weil ihn am anderen Tage die Hökerin herangerufen und ihm das schönste Obst geschenkt hatte. Er freute sich seiner guten Tat und wollte sich diese nicht bezahlen lassen.
     </p>
-    <p xml:id="eco_de_000065_420">
+    <p xml:id="eco_de_0000208_420">
      Als er die Geschichte mit der Hökerin seiner Mutter erzählt hatte, sagte diese: »Nun, ich freue mich, daß du dir einmal einen guten Spaß gemacht hast, dergleichen Vergnügen will ich dir schon gerne erlauben.«
     </p>
-    <p xml:id="eco_de_000065_430">
+    <p xml:id="eco_de_0000208_430">
      »Weißt du, Muttchen, was die Obsthändlerin noch gesagt hat?« fuhr Arno fort: »Ich werde dir noch viele Freude machen!«
     </p>
-    <p xml:id="eco_de_000065_440">
+    <p xml:id="eco_de_0000208_440">
      »Das gebe Gott!« sagte die Frau Pastor. »Bis jetzt habe ich wenig Grund gehabt, das zu hoffen. Erst heute noch hat mir dein Klassenlehrer geklagt, wie zerstreut und wie unaufmerksam du in der Schule wärest, und es daher sehr fraglich sei, ob du versetzt werden könntest. Ich begreife nur gar nicht, woher du diesen Übermut und Leichtsinn hast; du müßtest doch endlich einsehen, wie nötig es in unseren knappen Verhältnissen ist, daß du recht bald durch die Klassen kommst.«
     </p>
-    <p xml:id="eco_de_000065_450">
+    <p xml:id="eco_de_0000208_450">
      »Ich werde von jetzt an sehr fleißig werden, Muttchen«, tröstete Arno.
     </p>
-    <p xml:id="eco_de_000065_460">
+    <p xml:id="eco_de_0000208_460">
      »Das hast du mir schon oft genug versprochen und doch nie Wort gehalten«, erwiderte betrübt die Mutter. »Ich habe mich immer so darauf gefreut, daß du einst, wie dein Vater, ein Pastor und der treue Seelsorger einer Gemeinde werden würdest, aber auf diesen Wunsch muß ich verzichten, das habe ich nun schon lange eingesehn.«
     </p>
-    <p xml:id="eco_de_000065_470">
+    <p xml:id="eco_de_0000208_470">
      »Das glaube ich wohl auch, Mütterchen,« gab Arno kleinlaut zu, »denn zu einem Pastor passe ich doch am Ende nicht. Ich könnte mir gar nicht denken, wie es wohl möglich sein könnte, daß ich im Talar auf die Kanzel gehen sollte.« Und indem er sich in diese Würde hineindachte, mußte er so lachen, daß ihm die Tränen in die Augen traten.
     </p>
-    <p xml:id="eco_de_000065_480">
+    <p xml:id="eco_de_0000208_480">
      »Ach, sei nicht böse, liebes, gutes Muttchen«, schmeichelte er, als er den ernsten Blick der Mutter auf sich gerichtet sah. »Ich werde dereinst ein tüchtiger Soldat werden, und wenn dann wieder Krieg wird, dann helfe ich den Feind ordentlich verhauen, und du wirst sehen, ich komme dann mit vielen Orden und vielleicht als Oberst wieder heim.«
     </p>
-    <p xml:id="eco_de_000065_490">
+    <p xml:id="eco_de_0000208_490">
      »Das schlage dir nur ganz aus dem Sinn,« sagte die Mutter, »dazu sind wir viel zu arm. Woher sollte ich wohl die Zulage für dich nehmen? Ich will Gott danken, wenn du es dahin bringst, einst ein geachteter Kaufmann zu werden. Zum Studieren taugst du nicht, denn dazu wird dir stets die nötige Ruhe und Ausdauer fehlen. Vor allem aber strebe dahin, dereinst ein braver und rechtschaffener Mann zu werden, das bleibt doch stets die Hauptsache.«
     </p>
-    <p xml:id="eco_de_000065_500">
+    <p xml:id="eco_de_0000208_500">
      Die fromme Frau Pastor hatte schon gar oft im Leben erfahren, wie wunderbar des Herrn Wege sind, und daß der nicht auf Sand gebaut hat, der auf ihn seine Hoffnung setzt. Und sie sollte auch wieder erleben, wie treu und sicher er die Seinen führt.
     </p>
-    <p xml:id="eco_de_000065_510">
+    <p xml:id="eco_de_0000208_510">
      Eines Tages jagte die ganze Knabenschar, Arno als Anführer wieder voran, in dem zu der Stadt gehörigen Park umher. Sie trieben allerhand lustige Streiche und vergnügten sich nach Herzenslust.
     </p>
-    <p xml:id="eco_de_000065_520">
+    <p xml:id="eco_de_0000208_520">
      Als sie eben noch einen hoch über den Bäumen fliegenden Drachen verfolgten, blieb Arno plötzlich stehen. »Horcht!« rief er, »war das nicht ein Schrei, der drüben vom Wasser kam?« Und so schnell wie er nur konnte, lief er der Stelle zu, von welcher ihm der Hilferuf zu kommen schien. Alle anderen folgten ihm, und sie kamen auch nur soeben noch an, um ein Kind verzweiflungsvoll mit dem Untergange ringen zu sehen. Arno besann sich nicht lange. Den Rock abwerfen und sich ins Wasser stürzen, war das Werk eines Augenblicks. Im Schwimmen war er allen an Gewandtheit voraus, und so schoß er auch jetzt pfeilschnell der Stelle zu, wo er schon den Kopf des Kindes untergehen sah. Angstvoll standen die anderen Knaben am Ufer, nirgends war eine Hilfe zu erspähen. Es war heute bei dem Winde keine Kleinigkeit, mit dem Wasser zu ringen, und sie zitterten und bangten um das Leben des Freundes. Da, endlich war es ihm gelungen, den Arm des Kindes zu erfassen, und mit größter Anstrengung suchte er nun mit ihm das Ufer zu erreichen, was ihm auch mit Aufbietung aller seiner Kräfte gelang. Als ihn aber die Freunde ans Land gezogen hatten, sank er ohnmächtig und besinnungslos zusammen. Viel zu schwer war die Arbeit für seine jungen Kräfte gewesen. Fast schien es, als sollte sein edles Rettungswerk vergebens sein, denn aus dem Körper des kleinen Mädchens, für das er so heldenmütig sein Leben gewagt hatte, schien jeder Lebensfunken gewichen zu sein, starr und steif lag sie im Grase.
     </p>
-    <p xml:id="eco_de_000065_530">
+    <p xml:id="eco_de_0000208_530">
      Hilfesuchend spähten die Knaben umher, ob sie nirgends einen erfahrenen Beistand finden konnten. Leider aber war niemand zu bemerken, der Park schien völlig menschenleer zu sein. Endlich erblickten sie in einem Seitenwege einen einsam wandelnden Herrn, und so schnell sie nur konnten, liefen sie hin und baten ihn um seine Hilfe. Und welch glückliche Schicksalsfügung war es, daß dieser Herr gerade ein Arzt sein mußte, der nun sofort die richtigen Belebungsversuche bei beiden anstellte. Er sah sogleich, daß Arno nur erschöpft und ohnmächtig von der übergroßen Anstrengung war und daß er bald wieder zu sich kommen würde.
     </p>
-    <p xml:id="eco_de_000065_540">
+    <p xml:id="eco_de_0000208_540">
      Hoffnungsloser stand es mit dem kleinen Mädchen, bei dem alle Bemühungen des Arztes erfolglos zu sein schienen. Schon zweifelte er daran, daß die arme Kleine je wieder erwachen werde, da rief einer der Knaben erfreut aus: »Sehen Sie, Herr Doktor, das Augenlid bewegt sich!« Der Arzt, welcher mit Reiben der Füße beschäftigt war, bemerkte nun auch dieses schwache Lebenszeichen. Nachdem er seine Versuche noch weiter fortgesetzt hatte, wurde ein leises Atmen hörbar.
     </p>
-    <p xml:id="eco_de_000065_550">
+    <p xml:id="eco_de_0000208_550">
      »Wir müssen das Kind jetzt schnell nach Hause bringen, daß es ins Bett kommt und erwärmt wird«, sagte nun der Arzt. »Es ist das Töchterchen des Herrn von Sternau, der mit seiner Familie erst seit kurzem hierher gezogen ist und in der prächtigen Villa jenseits des Parkes wohnt.«
     </p>
-    <p xml:id="eco_de_000065_560">
+    <p xml:id="eco_de_0000208_560">
      Die armen Eltern waren aufs tiefste erschrocken, als ihnen ihr einziges Kind, das sie schon seit einer Stunde mit größter Angst gesucht hatten, anscheinend fast tot ins Haus gebracht wurde. Ihre Verzweiflung war unbeschreiblich, als die Kleine noch lange so bewußtlos, nur ganz schwach atmend, in ihrem, mit seidenen Gardinen verhüllten Bettchen lag. Es sah aus, als würde sie nie mehr zu frischem, frohem Leben erwachen. Die unglücklichen Eltern flehten zu Gott, ihnen ihr einziges Kind, ihr Glück und ihre Freude, nicht zu nehmen.
     </p>
-    <p xml:id="eco_de_000065_570">
+    <p xml:id="eco_de_0000208_570">
      Und der liebe Gott erhörte das Gebet der Eltern und ließ den Todesengel an dieser lieblichen Menschenknospe vorübergehen.
     </p>
-    <p xml:id="eco_de_000065_580">
+    <p xml:id="eco_de_0000208_580">
      Nach einigen Stunden bangen, schmerzlichen Wartens schlug die Kleine müde die blauen Äuglein auf, aber nur, um sie gleich wieder zu einem festen gesunden Schlaf zu schließen.
     </p>
-    <p xml:id="eco_de_000065_590">
+    <p xml:id="eco_de_0000208_590">
      Groß war das Glück der Eltern, als sie am Morgen mit hellem Blick und mit freundlichem Lächeln von ihrem Liebling begrüßt wurden.
     </p>
-    <p xml:id="eco_de_000065_600">
+    <p xml:id="eco_de_0000208_600">
      In ihrer Bestürzung und Verzweiflung hatten sie gestern gar nicht daran gedacht, sich nach dem Retter ihres Kindes zu erkundigen. Das bedrückte sie nun sehr. Doch trösteten sie sich damit, daß der Arzt es wissen würde. Aber zu ihrer Betrübnis wußte auch dieser nur, daß es ein kleiner Knabe von etwa 12 Jahren gewesen, den er außer Lebensgefahr verlassen hatte, dessen Name ihm aber nicht bekannt geworden. Herr von Sternau ließ nun aber nicht nach, so lange zu suchen und zu forschen, bis er in Erfahrung gebracht hatte, wer der kleine mutige Mann war, dem er sich zu so großem Dank verpflichtet fühlte.
     </p>
-    <p xml:id="eco_de_000065_610">
+    <p xml:id="eco_de_0000208_610">
      Nicht weniger erschrocken und unglücklich als die Eltern des kleinen Mädchens war Arnos Mutter gewesen, als sie, von einem der Knaben herbeigerufen, ihren Sohn bewußtlos und mit durchnäßten Kleidern auf der Erde liegend fand. Trotz ihres Schmerzes sorgte sie dennoch mit großer Geistesgegenwart für die richtige Hilfe. Schnell wurde er nach Hause und zu Bett gebracht, und dort erholte er sich auch bald wieder. In einigen Stunden war er wieder so munter, daß er seiner Mutter den Vorgang erzählen konnte. Und die arme Witwe, welcher der Tod schon alle ihre Lieben geraubt hatte, sagte dennoch: »Es ist recht von dir, mein Junge, daß du dich nicht erst lange bedacht, sondern mutig dein Leben für die Rettung des Kindes gewagt hast. Durch diese Tat hast du alle dummen Streiche, die du begangen, wieder gutgemacht. Ich hoffe, daß das kalte Wasser dein heißes Blut ein wenig abgekühlt haben wird, und daß du nun besonnener und ruhiger werden wirst. Gebe nur der liebe Gott, daß dein Werk nicht umsonst getan sei und daß es dem armen, kleinen Kinde ebensogut wie dir ergehen möge. Weißt du, wem die Kleine gehört und auf welche Weise sie verunglückt ist?«
     </p>
-    <p xml:id="eco_de_000065_620">
+    <p xml:id="eco_de_0000208_620">
      Nein, das wußte Arno nicht, da er das Kind bisher noch nie gesehen hatte. Darüber konnten aber seine Freunde Auskunft geben, welche Arno am Abend besuchten. Sie hatten es von dem Arzt erfahren, welcher die Eltern des Kindes kannte.
     </p>
-    <p xml:id="eco_de_000065_630">
+    <p xml:id="eco_de_0000208_630">
      Es war wohl eine Woche nach Arnos Rettungswerk verstrichen, als am Sonntag nachmittag ein unerwarteter Besuch die Frau Pastor überraschte. Als sie eben vom Kirchhof gekommen war, trat ein Herr und eine Dame mit einem allerliebsten kleinen Mädchen bei ihr ein.
     </p>
-    <p xml:id="eco_de_000065_640">
+    <p xml:id="eco_de_0000208_640">
      »Wir kommen, um dem kleinen Helden, Ihrem lieben Söhnchen, unsern innigsten Dank zu bringen«, sagte Herr von Sternau, nachdem er sich und seine Gattin vorgestellt hatte. »Seinem Mut und seiner edlen Opferfähigkeit verdanken wir es nächst Gottes gnädigem Beistand, daß wir heute nicht am Grabe unseres einzigen Kindes stehen.«
     </p>
-    <p xml:id="eco_de_000065_650">
+    <p xml:id="eco_de_0000208_650">
      Die Frau Pastor war aufs freudigste überrascht und tief gerührt beim Anblick des von ihrem Sohn geretteten hübschen Kindes.
     </p>
-    <p xml:id="eco_de_000065_660">
+    <p xml:id="eco_de_0000208_660">
      Arno stand verlegen und tief beschämt da, als ihm Herr und Frau von Sternau nun in warmen Worten ihren Dank aussprachen. Ersterer schloß ihn in seine Arme und sagte herzlich: »Ich habe gehört, daß du, mein lieber, wackerer Junge, keinen sorgenden Vater mehr hast. Ich will fortan dein väterlicher Freund und treuer Beschützer sein, und wenn es mir deine gute Mutter gestattet, will ich helfen, dich zu einem tüchtigen Mann zu erziehen.« Auch die kleine Gertrud legte ihre weißen Ärmchen um seinen Hals und sagte: »Ich danke dir, daß du mich nicht hast im Wasser liegen lassen!« Das kam aber so possierlich heraus, daß alle lachen mußten.
     </p>
-    <p xml:id="eco_de_000065_670">
+    <p xml:id="eco_de_0000208_670">
      Die Eltern erzählten nun auch, wie es kam, daß ihre kleine Gertrud ins Wasser gefallen war. Herr von Sternau und sein Bruder hatten am Tage vorher eine Kahnfahrt gemacht, die Kleine mitgenommen und ihr dabei Wasserrosen gepflückt. Das hatte dem kleinen Fräulein so gefallen, daß sie am anderen Tage allein in den am Ufer befestigten Kahn gestiegen war und versucht hatte, sich eine Wasserrose zu angeln. Der Kahn, der nur leicht befestigt gewesen, war losgegangen und sogleich von dem Winde bis in die Mitte des Wassers getrieben worden. Da es um die Mittagszeit und der Park daher menschenleer gewesen war, so hatte keiner weiter die Hilferufe gehört. Ohne Arnos Hilfe wäre das Kind dem Tode des Ertrinkens nicht entgangen.
     </p>
-    <p xml:id="eco_de_000065_680">
+    <p xml:id="eco_de_0000208_680">
      Herr von Sternau sorgte nun auch wirklich wie ein Vater für Arno, sowohl für sein leibliches wie auch für sein geistiges Wohl. Obwohl seine Mutter oft bat, seiner Großmut Einhalt zu tun, so ließ er sich doch nicht zurückhalten, Arno in freigebigster Weise zu erfreuen. »Nie können wir ihm genug vergelten, was er für uns getan, immer werden wir in seiner Schuld bleiben«, antwortete er stets der Frau Pastor.
     </p>
-    <p xml:id="eco_de_000065_690">
+    <p xml:id="eco_de_0000208_690">
      Bald hatte Herr von Sternau den munteren, netten Jungen sehr in sein Herz geschlossen, ebenso wie seine Gattin die stille, bescheidene Frau Pastor herzlich liebgewonnen hatte.
     </p>
-    <p xml:id="eco_de_000065_700">
+    <p xml:id="eco_de_0000208_700">
      Arno war mit seiner Mutter oft in der Villa, und bei keiner Festlichkeit durften sie dort fehlen.
     </p>
-    <p xml:id="eco_de_000065_710">
+    <p xml:id="eco_de_0000208_710">
      Da Herr von Sternau sehr reich war, so ließ er es sich nicht nehmen, der kleinen Witwenpension der Frau Pastor noch ein bestimmtes Jahrgeld zuzusetzen, so daß dieser die sie früher oft recht drückenden Existenzsorgen abgenommen waren.
     </p>
-    <p xml:id="eco_de_000065_720">
+    <p xml:id="eco_de_0000208_720">
      Arno gab sich wohl redlich Mühe, sich der Güte seines Wohltäters wert zu machen, allein manchen mutwilligen Streich verübte er auch ferner noch. Da diese aber immer harmloser Natur blieben und er niemand damit schadete, so belustigte sich Herr von Sternau darüber und sagte, die erzürnte Frau Pastor beruhigend: »Lassen Sie nur, liebe Frau Pastor, die Jugend muß fröhlich sein und muß austoben. Solange ein wilder Junge keine böswilligen Streiche macht, kann ich ihn nicht verurteilen. Viele unserer großen Männer sind in ihrer Jugend wilde Burschen gewesen, und doch sind sie nachher so hervorragende Mitglieder der menschlichen Gesellschaft geworden. Auch unser Arno, so hoffe ich zuversichtlich, wird dereinst seinen Mann stehen und vielleicht auch noch zu Ruhm und Ehren gelangen. Er ist mutig und unverzagt, dabei offen und wahr, und das sind die besten Grundlagen zu großen Leistungen.«
     </p>
-    <p xml:id="eco_de_000065_730">
+    <p xml:id="eco_de_0000208_730">
      »Vor allem aber möge Gott ihm Kraft geben, sich stets ein reines Herz und ein unbeflecktes Gewissen zu erhalten, denn ohne beides ist aller Ruhm und alle Weisheit wertlos«, entgegnete darauf die biedere Frau Pastor.
     </p>
-    <p xml:id="eco_de_000065_740">
+    <p xml:id="eco_de_0000208_740">
      Nun, meine lieben Leser, wißt ihr für heute genug von dem wilden Arno, später werde ich euch noch mehr von ihm erzählen. Ich weiß noch eine ganze Anzahl von seinen lustigen Streichen, die ich noch alle zum besten geben werde. Mit der kleinen Gertrud hatte er sich schon gleich am ersten Tage ihrer Bekanntschaft sehr angefreundet. Da er sehr geschickt in Schnitzarbeiten war, so verfertigte er allerlei nette Spielsachen für seine kleine Freundin. Dagegen pflückte Gertrud manch schönes Erdbeersträußchen für ihren lieben Arno, und später beschenkte sie ihren Retter mit hübschen, kunstvollen Stickereien, als sie in solchen erst Unterricht hatte. Die Eltern freuten sich über die Freundschaft der beiden, und ich zweifle durchaus nicht daran, daß die holde Gertrud dereinst die glückliche Frau Arnos werden wird.
     </p>
    </div>

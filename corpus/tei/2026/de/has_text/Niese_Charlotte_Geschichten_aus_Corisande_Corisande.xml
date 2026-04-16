@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000097" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000169" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000097_20">
+   <p xml:id="eco_de_0000169_20">
     Corisande
    </p>
   </front>
@@ -94,310 +94,310 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000097_30">
+    <p xml:id="eco_de_0000169_30">
      Ehemals hatten sich die Leute in der kleinen Stadt darüber gewundert, daß die alte Gräfin noch lebte. Nun wunderten sie sich nicht mehr, denn einmal im Leben hört das Staunen auf, selbst bei den verwunderlichsten Dingen. Vor Zeiten, wenn irgendeine böse Krankheit in die Stadt kam, oder wenn ein strenger Winter Stein und Bein gefrieren machte, da sagten die Bewohner des Städtchens zueinander: Nun wird wohl die alte Gräfin auch draufgehen! Aber sie ging nicht drauf, und schon seit Jahren hieß es, daß die alte Dame nicht stürbe, weil sie nicht sterben könne. Aus welchem Grunde sie das nicht vermöchte, wußte niemand anzugeben, und schließlich war es den Fernstehenden auch gleichgültig; wohl darum, weil beim Leben und Sterben doch kein Mensch mitzureden hat.
     </p>
-    <p xml:id="eco_de_000097_40">
+    <p xml:id="eco_de_0000169_40">
      Jedenfalls konnte sich niemand das alte Haus in der stillen Straße ohne die Gräfin denken, zumal die Kinder. Denn gegen die war die alte Dame am freundlichsten. An warmen Frühlingstagen, oder wenn der Herbst noch goldigen Sonnenschein brachte, saß sie am geöffneten Fenster, das nach der Straße ging, und sah den Kindern zu, die vor dem Hause spielten. Sie hatte nichts dagegen, daß in ihrem kleinen Vorgarten Ball und Kreisel gespielt wurde, und wenn sich die Jungen prügelten, so lachte sie und klatschte in die Hände. Daher sagten auch die meisten vernünftigen Leute, der Verstand der Gräfin sei nicht mehr ganz in Ordnung, und das mochte wohl auch der Fall sein, obgleich darüber nichts Gewisses erkündet werden konnte. Denn ihre Gesellschafterin, Fräulein Ahlborn, gehörte zu den stillen alten Jungfern, von denen es ja noch etliche in der Welt gibt. Sie sprach niemals über ihre Herrin, und selbst die neugierigste Kaffeebase des Städtchens hatte es aufgegeben, mit ihr in Verkehr zu kommen. Wer also etwas von der Vergangenheit und den Schicksalen der alten Gräfin wissen wollte, der mußte sich an sie selbst wenden. Die Auskunft aber, die dann erteilt wurde, befriedigte nicht alle Frager. Denn meistens klagte dann die Dame sehr über ihre Gesellschafterin, die sie nach alter Sitte nur bei ihrem Vatersnamen nannte.
     </p>
-    <p xml:id="eco_de_000097_50">
+    <p xml:id="eco_de_0000169_50">
      Ahlborn war nach ihrer Beschreibung ein junges, dummes und sehr unbrauchbares Geschöpf, das lauter unnütze Dinge im Kopfe habe und deshalb auch nächstens weggeschickt würde. Sie habe große Anlage zur Trägheit, sitze am liebsten den ganzen Tag im Lehnstuhl und sei neulich so frech gewesen, von ihrem letzten Willen zu sprechen. Ihr letzter Wille! Die Gräfin ereiferte sich. Es sei ihr unbegreiflich, wie ein so junges Mädchen auf diesen trübseligen Gedanken kommen könne! Es sei entschieden notwendig, daß Ahlborn bald heirate, dann würde auch ihre Stimmung besser werden.
     </p>
-    <p xml:id="eco_de_000097_60">
+    <p xml:id="eco_de_0000169_60">
      So redete die alte Dame, und der neugierige Besucher saß da mit unheimlichen Gefühlen. War ihm doch bekannt, daß Fräulein Ahlborn fünfundsiebzig Jahre zählte, daß sie also vielleicht ein kleines Recht darauf hatte, an ihren letzten Willen zu denken. Gehörte der Besucher dem geistlichen Stande an, wie es meistens der Fall war, so begann er wohl unter einigem Räuspern davon zu sprechen, daß es vielleicht nicht übel sei, gelegentlich den Tod, der ja alle Menschen einmal ereile, ins Auge zu fassen. Aber weiter kam er nicht mit seiner Bemerkung, denn die Gräfin wurde nun sehr böse. Es sei unpassend, sagte sie, in anständiger Gesellschaft vom Tode zu sprechen. Man müsse immer tun, als gäbe es keinen Tod, dann komme er auch nicht zu einem. So halte man es bei Hofe, und so habe sie es auch immer getan.
     </p>
-    <p xml:id="eco_de_000097_70">
+    <p xml:id="eco_de_0000169_70">
      Wenn sich der vorlaute Besucher kopfschüttelnd entfernt hatte, dann pflegte die Gräfin Fräulein Ahlborn rufen zu lassen und ihr in wenigen raschen Worten zu kündigen. Sie passen nicht für mich! Sie sind zu jung für ihre Stellung, zu unbedacht! sagte sie dann in ihrer kurzen Weise. Dann nickte Fräulein Ahlborn ruhig, denn sie kannte diese Kündigungen seit mehr als fünfzig Jahren und wußte, daß sie die Gräfin nach einer Viertelstunde wieder vergessen hatte.
     </p>
-    <p xml:id="eco_de_000097_80">
+    <p xml:id="eco_de_0000169_80">
      So war es denn auch. Wenn die alte Dame den Kopf in die Kissen ihres Lehnstuhls gedrückt und fünf Minuten geschlafen hatte, so wußte sie nichts mehr von ihrem Ärger über Fräulein Ahlborn und sah wieder nach den Kindern aus, die auf der Straße spielten. Sie verlangte Leben und Geräusch, und wenn die Kinder still waren, dann mußte Fräulein Ahlborn Kuchen unter sie verteilen. Sofort versammelte sich eine große Schar vor der Haustür; es gab Geschrei und Gelächter, Danksagungen und auch wohl ein gelegentliches Geheul, wenn sich jemand benachteiligt glaubte; aber die alte Gräfin freute sich über alles. Manchmal sah sie dann allerdings mit einem merkwürdig forschenden Ausdruck die Straße hinab, als erwartete sie noch jemand. Wenn aber niemand kam, so horchte sie wieder auf die Kinderstimmen.
     </p>
-    <p xml:id="eco_de_000097_90">
+    <p xml:id="eco_de_0000169_90">
      Sehr viel Besuch kam nicht in das stille Haus. Hin und wieder einige jüngere Aristokraten, die der Gräfin flüchtig die Hand küßten, über das Wetter sprachen, in dem dunkeln Eßzimmer einige Gläser Portwein tranken und sehr gnädig gegen Fräulein Ahlborn waren. Sie brachten ihr wertvolle Geschenke, klopften sie auf die Schulter und versicherten sie ihrer unauslöschlichen Dankbarkeit. Diese dankbaren Menschen waren die Enkelkinder der alten Dame, und für einen Fremden mußte es etwas Rührendes haben, wie sehr sie sich über das lange Leben ihrer Großmutter freuten.
     </p>
-    <p xml:id="eco_de_000097_100">
+    <p xml:id="eco_de_0000169_100">
      Fräulein Ahlborn aber war keine Fremde und daher auch nicht gerührt. Sie wußte ganz genau, daß diese zärtliche Liebe nur der großen Pension galt, die die Gräfin aus einem Nachbarstaate bezog, und die fast ganz ungeschmälert unter die Enkelkinder verteilt wurde. Es war eine bedeutende Summe, die halbjährlich zur Auszahlung kam, und die Nachkommen der Gräfin konnten sie gut gebrauchen. Wenn aber die Gräfin starb, so versiegte die Einnahmequelle.
     </p>
-    <p xml:id="eco_de_000097_110">
+    <p xml:id="eco_de_0000169_110">
      Nur viel Champagner, liebes Fräulein Ahlborn! flüsterte die hübsche kleine Baronin, die Enkelin der Gräfin. Und vergessen Sie die Austern nicht!
     </p>
-    <p xml:id="eco_de_000097_120">
+    <p xml:id="eco_de_0000169_120">
      Die Verwandten saßen in dem kühlen Eßzimmer und warteten auf die Verteilung der Pension.
     </p>
-    <p xml:id="eco_de_000097_130">
+    <p xml:id="eco_de_0000169_130">
      Großmama muß auch manchmal geistige Anregung haben, meinte ein junger Mann, der nachdenklich den dunkelroten Wein in seinem Glase betrachtete. Sie hat doch etwas abgenommen in den letzten sechs Monaten. Als ich ihr heute erzählte, daß es geregnet habe, sah sie mich ganz fassungslos an!
     </p>
-    <p xml:id="eco_de_000097_140">
+    <p xml:id="eco_de_0000169_140">
      Wahrscheinlich haben Sie ihr diese Bemerkung schon öfter gemacht, meinte Fräulein Ahlborn. Sie müssen ihr etwas Heiteres, Lustiges erzählen, das regt sie an!
     </p>
-    <p xml:id="eco_de_000097_150">
+    <p xml:id="eco_de_0000169_150">
      Etwas Lustiges? Du lieber Gott! Die kleine Baronin schauderte. Sie kommt mir gar nicht lustig vor, eher leichen- und gespensterhaft! Weißt du, Arwed – sie wandte sich an ihren Gatten, einen ältern Herrn, der noch kein Wort gesagt hatte –, weißt du, daß mir Mama einmal erzählte, Großmama könne nicht sterben, weil sie nicht wolle? Sie wartet noch auf jemand, den sie vorher sprechen muß!
     </p>
-    <p xml:id="eco_de_000097_160">
+    <p xml:id="eco_de_0000169_160">
      Dummes Zeug! murmelte der Baron. Er hatte schon vorhin sehr mißmutig ausgesehen; nun wurde sein verlebtes Gesicht noch verdrießlicher.
     </p>
-    <p xml:id="eco_de_000097_170">
+    <p xml:id="eco_de_0000169_170">
      Ihr Männer sagt immer: Dummes Zeug! wenn wir euch etwas Interessantes erzählen, schmollte die Baronin. Mama hat es mir gesagt, und sie mußte etwas davon verstehen, wenn sie auch nicht allzuviel mit ihrer Mutter verkehrt hatte. Ich glaube, die Großeltern haben getrennt gelebt. Nun einerlei, ich gönne Großmama von Herzen einen stillen Tod.
     </p>
-    <p xml:id="eco_de_000097_180">
+    <p xml:id="eco_de_0000169_180">
      Baron Arwed fuhr auf und warf seiner Gemahlin einen strengen Blick zu. Schweigt sagte er heftig; wie kann man so gottvergessen sein und einem menschlichen Wesen, noch dazu seiner eignen Großmutter, den Tod wünschen? Er fuhr sich mit der Hand über den kahlen Kopf und räusperte sich laut. Ich für meine Person danke der Vorsehung täglich, daß sie uns das teure Leben deiner Großmutter solange erhalten hat. Möge sie es auch noch ferner in ihren Schutz nehmen.
     </p>
-    <p xml:id="eco_de_000097_190">
+    <p xml:id="eco_de_0000169_190">
      Einige der Anwesenden murmelten eine Zustimmung; dann wurde noch etwas Wein getrunken, und Fräulein Ahlborn brachte die heute eingetroffne Pension. Gewissenhaft wurde sie verteilt, und als die kleine Baronin ein dickes Paket Banknoten in der Tasche ihres Mannes verschwinden sah, empfand auch sie große Dankbarkeit gegen die Vorsehung. Das hinderte sie aber nicht, während sie Fräulein Ahlborn beim Abschiede noch Austern und Champagner für die Gräfin empfahl, im stillen den lieben Gott zu bitten, sie selbst doch nicht so entsetzlich alt werden zu lassen. Als sich die Verwandten alle schnell verabschiedet hatten, saß die Gräfin am Fenster und sah den Davoneilenden nach.
     </p>
-    <p xml:id="eco_de_000097_200">
+    <p xml:id="eco_de_0000169_200">
      Ahlborn, sagte sie verwundert, sollten das Lolos Kinder gewesen sein?
     </p>
-    <p xml:id="eco_de_000097_210">
+    <p xml:id="eco_de_0000169_210">
      Ja, Ihro Gnaden; es waren die Kinder von Komteß Lolo!
     </p>
-    <p xml:id="eco_de_000097_220">
+    <p xml:id="eco_de_0000169_220">
      Wie alt kommen die mir vor! Es scheinen keine Kinder mehr zu sein.
     </p>
-    <p xml:id="eco_de_000097_230">
+    <p xml:id="eco_de_0000169_230">
      Die Frau Baronin ist doch erst fünfunddreißig! erlaubte sich Fräulein Ahlborn zu bemerken.
     </p>
-    <p xml:id="eco_de_000097_240">
+    <p xml:id="eco_de_0000169_240">
      Die alte Dame erhob abwehrend die Hände. Sprechen Sie nicht von so abscheulich hohen Zahlen, Ahlborn! Ich will es nicht wissen, wie alt die Menschen sind, es regt mich auf! Sie mit Ihrer jugendlichen Unbedachtsamkeit passen nicht für mich, Ahlborn. Sie müssen heiraten, das ist die beste Lösung für Sie. Ich werde mich nach einer Partie für Sie umsehen, dann können Sie mich verlassen. Haben Sie mich verstanden?
     </p>
-    <p xml:id="eco_de_000097_250">
+    <p xml:id="eco_de_0000169_250">
      Gewiß, Euer Gnaden; ich werde gehen.
     </p>
-    <p xml:id="eco_de_000097_260">
+    <p xml:id="eco_de_0000169_260">
      Da kommen die Kinder aus der Schule! sagte die Gräfin, und über ihr welkes Gesicht glitt ein flüchtiger Freudenstrahl. Bringen Sie doch den Kleinen Kuchen, und sorgen Sie dafür, daß sie morgen Schokolade bekommen!
     </p>
-    <p xml:id="eco_de_000097_270">
+    <p xml:id="eco_de_0000169_270">
      Dann schlief sie ein.
     </p>
-    <p xml:id="eco_de_000097_280">
+    <p xml:id="eco_de_0000169_280">
      Wenn die heißen Sommertage kamen, dann saß die Gräfin in ihrem Garten. Dort war es kühl und schattig, und da an der einen Seite ihres Besitztums ein kleiner Landsee lag, so fehlte es ihr auch nicht an einer gelegentlichen Abwechselung. Hier flogen die Möwen über den glatten Wasserspiegel, aus dem Schilf flatterten wilde Enten, und hin und wieder glitt ein Schiffchen vorbei. Die Kahnfahrer sangen auch, manchmal lustige, manchmal traurige Lieder. Dann hob die alte Gräfin den Kopf und lauschte. Sie summte wohl auch selbst ein Liedchen, bis sie die Melodie vergaß und sich mit einem suchenden Blick umsah. Doch die Melodie kam nicht wieder, und endlich schlief die Gräfin ein. Aber auch unter den blühenden Büschen des Gartens sehnte sie sich nach Jugend und nach lachenden Gesichtern, und wenn es Fräulein Ahlborn gelang, einiger jungen Mädchen habhaft zu werden, dann war ihre alte Herrin sehr erfreut. Sie kamen nur nicht gern, diese jungen eben erblühten Mädchenknospen, und wenn sie konnten, verschwanden sie schnell wieder. Sie behaupteten, es sei ihnen bange vor der gespenstischen Gräfin, und Fräulein Ahlborn hatte ihre liebe Not, daß sie doch wenigstens etwas Schokolade und Kuchen genossen und sich eine Weile von den tiefliegenden Augen der alten Dame anstarren ließen.
     </p>
-    <p xml:id="eco_de_000097_290">
+    <p xml:id="eco_de_0000169_290">
      Sie hatte eine besondre Art, diese jungen Gesichter anzusehen; etwa so, als wenn sie jemand suchte und ihn nicht finden könnte. Dann murmelte sie unverständliche Worte vor sich hin, schüttelte den Kopf und sah grenzenlos traurig aus. So traurig, daß selbst das junge Volk, das doch sonst mit dem Alter wenig Mitleid hat, eine Art Rührung empfand und Fräulein Ahlborn fragte, was denn die Gräfin suche. Worauf die Gesellschafterin allemal einen tiefen Seufzer ausstieß und antwortete: Was sie sucht, Kinder? Ich kann es euch nicht sagen, und ihr würdet die Geschichte auch nicht verstehen. Denn ihr versteht noch nicht alles, was in dieser argen Welt vorgeht. Wenn ihr aber einmal alt werden solltet, dann will ich euch nur wünschen, daß ihr niemals so suchen mögt, wie es meine arme Herrin tut!
     </p>
-    <p xml:id="eco_de_000097_300">
+    <p xml:id="eco_de_0000169_300">
      Über diese kleine Rede lachten die Jungen immer sehr. Schon deswegen, weil es ihnen ganz unfaßlich schien, daß sie jemals alt und traurig werden könnten. Dann huschten sie davon und kamen lange nicht wieder.
     </p>
-    <p xml:id="eco_de_000097_310">
+    <p xml:id="eco_de_0000169_310">
      Eines Tages war die alte Gräfin sehr unruhig gewesen und hatte Fräulein Ahlborn heftig gescholten. Sie langweile sich, behauptete sie mit weinerlicher Stimme. Es sei unerträglich, wenn man jung und schön sei, seine Jugend so in der Einsamkeit zu vertrauern. Sie wolle Abwechslung haben, Besuch, heitere Gäste, sonst gehe sie ins Wasser und suche Vergessenheit. Da sie inzwischen der Gesellschafterin auch wieder kündigte und ihr ihre törichte Jugend vorhielt, so hatte diese keinen leichten Stand. Und als die Gräfin auf ihrem Rollstuhl in den Garten hinausgefahren war – denn es brütete ein heißer Sommertag über der kleinen Stadt –, da stellte sich Fräulein Ahlborn an die geöffnete Tür ihres Hauses und blickte seufzend auf die menschenleere Straße.
     </p>
-    <p xml:id="eco_de_000097_320">
+    <p xml:id="eco_de_0000169_320">
      Plötzlich fuhr sie zusammen, als wenn sie einen Geist sähe. Und doch war es kein Geist, sondern ein junges Mädchen, das dicht vor ihr stand und nachdenklich einen blühenden Rosenbusch betrachtete, der im Vorgarten wuchs, und dessen schneeweiße Blüten einen feinen Duft ausströmten. Einen Augenblick stand die Gesellschafterin unter dem Banne eines großen Erstaunens. Dann aber atmete sie erleichtert auf, pflückte einige Rosen von dem Strauch, bot sie der Fremden an und stammelte eine Einladung, in den Garten zu kommen. Auch sah sie so freundlich, so vertrauenerweckend aus, und das Haus war so einladend kühl, daß sie nicht lange zu bitten brauchte.
     </p>
-    <p xml:id="eco_de_000097_330">
+    <p xml:id="eco_de_0000169_330">
      Im Garten saß die alte Gräfin und hatte die Augen halb geschlossen. Sie war ruhiger geworden, nur ein sehnsuchtsvoller Zug lag auf ihrem Gesicht, und manchmal fuhr sie empor und lauschte in die Ferne. Ein mit Champagner gefülltes Glas stand neben ihr; manchmal führte sie es mit zitternden Händen an die Lippen und trank einige Tropfen. Wenn ein Vogel besonders laut sang, dann öffnete sie wohl die Augen und blickte nach oben. Dann sah sie auch den blühenden Jasminbusch, unter dem sie saß, und atmete seinen Duft ein.
     </p>
-    <p xml:id="eco_de_000097_340">
+    <p xml:id="eco_de_0000169_340">
      Plötzlich hörte sie Schritte neben sich, und als sie neugierig den Kopf wandte, richtete sie sich kerzengerade in die Höhe. Einen Augenblick war sie stumm, dann stieß sie einen Laut des Entzückens aus.
     </p>
-    <p xml:id="eco_de_000097_350">
+    <p xml:id="eco_de_0000169_350">
      Corisande! Du bist es! Ach, ich wußte es ja, daß du heute kommen würdest! Ich wußte es!
     </p>
-    <p xml:id="eco_de_000097_360">
+    <p xml:id="eco_de_0000169_360">
      Liebkosend strich ihre welke Hand über das gesenkte blonde Haupt der jungen Fremden.
     </p>
-    <p xml:id="eco_de_000097_370">
+    <p xml:id="eco_de_0000169_370">
      Ich wußte es! wiederholte sie noch einmal triumphierenden Tones. Wenn meine Corisande zwei oder drei Tage verstreichen läßt, ohne mich zu besuchen, dann finde ich es ganz entsetzlich. Ich kann es nicht aushalten, Kleine, gerade jetzt nicht. Du weißt, meine Nerven haben gelitten durch die bösen Träume der letzten Zeit! Die bösen Träume!
     </p>
-    <p xml:id="eco_de_000097_380">
+    <p xml:id="eco_de_0000169_380">
      Sie seufzte und winkte dann. Ahlborn, einen Stuhl für das gnädige Fräulein!
     </p>
-    <p xml:id="eco_de_000097_390">
+    <p xml:id="eco_de_0000169_390">
      Gehorsam setzte sich das Mädchen auf einen Sessel, den die alte Gesellschafterin eilig herbeiholte, sah dann aber ängstlich um sich.
     </p>
-    <p xml:id="eco_de_000097_400">
+    <p xml:id="eco_de_0000169_400">
      Fräulein Ahlborn legte ihr beruhigend die Hand auf den Arm und flüsterte: Ihro Gnaden halten Sie für Corisande, für Fräulein Corisande. Lange schon verlangte sie nach Ihnen!
     </p>
-    <p xml:id="eco_de_000097_410">
+    <p xml:id="eco_de_0000169_410">
      Wie überwältigt vor Freude hatte sich die alte Gräfin wieder in ihren Stuhl zurückgelegt. Die letzten Worte Fräulein Ahlborns hatte sie gehört, und sie nickte eifrig. Ja, Kleine, ich verlangte nach dir; obgleich Ahlborn noch so jung und unerfahren ist, so hat sie doch für meine Sehnsucht ein wenig Verständnis gezeigt. Aber du wirst mir darin beistimmen, daß ich sie bald entlasse. Sie paßt nicht für mich. Meine Gesellschafterin muß eine mehr gesetzte Person sein!
     </p>
-    <p xml:id="eco_de_000097_420">
+    <p xml:id="eco_de_0000169_420">
      Hastig griff die Gräfin nach ihrem Champagnerglase und tat einen kräftigen Zug. Wo ist Corisandes Glas, Ahlborn? rief sie ungeduldig. Sie wissen doch, daß sie gern Champagner trinkt, wenn auch nicht so gern wie ich. Nun ja, wenn man Braut ist und jünger als ich, dann muß man die Dehors wahren! Sieben Jahre bist du jünger als ich, nicht wahr, Kleine? Deshalb habe ich auch immer versucht, dich zu behüten und zu bemuttern!
     </p>
-    <p xml:id="eco_de_000097_430">
+    <p xml:id="eco_de_0000169_430">
      Die Gräfin lachte plötzlich. Nun, sehr viel Anlage habe ich eigentlich nicht zum Vernünftigsein. Mein Herz – sie machte eine Bewegung, als wenn sie körperliche Schmerzen empfände, dann lachte sie wieder und hielt ihr leeres Glas der Gesellschafterin hin. Euer Gnaden sollten nicht so viel sprechen, sagte diese, indem sie die Flasche aus dem Eiskübel nahm und vorsichtig das Glas füllte.
     </p>
-    <p xml:id="eco_de_000097_440">
+    <p xml:id="eco_de_0000169_440">
      Seien Sie nicht so vorlaut! schalt die Gräfin. Das Mädchen kennt ihre Stellung gar nicht! seufzte sie, zu ihrem Besuch gewandt. Ich denke, daß ich bald einen braven Mann für sie finde; vielleicht einen Gutspächter. Aber lassen wir das. Du siehst reizend aus, Corisande! Sie sah das junge Mädchen mit strahlenden Augen an.
     </p>
-    <p xml:id="eco_de_000097_450">
+    <p xml:id="eco_de_0000169_450">
      Habe ich es nicht immer gesagt, daß du sehr hübsch aussehen könntest? Deine Mutter behauptet, du hättest nur beauté de diable, aber das ist nicht wahr. Wenn du wie heute ein helles Kleid trägst, dazu an der Brust frische Rosen, dann finde ich dich entzückend. Prinz Christian hat mir neulich etwas Ähnliches über dich gesagt, und er ist ein feiner Kenner von Frauenschönheit. Auch Alfred findet dich hübsch, obgleich er erst ein wenig zweifelhaft war. Jetzt aber hat er sich sehr entschieden darüber ausgesprochen. Ganz gewiß, Kleine, er findet dich sehr hübsch!
     </p>
-    <p xml:id="eco_de_000097_460">
+    <p xml:id="eco_de_0000169_460">
      Die Gräfin schwieg und sah nach den weißen Jasminzweigen über ihrem Haupte.
     </p>
-    <p xml:id="eco_de_000097_470">
+    <p xml:id="eco_de_0000169_470">
      Alfred war der Verlobte von Fräulein Corisande, sagte die Gesellschafterin leise zu der Fremden, die sich hilflos umsah, als wäre sie eine Gefangne.
     </p>
-    <p xml:id="eco_de_000097_480">
+    <p xml:id="eco_de_0000169_480">
      Wenn Sie mich noch einmal unterbrechen, Ahlborn, dann packen Sie noch heute Ihren Koffer! rief die Gräfin aufgeregt. Sobald sie aber wieder in das junge Gesicht neben sich blickte, nahmen ihre Augen denselben zärtlichen Ausdruck an.
     </p>
-    <p xml:id="eco_de_000097_490">
+    <p xml:id="eco_de_0000169_490">
      Weißt du noch, Kleine, daß du ihn auch zuerst nicht besonders gern hattest? Nun, solche abgeredete Partien sind nicht immer angenehm; von ihrer Notwendigkeit bin ich aber doch überzeugt. In unserm Stande muß man sich hüten, von seinem Herzen zu sprechen, man könnte sentimental werden, und das schickt sich nicht für uns. Auch du, Corisande, dachtest nicht darüber nach, ob du den Mann liebtest, den dir deine Eltern bestimmten. Schweigend tatest du, was sie von dir verlangten, dein Herz schlug nicht höher, als du Braut wurdest. Was ist denn überhaupt Liebe?
     </p>
-    <p xml:id="eco_de_000097_500">
+    <p xml:id="eco_de_0000169_500">
      Die Gräfin lachte laut.
     </p>
-    <p xml:id="eco_de_000097_510">
+    <p xml:id="eco_de_0000169_510">
      Die Liebe – sie wiederholte das Wort noch einmal – ist ein Rausch, eine Idee, manchmal nur eine Gedankenlosigkeit. So, Kleine, sprachen wir über sie, und du sahst mich immer so unschuldsvoll mit deinen blauen Augen an, weil du von der Welt und ihrer Arglist nichts verstandest. Bewahre dir deine Unschuld, denn bei uns gibt es auch keine Liebe. Vielleicht findet man sie bei den ganz gewöhnlichen Menschen, die nicht zu Hofe kommen und den ganzen Tag nichts zu denken haben. Bei diesen Leuten kann die Liebe wohl vorkommen; bei uns nicht. Du siehst doch auch, Corisande, daß ich meinen Gemahl nicht liebe, und daß er sich aus mir nicht das geringste macht. So ist es immer in unsern Kreisen, und es ist gut so. Mein Gemahl ist ein hübscher Mann, und ich weiß genau, daß er irgendwo in der Vorstadt ein Häuschen hat, wo – ach, was erzähle ich dir da, Kleine! Ich bin nicht eifersüchtig, ich freue mich vielmehr, daß sich Seine Exzellenz der Graf manchmal von dem Zusammenleben mit mir erholt. Früher habe ich allerdings gehofft, er würde etwas freundlicher gegen mich werden – ich war sehr jung und fühlte mich einsam. Allmählich aber habe ich mich an seine Kälte gewöhnt. Er ist eben Edelmann vom Scheitel bis zur Sohle und kann nicht heucheln. Aber er verlangt auch nicht, daß ich mich seinetwegen geniere. Deshalb führen wir jetzt eine sehr glückliche Ehe, eine Musterehe.
     </p>
-    <p xml:id="eco_de_000097_520">
+    <p xml:id="eco_de_0000169_520">
      Die Gräfin lachte wieder, aber etwas wehmütiger, und Fräulein Ahlborn redete ihr leise zu: Euer Gnaden sollten sich nicht aufregen!
     </p>
-    <p xml:id="eco_de_000097_530">
+    <p xml:id="eco_de_0000169_530">
      Lassen Sie sich sofort Ihren Lohn auszahlen! rief die Gräfin. Was sollte mich aufregen? Spreche ich nicht alle Tage mit meiner Corisande? Allerdings – sie sah nachdenklich in den Himmel –, es kommt mir vor, als hätte ich die Kleine eine Woche lang nicht gesehen. Oder ist mir nur die Zeit so lang geworden? Weshalb kamst du nicht, Kleine? Hatte ich denn so viel zu tun? Da war der Ball beim Erbprinzen, das Fest beim österreichischen Gesandten, die Ausfahrt mit den Engländern, und dann die große Gesellschaft dir zu Ehren. Da sah ich dich doch auch! Du und dein Alfred, ihr waret ja die Hauptpersonen! Dein Verlobter, der Graf Alfred, ist eine liebenswürdige Erscheinung, und es hat den Anschein, als wenn du an ihn ein kleines Stück deines Herzens verloren hättest. Nur kein großes Stück, liebe Kleine! das wäre nicht gut und würde dir nur Schmerzen machen. Das Leben aber ist zu kurz, sich mit Grämen aufzuhalten. Weine also nicht, Corisande, wenn Alfred einmal andre Wege geht, als du denkst. Mein Gott, es braucht kein Häuschen in der Vorstadt zu sein. Aber er ist eigentümlich angelegt, und es wäre schon möglich – erschrick nicht, es wäre ja möglich –, daß er sein Herz verschenkt hätte, ohne dich zu fragen. So etwas kommt vor, Kleine, und du wirst dich auch trösten. Bedenke doch, wie lustig wir in der Residenz leben, und wie schön die Feste des Erbprinzen sind! Auch der alte König, wenn er auch schlechte Manieren hat, so verdirbt er doch niemandem die Freude. Ahlborn, ein Glas Champagner!
     </p>
-    <p xml:id="eco_de_000097_540">
+    <p xml:id="eco_de_0000169_540">
      Gehorsam brachte die Gesellschafterin das frischgefüllte Glas an den zitternden Mund der Gräfin, und diese trank hastig. Dann ließ sie es ruhig geschehen, daß ihr Fräulein Ahlborn den Kopf in die Kissen drückte. Sie war müde geworden. Einmal noch griff sie nach den Jasminblüten, die von den Büschen herabhingen, dann schloß sie die Augen und schlief fest ein.
     </p>
-    <p xml:id="eco_de_000097_550">
+    <p xml:id="eco_de_0000169_550">
      Das junge Mädchen, das in halber Betäubung neben der Gräfin gesessen hatte, wollte hastig aufstehen; aber ein flehender Blick Fräulein Ahlborns hielt sie zurück. Die alte Dame hatte so freundliche Augen, und diese baten so dringend: bleibe! daß die Fremde keine Betrübnis erregen wollte. Auch war es erfrischend kühl hier unter den Büschen, während die heiße Luft auf dem Wasser zu zittern schien und kein Vogel zu hören war. Da war es nicht allzu schwer, den bittenden Augen der Gesellschafterin nachzugeben.
     </p>
-    <p xml:id="eco_de_000097_560">
+    <p xml:id="eco_de_0000169_560">
      Sie wird gleich aufwachen und weiter mit Ihnen sprechen, flüsterte Fräulein Ahlborn. Sie hat sich so lange Jahre nach Ihnen gesehnt, sie wird ruhig werden, wenn sie Ihnen alles erzählt hat!
     </p>
-    <p xml:id="eco_de_000097_570">
+    <p xml:id="eco_de_0000169_570">
      Wie kann sie sich nach mir sehnen? ich bin neunzehn Jahre alt, sagte die Fremde verwirrt.
     </p>
-    <p xml:id="eco_de_000097_580">
+    <p xml:id="eco_de_0000169_580">
      Die Gesellschafterin lächelte flüchtig. Ich will Ihnen später ein Bild zeigen, Sie werden sich wundern, wie es Ihnen gleicht, es stellt die wirkliche Corisande vor, die Corisande –
     </p>
-    <p xml:id="eco_de_000097_590">
+    <p xml:id="eco_de_0000169_590">
      Bei diesem Namen erwachte die Gräfin wieder.
     </p>
-    <p xml:id="eco_de_000097_600">
+    <p xml:id="eco_de_0000169_600">
      Corisande! Wo bist du? rief sie angsterfüllt. Als sie aber das junge Antlitz wieder erblickte, atmete sie beruhigt auf. Der minutenlange Schlaf hatte sie erfrischt. Sie setzte sich höher in ihrem Rollstuhl und griff nach der Hand des jungen Mädchens.
     </p>
-    <p xml:id="eco_de_000097_610">
+    <p xml:id="eco_de_0000169_610">
      Du darfst nicht so bald fortgehen, Kleine, wie du jetzt manchmal tust. Als wenn wir uns gar nichts mehr zu erzählen hätten! Ehemals stand dein Mündchen nicht so still, so viel wußtest du mir zu berichten, und nun sprichst du oft kein Wort. Ich muß dir doch erzählen, was mir neulich träumte. Ein dummer, törichter Traum, in dem Alfred vorkam und auch du! Warte einen Augenblick und gib mir deine Hand, dann fällt mir alles wieder ein. Deine Hände habe ich immer so gern angefaßt, sie sind so schlank gebaut, es sind vornehme Hände! Mein Gemahl sagte einmal von dir, du würdest nie etwas Häßliches, Unreines damit festhalten. Das war nun ganz hübsch gesagt, aber ich ärgerte mich doch über seine Worte, weil er mich dabei so besonders ansah. Auf mich kann er seine Bemerkung doch nicht beziehen, denn bis jetzt hat mir noch jedermann gesagt, ich wäre eine Schönheit. Und unrein – pah, das ist ein sehr geschmackloses Wort! Seine Exzellenz mein Gemahl hat aber manchmal eine sehr unangenehme Art, mit mir zu sprechen, eine Art, die mich verletzt. Deshalb mag er meinetwegen in sein Vorstadthäuschen gehen! Zieh deine Hand nicht weg, Kleine; ich weiß, du wirst betrübt, wenn ich etwas über meinen Mann sage. Vielleicht denkst du, daß es mit Alfred und dir einmal eben so wird wie mit uns beiden. Gräme dich aber nicht darum! Das ist der Lauf der Welt, und schließlich findet man andre Freuden.
     </p>
-    <p xml:id="eco_de_000097_620">
+    <p xml:id="eco_de_0000169_620">
      Die Gräfin hatte wieder sehr schnell gesprochen. Jetzt nickte sie und murmelte einige unverständliche Worte. Inzwischen war die Sonne verschwunden. Bleigrauer Nebel stieg am Horizont auf, und über das Wasser kam hin und wieder ein Windstoß, der einige welke Blätter von den Bäumen schüttelte. Dann wurde die Luft wieder ganz still.
     </p>
-    <p xml:id="eco_de_000097_630">
+    <p xml:id="eco_de_0000169_630">
      Die Gräfin zog mit einer Hand ihr Tuch über den Schultern zusammen. Wie unheimlich still ist es hier! sagt sie. Manchmal friert mich, nicht weil ich kalt bin, sondern weil es so still um mich ist. Das kommt alles von diesem dummen Traum, der mich verfolgt und quält. Er handelte meistens von Alfred. Du weißt, Kleine, eine Braut in unserm Stande darf nicht sentimental sein. Du weißt auch, daß ich Alfred schon länger kannte. Aber erschrick nicht; es ist ja nur ein Traum!
     </p>
-    <p xml:id="eco_de_000097_640">
+    <p xml:id="eco_de_0000169_640">
      Die Gräfin streichelte die Hand des jungen Mädchens.
     </p>
-    <p xml:id="eco_de_000097_650">
+    <p xml:id="eco_de_0000169_650">
      Ich liebte deinen Alfred zuerst gar nicht; wir hatten uns als Kinder gesehen, und da kennt man sich zu genau, um sich nachher zu lieben. Er hatte immer von mir gesagt, ich nähme das Leben mit seinen Pflichten nicht ernst genug, und diese Äußerung nahm ich ihm übel. Mein Gott, sind wir den erschaffen, damit wir uns durchs Leben langweilen sollen? Ahlborn, geben Sie mir zu trinken, daß mir der Ärger nicht schadet!
     </p>
-    <p xml:id="eco_de_000097_660">
+    <p xml:id="eco_de_0000169_660">
      Die alte Gräfin trank hastig, dann fuhr sie fort zu sprechen.
     </p>
-    <p xml:id="eco_de_000097_670">
+    <p xml:id="eco_de_0000169_670">
      Ich hatte mich also schon früher über Alfred geärgert, und wie er nun als dein Verlobter kam, da ignorierte ich ihn. Er merkte das und lachte über mich. Weshalb tat er das? und weshalb küßte er dich so zärtlich in meiner Gegenwart, da ich doch wußte – ja Kleine, ich wußte es! –, daß er dich heiraten mußte, wenn er Ordnung in seine Finanzen bringen wollte. Nimm mir meine Offenheit nicht übel; wir haben ja nie Geheimnisse voreinander gehabt, und du darfst auch nicht gar zu blindlings in die Ehe gehn. Alfred beschäftigte mich; ich dachte viel an ihn, und dann konnte ich auch nicht umhin, ihn anziehend zu finden. Es lag etwas Kaltes in seinen stahlblauen Augen, das mich beinahe ärgerte. Ich dachte unwillkürlich darüber nach, ob dieser kühle Blick jemals aufflammen, ob dieser trotzig geschnittene Mund wohl törichte Worte stammeln könnte. Ich sah, daß er dich küßte; aber seine Augen blieben kühl – konnte er nicht warm werden? Solche Gedanken sind dumm, nicht wahr, Kleine, ich habe sie auch nur geträumt. Aber selbst Träume können uns quälen, wenn sie immer wiederkehren. Und diesem Traum folgte ein andrer.
     </p>
-    <p xml:id="eco_de_000097_680">
+    <p xml:id="eco_de_0000169_680">
      Die Gräfin ruhte einen Augenblick und atmete den Jasminduft ein.
     </p>
-    <p xml:id="eco_de_000097_690">
+    <p xml:id="eco_de_0000169_690">
      Denke dir: Ich bin im Garten, und der Jasmin blüht. Es ist Abend, und Hunderte von Sternen funkeln. Ganz allein sitze ich in der Laube und träume vor mich hin. Schon mehrere Tage habe ich meinen Gemahl nicht gesehen, ich denke auch nicht an ihn, ich denke an Alfred und an seine kalten Augen. Plötzlich steht er vor mir, und seine Lippen reden törichte Worte. Dann hält er mich in seinen Armen und küßt mich heiß. Der Jasmin duftet wie zuvor, die Sterne funkeln, und wir sind selig, lächerlich selig für diese Welt!
     </p>
-    <p xml:id="eco_de_000097_700">
+    <p xml:id="eco_de_0000169_700">
      Die Stimme der Gräfin klang verschleiert, eine Weile schwieg sie, dann atmete sie tief auf.
     </p>
-    <p xml:id="eco_de_000097_710">
+    <p xml:id="eco_de_0000169_710">
      Aber es war ein Traum, Kleine, ein kurzer Traum! Alfred sagte, er wolle die Rosen pflücken, solange ihn ihr Duft beglücke, und ich genoß die schönen Augenblicke. Manchmal kamen die seligen Minuten allerdings wieder – im Traum –, wir schrieben uns törichte Sachen – natürlich nur im Traum. Später, Kleine, wollte ich dir alles erzählen, jetzt nicht; du hättest dich aufregen können, und das war ja nicht nötig. Wenn du und Alfred verheiratet wäret und als vernünftige Eheleute nebeneinander herginget, dann solltest du alles wissen, wir wollten darüber lachen. Nein, noch konnte ich dir nichts sagen; du warst zu ernsthaft und auch zu jung. Da nimmt man das Leben zu tragisch, gerade so wie es Ahlborn tut!
     </p>
-    <p xml:id="eco_de_000097_720">
+    <p xml:id="eco_de_0000169_720">
      Die Gräfin lachte flüchtig und spöttisch. Sie sah aufrecht in ihrem Stuhl, jede Spur von Müdigkeit war aus ihrem Antlitz gewichen.
     </p>
-    <p xml:id="eco_de_000097_730">
+    <p xml:id="eco_de_0000169_730">
      Die Gesellschafterin sah sie ängstlich an. Euer Gnaden sollten heute nicht mehr sprechen, Fräulein Corisande kommt morgen wieder!
     </p>
-    <p xml:id="eco_de_000097_740">
+    <p xml:id="eco_de_0000169_740">
      Schweigen Sie! sagte die Gräfin gebieterisch. Was wissen Sie davon, ob das gnädige Fräulein morgen kommen kann? Sie wird keine Zeit dazu haben, denn ihre Hochzeit findet in diesen Tagen statt; ihre Hochzeit mit Graf Alfred. Ein großes Fest! Der ganze Hof erscheint; die Majestäten und Prinz Christian. Corisande wird bezaubernd aussehen in ihrem weißen Brokatkleide und dem Brautschleier aus Valenciennesspitzen. Der Schleier ist mein Geschenk, das ist seit langer Zeit verabredet! Der Schleier –
     </p>
-    <p xml:id="eco_de_000097_750">
+    <p xml:id="eco_de_0000169_750">
      Die Gräfin sprach das Wort zögernd, und ein Schatten flog über ihr Gesicht. Was war es nur mit dem Schleier? auch von ihm hat mir geträumt. Es ist merkwürdig, wie mich die Träume quälen, ich muß etwas für meine Gesundheit tun. Ich schickte dir den Schleier, Corisande – wann war es doch? – richtig, den Morgen darauf, nachdem du bei mir gewesen warest. Du überraschtest mich damals so, Kleine, denn du gestandest mir errötend und unter Tränen, daß du Alfred liebtest. Alfred, der fast täglich vor mir auf den Knien lag und sein Haupt in meinen Schoß legte, Alfred, den ich vergötterte! Nun liebtest du ihn mit einem Male, und in dir, dem kindereinfältigen Geschöpfe, war das Herz erwacht! Alfred gehörte von Rechts wegen dir; wie du mit mir sprachst und in abgebrochnen Sätzen dein Bekenntnis stammeltest, da stand es plötzlich vor meiner Seele, daß er dein sei. Und ich haßte dich, Kleine, aber es war nur im Traume. Ich vergaß plötzlich, daß ich dich schon lange, lange liebte, und ein ohnmächtiger Zorn kam über mich, den ich nur mühsam verbarg. Du mußtest meine Verstimmung merken, denn du blicktest mich bekümmert an, küßtest mich und flüstertest: Bleibe mir gut! Als ich deine Wange an der meinen fühlte, wurde mein Zorn etwas gelinder, und nachdem du gegangen wärest und ich noch einmal deine Umarmung gefühlt hatte, blieb mir Zeit zum Nachdenken. Mir fielen die Stunden ein, liebe Kleine, wo wir zusammengewesen waren. Du sahest immer zu mir herauf, als der Ältern und Erfahrneren. Mehr als einmal behauptetest du, ich wäre viel besser als du, und wenn ich dazu lachte und den Kopf schüttelte, dann wurdest du böse. Kein Mensch, sagtest du, könne dir den Glauben an mich nehmen, und wenn alle Leute von mir sagten, ich wäre schlecht, so würdest du das so wenig von mir glauben, als wenn jemand behauptete, die Sonne würde nicht mehr scheinen. Ja selbst, wenn ich gestohlen oder sonst etwas Böses getan hätte, nie würdest du an mir zweifeln und lieber selbst schlecht werden als von mir lassen. Das, war jugendliche Schwärmerei, und ich lachte dich aus; aber im Grunde meines Herzens liebte ich dich doppelt für diese süße Torheit. Manche Leute sagen, daß Frauen einander nicht wahrhaft lieben und die Treue einander nicht bewahren könnten. Das mag sein; ich verstehe nicht viel von diesen Dingen und habe auch wenig darüber nachgedacht. Du warst aber treu und ohne Selbstsucht, und ich wollte wenigstens versuchen, es zu sein. Lange kämpfte ich mit mir, und darüber brach die Nacht herein. Diesen letzten Tag hatte ich Alfred nicht gesehen, und bleischwer waren die Stunden dahingegangen. Nach dieser Nacht sollte wieder ein langer Tag kommen ohne seine Liebe, und so sollte es nun weitergehn, das ganze Leben lang. Ich war allein; mein Gemahl befand sich wieder in der Vorstadt, und so konnte ich mich ungehindert auf den Fußboden werfen und mir die Haare ausraufen. Niemand hörte mich, und niemand konnte mir helfen. Und in all dieser Verzweiflung siegtest du doch, Corisande, und die Liebe zu dir war stärker als die andre. Nein, ich wollte ihn dir nicht nehmen; lieber wollte ich selbst langsam innerlich absterben als dir deine süße Unschuld, deine Liebe verderben! Ich schrieb an Alfred. In den Romanen steht, daß Leute mit ihrem Herzblut schreiben. Ich weiß nicht, wie das ist. Mein Herz fühlte ich nicht mehr, es war gestorben. Aber ich schrieb ihm, daß ich ihn nie wieder sehen, daß ich versuchen wollte, ihn zu vergessen. Dann erzählte ich ihm, daß du ihn liebtest, und ich bat ihn, gut gegen dich zu sein. Und um mich von allem zu trennen, was mich wieder in Versuchung führen könnte, schickte ich ihm zugleich seine Briefe wieder, von denen er mir so viele geschrieben hatte. Es standen nur törichte Liebesworte darin; aber niemand hatte mir bis dahin Worte der Liebe geschrieben, und ich fand nicht die Kraft, diese Blätter selbst zu vernichten. Trennen aber mußte ich mich von ihnen; sonst wäre ich vielleicht wieder schwach geworden. In ein zweites Päckchen legte ich den Brautschleier, der für dich bestimmt war. Bis jetzt hatte ich gezögert, ihn dir zu schicken, nun aber wollte ich alle, alle bittern Gefühle überwinden. Ja, liebe Kleine, ich wollte mein wildes Herz zur Ruhe bringen. Und als der Morgen nach der schrecklichen Nacht kam, da gab ich beide Päckchen dem Diener, damit er sie sobald wie möglich besorgte.
     </p>
-    <p xml:id="eco_de_000097_760">
+    <p xml:id="eco_de_0000169_760">
      Die letzten Sätze hatte die Gräfin flüsternd gesprochen. Ihre sonst so matten Augen glänzten, und ihre Finger umschlossen fest die Hand der Fremden.
     </p>
-    <p xml:id="eco_de_000097_770">
+    <p xml:id="eco_de_0000169_770">
      Der Himmel war noch grauer geworden und die Hitze noch drückender. Mit ängstlichem Schrei flogen die Möwen über die glatte Wasserfläche, und im Schilf begann es leise zu zittern.
     </p>
-    <p xml:id="eco_de_000097_780">
+    <p xml:id="eco_de_0000169_780">
      Fräulein Ahlborn beugte sich zu ihrer Herrin herab. Es wird ein Gewitter geben, sagte sie, darf ich Euer Gnaden nicht ins Haus fahren?
     </p>
-    <p xml:id="eco_de_000097_790">
+    <p xml:id="eco_de_0000169_790">
      Die Gräfin machte eine abwehrende Bewegung. Gehen Sie mit Ihren taktlosen Fragen, Ahlborn! Haben Sie Ihren Koffer schon gepackt? Gewiß sehr unordentlich! Sie sind noch in den unbedachten Jahren! Komm, Corisande, laß mich dir meinen Traum zu Ende erzählen, wer weiß, wann ich dich wieder sehe. Ach, die Zeit wird mir oft recht lang, und wenn ich nicht wüßte, daß ich jung wäre, ich würde mir einbilden, alt zu sein. Ja, solche Träume machen alt und müde, müde zum Sterben. Aber ich kann nicht sterben, denn ich muß vorher Corisanden alles erzählen, und sie muß mir sagen, daß alles nur ein Traum war! Die Gräfin schauderte leicht zusammen, und ihre Augen blickten wieder erloschen. In Wirklichkeit kann so etwas doch nicht vorkommen, du und ich konnten uns doch nicht so im Zorn begegnen, und du durftest mir doch keine bittern, kalten Worte sagen! Was wußte ich davon, daß ich in der entsetzlichen Aufregung die Adressen der beiden Päckchen verwechselt hatte, daß du meinen Brief an Alfred, seine Liebesworte an mich erhieltest!
     </p>
-    <p xml:id="eco_de_000097_800">
+    <p xml:id="eco_de_0000169_800">
      Der Atem der Gräfin ging schwer, und ihre Stimme klang ängstlich.
     </p>
-    <p xml:id="eco_de_000097_810">
+    <p xml:id="eco_de_0000169_810">
      Es war ein häßlicher Traum, Kleine. Du standest vor mir wie eine Richterin. Stolz maßest du mich mit deinen Blicken, und als ich nach deinen Händen greifen wollte, entzogst du sie mir mit einer Bewegung der Verachtung. Du wolltest mich nicht mehr anfassen. Und wo war der süße Klang deiner Stimme, als du mir sagtest, du wollest Alfred mir überlassen! Für dich sei er gestorben und ich auch. Dann gingst du; ich blieb allein, ganz allein, und du warst für mich tot!
     </p>
-    <p xml:id="eco_de_000097_820">
+    <p xml:id="eco_de_0000169_820">
      Die alte Gräfin machte eine Bewegung, als ob sie fröre und sah mit starren Augen in den grauen Himmel.
     </p>
-    <p xml:id="eco_de_000097_830">
+    <p xml:id="eco_de_0000169_830">
      Der Traum ist mir sehr lang vorgekommen, Kleine, er wollte gar kein Ende nehmen. Ich lebte noch, aber es kam mir vor, als wäre ich innerlich tot und als sähe die Welt anders, ganz anders aus. Es kamen böse Stunden. Das Gemunkel der Welt, die eisige Verachtung meines Mannes und im Herzen das entsetzliche Gefühl der Leere und Einsamkeit – wie kann man in wenig Augenblicken soviel erleben? Man sagt, ein Traum daure höchstens einige Minuten; ich kann es mir nicht denken. Und doch ist es so. Vor wenig Tagen bist du bei mir gewesen, und heute schon kommst du wieder, weil du weißt, wie sehr ich nach dir verlangte. Jung sind wir beide, und das Leben liegt noch sonnig vor uns – nicht wahr? Und alles, was ich dir erzählt habe, war ein Traum – nicht wahr? Sage es mir selbst! sage es mir so, daß ich es nie wieder vergesse!
     </p>
-    <p xml:id="eco_de_000097_840">
+    <p xml:id="eco_de_0000169_840">
      Ja, es war alles ein Traum, erwiderte die junge Fremde, und ihre Stimme zitterte vor Mitleid.
     </p>
-    <p xml:id="eco_de_000097_850">
+    <p xml:id="eco_de_0000169_850">
      Die Gräfin seufzte tief auf, und ein Ausdruck wunderbarer Erleichterung trat in ihr altes Gesicht. Ach, ich wußte es, ich wußte es, du konntest mir nicht zürnen! Komm, küsse mich noch einmal, Corisande! – Die frischen Lippen des Mädchens berührten leise die welke Wange der Greisin, und diese nickte schläfrig. – Ich bin so müde geworden, so müde und so ruhig. Es war ein Traum – ein Traum!
     </p>
-    <p xml:id="eco_de_000097_860">
+    <p xml:id="eco_de_0000169_860">
      In diesem Augenblick begannen die Abendglocken zu läuten. Die alte Gräfin hob ein wenig den Kopf.
     </p>
-    <p xml:id="eco_de_000097_870">
+    <p xml:id="eco_de_0000169_870">
      Deine Hochzeitsglocken, Corisande. Eile dich. Auch ich komme bald – sehr bald!
     </p>
-    <p xml:id="eco_de_000097_880">
+    <p xml:id="eco_de_0000169_880">
      Da fielen plötzlich große Regentropfen nieder, und der Donner grollte. Die alte Gräfin schlief fest, als sie ins Haus gefahren wurde. Wenige Minuten später stand die Gesellschafterin mit der Fremden vor einem großen Bilde. Es war mit einem Vorhang verhüllt; Fräulein Ahlborn zog ihn zur Seite – in diesem Augenblick zuckte ein Blitz und beleuchtete geisterhaft einen schön gemalten Kopf, der lebensvoll aus dem Rahmen blickte. Die junge Fremde stieß einen Ruf der Überraschung aus, und die Gesellschafterin nickte ein wenig.
     </p>
-    <p xml:id="eco_de_000097_890">
+    <p xml:id="eco_de_0000169_890">
      Ja, Sie sehen ihr sehr ähnlich. Es muß Ihnen sein, als sähen Sie sich im Spiegel. Die Natur spielt merkwürdig. Wie dieselben Rosen wiederkehren, so ist es auch mit den Menschen. Ein Geschlecht, auch zwei werden überschlagen; dann aber kehrt plötzlich die Gestalt, das Gesicht wieder, das längst in Staub verfallen ist. Während sie sprach, sah die alte Dame aufmerksam in das Gesicht ihres Gastes, als erwarte sie eine Antwort, und als diese kam, nickte sie, als habe sie alles schon im voraus gewußt.
     </p>
-    <p xml:id="eco_de_000097_900">
+    <p xml:id="eco_de_0000169_900">
      Das junge Mädchen sprach zögernd, als steige nur allmählich ein halb verschwommenes Bild in ihrer Seele auf. Meine Großmutter hatte eine sehr viel ältere Schwester. Sie hieß Corisande, und ich erinnere mich aus meiner Kindheit, daß Großmutter von ihr erzählte. Nicht viel – wenigstens weiß ich es nicht mehr. Der Name gefiel mir so gut, und ich war betrübt, daß man mich nicht so nannte. Denn unter den Namen, auf die ich getauft bin, steht auch Corisande. Es hieß aber, der Name brächte kein Glück: die Großtante, die ihn geführt hätte, sei einsam und traurig gestorben –
     </p>
-    <p xml:id="eco_de_000097_910">
+    <p xml:id="eco_de_0000169_910">
      Das alte Fräulein hatte sich gesetzt und blickte wieder von dem Bilde auf das vor ihr stehende Mädchen. Hin und wieder huschten Blitze über die zwei einander so ähnlichen Gesichter, der Donner grollte, und der Regen rauschte hernieder.
     </p>
-    <p xml:id="eco_de_000097_920">
+    <p xml:id="eco_de_0000169_920">
      Ja, sie ist schon lange tot, sagte die Alte eintönig. Ich habe sie nicht so jugendfrisch gekannt, wie sie hier abgebildet ist. Als ich sie kennen lernte, war sie schon Klosterdame und trug das rote Band mit dem goldnen Ordensstern. Sie war sehr hochmütig geworden und hatte eine ganz besondre Art, über die Menschen hinwegzusehen, die sie nicht mochte. An meiner Herrin sah sie immer vorbei. Zweimal hatte die Gräfin versucht, sich Fräulein Corisande zu nähern, aber sie wurde immer mit so eisiger Kälte behandelt, daß sie es später niemals wieder wagte. Das gnädige Fräulein öffnete auch keinen Brief, den ihr meine Herrin schrieb!
     </p>
-    <p xml:id="eco_de_000097_930">
+    <p xml:id="eco_de_0000169_930">
      Die Gesellschafterin schwieg und versenkte sich wieder in beide Gesichter, das gemalte und das lebende. Dann sprach sie weiter: Ich meine immer, Fräulein Corisande hätte meiner Gräfin verzeihen können. Ich weiß wohl, es war ein entsetzliches Schicksal, das damals urplötzlich über sie hereingebrochen war. Aber die Gräfin wollte ja alles wieder gutmachen. Sie ist wohl leichtsinnig, aber niemals schlecht gewesen. Auch wurde sie von ihrem Manne so vernachlässigt, daß ihre Fehler eher zu entschuldigen waren. Und sie hat die kurzen Stunden des Glücks bitter büßen müssen. Corisandens Zorn, ihre Verachtung haben ihr das Herz gebrochen und ihren Verstand in den Zustand gebracht, den Sie eben beobachtet haben. Sie glaubt, noch jung zu sein und ihr ganzes Leben nur geträumt zu haben. Die einzige Sehnsucht dieses Traumes ist nach Corisande, und diese Sehnsucht begleitet sie durch alle ihre Träume. Nun wird sie sich wohl bald nicht mehr sehnen –
     </p>
-    <p xml:id="eco_de_000097_940">
+    <p xml:id="eco_de_0000169_940">
      Das Fräulein hatte die Hände in den Schoß gelegt und sah noch immer zu dem Bilde empor, über das vereinzelte Blitze zuckten.
     </p>
-    <p xml:id="eco_de_000097_950">
+    <p xml:id="eco_de_0000169_950">
      Und er?
     </p>
-    <p xml:id="eco_de_000097_960">
+    <p xml:id="eco_de_0000169_960">
      Das junge Mädchen fragte es zögernd nach einer langen Pause.
     </p>
-    <p xml:id="eco_de_000097_970">
+    <p xml:id="eco_de_0000169_970">
      Fräulein Ahlborn fuhr aus ihrem Schweigen auf. Er? Sie meinen Graf Alfred? Er hat damals die Stadt verlassen und ist in die Ferne gegangen. Als er wiederkehrte, war er verheiratet. Er war noch immer ein schöner Mann, und man sagte, er sei ein ausgezeichneter Diplomat geworden. Solange ich im Hause der Gräfin bin, hat er es nie betreten. Jetzt ist er lange tot!
     </p>
-    <p xml:id="eco_de_000097_980">
+    <p xml:id="eco_de_0000169_980">
      Das junge Mädchen schauderte leicht zusammen, und Fräulein Ahlborn lächelte leise. Seien Sie mir nicht böse, daß ich Sie in dieses düstre Haus gelockt habe, wo Sie in eine Gesellschaft von Toten gekommen sind. Denn die Gräfin und ich sind tot; wenigstens für diese Welt, und bald – bald – Weiter sprach sie nicht. Aber auf ihrem Gesicht lag die Freude einer schönen Hoffnung.
     </p>
-    <p xml:id="eco_de_000097_990">
+    <p xml:id="eco_de_0000169_990">
      Der Regen hatte inzwischen aufgehört. Als die Fremde auf die Straße trat, war die Luft von Blumenduft erfüllt, und in den Jasminbüschen des Gartens begann die Nachtigall zu schlagen.
     </p>
-    <p xml:id="eco_de_000097_1000">
+    <p xml:id="eco_de_0000169_1000">
      Einige Tage waren seitdem vergangen; da geschah etwas Wunderbares und allen Menschen sehr Unerwartetes. Die alte Gräfin war plötzlich eingeschlafen, um nie wieder zu erwachen. Anfangs wollte niemand an die Nachricht glauben, weil es allen ganz unnatürlich schien, daß die Gräfin sterben könnte. Es war aber doch so.
     </p>
-    <p xml:id="eco_de_000097_1010">
+    <p xml:id="eco_de_0000169_1010">
      Die Kinder trauerten sehr über diesen Todesfall. Sie sahen nach dem Fenster hinauf, wo die Gräfin so oft gesessen hatte, und erzählten sich, wie oft sie Kuchen von ihr bekommen hätten. Und da jeder behauptete, das größte Stück von ihr erhalten zu haben, so prügelten sie sich schließlich und machten dabei so viel Lärm, daß sich die alte Dame sehr gefreut haben würde, wenn sie es hätte hören können. Aber sie lag mit gefalteten Händen und friedlichem Lächeln auf einem weißen Atlaskissen, und ihre Enkelin, die Baronin, stand vor ihr und betrachtete nachdenklich die Feingeschnittenen, wachsbleichen Züge. Dann sah sie zu dem Bilde Corisandens empor, das unverhüllt zu Füßen des Lagers hing und mit sonnigem Lächeln auf die Tote herabblickte.
     </p>
-    <p xml:id="eco_de_000097_1020">
+    <p xml:id="eco_de_0000169_1020">
      Die Baronin hatte eine Ahnung von der Geschichte Corisandens; weil sie aber nichts darüber zu sagen wußte, so begnügte sie sich damit, mehrere Male zu seufzen. Denn sie hatte Gefühl und sah es gern, daß andre Leute das merkten. Als nun ihr Mann neben sie trat, erzählte sie ihm aber doch flüsternd, was sie von der verstorbnen Corisande wußte, und wie die Großmama so sanft eingeschlafen sei, weil sie eine junge Corisande gesehen, die ihr nicht gezürnt hätte.
     </p>
-    <p xml:id="eco_de_000097_1030">
+    <p xml:id="eco_de_0000169_1030">
      Die Stimme der Baronin klang bewegt, denn auch in ihrer leeren Seele war eine Saite aufgespannt, die erklingen konnte, wenn sie nur richtig berührt wurde.
     </p>
-    <p xml:id="eco_de_000097_1040">
+    <p xml:id="eco_de_0000169_1040">
      Der Baron aber lächelte griesgrämig und sagte, er glaube nicht an Märchen. Dann ging er ins Eßzimmer, um Portwein zu trinken und sich zum letzten Male mit den übrigen Verwandten in die Pension der Gräfin zu teilen. Er ahnte nicht, daß Leben und Tod beides Märchen sind – immer dieselben Märchen.
     </p>
    </div>

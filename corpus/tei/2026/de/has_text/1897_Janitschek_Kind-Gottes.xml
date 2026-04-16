@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000163" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kind Gottes
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Janitschek, Maria
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     1991
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1897">
+      1897
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000163_20">
+    Kind Gottes
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000163_30">
+     Es war im Lüneburger Haideland.
+    </p>
+    <p xml:id="eco_de_0000163_40">
+     Weit wölbte sich der Himmel über dem braunroten Boden wie eine ungeheure, schützend ausgebreitete Hand. Dunkelgrüne Eschengruppen, die hie und da die einförmige Fläche unterbrachen, verbargen in ihren Schatten kleine, wunderliche, strohgedeckte Häuser. Vor diesen Gelassen, die man kaum Nachbarhäuser nennen konnte, weil sie so weit von einander entfernt lagen, saß die Einsamkeit und spielte auf unsichtbarer Laute ihr großes geheimnisvolles Lied. Die rüstigen Arbeiter in der Mitte des Lebens, die zusehen mußten, Kisten und Truhen zu füllen, und gruben und harkten und schnitzten, hatten nicht Muße, darauf zu lauschen. Aber die Greise und Kinder, die unthätig vor den Hütten saßen, die vernahmen es und bogen die Köpfe vor wie Horchende und verloren ihre Seelen in der Unermeßlichkeit dieses Himmels.
+    </p>
+    <p xml:id="eco_de_0000163_50">
+     Eine dieser weltfernen Niederlassungen beherbergte nebst einer bejahrten Familie, deren Kinder schon längst ausgeflogen waren, eine Frau und einen Knaben. Er war nicht ihr eigener; sie hatte ihn angenommen, damit sie einen Sohn und er eine Mutter habe. Später merkte sie, daß sie ihn doch nicht so lieb haben konnte, wie sie es gewünscht hätte.
+    </p>
+    <p xml:id="eco_de_0000163_60">
+     Um sich aber immer zu erinnern, daß er, der Vater-und Mutterlose, besonderer Güte und Sorgfalt verdiene, rief sie ihn anstatt nach seinem Namen: Kind Gottes.
+    </p>
+    <p xml:id="eco_de_0000163_70">
+     In seinem vierten Jahre erkrankte der Junge. Er verlor sein pralles Kindergesicht und erhielt sonderbare alte Züge. Auch sein körperliches Gewicht nahm ab. Ein Doktor, den die Frau einmal von weither holte, meinte, indem er den Knaben betrachtete, er hätte wohl die »Auszehrung«. So glänzende, kluge Augen, mit allerlei Geheimnisvollem darin, bekämen die Kinder, die an der Auszehrung stürben. Und sie sollte ihn nur ruhig liegen lassen und hübsch warm halten, weiter gäbe es da nichts zu thun.
+    </p>
+    <p xml:id="eco_de_0000163_80">
+     Sie ließ ihn ruhig, ganz ruhig in der kleinen Kammer liegen, stellte ihm ein Schüsselchen Milch ans Bett und ging ihrer Arbeit nach.
+    </p>
+    <p xml:id="eco_de_0000163_90">
+     Er weinte nicht, wurde nicht ungeduldig. Er sah mit seinen großen, glänzenden Augen immer aufs Fenster. Eigentlich sah er da nicht viel, denn die dichtbelaubten Bäume ließen nicht das kleinste Stück Himmel sichtbar werden. Manchmal kam eine Biene oder ein Schmetterling hereingeflogen, oder ein Vogel sang in leisen Flüstertönen draußen im heimlichen Laubgezweig von etwas Wundersüßem, das in der Welt war… Dann lächelte der Junge. Er wurde alle Tage wissender und klüger und bekam hellsehende Augen. Und sein kleines Herz begann mit jeder Stunde schneller und schneller zu klopfen.
+    </p>
+    <p xml:id="eco_de_0000163_100">
+     Eines Tages stand die Frau lange vor seinem Bette und sah ihn an. Er wollte ihr gar nicht mehr gefallen. Aus seinen strahlenden Augen schienen Engel zu lachen, und im Zimmer rauschte es wie nahende Gewande. Aber sie konnte nicht bei dem kleinen Kranken bleiben. Es war Herbst, und die letzten Kartoffeln mußten ausgenommen werden. Sie deckte das Kind gut zu, daß kein Luftzug und kein Lichtstrahl sein kleines heißes Gesicht berühren konnte; dann entfernte sie sich seufzend.
+    </p>
+    <p xml:id="eco_de_0000163_110">
+     Draußen traf sie den alten Schäfer.
+    </p>
+    <p xml:id="eco_de_0000163_120">
+     Sie legte ihre Hand auf seinen Arm.
+    </p>
+    <p xml:id="eco_de_0000163_130">
+     »Wenn ihr 'mal vorbeikommt, seht doch nach dem Jungen. Ich bliebe gern bei ihm, aber ich kann nicht, ich muß aufs Feld.«
+    </p>
+    <p xml:id="eco_de_0000163_140">
+     Der Alte versprach es. Dann und wann, wenn seine Schafe in der Nähe grasten, öffnete er die niedere Stubenthür und trat in die Kammer zu dem kranken Kinde. Der Kleine sah ihm freundlich entgegen. Er freute sich, daß jemand zu ihm kam. Er begann mit fieberhaftem Eifer allerlei Fragen an den Alten zu stellen. Der kauerte sich auf dem Bettrand nieder, stopfte seine Pfeife und dampfte und erzählte. Er war vor einem halben Jahrhundert Soldat gewesen und hatte allerlei durchgemacht. Wohl an tausendmale hatte er alle seine Erlebnisse und Abenteuer Freunden und Bekannten im Krug erzählt; zuletzt mochten sies nicht mehr hören.
+    </p>
+    <p xml:id="eco_de_0000163_150">
+     Da schwieg er denn und steckte die Pfeife zwischen die Lippen. Jahre waren dahingegangen, seit er mit den Schafen auf die einsamen Halden zog und fast mit niemandem mehr sprach. Nun begehrte ihn plötzlich Einer zu hören. Er suchte in den entlegensten Ecken seines alten Gedächtnisses und entdeckte allerlei Seltsames. Er wußte nicht mehr, hatte er es erlebt oder nur geträumt. Aber er erzählte. Von langen Wanderungen an der See und übers Hochgebirge erzählte er, von schnaubenden Rossen, die über Leichen hinwegjagten, von schönen jungen Kriegern mit wehenden Federbüschen. Und der Knabe lauschte mit halbgeöffneten Lippen und großen, leuchtenden Augen.
+    </p>
+    <p xml:id="eco_de_0000163_160">
+     Einmal sagte er: »Sarne, was ist das: ein Hochgebirge?« Der alte Schäfer sah vor sich hin und meinte dann langsam: »Das sind Berge, die mitten in den Himmel hineinragen und an denen die Wolken sich spießen, wenn sie drüber hinweggleiten wollen.«
+    </p>
+    <p xml:id="eco_de_0000163_170">
+     Mitten in den Himmel hinein! An diesem Nachmittag sprach der Junge kein Wort mehr.
+    </p>
+    <p xml:id="eco_de_0000163_180">
+     Auch hörte er kaum, was der Alte ihm noch alles erzählte. Er sah immer mit seinen großen Augen auf die kahle weiße Wand seinem Bette gegenüber. Abends, als die Pflegemutter zurückkehrte, sagte er: »Du Mutter, ich möcht' wohl ein Hochgebirge sehen.« Die Frau sah ihn bekümmert an. Er phantasierte. Nun würde er gewiß bald sterben. »Das Hochgebirge kann keiner von uns hier sehen« sagte sie und ging an ihren Herd. Der kleine Knabe murmelte still vor sich hin: »Warum nur nicht?« Er glaubte es nicht, daß man etwas, das man sehen wollte, nicht sehen konnte. In der Nacht träumte er wunderliche Träume und redete im Schlaf.
+    </p>
+    <p xml:id="eco_de_0000163_190">
+     Einmal sagte Sarne zu der Frau: »Warum nimmst du ihn denn nicht mit aufs Feld? Sterben muß er ja doch bald. Im Flur steht der kleine hölzerne Wagen, mit dem er früher immer gespielt hat. Setz ihn da hinein und nimm ihn mit dir. Er ist ja jetzt so klein und leicht geworden und geht gewiß in das Wäglein.«
+    </p>
+    <p xml:id="eco_de_0000163_200">
+     Die Frau in ihrer weiblichen Zaghaftigkeit wagte nicht, Sarnes Rat zu befolgen.
+    </p>
+    <p xml:id="eco_de_0000163_210">
+     Da einmal, als sie wieder draußen war, nahm der Schäfer das Kind, wickelte es gut in eine Decke ein, setzte es in das Wäglein und schob es hinaus ins Freie.
+    </p>
+    <p xml:id="eco_de_0000163_220">
+     Der Kleine jauchzte vor Lust. Seine Augen wurden noch einmal so groß und weit. Aber plötzlich verstummte sein Jubel. Ringsum die unermeßliche Haide mit ihrem braunroten Boden. Im Westen aber, was war das? Seine Blicke starrten wie trunken auf das Bild.
+    </p>
+    <p xml:id="eco_de_0000163_230">
+     Ein zerklüftetes, weit übereinandergetürmtes Gebirge scheint dort aus der Erde gewachsen zu sein. Seine Zacken und Zinnen brennen feurig, als ob sie sich an der Sonne entzündet hätten, indeß das Massiv tief unten in dunkelblauen Tinten leuchtet.
+    </p>
+    <p xml:id="eco_de_0000163_240">
+     »Da ist es ja« stammelt der Junge und deutet mit dem Finger hinüber, »da ist es ja, Hochgebirge, Hochgebirge! … Ich möchte wohl dorthin können, aber es ist weit, weit … vielleicht gar schon auf einem andern Weltteil.« … Der Schäfer blickt auf die lohende Wolkenwand und spricht kein Wort.
+    </p>
+    <p xml:id="eco_de_0000163_250">
+     Später ließ sich das Kind ruhig nach Hause fahren. Ein leises triumphierendes Lächeln lag um seine Lippen. Es hatte gesehen, was es ersehnte.
+    </p>
+    <p xml:id="eco_de_0000163_260">
+     Etliche Tage später – sie konnten nicht aufs Feld hinaus, weil ein gewaltiger Sturm draußen brauste – erzählte Sarne von einer großen Schlacht und den tapferen Generälen und dem König, wie er ihm, dem Schäfer Sarne, die Hand geschüttelt und ihm gedankt habe, daß er mitgeholfen, das Vaterland zu retten. Der kleine Kranke legte sein Händchen auf den Arm des Erzählers.
+    </p>
+    <p xml:id="eco_de_0000163_270">
+     »Du, was ist denn das: ein König?«
+    </p>
+    <p xml:id="eco_de_0000163_280">
+     »Ein König ist ganz voll goldener Sterne, und auf dem Haupte trägt er eine Goldkrone.« Und der Alte setzte noch allerlei Wunderliches hinzu.
+    </p>
+    <p xml:id="eco_de_0000163_290">
+     Als die Mutter heimkam, sagte der Junge zu ihr: »Ich möchte wohl einen König sehen.« Sie legte die Hand auf seine brennende Stirn.
+    </p>
+    <p xml:id="eco_de_0000163_300">
+     Er schob sie sanft von sich. »Du, kannst du mir keinen König zeigen? ich möchte so gerne einen sehen.« Die Frau sagte ruhig: »Ich will dir Zucker in die Milch thun. Könige giebts nicht in unserer Gegend.« Nun stirbt er sicher bald, dachte sie traurig, und ein Stück Zucker mehr oder weniger macht nichts aus.
+    </p>
+    <p xml:id="eco_de_0000163_310">
+     Und sie reichte ihm die süße Milch hin.
+    </p>
+    <p xml:id="eco_de_0000163_320">
+     Er wies sie fort und lächelte heimlich.
+    </p>
+    <p xml:id="eco_de_0000163_330">
+     Dann kam die Nacht. Die Frau, müde von der angestrengten Arbeit, schlief immer sehr fest und hörte nichts im Schlaf.
+    </p>
+    <p xml:id="eco_de_0000163_340">
+     Mitten in der Nacht warf sich der Sturm auf den morschen Fensterriegel und öffnete ihn. Die Fensterflügel gingen beide auf. Von den Bäumen waren die letzten Blätter abgefallen und der ganze große Himmel war sichtbar. Der Knabe, den das Geräusch aufgeweckt hatte, sah voll seligem Grauen hinaus. Ein volles goldenes Gesicht blickte durch die kahlen Baumäste herein und überflutete mit seiner Helle die ärmliche Kammer.
+    </p>
+    <p xml:id="eco_de_0000163_350">
+     »Der König« lispelte das Kind und faltete die Hände. »Der König, der König. Ob er auch die Sterne hat?« Und es setzte sich spähend im Bette auf und sah in den Himmel. Und da sah es die tausend und aber tausend Sterne des Königs und lachte entzückt …
+    </p>
+    <p xml:id="eco_de_0000163_360">
+     Am Morgen schloß die Frau voll Erschrecken das Fenster. Daß sie das nicht gemerkt hatte! Nun würde sich der Junge wohl zu Tode erkältet haben. Sie legte ihm still abbittend die Hand auf den Kopf. Kind Gottes! Kind Gottes!
+    </p>
+    <p xml:id="eco_de_0000163_370">
+     Als der Schäfer das nächstemal eintrat, lächelte ihm der Knabe entgegen. »Du, ich hab den König gesehen. Er war in der Nacht bei mir. Er roch so kühl und tropfte ganz von Gold. Und seine Sterne hab ich nicht zählen können.« Der Schäfer nickte. »Kann wohl sein, kann wohl sein.«
+    </p>
+    <p xml:id="eco_de_0000163_380">
+     Dann vermengten sich in seinem alten Gedächtnis Traum und Wirklichkeit, und er begann zu erzählen.
+    </p>
+    <p xml:id="eco_de_0000163_390">
+     Natürlich stand er wieder auf dem Schlachtfeld. Wo die Engel Gottes, die barmherzigen Schwestern, den Verwundeten und Sterbenden Linderung brachten. Wo sie ihnen mit weißen zarten Händen die roten Wunden auswuschen und das Kreuz auf die Lippen legten… Diese gnädige, große Liebe! O, manch eine Mutter sei vor einer dieser schlichten, schwarzgekleideten Gestalten hingekniet und habe ihre Hände geküßt. Ja, im Kriege da ginge sie umher, suchend, immer suchend: die Liebe. Und sie fände auch genug, überreichlich fände sie …
+    </p>
+    <p xml:id="eco_de_0000163_400">
+     Der Knabe hielt den Atem an. »Was ist denn die Liebe?«
+    </p>
+    <p xml:id="eco_de_0000163_410">
+     »Ja, ja« wiederholte der Schäfer wie geistesabwesend und versank in Brüten.
+    </p>
+    <p xml:id="eco_de_0000163_420">
+     Aber der Junge ließ nicht nach. Immerfort murmelte er: »Liebe, Liebe! Du, wo ist sie denn? Wie sieht sie denn aus? Trägt sie auch eine goldene Krone wie der König?«
+    </p>
+    <p xml:id="eco_de_0000163_430">
+     Sarne schüttelte nur immer den Kopf, er wußte nichts zu entgegnen. Er hatte vergessen, wovon er gesprochen, und das Wort des Kindes schlug wie ein fremder Laut an sein Ohr.
+    </p>
+    <p xml:id="eco_de_0000163_440">
+     Der Knabe aber beharrte bei seiner Frage. »Du, sag doch, was ist das: Liebe?« flüsterte er, die Hand seiner Pflegemutter ergreifend.
+    </p>
+    <p xml:id="eco_de_0000163_450">
+     Die Frau stutzte, sah ihn groß an und wandte sich dann ab, um die Thränen zu verbergen, die ihr in die Augen traten. Sie blieb die Antwort schuldig.
+    </p>
+    <p xml:id="eco_de_0000163_460">
+     Doch der Junge hatte das aufsteigende Naß in ihren Augen bemerkt. Noch niemals hatte er die harte ernste Frau weinen sehen. Was mochte wohl dieses Wort bedeuten? Seine Augen bohrten sich sinnend in das bläßliche Firmament, das zum Fenster hereinsah. Und er erinnerte sich einer merkwürdigen Geschichte, die der alte Schäfer ihm einstmals erzählt hatte.
+    </p>
+    <p xml:id="eco_de_0000163_470">
+     Es kam ein Geheimnis in ihr vor, das kein Mensch auflösen konnte. In dem Knaben begannen die wunderlichsten Vorstellungen zu erwachen. Über Alles, was ihn bewegte, hatte er noch Aufklärung erhalten, warum grade über dies nicht? Warum hatte die Mutter zu weinen und der Alte zu schweigen begonnen, als er es aussprach?
+    </p>
+    <p xml:id="eco_de_0000163_480">
+     Liebe! Liebe!
+    </p>
+    <p xml:id="eco_de_0000163_490">
+     In der Nacht erwachte er plötzlich und setzte sich auf. Es war ihm so wunderlich. Er hörte Glocken klingen und der Atem wollte ihm schier vergehen vor dem Wehen der zahllosen weißen Flügel, die durchs Zimmer schwirrten.
+    </p>
+    <p xml:id="eco_de_0000163_500">
+     Wem gehörten sie alle diese schmalen, hohen, schneeigen Schwingen? Ein kühler Wind entsprang ihrer Bewegung. Das Kind schaute und schaute. Dann legte es die Hand auf die Schulter der schlafenden Mutter. »Warum läuten die Glocken? Warum sind alle diese Flügel geöffnet?« Aber die Mutter gab keine Antwort, sie schlief weiter. Mit einemmale kniete der Knabe im Bett auf und breitete die Arme nach Etwas aus. »Das ist sie, das ist sie …!«
+    </p>
+    <p xml:id="eco_de_0000163_510">
+     Die Frau fuhr erschreckt empor und sah ihn lächelnd zurücksinken.
+    </p>
+    <p xml:id="eco_de_0000163_520">
+     »Nimm ihn gnädig auf, Herr Jesu Christ« sagte sie und faltete die Hände …
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

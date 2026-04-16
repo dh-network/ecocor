@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_0000110" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000181" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_0000110_20">
+   <p xml:id="eco_de_0000181_20">
     Sie und Er
    </p>
   </front>
@@ -94,982 +94,982 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_0000110_30">
+    <p xml:id="eco_de_0000181_30">
      Eine Treppe hoch, unter dem Glasdach, war das Atelier. Unten füllte das ganze Gebäude ein großer, schöner Empfangsraum aus.
     </p>
-    <p xml:id="eco_de_0000110_40">
+    <p xml:id="eco_de_0000181_40">
      Wenn man die Tür, die zu diesem Raum führte, öffnete, erklang ein sanftes, leises Tönen. Das kam von den schwingenden Klöppelchen einer Türzither.
     </p>
-    <p xml:id="eco_de_0000110_50">
+    <p xml:id="eco_de_0000181_50">
      Der Mann, der eben eintrat, blieb, ob des seltsam anmutvollen Tönens betroffen, lauschend auf der Schwelle stehen.
     </p>
-    <p xml:id="eco_de_0000110_60">
+    <p xml:id="eco_de_0000181_60">
      »Bitte näher zu treten!« rief von innen eine Stimme, die zu einem jugendlichen Frauenzimmer gehörte.
     </p>
-    <p xml:id="eco_de_0000110_70">
+    <p xml:id="eco_de_0000181_70">
      Nun schloß er hinter sich die tönende Tür und machte große Augen, denn wie eben dem Ohr, so bot sich jetzt dem Blick das Überraschendste an anmutiger Fremdartigkeit: Farben in Schattierungen, die er eigentlich nur von großen Levkojenrabatten her kannte; Ornamente, deren ausdrucksvolle Linienführung beinah aufregte; Formen eines ihm fremden Stils, die alle miteinander lebendige Seelen zu haben schienen.
     </p>
-    <p xml:id="eco_de_0000110_80">
+    <p xml:id="eco_de_0000181_80">
      Sanft gefärbtes Glas in wunderlich verschnörkelten Fenstern ließ über dies Märcheninterieur ein unwirklich fantastisches Licht fließen.
     </p>
-    <p xml:id="eco_de_0000110_90">
+    <p xml:id="eco_de_0000181_90">
      Mitten in dieser schönen Seltsamkeit, an einem seltsam schönen Tisch, saß eine gar nicht seltsame junge Dame und schrieb.
     </p>
-    <p xml:id="eco_de_0000110_100">
+    <p xml:id="eco_de_0000181_100">
      Stöße von Briefen, Rechnungen, bedruckten Umschlägen lagen vor ihr, und die paßten eigentlich gar nicht in diese Umgebung.
     </p>
-    <p xml:id="eco_de_0000110_110">
+    <p xml:id="eco_de_0000181_110">
      Noch etwas störte ihn als aus dem Rahmen fallend: Auf all den wundersamen Tischen und Konsolen standen Fotografien großen Formats, lagen Fotografiealben und ganze Haufen von Fotografien in kunstvollen Schalen. Die hätte er gern mit einer großen Handbewegung weggefegt ganz weg.
     </p>
-    <p xml:id="eco_de_0000110_120">
+    <p xml:id="eco_de_0000181_120">
      Die schreibende junge Dame fragte, ohne sich im Schreiben zu unterbrechen:
     </p>
-    <p xml:id="eco_de_0000110_130">
+    <p xml:id="eco_de_0000181_130">
      »Was steht zu Diensten, mein Herr?«
     </p>
-    <p xml:id="eco_de_0000110_140">
+    <p xml:id="eco_de_0000181_140">
      »Ist Fräulein Wildenau nicht hier?«
     </p>
-    <p xml:id="eco_de_0000110_150">
+    <p xml:id="eco_de_0000181_150">
      »Jawohl, mein Herr. Die ist gerade bei einer Aufnahme. Kann ich ihr etwas ausrichten?«
     </p>
-    <p xml:id="eco_de_0000110_160">
+    <p xml:id="eco_de_0000181_160">
      »Ich kam nur, um Fräulein Wildenau zu besuchen. Wann ist sie wohl zu sprechen?«
     </p>
-    <p xml:id="eco_de_0000110_170">
+    <p xml:id="eco_de_0000181_170">
      »Sie wird in zehn Minuten spätestens herunterkommen, denn wir schließen um ein Uhr. Wollen der Herr nicht ein wenig Platz nehmen?«
     </p>
-    <p xml:id="eco_de_0000110_180">
+    <p xml:id="eco_de_0000181_180">
      Er wollte.
     </p>
-    <p xml:id="eco_de_0000110_190">
+    <p xml:id="eco_de_0000181_190">
      Die Wände buchteten in Nischen aus von unregelmäßiger Form und verschiedener Tiefe. Eine der tiefsten, in die das Licht durch blumenförmige mattlila Scheiben fiel, glich einem halb verborgenen Betkapellchen. Hier trat er ein und setzte sich auf eine mit welkrosa Damast überzogene Ruhebank.
     </p>
-    <p xml:id="eco_de_0000110_200">
+    <p xml:id="eco_de_0000181_200">
      Er dachte: »Aber dies ist ja ganz raffinierter Luxus! Sie muß reich geworden sein!«
     </p>
-    <p xml:id="eco_de_0000110_210">
+    <p xml:id="eco_de_0000181_210">
      Nach kurzem Warten sah er, daß sich die wundervolle, in kühnem Bogen niedersteigende Treppe mit dem Durcheinander von Farben und Formen und Bewegung füllte, wie sie das Zusammenspiel modekünstlerischer Ideen nebst deren individuellen Ausartungen und Einschränkungen hervorbringt.
     </p>
-    <p xml:id="eco_de_0000110_220">
+    <p xml:id="eco_de_0000181_220">
      Ein paar Damen in dunklen Promenadenkleidern raschelten mit den falbelbesetzten, in leuchtenden Farben prangenden Seidenunterröcken die Treppen herab. Um die kleinen Gesichtchen und über die Taillen flatterten umfangreiche Federboas und üppige Tuffe künstlicher Blumen umgaben die Chevellüren unterhalb und oberhalb der Hutkrempen, vorn und hinten.
     </p>
-    <p xml:id="eco_de_0000110_230">
+    <p xml:id="eco_de_0000181_230">
      Neben diesen Schmetterlingsblüten der dermals letzten Frühjahrsmode ließ sich ein männliches Wesen erkennen, mit müdem Gesicht und einem Überrock à la Biedermeier: lange Schöße, kurze Taille.
     </p>
-    <p xml:id="eco_de_0000110_240">
+    <p xml:id="eco_de_0000181_240">
      Und noch jemand: »Als ginge die Kirche neben der Welt«, dachte der im Kapellchen Wartende. Die schlanke, mittelhohe Erscheinung trug ein braunes Gewand, das in losen Falten fast geradlinig von den Schultern bis zu den Füßen niederwallte und nur leicht in der Taille zusammengefaßt war durch eine starke, aus schmalen Lederriemen geflochtene Schnur. Der Hals war, entgegen der hochkragigen Tagesmode, bis zum Büstenansatz bloß und trug frei und stolz einen dunkellockigen, dunkeläugigen Knabenkopf von strenger Schönheit.
     </p>
-    <p xml:id="eco_de_0000110_250">
+    <p xml:id="eco_de_0000181_250">
      Der Mönch Ekkehard hätte so neben der Herzogin und dem Fräulein Praxedis die Schloßtreppe hinuntersteigen können; doch freilich hätte er in der Gegenwart der geliebten Frau nicht diesen Ausdruck trauernden, frierenden Alleinseins gehabt.
     </p>
-    <p xml:id="eco_de_0000110_260">
+    <p xml:id="eco_de_0000181_260">
      Der in der Kapelle hatte in dem »Mönch« diejenige erkannt, die er suchte: die Fotografin Maria Margarethe Wildenau.
     </p>
-    <p xml:id="eco_de_0000110_270">
+    <p xml:id="eco_de_0000181_270">
      Aber er mochte nicht vorkommen, solange noch diese modischen Menschen in geschäftlichem Ton mit Maria Margarethe über Probebilder, Zeit der Fertigstellung und dergleichen verhandelten.
     </p>
-    <p xml:id="eco_de_0000110_280">
+    <p xml:id="eco_de_0000181_280">
      Es war ihm, da er in seinem Schlupfwinkel beobachtend stand, als habe ihn ein Blick der dunklen Augen gestreift und erkannt. Doch wenn dem so war, dachte sie wohl wie er und schob die Begrüßung auf.
     </p>
-    <p xml:id="eco_de_0000110_290">
+    <p xml:id="eco_de_0000181_290">
      Jedenfalls nahm sie keine Notiz von seiner Anwesenheit, sondern leitete ihre Kunden in gemessener Höflichkeit zu der tönenden Tür, die sie selbst hinter ihnen schloß.
     </p>
-    <p xml:id="eco_de_0000110_300">
+    <p xml:id="eco_de_0000181_300">
      Und das »kling, kling, klang, kling!« folgte jenen wie ein leises Lachen.
     </p>
-    <p xml:id="eco_de_0000110_310">
+    <p xml:id="eco_de_0000181_310">
      Nun kamen sie aber rasch einander entgegen, sie und er. »Welche unerwartete Freude!« sagte Maria Margarethe lebhaft. »Sie sind in Dresden, lieber Jano? Wo kommen Sie her?«
     </p>
-    <p xml:id="eco_de_0000110_320">
+    <p xml:id="eco_de_0000181_320">
      Er ergriff ihre Hand, sah ihr forschend in die Augen und antwortete nach einer kleinen Gedankenpause etwas zerstreut: »Von weit her.«
     </p>
-    <p xml:id="eco_de_0000110_330">
+    <p xml:id="eco_de_0000181_330">
      »Was führt Sie nach Dresden?«
     </p>
-    <p xml:id="eco_de_0000110_340">
+    <p xml:id="eco_de_0000181_340">
      »Der Wunsch nach dieser Stunde.«
     </p>
-    <p xml:id="eco_de_0000110_350">
+    <p xml:id="eco_de_0000181_350">
      Sie lachte erfreut. In diesem Lachen lag eine Bescheidenheit, die ihn erstaunte.
     </p>
-    <p xml:id="eco_de_0000110_360">
+    <p xml:id="eco_de_0000181_360">
      »Heißt das: Ich soll Sie fotografieren?« fragte sie schelmisch.
     </p>
-    <p xml:id="eco_de_0000110_370">
+    <p xml:id="eco_de_0000181_370">
      Er schüttelte den Kopf.
     </p>
-    <p xml:id="eco_de_0000110_380">
+    <p xml:id="eco_de_0000181_380">
      »Nach nichts auf der Welt habe ich geringeres Verlangen. Aber danach verlangt mich: zu hören, wie es Ihnen geht und ob Sie mir über all Ihre Erfolge weg etwas von Ihrer schönen, warmen Freundschaft aufbewahrt haben!«
     </p>
-    <p xml:id="eco_de_0000110_390">
+    <p xml:id="eco_de_0000181_390">
      »Das will ich Ihnen nachher bei mir sagen.«
     </p>
-    <p xml:id="eco_de_0000110_400">
+    <p xml:id="eco_de_0000181_400">
      Nach diesem dunklen Ausspruch ließ sie ihn fürs erste stehen, um einiges Geschäftliche mit der jungen Empfangsdame zu besprechen. Wie klar ihre Stimme, wie präzis ihre Ausdrucksweise, wie kurz und vernünftig ihre Anordnungen!
     </p>
-    <p xml:id="eco_de_0000110_410">
+    <p xml:id="eco_de_0000181_410">
      Ja, sie war ein außergewöhnliches Wesen.
     </p>
-    <p xml:id="eco_de_0000110_420">
+    <p xml:id="eco_de_0000181_420">
      Nachdem Maria Margarethe das schreibende Fräulein beurlaubt hatte, bat sie den Freund, ihr zu folgen.
     </p>
-    <p xml:id="eco_de_0000110_430">
+    <p xml:id="eco_de_0000181_430">
      Sie geleitete ihn durch ein Pförtchen, das einer uralten Burg anzugehören schien, und durch einen Gang, der kreuzgangartig einen Innenhof auf vier Seiten umgab. Kleine, dicke Bündelsäulen, die weder ägyptisch noch assyrisch waren, aber erst recht nicht griechisch oder gothisch, begrenzten, durch flache, wunderlich verschobene Bogen miteinander verbunden, die Hofseite, während die Wand gegenüber mit Thüringer Landschaftsfresken von Schulze- Naumburg geschmückt war.
     </p>
-    <p xml:id="eco_de_0000110_440">
+    <p xml:id="eco_de_0000181_440">
      Mitten in dem grasbewachsenen Hof stand eine Pappel und darunter eine steinerne Bank.
     </p>
-    <p xml:id="eco_de_0000110_450">
+    <p xml:id="eco_de_0000181_450">
      »Ist dieser Märchenpalast Ihr Eigentum?« fragte er staunend.
     </p>
-    <p xml:id="eco_de_0000110_460">
+    <p xml:id="eco_de_0000181_460">
      »Ja.«
     </p>
-    <p xml:id="eco_de_0000110_470">
+    <p xml:id="eco_de_0000181_470">
      »Ihre eigene Fantasieschöpfung?«
     </p>
-    <p xml:id="eco_de_0000110_480">
+    <p xml:id="eco_de_0000181_480">
      »Nur zum kleinen Teil. Das Beste daran taten einige mir befreundete Künstler. Wir wollten einmal etwas außerhalb der abgenutzten Vorbilder, ganz nach unserem Gefallen und unseren Einfallen. Und so wurde dies.«
     </p>
-    <p xml:id="eco_de_0000110_490">
+    <p xml:id="eco_de_0000181_490">
      Ihm blieb seltsamerweise das »wir« und »unser« ihrer Antwort in der Luftröhre stecken, ohne daß er sich über das »warum« hätte Rechenschaft geben können. Als er es still hinabgewürgt hatte, bemerkte er mit der Bissigkeit des Neides:
     </p>
-    <p xml:id="eco_de_0000110_500">
+    <p xml:id="eco_de_0000181_500">
      »Sie scheinen geradezu brillante Geschäfte zu machen.«
     </p>
-    <p xml:id="eco_de_0000110_510">
+    <p xml:id="eco_de_0000181_510">
      »Ja, es geht ganz gut«, gab sie zu; »Aber ich arbeite auch wie eine Maschine ohne Rast.«
     </p>
-    <p xml:id="eco_de_0000110_520">
+    <p xml:id="eco_de_0000181_520">
      Der Säulengang mündete auf einige geschweifte Marmorstufen, die zu einer Art Altan aufstiegen. Von dort führte ein neues Burgpförtchen in Maria Margarethens Privathäuschen.
     </p>
-    <p xml:id="eco_de_0000110_530">
+    <p xml:id="eco_de_0000181_530">
      Dies Hinterhaus war weniger prunkvoll als das vordere, aber nach den gleichen Ideen ausgeführt.
     </p>
-    <p xml:id="eco_de_0000110_540">
+    <p xml:id="eco_de_0000181_540">
      Nur daß es ungewöhnlich kalt und leer war.
     </p>
-    <p xml:id="eco_de_0000110_550">
+    <p xml:id="eco_de_0000181_550">
      Ein unbehaglicher Geruch von frischem Kalkbewurf machte sich im Treppenhaus bemerkbar und in dem Speisezimmer, in das sie ihn führte, roch es nach Ölfarbe und neuen Möbeln.
     </p>
-    <p xml:id="eco_de_0000110_560">
+    <p xml:id="eco_de_0000181_560">
      Nirgends rührte sich etwas. Nur eine große, wunderlich geformte Uhr tickte sehr vernehmlich. Maria bat ihn, sich zuhause zu fühlen, und machte sich an dem Anrichteschrank zu schaffen.
     </p>
-    <p xml:id="eco_de_0000110_570">
+    <p xml:id="eco_de_0000181_570">
      »Wohnen Sie ganz allein?«
     </p>
-    <p xml:id="eco_de_0000110_580">
+    <p xml:id="eco_de_0000181_580">
      »Ja. Wer sollte bei mir wohnen?«
     </p>
-    <p xml:id="eco_de_0000110_590">
+    <p xml:id="eco_de_0000181_590">
      »Da essen Sie in diesem Saal an dieser Tafel mutterseelenallein? Alle Tage?«
     </p>
-    <p xml:id="eco_de_0000110_600">
+    <p xml:id="eco_de_0000181_600">
      »Ja, natürlich.« Sie lachte wie in Selbstverspottung kurz auf. »Wenn ich nämlich etwas zu essen kriege! Mein Dienstpersonal verbummelt leider ganz und gar, weil ich gar keine Zeit hab', mich um sie zu kümmern. Jetzt zum Beispiel müßte das Gabelfrühstück längst auf dem Tisch stehen, meine Damen ziehen aber vor, sich auf der Straße zu unterhalten, obwohl sie wissen, daß ich müde und hungrig aus dem Atelier komme und so wenig Zeit habe.«
     </p>
-    <p xml:id="eco_de_0000110_610">
+    <p xml:id="eco_de_0000181_610">
      Während sie diese Klage führte, stellte sie selbst Brot und Butter und ein Cabaret mit Wurst und Käse auf den gedeckten Tisch.
     </p>
-    <p xml:id="eco_de_0000110_620">
+    <p xml:id="eco_de_0000181_620">
      Es lag eine unfreudige Müdigkeit über ihrem Hantieren. Offenbar war sie sehr des Ausruhens bedürftig.
     </p>
-    <p xml:id="eco_de_0000110_630">
+    <p xml:id="eco_de_0000181_630">
      »Jetzt hab' ich Ihnen wahrhaftig nichts vorzusetzen, als diese Restchen Wurst und Käse«, sagte sie stirnrunzelnd. »Zum Glück kann ich Ihnen wenigstens einen wirklich guten Wein anbieten.«
     </p>
-    <p xml:id="eco_de_0000110_640">
+    <p xml:id="eco_de_0000181_640">
      »Ich trinke keinen Wein.«
     </p>
-    <p xml:id="eco_de_0000110_650">
+    <p xml:id="eco_de_0000181_650">
      »Bier oder Schnaps vielleicht? Damit kann ich aufwarten.«
     </p>
-    <p xml:id="eco_de_0000110_660">
+    <p xml:id="eco_de_0000181_660">
      »Nichts von alledem, danke.«
     </p>
-    <p xml:id="eco_de_0000110_670">
+    <p xml:id="eco_de_0000181_670">
      »Totaler Anti-Alkoholist?!« rief sie entsetzt.
     </p>
-    <p xml:id="eco_de_0000110_680">
+    <p xml:id="eco_de_0000181_680">
      »Ja.«
     </p>
-    <p xml:id="eco_de_0000110_690">
+    <p xml:id="eco_de_0000181_690">
      »Aus Prinzip?«
     </p>
-    <p xml:id="eco_de_0000110_700">
+    <p xml:id="eco_de_0000181_700">
      »Ja. Man muß lernen, ohne die Nachhilfe dieser Nerven- und Gehirngifte zu leben.«
     </p>
-    <p xml:id="eco_de_0000110_710">
+    <p xml:id="eco_de_0000181_710">
      Sie sah ihm nachdenklich zu, während er sich ein Butterbrötchen mit Käse belegte, und schwieg.
     </p>
-    <p xml:id="eco_de_0000110_720">
+    <p xml:id="eco_de_0000181_720">
      »Warum nehmen Sie eigentlich keine Haushälterin?« fragte er dann.
     </p>
-    <p xml:id="eco_de_0000110_730">
+    <p xml:id="eco_de_0000181_730">
      Sie stützte die Innenflächen der Hände gegen die Tischkante und legte sich in den Stuhl zurück.
     </p>
-    <p xml:id="eco_de_0000110_740">
+    <p xml:id="eco_de_0000181_740">
      »Das ist nichts.«
     </p>
-    <p xml:id="eco_de_0000110_750">
+    <p xml:id="eco_de_0000181_750">
      »Warum nicht?«
     </p>
-    <p xml:id="eco_de_0000110_760">
+    <p xml:id="eco_de_0000181_760">
      »Das will ich Ihnen sagen: Wäre sie unter meinem Stand, einfach eine bezahlte Kraft, dann würde sie es, da sie den ganzen Tag sich selbst überlassen bliebe, bald nicht anders machen als die Mädchen. Wäre sie aber meinesgleichen, so müßte ich sie auch zu meiner Freundin machen. Und dabei würde eine übergroße Intimität herauskommen. Meine knappen Erholungsstunden müßte ich ihr widmen. Denn Sie müssen ins Auge fassen, daß ihre ganze Tätigkeit sich doch um mich und mein Behagen drehen würde. Dann also gäbe es zwei Eventualitäten, die mir gleich abstoßend scheinen. Entweder wir sind einander unsympathisch, dann hielte ich so ein störendes Etwas in täglicher Nähe einfach nicht aus, oder wir lieben uns. Und dann entsteht so ein übertriebenes und ungesundes einander Verzärteln, solche Unzertrennbarkeit, wie man es unter Frauenzimmern allzu häufig findet. Ich halte das für geistige Stickluft und hüte mich davor.«
     </p>
-    <p xml:id="eco_de_0000110_770">
+    <p xml:id="eco_de_0000181_770">
      »Hm«, machte er. »Haben Sie nie daran gedacht, zu heiraten?«
     </p>
-    <p xml:id="eco_de_0000110_780">
+    <p xml:id="eco_de_0000181_780">
      Sie errötete wie ein Backfisch und lächelte mit einem breiten Lächeln, das ihre Zähne zum Vorschein kommen ließ, Zähne von etwas kränklicher Durchsichtigkeit mit hie und da einer kleinen Goldplombe.
     </p>
-    <p xml:id="eco_de_0000110_790">
+    <p xml:id="eco_de_0000181_790">
      Nach sekundenlangem Überlegen sagte sie mit der vornehmen Ehrlichkeit, die er besonders an ihr schätzte:
     </p>
-    <p xml:id="eco_de_0000110_800">
+    <p xml:id="eco_de_0000181_800">
      »Daran gedacht hab' ich in letzter Zeit oft und möchte auch wohl, aber ich finde keinen Mann.«
     </p>
-    <p xml:id="eco_de_0000110_810">
+    <p xml:id="eco_de_0000181_810">
      »Warum nicht gar!« rief er aus. »Ein schönes, kluges, vermögendes Mädchen wie Sie hat doch die Wahl!«
     </p>
-    <p xml:id="eco_de_0000110_820">
+    <p xml:id="eco_de_0000181_820">
      »Nein, aber so wie ich ihn brauchen kann, finde ich wirklich keinen.«
     </p>
-    <p xml:id="eco_de_0000110_830">
+    <p xml:id="eco_de_0000181_830">
      Er schaute sie verwundert an.
     </p>
-    <p xml:id="eco_de_0000110_840">
+    <p xml:id="eco_de_0000181_840">
      »Machen Sie so horrende Ansprüche, Maria Margarethe?«
     </p>
-    <p xml:id="eco_de_0000110_850">
+    <p xml:id="eco_de_0000181_850">
      »Nein, nur zwei ganz bescheidene: Er muß mir gefallen und er muß mein Haus in Ordnung halten.«
     </p>
-    <p xml:id="eco_de_0000110_860">
+    <p xml:id="eco_de_0000181_860">
      Er lachte laut.
     </p>
-    <p xml:id="eco_de_0000110_870">
+    <p xml:id="eco_de_0000181_870">
      »Ihnen den Haushalt führen? Die Küche beaufsichtigen? Ihren Gästen die Honneurs machen? Wie?«
     </p>
-    <p xml:id="eco_de_0000110_880">
+    <p xml:id="eco_de_0000181_880">
      »Ja, sehen Sie, wie Ihnen nun das gleich lächerlich scheint«, sagte sie achselzuckend und etwas ärgerlich. »So seid ihr eben alle. Was außerhalb eurer gewohnten Ordnung liegt, scheint euch absurd. Als ob diese Einrichtungen eher dagewesen wären, als die Menschen, die sie sich nach ihrem derzeitigen Bedarf gemacht haben. Ich brauche einen Mann da, wo ich mir selbst nicht recht helfen kann.«
     </p>
-    <p xml:id="eco_de_0000110_890">
+    <p xml:id="eco_de_0000181_890">
      »Einen Hausmann!« lachte er. »Übrigens: warum nicht? Wer weiß, was für glänzende Fähigkeiten unsereins dabei entwickeln würde.«
     </p>
-    <p xml:id="eco_de_0000110_900">
+    <p xml:id="eco_de_0000181_900">
      »Ja, nun haben wir aber meine Angelegenheiten zur Genüge erörtert«, erklärte sie. »Nun möcht' ich endlich einmal von Ihnen hören, Jano. Wie ist's Ihnen ergangen, seit wir uns nicht gesehen haben. Sechs Jahre sind es mindestens her, daß wir in Rom gemeinschaftlich die Welt auf den Kopf stellen wollten!«
     </p>
-    <p xml:id="eco_de_0000110_910">
+    <p xml:id="eco_de_0000181_910">
      Er seufzte. »Sieben Jahre ja.«
     </p>
-    <p xml:id="eco_de_0000110_920">
+    <p xml:id="eco_de_0000181_920">
      »Ich weiß, daß Sie inzwischen ein großer Dichter geworden sind. Wer wüßte das heute nicht? Man nennt den Namen Jano mit der gewissen Selbstverständlichkeit. Ich bin stolz auf meinen Freund.«
     </p>
-    <p xml:id="eco_de_0000110_930">
+    <p xml:id="eco_de_0000181_930">
      Seine Heiterkeit hatte ihn ganz verlassen. Düster starrte er vor sich hin.
     </p>
-    <p xml:id="eco_de_0000110_940">
+    <p xml:id="eco_de_0000181_940">
      »Ein großer Dichter!« lachte er ingrimmig auf. »Du lieber Gott! Ich hält' es werden können, das weiß ich wohl, wenn der verfluchte Mammon nicht wäre, dieser Moloch, der uns zu Fronarbeit zwingt und uns bei lebendigem Leibe das edelste Herzblut aussaugt. Gott allein weiß, wie's der Kulturmensch machen soll, ohne Moneten gesund zu essen und zu wohnen und sich anständig zu kleiden! Ich für mein armes Teil habe es jedenfalls noch nicht herausgekriegt. Ich muß ein gewisses Maß von Komfort um mich haben, und das läßt sich für das lumpige bißchen Honorar, was mir meine Dichtungen einbringen die, die ich selbst anerkenne nicht beschaffen. Und darum ist es mir nicht vergönnt, in andachtvoller Sammlung zu warten, bis der Gott mich zu reden treibt, sondern ich muß meine armseligen Gedanken zusammenkehren und schmackhafte Ragouts für die große Garküche des Familienblatt-Lesepublikums davon zurechtbrauen. Sehen Sie, Maria Margarethe, das ist einfach der Tod des Genius! Aber was soll ich machen?! Ich kann nicht in abgeschabten Röcken mit spiegelnden Nähten und in zerrissenen Handschuhen herumgehen! Ich kann nicht vier Treppen hoch in einer kribbelnden Mietskaserne wohnen! Ich kann nicht billiges, unappetitliches Essen essen! Ich brauche das gute Essen, die guten Kleider, die gute Wohnung, wie ich Luft zum Atmen brauche.«
     </p>
-    <p xml:id="eco_de_0000110_950">
+    <p xml:id="eco_de_0000181_950">
      Er hatte mit Erbitterung gesprochen. Sein Gesicht drückte bis zum Ekel gehenden Widerwillen aus.
     </p>
-    <p xml:id="eco_de_0000110_960">
+    <p xml:id="eco_de_0000181_960">
      Sie hatte ihn bekümmert angehört. Plötzlich kam ein Aufleuchten in ihre Augen und überglänzte ihr ganzes Gesicht, daß es war wie Mondlichtblinken auf dunklem Gewässer. Sie erschien ihm überwältigend schön in diesen Momenten des Leuchtens.
     </p>
-    <p xml:id="eco_de_0000110_970">
+    <p xml:id="eco_de_0000181_970">
      Schweigend stand sie auf und holte von einem Büchergestell ein in Juchten kostbar gebundenes, kleines Buch. Das hielt sie ihm hin.
     </p>
-    <p xml:id="eco_de_0000110_980">
+    <p xml:id="eco_de_0000181_980">
      »Schöner Einband; sehr schön«, meinte er mit Liebhaberblick.
     </p>
-    <p xml:id="eco_de_0000110_990">
+    <p xml:id="eco_de_0000181_990">
      Sie schlug das Titelblatt auf. Da erst erkannte er sein eigenes Buch, sein Erstlings- und Meisterwerk: »Die Sonnenkinder«.
     </p>
-    <p xml:id="eco_de_0000110_1000">
+    <p xml:id="eco_de_0000181_1000">
      »Es ist mir wie ein Freund«, sagte sie innig.
     </p>
-    <p xml:id="eco_de_0000110_1010">
+    <p xml:id="eco_de_0000181_1010">
      Er überflog einige der Verse mit den Augen und seine Miene erhellte sich.
     </p>
-    <p xml:id="eco_de_0000110_1020">
+    <p xml:id="eco_de_0000181_1020">
      »Also das ist Ihnen lieb geworden, Maria Margarethe?«
     </p>
-    <p xml:id="eco_de_0000110_1030">
+    <p xml:id="eco_de_0000181_1030">
      »Sehr. Und die Gedichte auch. Wenn Sie mir doch ein paar schöne Stellen aus den Sonnenkindern vorlesen wollten! Ich habe mir immer den Klang Ihrer Stimme und Ihren Tonfall dazu denken müssen.«
     </p>
-    <p xml:id="eco_de_0000110_1040">
+    <p xml:id="eco_de_0000181_1040">
      Sie sprach so mild, als spräche sie zu einem Kranken.
     </p>
-    <p xml:id="eco_de_0000110_1050">
+    <p xml:id="eco_de_0000181_1050">
      Er ließ sich willig einlullen, nahm sein Buch und las darin und seine Seele war auf seinen Lippen.
     </p>
-    <p xml:id="eco_de_0000110_1060">
+    <p xml:id="eco_de_0000181_1060">
      Der Klang seiner alten Gesänge und ihr Inhalt berauschten ihn wie ein starker Wein. Er wurde lebhaft, feurig, redselig fing an, von der modernen Kunst zu sprechen und von den Künstlern, die er bewunderte. Seine Wangen röteten sich wie im Fieber und seine Augen flammten im Feuer der Kunstleidenschaft.
     </p>
-    <p xml:id="eco_de_0000110_1070">
+    <p xml:id="eco_de_0000181_1070">
      Inzwischen hatte die endlich zurückgekommene Köchin allerhand Speisen aufgetragen, von denen die zwei wenig angerührt hatten.
     </p>
-    <p xml:id="eco_de_0000110_1080">
+    <p xml:id="eco_de_0000181_1080">
      Eine Uhr schlug zwei und noch eine – und noch eine. Da unterbrach ihn Maria Margarethe mitten in einer scharfsinnigen Definition.
     </p>
-    <p xml:id="eco_de_0000110_1090">
+    <p xml:id="eco_de_0000181_1090">
      »Ich muß an meine Arbeit.«
     </p>
-    <p xml:id="eco_de_0000110_1100">
+    <p xml:id="eco_de_0000181_1100">
      Rasch stand er auf.
     </p>
-    <p xml:id="eco_de_0000110_1110">
+    <p xml:id="eco_de_0000181_1110">
      »Wie ich die Kürze dieser Stunde bedaure!« sagte er lebhaft. »Darf ich recht bald wiederkommen?«
     </p>
-    <p xml:id="eco_de_0000110_1120">
+    <p xml:id="eco_de_0000181_1120">
      »Am liebsten heute abend!« antwortete sie.
     </p>
-    <p xml:id="eco_de_0000110_1130">
+    <p xml:id="eco_de_0000181_1130">
      Er war den ganzen Nachmittag im Märzsturm durch den Großen Garten gewandert, in dessen öden endlosen Alleen er ungestört über sich und Maria Margarethe hatte nachdenken können. Oft hatte er dabei nach der Uhr gesehen und gefunden, daß die Zeit heute einen unnatürlich langsamen Schritt ging. Konnte sie sich etwa nicht trennen von diesem tauwindumschnobenen, schmutziggrauen Vorfrühlingstag?
     </p>
-    <p xml:id="eco_de_0000110_1140">
+    <p xml:id="eco_de_0000181_1140">
      Zuletzt war er in eine Blumenhandlung gegangen und hatte für viel Geld eine große Menge Rosen gekauft, so viel, wie er irgend tragen konnte.
     </p>
-    <p xml:id="eco_de_0000110_1150">
+    <p xml:id="eco_de_0000181_1150">
      Die ›Abundantia‹ fand er so schön.
     </p>
-    <p xml:id="eco_de_0000110_1160">
+    <p xml:id="eco_de_0000181_1160">
      So brachte er ihr beide Hände voll Rosen.
     </p>
-    <p xml:id="eco_de_0000110_1170">
+    <p xml:id="eco_de_0000181_1170">
      Sie lächelte und dankte mit der Befangenheit, die Frauen an sich haben, denen das Entgegennehmen von zarten Spenden etwas Ungewohntes ist.
     </p>
-    <p xml:id="eco_de_0000110_1180">
+    <p xml:id="eco_de_0000181_1180">
      »Das sind ja schrecklich viele«, sagte sie; »die gehen gar nicht in eine einzige Vase.«
     </p>
-    <p xml:id="eco_de_0000110_1190">
+    <p xml:id="eco_de_0000181_1190">
      »Die sollen auch gar nicht in eine Vase, auch nicht in zwei«, erklärte er lebhaft. »Die sollen so einfach um Sie herum liegen und für Sie duften heute abend. Morgen sind sie welk und man wirft sie fort. So! So!«
     </p>
-    <p xml:id="eco_de_0000110_1200">
+    <p xml:id="eco_de_0000181_1200">
      Er streute die Rosen über den Diwan, auf dessen Fußende sie saß, über ihr Kleid, den Tisch, den Teppich.
     </p>
-    <p xml:id="eco_de_0000110_1210">
+    <p xml:id="eco_de_0000181_1210">
      »So. Das ist nun, wie es sich gehört. Schöne Frauen und Blumen passen so gut zu einander.«
     </p>
-    <p xml:id="eco_de_0000110_1220">
+    <p xml:id="eco_de_0000181_1220">
      »Wie fantasievolle Kinder und Dichter«, meinte sie. »Sind Sie nicht oft ein Kind?«
     </p>
-    <p xml:id="eco_de_0000110_1230">
+    <p xml:id="eco_de_0000181_1230">
      Sie saß steif da und sah lächelnd seinem Treiben zu.
     </p>
-    <p xml:id="eco_de_0000110_1240">
+    <p xml:id="eco_de_0000181_1240">
      Nun stand er und überschaute musternd das Zimmer.
     </p>
-    <p xml:id="eco_de_0000110_1250">
+    <p xml:id="eco_de_0000181_1250">
      »Man sieht allem zu sehr an, daß Sie meist nicht hier sind«, fand er. »Die Dinge könnten ebensogut beliebigen anderen gehören. Jeder Stuhl müßte von Ihren häuslichen Gewohnheiten und Liebhabereien etwas verraten. Schöne Formen und Farben allein tun es noch lange nicht. Man muß die Umgebung mit Leben und Seele füllen.«
     </p>
-    <p xml:id="eco_de_0000110_1260">
+    <p xml:id="eco_de_0000181_1260">
      »Das können Sie«, sagte sie sanft, »weil Sie ein Dichter sind und allem, was mit Ihnen in Berührung kommt, etwas von der Fülle Ihres Wesens abgeben. Ich kann es nicht. Ich liebe Schönheit und Kunst. Und ich umringe mich mit dem Schönsten, was ich ausdenken kann. Aber manchmal hab' ich den Eindruck, als würden die Dinge kalt und stumm unter meinen Händen.«
     </p>
-    <p xml:id="eco_de_0000110_1270">
+    <p xml:id="eco_de_0000181_1270">
      Die Dienerin brachte Tee und Wein und allerlei pikante Leckerbissen.
     </p>
-    <p xml:id="eco_de_0000110_1280">
+    <p xml:id="eco_de_0000181_1280">
      Nachdem sie ein wenig gegessen und getrunken, wobei er mehr gesprochen, sie mehr zugehört hatte, bot sie ihm eine Zigarette an.
     </p>
-    <p xml:id="eco_de_0000110_1290">
+    <p xml:id="eco_de_0000181_1290">
      Er lehnte ab. »Ich rauche nicht.«
     </p>
-    <p xml:id="eco_de_0000110_1300">
+    <p xml:id="eco_de_0000181_1300">
      »Niemals?«
     </p>
-    <p xml:id="eco_de_0000110_1310">
+    <p xml:id="eco_de_0000181_1310">
      »Niemals.«
     </p>
-    <p xml:id="eco_de_0000110_1320">
+    <p xml:id="eco_de_0000181_1320">
      »Schade. Es ist eine feine Marke.« Sie selbst zündete sich eine Zigarette an und blies kleine Rauchringe in die Luft. Dabei ruhte sie in halb liegender Stellung auf dem Diwan, so nämlich, daß sie mit dem Oberkörper auf dem Kopfpolster lag, während sie im übrigen saß, die Füße auf dem Teppich.
     </p>
-    <p xml:id="eco_de_0000110_1330">
+    <p xml:id="eco_de_0000181_1330">
      Diese Stellung ward ihr unbequem, und, mit einem stummen Blick seine Erlaubnis erbittend, hob sie ihre Füße auf den Diwan. Darauf deckte er eine mit zartem blaßrosa Seidenplüsch gefütterte, weiße Felldecke über ihre Knie.
     </p>
-    <p xml:id="eco_de_0000110_1340">
+    <p xml:id="eco_de_0000181_1340">
      »Wie ein junges, weißes Hündchen«, sagte er lächelnd von der Decke, »wie die Öhrchen eines weißen Hündchens.«
     </p>
-    <p xml:id="eco_de_0000110_1350">
+    <p xml:id="eco_de_0000181_1350">
      Er setzte sich in einen Sessel nahe dem Kamin, in dem kein Feuer brannte, und schaute zu, wie sie rauchte.
     </p>
-    <p xml:id="eco_de_0000110_1360">
+    <p xml:id="eco_de_0000181_1360">
      Da lachte sie ihn schelmisch an.
     </p>
-    <p xml:id="eco_de_0000110_1370">
+    <p xml:id="eco_de_0000181_1370">
      »Jetzt denken Sie: Das müßte anders sein. Schöne Frauen und Tabaksrauch, das gehört nicht zusammen. Nicht wahr, Herr Dichter?«
     </p>
-    <p xml:id="eco_de_0000110_1380">
+    <p xml:id="eco_de_0000181_1380">
      »Ich kann's nicht leugnen«, antwortete er lächelnd, »dieser Kamin wäre viel schöner, wenn Holz darin krachte und weiße, blaue und rote Flammen züngelten. Und Ihr Mund ist viel schöner, wenn er nicht die Umrahmung einer Tabaksrolle bildet. Wenn ich hier als Ihr &gt;Hausmann&lt; den Pantoffel schwänge, würde ich manches schleunigst ändern.«
     </p>
-    <p xml:id="eco_de_0000110_1390">
+    <p xml:id="eco_de_0000181_1390">
      »Sie würden mir vielleicht das Rauchen verbieten wollen?«
     </p>
-    <p xml:id="eco_de_0000110_1400">
+    <p xml:id="eco_de_0000181_1400">
      »Nein ich sehe ja, daß das Aroma, welches Sie in den kleinen blaßblauen Rauchwölkchen umschwebt, Ihnen Erhöhung des Behagens schafft. Nein, ein Xantipperich würde ich ja gerade nicht sein …«
     </p>
-    <p xml:id="eco_de_0000110_1410">
+    <p xml:id="eco_de_0000181_1410">
      Er brach ab, als ließ er etwas ungesagt.
     </p>
-    <p xml:id="eco_de_0000110_1420">
+    <p xml:id="eco_de_0000181_1420">
      »Aber?« ermunterte sie.
     </p>
-    <p xml:id="eco_de_0000110_1430">
+    <p xml:id="eco_de_0000181_1430">
      »Ja, als Hausmann, als Ihr Mann, würde ich von Zeit zu Zeit bitten: Liebe Frau, habe doch die Gnade, dich ein oder zwei Tage des Rauchens zu enthalten. Ich möchte dich gern einmal küssen.«
     </p>
-    <p xml:id="eco_de_0000110_1440">
+    <p xml:id="eco_de_0000181_1440">
      Sie lachte, wie um sich über eine kleine Befangenheit fortzuhelfen. Dann sagte sie:
     </p>
-    <p xml:id="eco_de_0000110_1450">
+    <p xml:id="eco_de_0000181_1450">
      »Warum lassen sich die Frauen tabakrauchender Männer nicht stören?«
     </p>
-    <p xml:id="eco_de_0000110_1460">
+    <p xml:id="eco_de_0000181_1460">
      »Im Küssen?«
     </p>
-    <p xml:id="eco_de_0000110_1470">
+    <p xml:id="eco_de_0000181_1470">
      »Ja.«
     </p>
-    <p xml:id="eco_de_0000110_1480">
+    <p xml:id="eco_de_0000181_1480">
      Er strich mit der Hand über seinen kurzen Kinnbart und machte ein tiefsinniges Gesicht.
     </p>
-    <p xml:id="eco_de_0000110_1490">
+    <p xml:id="eco_de_0000181_1490">
      »Ja, das ist eine schwierige Frage. Manche behaupten, Frauen hätten minder empfindliche Geruchs- und Geschmacksnerven.«
     </p>
-    <p xml:id="eco_de_0000110_1500">
+    <p xml:id="eco_de_0000181_1500">
      »Unsinn!« entgegnete sie. »Ich will es Ihnen sagen: weil Frauen nicht halb lieben, wie ihr Männer; zur Hälfte die Wirklichkeit und zur Hälfte ein nirgends existierendes Ideal sondern ganz. Sie lieben euch mit Haut und Haar, wie ihr eben seid, mitsammt Tabaksgeruch und struppigen Bärten und allem anderen.«
     </p>
-    <p xml:id="eco_de_0000110_1510">
+    <p xml:id="eco_de_0000181_1510">
      Er lächelte amüsiert.
     </p>
-    <p xml:id="eco_de_0000110_1520">
+    <p xml:id="eco_de_0000181_1520">
      »Wie euch modernen Frauen alles unter den Händen zu einem Argument für die höhere Natur eures Geschlechts wird! Ganz ungewollt. Wie beim Gelehrten, der sich in eine wissenschaftliche Behauptung verliebt hat: Er sieht in allem nur noch Beweise. Für das andere ist er farbenblind geworden.«
     </p>
-    <p xml:id="eco_de_0000110_1530">
+    <p xml:id="eco_de_0000181_1530">
      »Widerlegen Sie mich doch, wenn Sie können.«
     </p>
-    <p xml:id="eco_de_0000110_1540">
+    <p xml:id="eco_de_0000181_1540">
      »Gerne. Warum Rauhes und Unschönes die Frau beim Mann weniger stört, als den Mann bei der Frau? Aus dem einfachen Grund, weil das Rauhe, Häßliche mit dem Inbegriff echter Männlichkeit keineswegs unvereinbar ist; aber gänzlich unvereinbar mit dem echter Weiblichkeit.«
     </p>
-    <p xml:id="eco_de_0000110_1550">
+    <p xml:id="eco_de_0000181_1550">
      Sie zuckte die Achseln. »Ein Gemeinplatz.«
     </p>
-    <p xml:id="eco_de_0000110_1560">
+    <p xml:id="eco_de_0000181_1560">
      »Gemeinplätze sind manchmal trotzdem Wahrheiten.«
     </p>
-    <p xml:id="eco_de_0000110_1570">
+    <p xml:id="eco_de_0000181_1570">
      Es entstand eine Pause. Dann sagte sie:
     </p>
-    <p xml:id="eco_de_0000110_1580">
+    <p xml:id="eco_de_0000181_1580">
      »Nun erzählen Sie mir ein bißchen, wie Sie auf Reisen Zeit und Geld vertan!«
     </p>
-    <p xml:id="eco_de_0000110_1590">
+    <p xml:id="eco_de_0000181_1590">
      Er erzählte.
     </p>
-    <p xml:id="eco_de_0000110_1600">
+    <p xml:id="eco_de_0000181_1600">
      Sehr bald bemerkte er, wie sie die eben angerauchte neue Zigarette in das neben ihr stehende Aschenbecherchen legte.
     </p>
-    <p xml:id="eco_de_0000110_1610">
+    <p xml:id="eco_de_0000181_1610">
      Natürlich tat er nicht desgleichen, aber es freute ihn. Bald jedoch vergaß er sie und das Rauchen und alles über den heraufbeschworenen Erinnerungen. Als er endlich schwermütig schwieg, war es so still im Zimmer, daß er schon glaubte, sie sei auf ihrem Diwan eingeschlafen.
     </p>
-    <p xml:id="eco_de_0000110_1620">
+    <p xml:id="eco_de_0000181_1620">
      Da sagte sie mit ihrer tiefen, klaren Altstimme:
     </p>
-    <p xml:id="eco_de_0000110_1630">
+    <p xml:id="eco_de_0000181_1630">
      »Nehmen Sie zehntausend oder fünfzehntausend Mark von mir als Darlehen, Jano. Sie müssen durchaus in Stand gesetzt werden, das Ausreifen Ihrer Dichtungen in Ruhe abwarten zu können!«
     </p>
-    <p xml:id="eco_de_0000110_1640">
+    <p xml:id="eco_de_0000181_1640">
      »Maria Margarethe, Sie sind ein Engel an Güte!« rief er. »Aber womit sollte ich Ihnen das je zurückzahlen? Was verdiene ich denn mit sogenannten Meisterwerken, lyrischen Perlen und unbühnenmäßigen, dramatischen Gedichten? Wer liest meine guten Werke? Wer kauft sie? Ein Dutzend Freunde und einige Dutzend literarische Kenner. Davon kommt kaum der Verleger auf seine Kosten.«
     </p>
-    <p xml:id="eco_de_0000110_1650">
+    <p xml:id="eco_de_0000181_1650">
      »Um das Rückzahlen brauchen Sie sich keine Sorge zu machen, Jano. Setzen Sie mich einfach zur Alleinerbin Ihres literarischen Nachlasses ein. Da komm' ich schon auf meine Rechnung.«
     </p>
-    <p xml:id="eco_de_0000110_1660">
+    <p xml:id="eco_de_0000181_1660">
      Er lachte.
     </p>
-    <p xml:id="eco_de_0000110_1670">
+    <p xml:id="eco_de_0000181_1670">
      »Ich bin ja wohl zehn Jahre älter Sie, trotzdem könnte es sich ereignen, daß Sie etliche Pferdelängen vor mir durchs Ziel kämen. Nein, in diesem Fall würde ich als anständiger Mensch mich verpflichtet fühlen, meinem Leben selbst ein Ende zu machen.«
     </p>
-    <p xml:id="eco_de_0000110_1680">
+    <p xml:id="eco_de_0000181_1680">
      Sie hatte sich aus ihrer Ruhelage emporgerichtet. »Seien Sie nicht hartköpfig!« rief sie ungeduldig. »Ich will doch nur tun, was eigentlich alle tun müßten. Daß ein wirklicher Dichter seine unermeßlich wertvollen Gaben verkümmern lassen soll, weil ihm das Geld zum Leben fehlt, ist unerhört! So etwas dürfte unter einem Volk, das Anspruch auf Kultur macht, gar nicht möglich sein! Ein einziges, kleines Lied wie Ihre Einsamkeit ist ja mit allen Millionen Rothschilds nicht zu erkaufen.«
     </p>
-    <p xml:id="eco_de_0000110_1690">
+    <p xml:id="eco_de_0000181_1690">
      Er sprang auf, schritt hastig im Zimmer auf und nieder und stellte sich dann vor sie hin.
     </p>
-    <p xml:id="eco_de_0000110_1700">
+    <p xml:id="eco_de_0000181_1700">
      Sie erschrak. Wie sah er aus! Die Haut fahl, die Züge verkrampft, die Augen erloschen, als komme er gerad' von einem Ringen auf Tod und Leben.
     </p>
-    <p xml:id="eco_de_0000110_1710">
+    <p xml:id="eco_de_0000181_1710">
      »Ich habe Sie getäuscht, Maria Margarethe!« sagte er rauh, »Ich bin viel ärmer als Sie glauben.«
     </p>
-    <p xml:id="eco_de_0000110_1720">
+    <p xml:id="eco_de_0000181_1720">
      Sie starrte ihn verständnislos an.
     </p>
-    <p xml:id="eco_de_0000110_1730">
+    <p xml:id="eco_de_0000181_1730">
      Er blickte auf die Haufen müder Rosen, die um sie her lagen und die zu klagen schienen, daß ihr süßer Duft von Tabaksrauch übertäubt worden. Ihm kam seine Spielerei mit einem Mal wie eine alberne Farce vor. Der Einfall mit den Rosen war nicht einmal neu, nicht einmal sein eigener. Er hatte gestern im Eisenbahnwagen so etwas in einer eben erschienenen Novelle gelesen. Vor dem Erwachen hieß die Novelle. Dies nun gleich nachzuäffen, war doch zu abgeschmackt, gerade wie sein Gejammer um Geld und Freiheit, damit er wieder Meisterwerke schaffen könne, solche, von denen sie dann fand, daß sie mit allen Millionen Rothschilds nicht zu bewerten seien! Nein, wenn er sich selbst wieder ertragen wollte fort mit der Pose und Ehrlichkeit um jeden Preis!
     </p>
-    <p xml:id="eco_de_0000110_1740">
+    <p xml:id="eco_de_0000181_1740">
      Er setzte sich auf den hölzernen Drehschemel vor ihrem Schreibtisch und zwang sich zur Ruhe. »Jetzt werde ich Ihnen anvertrauen, was ich keinem Menschen außer Ihnen zugeben würde«, begann er. »Es wird mich mit einem Schlag um Ihre hohe Meinung bringen völlig. Das will ich als eine Art Sühne auffassen, denn es ist mir gar nicht gleichgültig, was Sie von mir denken. Ich bin nicht der, als der ich mich heute vor Ihnen aufgespielt habe. Ich bin nicht der Dichter, dem es nur an der nötigen Muße fehlt, um unsterbliche Werke zu schaffen. Keine Reichtümer der Welt können mir dazu helfen. Meine Fantasie ist lahm geworden, mein Gehirn ist einfach aufgebraucht, meine Nervenkraft am Ende! Ich bin erschöpft, leide an der kläglichsten, geistigen Impotenz und was ich noch schreibe denn ich schreibe, um zu existieren, das ist leeres Zeug, Schalen, Treber, gut allenfalls für den Bedarf der Tagespresse, aber nichts, was nur den leisesten Anspruch auf Kunst machen darf…«
     </p>
-    <p xml:id="eco_de_0000110_1750">
+    <p xml:id="eco_de_0000181_1750">
      Sie streckte ihm in entsetzter Abwehr beide Arme entgegen, mit einer ihrer impulsiven, großen Gesten, die so einfach und schön waren, und dabei fielen die weiten Ärmel des braunen Mönchsgewandes zurück und ließen die schlanken, elfenbeinweißen Arme bis über die Ellenbogen frei. In all sein Elend hinein traf ihn der schöne Anblick. Besonders reizend erschien ihm ein Armband, eine goldene Schlange mit Rubinaugen, die sie oberhalb des Ellenbogens trug, so daß sie für gewöhnlich nicht sichtbar war.
     </p>
-    <p xml:id="eco_de_0000110_1760">
+    <p xml:id="eco_de_0000181_1760">
      »Sie sprechen aus einer verzagten Stimmung heraus«, sagte sie. »Welchem Künstler bleiben die erspart? Von den Größten hört man, daß sie zuweilen an ihrem Können verzweifeln und meinen, nun sei es für immer aus. Goethe sogar weiß von solchen Stunden.«
     </p>
-    <p xml:id="eco_de_0000110_1770">
+    <p xml:id="eco_de_0000181_1770">
      Er lächelte gerührt. »Sie sind eine liebe Trösterin!«
     </p>
-    <p xml:id="eco_de_0000110_1780">
+    <p xml:id="eco_de_0000181_1780">
      »Nicht Trost, Überzeugung ist es!« rief sie lebhaft. »Sie mögen sich selbst verleugnen und schmähen, wie Sie wollen, mich machen Sie nicht irre. Denn Sie sind und bleiben der Dichter der Sonnenkinder.«
     </p>
-    <p xml:id="eco_de_0000110_1790">
+    <p xml:id="eco_de_0000181_1790">
      Er bückte den Kopf und umfaßte seine Knie mit den Händen.
     </p>
-    <p xml:id="eco_de_0000110_1800">
+    <p xml:id="eco_de_0000181_1800">
      »Haben Sie nie gehört, daß jemand ein vorzügliches Buch schreibt und dann nichts mehr? Gar niemals mehr?«
     </p>
-    <p xml:id="eco_de_0000110_1810">
+    <p xml:id="eco_de_0000181_1810">
      Sie seufzte und schwieg.
     </p>
-    <p xml:id="eco_de_0000110_1820">
+    <p xml:id="eco_de_0000181_1820">
      Nach einer Pause fuhr er fort:
     </p>
-    <p xml:id="eco_de_0000110_1830">
+    <p xml:id="eco_de_0000181_1830">
      »Und das würde gar nichts schaden! Wem es gelang, sich ein einziges Mal ganz auszusprechen und so auszusprechen, daß es im Hohenlied der Menschheit forttönt, in den Herzen der Besten mit- und nachtönt, der kann sich ruhig hinlegen und schlafen! Es ist nichts Geringes, was er gekonnt hat. Das Elend ist aber, daß die, die sich mit einem Sang ausgesungen haben, fast nie ein Ende machen können. Ja, auch ich, der ich das so deutlich erkenne, so schmerzhaft empfinde, ich erniedrige mich wie die anderen, ich sündige auf den Namen hin, den mir die Inspiration einiger kraftüberstrotzender Jugendjahre eingetragen hat! Ich ersinne ohne Freude Novellchen mit dem beliebten guten Ausgang, schmiere seichte Feuilletons zusammen, erquäle noch dann und wann ein paar Verse in der alten Manier, von denen meine Anhänger dann sagen: Nichts Neues, immerhin aber wieder 'mal ein echter Jano. Und alle diese ruchlose Sünde gegen den heiligen Geist, nur weil mein Name einmal etwas gilt und es darum die mir bequemste Art ist, zu erwerben. Aber mit welchem Ekel! Mit welchem Verlust an Selbstachtung! O, heiliger Himmel!«
     </p>
-    <p xml:id="eco_de_0000110_1840">
+    <p xml:id="eco_de_0000181_1840">
      Er wandte sich dem Schreibtisch zu, stützte die Ellenbogen auf und legte die Stirn in die Hände.
     </p>
-    <p xml:id="eco_de_0000110_1850">
+    <p xml:id="eco_de_0000181_1850">
      Draußen in der stillen Nacht tönte eine Turmuhr; gleich darauf noch eine und noch eine. Da fuhr er zu reden fort:
     </p>
-    <p xml:id="eco_de_0000110_1860">
+    <p xml:id="eco_de_0000181_1860">
      »Natürlich ist mir die ganze Hoffnungslosigkeit meiner Sterilität nicht mit einem Mal aufgegangen. Auch ich hab' mir anfangs gesagt: Das geht vorüber! Ist eine naturgemäße Reaktion. Und hab mich mit dem alten Lied vom Brachliegenmüssen des Ackers beruhigt. Und dann hab' ich die flügellahm gewordene Fantasie gehegt und gepflegt wie eine kranke Majestät, die sie ja auch war. Ich habe Regenerationskuren gebraucht. Ich habe mich in den Menschenstrudel gestürzt, um mich anzuregen, ich bin in die Einsamkeit geflüchtet, um mich zu sammeln. Alles umsonst. Die Schaffenskraft kam nicht wieder, nicht da, nicht dort. Ihre Schwingen sind nach kurzem Sonnenflug irgendwie zerbrochen. Und ich, der ich mich meiner Impotenz schämte, spielte die elende Komödie weiter log …«
     </p>
-    <p xml:id="eco_de_0000110_1870">
+    <p xml:id="eco_de_0000181_1870">
      Er brach ab, weil sie eine hastig abwehrende Bewegung gemacht hatte.
     </p>
-    <p xml:id="eco_de_0000110_1880">
+    <p xml:id="eco_de_0000181_1880">
      Als sie in ihrem Schweigen verharrte, fuhr Jano fort:
     </p>
-    <p xml:id="eco_de_0000110_1890">
+    <p xml:id="eco_de_0000181_1890">
      »Ja, ich nenne endlich einmal das Kind mit seinem Namen. Es tut der Seele wohl wie ein Reinigungsbad. Sehen Sie' eine selbstauferlegte Buße darin, daß ich vor Ihren schönen, gläubigen Augen die Lord-Byron-Drapierung herunterriß, um mich Ihnen in meiner elenden Blöße zu zeigen. Es ist eine besondere Art Huldigung, keine anmutige aber glauben Sie mir: es ist eine. Und nun will ich Sie nicht länger belästigen.«
     </p>
-    <p xml:id="eco_de_0000110_1900">
+    <p xml:id="eco_de_0000181_1900">
      Er blieb vor ihr stehen und streckte ihr die Hand hin.
     </p>
-    <p xml:id="eco_de_0000110_1910">
+    <p xml:id="eco_de_0000181_1910">
      »Ich will gehen.«
     </p>
-    <p xml:id="eco_de_0000110_1920">
+    <p xml:id="eco_de_0000181_1920">
      Sie hatte das Gesicht in die seidenen Polster des Diwans gedrückt.
     </p>
-    <p xml:id="eco_de_0000110_1930">
+    <p xml:id="eco_de_0000181_1930">
      Nun richtete sie sich auf.
     </p>
-    <p xml:id="eco_de_0000110_1940">
+    <p xml:id="eco_de_0000181_1940">
      Ihre Augen waren naß. »Ich habe dich lieb«, sagten diese zärtlichen Augen, »auch so nun erst recht.«
     </p>
-    <p xml:id="eco_de_0000110_1950">
+    <p xml:id="eco_de_0000181_1950">
      Das sagten ihre Augen – ihr Mund drückte es anders aus.
     </p>
-    <p xml:id="eco_de_0000110_1960">
+    <p xml:id="eco_de_0000181_1960">
      »Jano! Hören Sie, ich mache Ihnen jetzt einen sehr ernsthaften Vorschlag. Wir haben uns gern. Werfen wir rasch unsere beiden halben Existenzen zusammen und machen wir eine ganze daraus. Eine schöne, volle, reiche kann daraus werden. Mit einem Wort, ich meine wir sollten uns heiraten.«
     </p>
-    <p xml:id="eco_de_0000110_1970">
+    <p xml:id="eco_de_0000181_1970">
      Er verlor die Fassung. Das hatte er nicht erwartet. Diese Wirkung am allerletzten!
     </p>
-    <p xml:id="eco_de_0000110_1980">
+    <p xml:id="eco_de_0000181_1980">
      Mit seinem heroischen Bemühen, sie ganz zu desillusionieren, hatte er erreicht, daß sie ihm einfach einen Heiratsantrag machte! Es fehlte wirklich nur, daß sie noch hinzufügte: »Ich kann, gottlob, einen Mann ernähren.«
     </p>
-    <p xml:id="eco_de_0000110_1990">
+    <p xml:id="eco_de_0000181_1990">
      Die lächerlichsten Redensarten gingen ihm durch den Kopf, wie »Ihr Vertrauen ehrt mich« und dergleichen. Leider fühlte er sich nur gar nicht geehrt, sondern vielmehr maßlos verletzt.
     </p>
-    <p xml:id="eco_de_0000110_2000">
+    <p xml:id="eco_de_0000181_2000">
      »Solange sie an meine Fähigkeit glaubte«, dachte er, »fiel ihr so etwas gar nicht ein, sondern sie bot mir Geld an. Nun ich sie aber davon überzeugt habe, daß ich zu nichts Besserem mehr tauge, soll ich ihr Hausmann werden. Einen ganzen Mann bekommt sie ja doch nicht zu dem, was sie will.«
     </p>
-    <p xml:id="eco_de_0000110_2010">
+    <p xml:id="eco_de_0000181_2010">
      Zugleich schämte er sich dieser Erwägungen in tiefster Seele. Er empfand das Kleinliche darin und konnte doch nicht darüber Herr werden. Daß er ihrer einfachen Größe nichts als verletzte Manneseitelkeit gegenüber zu stellen hatte! Als ob sie nicht soeben sich selbst mit allem, was sie war und besaß, ihm ganz einfach dargeboten hatte! Dankbar hätte er die lieben Hände küssen müssen gleichviel, was nachher erörtert worden wäre. Es wäre die einzige richtige Antwort gewesen. Diese Empfindungen und Erwägungen kamen mit der Schnelle des Gedankens. Dennoch nahmen sie einen kleinen Zeitraum ein, so daß ein Schweigen bemerkbar war.
     </p>
-    <p xml:id="eco_de_0000110_2020">
+    <p xml:id="eco_de_0000181_2020">
      Da schüttelte sie traurig den Kopf und sagte mit sanfter, ein wenig klagend tönender Stimme:
     </p>
-    <p xml:id="eco_de_0000110_2030">
+    <p xml:id="eco_de_0000181_2030">
      »Ich sehne mich so sehr nach einem Mann, der mir hilft und ein bißchen für mich sorgt und den Teil des Tageslebens auf sich nimmt, für den meine Kraft nicht mehr reicht. Denn ich bin sehr allein und oft so müde. Immer nur Arbeit und Arbeit. Öde, trockene Arbeit oft. Von der komme ich ermattet nach Haus und da könnte ich aufleben, wenn ich dann nur hätte, was mir not tut. Aber da ist nichts Auffrischendes, nichts Belebendes, nichts Ablenkendes, nichts, was mich warm und stark umsorgte. Tag für Tag füllt sich meine Kasse, man bewundert, bestaunt, beneidet mich – und ich friere mich dabei zu Tode.«
     </p>
-    <p xml:id="eco_de_0000110_2040">
+    <p xml:id="eco_de_0000181_2040">
      Sie schwieg, sah mit großen Augen vor sich hin, als ob sie ihn nicht mehr sähe, und fuhr nach einer Weile mit weicher Stimme fort:
     </p>
-    <p xml:id="eco_de_0000110_2050">
+    <p xml:id="eco_de_0000181_2050">
      »Ich träumte oft, es käme ein Mann, groß genug, um nicht eitel zu sein, stark genug, um einfach gütig sein zu können, in sich reich genug, um nicht um Rechte zu markten, sondern schenken, verschwenderisch schenken zu können. Er müßte Liebeskraft haben und ein Dichtergemüt, daß er meine leeren Stunden mit Licht und Wärme füllen könnte. Und so spräche er zu mir: Von heute an will ich für das Licht und die Wärme und die Freude in deinem Leben allein sorgen. Ich will dich unter meine großen Flügel nehmen und dir dein Leben zu einem Märchen dichten.«
     </p>
-    <p xml:id="eco_de_0000110_2060">
+    <p xml:id="eco_de_0000181_2060">
      Sie wandte sich halb zu ihm und sagte zärtlich leise, wie verstohlen:
     </p>
-    <p xml:id="eco_de_0000110_2070">
+    <p xml:id="eco_de_0000181_2070">
      »Sein Gesicht und seine Stimme glichen sehr den Ihren, Jano. Aber …« seufzend wandte sie sich von ihm ab … »solche Männer gibt es leider nicht; ihr könnt euch nicht entschließen, das abgetragene Kleid eurer sogenannten Männerwürde von euch abzustreifen als etwas, das in dieser Form doch keinen Wirklichkeitssinn mehr hat. Gerade das wäre doch männlich! Aber ihr klebt alle am Schein, an der Form.«
     </p>
-    <p xml:id="eco_de_0000110_2080">
+    <p xml:id="eco_de_0000181_2080">
      Sie hatte sich erhoben, stand vor einer Klingerschen Radierung, die niedrig an der Wand hing, sah sie an und wußte gar nicht, daß sie etwas ansah.
     </p>
-    <p xml:id="eco_de_0000110_2090">
+    <p xml:id="eco_de_0000181_2090">
      Ihr ihm zugewandtes Profil erschien wie aus gelblich bleichem Marmor geschnitten, hart in den Linien und fest.
     </p>
-    <p xml:id="eco_de_0000110_2100">
+    <p xml:id="eco_de_0000181_2100">
      Wo war die wundervolle Weichheit, die ihn eben noch entzückt hatte? Verschwebt wie ein Duft, wie ein Traum, der niemals etwas Wirkliches gewesen.
     </p>
-    <p xml:id="eco_de_0000110_2110">
+    <p xml:id="eco_de_0000181_2110">
      Vielleicht zeigte sie sich ihm nie wieder?!
     </p>
-    <p xml:id="eco_de_0000110_2120">
+    <p xml:id="eco_de_0000181_2120">
      Ihm wurde mit einem Mal so weh, so sehnsuchtsbang, als habe er soeben ein Kleinod, das aus finsteren Meeresfluten für ihn emporgetaucht, statt es zu fassen, auf Nimmerwiederkehr versinken lassen. Da vor seinen Augen schwebt es nieder, tiefer, tiefer noch spielen Ringe auf der Flut, da wo es sank, weiten sich, werden dünner, silberschimmernder verschwinden. Verloren! Verloren!
     </p>
-    <p xml:id="eco_de_0000110_2130">
+    <p xml:id="eco_de_0000181_2130">
      Wie ein Alp drückte ihm Angstgefühl die Brust zusammen.
     </p>
-    <p xml:id="eco_de_0000110_2140">
+    <p xml:id="eco_de_0000181_2140">
      »Maria Margarethe!« kam es ihm heiser von den Lippen.
     </p>
-    <p xml:id="eco_de_0000110_2150">
+    <p xml:id="eco_de_0000181_2150">
      Langsam, ruhig, gleichgültig beinah wandte sie sich nach ihm um. Ihr Blick schien zu sagen: sind Sie denn noch da?
     </p>
-    <p xml:id="eco_de_0000110_2160">
+    <p xml:id="eco_de_0000181_2160">
      »Ja, es ist spät«, bemerkte sie; »Sie müssen gehen.«
     </p>
-    <p xml:id="eco_de_0000110_2170">
+    <p xml:id="eco_de_0000181_2170">
      So sollte er abgetan sein?! – So ganz bündig?
     </p>
-    <p xml:id="eco_de_0000110_2180">
+    <p xml:id="eco_de_0000181_2180">
      Er wollte nicht. Das nicht.
     </p>
-    <p xml:id="eco_de_0000110_2190">
+    <p xml:id="eco_de_0000181_2190">
      »Ich darf doch wiederkommen?« fragte er mit erkünstelter Unbefangenheit.
     </p>
-    <p xml:id="eco_de_0000110_2200">
+    <p xml:id="eco_de_0000181_2200">
      Jetzt sah sie ihn etwas erstaunt an. »Lieber nicht«, entschied sie nach einem kleinen Zögern.
     </p>
-    <p xml:id="eco_de_0000110_2210">
+    <p xml:id="eco_de_0000181_2210">
      Da trat er rasch auf sie zu, griff mit einer heftigen Bewegung nach ihren beiden herabhängenden Händen und hielt sie fest.
     </p>
-    <p xml:id="eco_de_0000110_2220">
+    <p xml:id="eco_de_0000181_2220">
      »Jetzt werfen Sie mich weg wie einen Gegenstand, der zu nichts mehr zu brauchen ist!« stieß er leidenschaftlich hervor. »Tun Sie das nicht, Maria Margarethe! Nicht Sie! Nicht auch noch Sie!«
     </p>
-    <p xml:id="eco_de_0000110_2230">
+    <p xml:id="eco_de_0000181_2230">
      Da stahl sich über ihre Züge wieder das Lächeln, das ihn an Mondlichtblinken auf Waldseen erinnerte. Sie entgegnete:
     </p>
-    <p xml:id="eco_de_0000110_2240">
+    <p xml:id="eco_de_0000181_2240">
      »Ich? Wie denn? Sie sind es ja, der mich wegwirft. Bitte, halten Sie sich das hübsch vor Augen, Ihrem Stolz zur Genugtuung. Was mich betrifft, so kann ich auf dergleichen kleine Genugtuungen verzichten. Ich verzichte gern darauf.«
     </p>
-    <p xml:id="eco_de_0000110_2250">
+    <p xml:id="eco_de_0000181_2250">
      Er ließ ihre Hände sinken.
     </p>
-    <p xml:id="eco_de_0000110_2260">
+    <p xml:id="eco_de_0000181_2260">
      »Auch noch Hohn und Spott! Nun ja. Ich habe es verdient. Aber ich will ja alles, was Sie von mir verlangen!«
     </p>
-    <p xml:id="eco_de_0000110_2270">
+    <p xml:id="eco_de_0000181_2270">
      Sie zog die Brauen hoch, sah ihm ein paar Sekunden scharf in die Augen, schüttelte dann den Kopf und machte mit der rechten Hand eine unwillkürliche Bewegung der Abwehr.
     </p>
-    <p xml:id="eco_de_0000110_2280">
+    <p xml:id="eco_de_0000181_2280">
      »Nichts mehr davon heute.«
     </p>
-    <p xml:id="eco_de_0000110_2290">
+    <p xml:id="eco_de_0000181_2290">
      »Aber morgen?! Ja?«
     </p>
-    <p xml:id="eco_de_0000110_2300">
+    <p xml:id="eco_de_0000181_2300">
      Sie schwieg. Es fiel ihm auf, wie blaß sie geworden war, wie die kleinen Fältchen um die schönen Augen sich markierten und die Schatten unter den Augen schwarz aussahen. Sie schien zum Umsinken müde zu sein, und jetzt noch weiter in sie zu dringen, wäre brutal gewesen. Darum sagte er nur noch: »Auf morgen!« Dann ging er.
     </p>
-    <p xml:id="eco_de_0000110_2310">
+    <p xml:id="eco_de_0000181_2310">
      Er schlief recht wenig in dieser Nacht, sondern wälzte sich in seinem Hotelbett von einer Seite auf die andere.
     </p>
-    <p xml:id="eco_de_0000110_2320">
+    <p xml:id="eco_de_0000181_2320">
      Immer wieder überdachte er in der aufgeregten Hilflosigkeit des Halbschlafs das Eine, bis die Morgendämmerung mit blassen Augen durch die sahnenfarbenen Zuggardinen schaute, daß sie wie Bernstein schimmerten.
     </p>
-    <p xml:id="eco_de_0000110_2330">
+    <p xml:id="eco_de_0000181_2330">
      Zum Küssen nah und deutlich sah er Maria Margarethens schwermütiges Gesicht mit der breiten, geraden, niederen Stirn, der Stirn der Antike unter den braunen Locken, mit den Augen, in deren Tiefen die Sehnsucht wohnte.
     </p>
-    <p xml:id="eco_de_0000110_2340">
+    <p xml:id="eco_de_0000181_2340">
      Immer mußte er sich ihre Worte wiederholen, insbesondere die weichen, liebevollen, zarten, und es berauschte ihn, sich ihren Tonfall und Stimmklang zu vergegenwärtigen.
     </p>
-    <p xml:id="eco_de_0000110_2350">
+    <p xml:id="eco_de_0000181_2350">
      Ach, sie war doch so ganz Weib, trotz aller gerühmten Unabhängigkeit und Geschäftstüchtigkeit trotz ihres männerhaften Berufslebens. Er konnte sich ein weiblicheres Weib kaum vorstellen. Ihre Lebensweise, ihre ungesucht emanzipierten Allüren und Gewohnheiten machten das nur um so eindringlicher. Eben weil sie im Grunde ganz Weib war, mußte sie sich nach ihrer männlichen Ergänzung sehnen.
     </p>
-    <p xml:id="eco_de_0000110_2360">
+    <p xml:id="eco_de_0000181_2360">
      Und er? Er, der ihrer Fantasie als diese Ergänzung vorgeschwebt hatte? Liebte er sie denn nicht?
     </p>
-    <p xml:id="eco_de_0000110_2370">
+    <p xml:id="eco_de_0000181_2370">
      Aber was hatte ihn denn mit unwiderstehlicher Gewalt von weit, weit her, gerade nach dieser Stadt Dresden gezogen, wo er nichts zu suchen hatte als sie? Was durchtobte ihn seit gestern und ließ ihn keine Ruhe finden, außer bei ihr?
     </p>
-    <p xml:id="eco_de_0000110_2380">
+    <p xml:id="eco_de_0000181_2380">
      Ach, gewiß liebte er sie! Daran konnte er nicht mehr zweifeln.
     </p>
-    <p xml:id="eco_de_0000110_2390">
+    <p xml:id="eco_de_0000181_2390">
      Und dennoch: Sowie er sich vorstellte, daß er diese selbständige, sehr vermögende, sehr geschäftstüchtige Frau nun heiraten und sich von ihr gewissermaßen ernähren lassen solle, wofür er als Entgelt ihre Zimmer und ihre Dienstboten in Ordnung halten werde, lehnte sich alles in ihm dagegen auf.
     </p>
-    <p xml:id="eco_de_0000110_2400">
+    <p xml:id="eco_de_0000181_2400">
      Sie mochte reden, was sie wollte: Diese Stellung im Hause einer Frau war und blieb des Mannes unwürdig. Darauf kam er doch immer zurück.
     </p>
-    <p xml:id="eco_de_0000110_2410">
+    <p xml:id="eco_de_0000181_2410">
      Lieber sich so weiter durchquälen so er mußte bitter auflachen.
     </p>
-    <p xml:id="eco_de_0000110_2420">
+    <p xml:id="eco_de_0000181_2420">
      »Eigentlich ist es doch ein verflucht schäbiger Rest, die Selbstachtung, um derentwillen ich das Weib, das ich liebe und das mich liebt, aufgeben will.«
     </p>
-    <p xml:id="eco_de_0000110_2430">
+    <p xml:id="eco_de_0000181_2430">
      Der Wind peitschte Regen gegen die Fenster, daß die Tropfen klapperten; der Morgen wollte nicht richtig hell werden. Unlustig kam der Tag heraufgehinkt, zu seiner Stimmung passend!
     </p>
-    <p xml:id="eco_de_0000110_2440">
+    <p xml:id="eco_de_0000181_2440">
      Während er sich mit einiger Umständlichkeit seiner Morgentoilette hingab, dachte er, daß jetzt Maria Margarethe wohl in ihrer junggesellenhaften Häuslichkeit, in der es nach frischgetünchten Wänden roch, einsam ein nachlässig serviertes, nachlässig bereitetes Frühstück einnahm und wahrscheinlich dabei die Zeitung las, den Kursbericht mit besonderer Aufmerksamkeit.
     </p>
-    <p xml:id="eco_de_0000110_2450">
+    <p xml:id="eco_de_0000181_2450">
      Ihn gingen die Kursschwankungen freilich nichts an und er las für gewöhnlich auch keine Zeitungen; er haßte Zeitungen; schon ihr Anblick war ihm ärgerlich. »Brutapparate für Oberflächlichkeit und Alleswisserei!« nannte er sie, wenn er gallig war.
     </p>
-    <p xml:id="eco_de_0000110_2460">
+    <p xml:id="eco_de_0000181_2460">
      Nun, Maria Margarethens Augen durchblickten wohl jetzt eben mit dem Ausdruck ruhiger Konzentration, den er so gern hatte, den Kursbericht, und der häßliche Geruch der frischen Druckerschwärze stieg in ihre feine Nase, und dabei trank sie kalt gewordenen, vielleicht nicht einmal guten Kaffee!
     </p>
-    <p xml:id="eco_de_0000110_2470">
+    <p xml:id="eco_de_0000181_2470">
      Mit ihren Dienstboten konnte sie offenbar nicht viel aufstellen. Die besondere Begabung, die unter den etwas ungünstigen Umständen dazu gehört hätte, mußte ihr fehlen. Er, Jano, hätte diese Küchenfeen und Kammerkatzen, die sich's zu Nutze machten, daß die Herrin meist im Atelier war, müde von der Arbeit kam und sich dann nicht mehr viel mit jenen abgeben mochte, er hätte sie schon bringen wollen! Haha, wie sie vor dem Herrn auf der Flucht sein sollten!
     </p>
-    <p xml:id="eco_de_0000110_2480">
+    <p xml:id="eco_de_0000181_2480">
      Er ertappte sich im Ausmalen eines idealen Hauswesens unter seinem Kommando. Gerade in dieser Richtung besaß er Talent. Während eines Jahres, das er an einem südafrikanischen, kleinen Küstenplatz verlebt hatte, hatte er Gelegenheit gehabt, sich davon zu überzeugen. Er hatte mit seinen Schwarzen sehr nett gewirtschaftet und sogar kleine Diners gegeben. Und eine mit ihrem Gatten dort hausende, sehr gefeierte Deutsche, der das Wirtschaften mit den Kaffern mehr Schwierigkeiten machte als ihm, sagte oft: »Herr Jano, Sie sind eine so ausgezeichnete Hausfrau, daß ich, wenn ich bei Ihnen esse, immer denke: Wir Frauen sind doch eigentlich ganz überflüssig!«
     </p>
-    <p xml:id="eco_de_0000110_2490">
+    <p xml:id="eco_de_0000181_2490">
      Er hörte sie noch, wie sie in vorwurfsvoll fragendem Ton die Stimme hob bei dem Wort »überflüssig« und mit den Achseln zuckte, als setzte sie im stillen hinzu: »Nun weiß ich schon gar nicht mehr, was ich sagen soll.« Sehr niedlich und drollig war sie gewesen, diese kleine Frau, und er hatte sich immer nur geschmeichelt gefühlt durch ihr eifersüchtiges Lob seiner Hausfrauenkünste.
     </p>
-    <p xml:id="eco_de_0000110_2500">
+    <p xml:id="eco_de_0000181_2500">
      So etwas zu bewältigen machte freilich Vergnügen, aber dazu da zu sein, während die Frau das Geld verdient und die Firma vertritt, das war denn doch eine ganz andere Sache!
     </p>
-    <p xml:id="eco_de_0000110_2510">
+    <p xml:id="eco_de_0000181_2510">
      »Lieber Steineklopfen!« sagte er ganz laut vor sich hin, ohne freilich ernsthaft den Beruf eines Straßenarbeiters ins Auge zu fassen.
     </p>
-    <p xml:id="eco_de_0000110_2520">
+    <p xml:id="eco_de_0000181_2520">
      Eine Weile stand er dann vor dem Spiegel in kritische Betrachtung seines nervösen, schmalen Gesichts vertieft.
     </p>
-    <p xml:id="eco_de_0000110_2530">
+    <p xml:id="eco_de_0000181_2530">
      Schön war er nicht, eher das Gegenteil. Wie dünn das Haar über der Stirn! Der spitz endende Kinnbart á la Prinz Heinrich machte sein Gesicht zu lang und zu schmal. Seine Augen waren klein und graugrün, den Mund, der noch das Beste war, verdeckte der starke Schnurrbart. Am meisten störte ihn seine Nase, die nicht griechisch oder römisch, sondern mehr á la Posthorn gebogen war.
     </p>
-    <p xml:id="eco_de_0000110_2540">
+    <p xml:id="eco_de_0000181_2540">
      »Und sie liebt mich trotzdem«, sagte er sich kopfschüttelnd, » was liebt sie wohl an mir?«
     </p>
-    <p xml:id="eco_de_0000110_2550">
+    <p xml:id="eco_de_0000181_2550">
      Dann gab er sich selbst die Antwort: »Ihren Gegensatz.«
     </p>
-    <p xml:id="eco_de_0000110_2560">
+    <p xml:id="eco_de_0000181_2560">
      Der Kellner kam auf sein Klingeln mit dem Frühstückstablett, welches er in Schulterhöhe balancierte: Nickelkännchen für Milch und Kaffee, über der Tasse mit dem Zwiebelmuster das zweifelhafte Serviettchen, winzige, flache Butterweckchen, drei Stückchen Gebäck, vier Stückchen Zucker.
     </p>
-    <p xml:id="eco_de_0000110_2570">
+    <p xml:id="eco_de_0000181_2570">
      Neben diesen Hotelfrühstücksgegenständen bei deren Anblick ihn jedesmal Ödigkeit überfiel, lag ein abgestempelter Brief; mattlila Papier mit seltsamen, silbernen Ornamenten darauf; die Form gleichfalls außergewöhnlich.
     </p>
-    <p xml:id="eco_de_0000110_2580">
+    <p xml:id="eco_de_0000181_2580">
      Sowie der Kellner die Tür hinter sich zumachte, riß Jano das Kuvert mit nervöser Hast auseinander, ohne Schonung für die originelle Form.
     </p>
-    <p xml:id="eco_de_0000110_2590">
+    <p xml:id="eco_de_0000181_2590">
      Maria Margarethe hatte geschrieben:
     </p>
-    <p xml:id="eco_de_0000110_2600">
+    <p xml:id="eco_de_0000181_2600">
      »Bitte, kommen Sie nicht mehr. Es ist besser für uns beide. Wir können einander ja nicht helfen. Leben Sie wohl, lieber Freund.
     </p>
-    <p xml:id="eco_de_0000110_2610">
+    <p xml:id="eco_de_0000181_2610">
      Maria Margarethe Wildenau.«
     </p>
-    <p xml:id="eco_de_0000110_2620">
+    <p xml:id="eco_de_0000181_2620">
      Das mußte sie unmittelbar, nachdem er sie gestern abend verlassen hatte, geschrieben und wahrscheinlich gleich hinübergetragen haben in den Briefkasten, der an dem Vorgartengitter ganz nahe bei ihrem Märchenhause hing; sonst hätte er es mit der Frühpost noch nicht bekommen können.
     </p>
-    <p xml:id="eco_de_0000110_2630">
+    <p xml:id="eco_de_0000181_2630">
      Daß sie ihm dieses sagen würde, hatte er erwartet. Und nun saß er, trank Kaffee, strich sorgfältig Butter auf die Innenseite des knusprigen Gebäcks und suchte sich einzureden, er sei nun mit dieser aufregenden Angelegenheit im reinen, sei ganz und gar fertig damit.
     </p>
-    <p xml:id="eco_de_0000110_2640">
+    <p xml:id="eco_de_0000181_2640">
      Sie fühlte so gut wie er, daß eine Ehe auf so verschobener Grundlage eine Lächerlichkeit sein würde, und das war gut.
     </p>
-    <p xml:id="eco_de_0000110_2650">
+    <p xml:id="eco_de_0000181_2650">
      Ihr Brief lag vor ihm: Alles, was sie an und um sich hatte, war von einer so fremdartigen Schönheit! Sie umgab sich mit solchen Dingen wie mit einem reichen, fantastischen Rahmen. Sollte er auch so ein Stück effektvoller Einrahmung für sie bedeuten?
     </p>
-    <p xml:id="eco_de_0000110_2660">
+    <p xml:id="eco_de_0000181_2660">
      Was für eine klare, feste Schrift sie hatte! Die Schrift eines kühn aufs Ziel zugehenden Menschen, der Ordnung liebt und Schönheit.
     </p>
-    <p xml:id="eco_de_0000110_2670">
+    <p xml:id="eco_de_0000181_2670">
      Übrigens er sah noch genauer hin bei dem F des Wortes Freund, ja, bei dem ganzen Wort hatte ihre Hand gezittert!
     </p>
-    <p xml:id="eco_de_0000110_2680">
+    <p xml:id="eco_de_0000181_2680">
      Nun schlenderte er mit Gummigaloschen über den blanken, gelben Reiseschuhen und mit aufgespanntem Regenschirm durch die Straßen, in denen er doch nichts zu tun und nichts zu suchen hatte. Warum packte er nicht einfach den Koffer und fuhr auf den Bahnhof?
     </p>
-    <p xml:id="eco_de_0000110_2690">
+    <p xml:id="eco_de_0000181_2690">
      Warum nicht? Weil er nicht zu entscheiden gewußt hätte, wohin. Wenn ihn der Mann am Fahrkartenschalter danach fragte, konnte er doch nicht antworten: Irgendwohin. Ein Ort ist mir so belanglos wie der andere.
     </p>
-    <p xml:id="eco_de_0000110_2700">
+    <p xml:id="eco_de_0000181_2700">
      Nein, nichts zog ihn fort, wohl aber hielt ihn etwas in Dresden fest. Er machte sich allerdings nicht klar, daß dies scheinbar ziellose Wandern durch die Straßen in der Tat nur ein Weg nach dem schönen, fremdartigen Haus im englischen Viertel war, nach dem Haus, das »sie« mit ihren Künstlerfreunden sich geschaffen hatte. Er wußte es erst, als er mit einemmal dort anlangte.
     </p>
-    <p xml:id="eco_de_0000110_2710">
+    <p xml:id="eco_de_0000181_2710">
      Er sollte und wollte doch nicht kommen und da war er nun! Weil seine Gedanken von dieser Stelle nicht loskamen, weil sie hartnäckig dahin strebten, waren schließlich, wie hypnotisiert, die Füße und was sonst zum Menschen gehört, ihnen gefolgt.
     </p>
-    <p xml:id="eco_de_0000110_2720">
+    <p xml:id="eco_de_0000181_2720">
      Und er war mit einemmal ganz davon durchdrungen, daß er hier sein müsse.
     </p>
-    <p xml:id="eco_de_0000110_2730">
+    <p xml:id="eco_de_0000181_2730">
      So schritt er wieder durch die melodisch tönende Tür in den Empfangssalon wie gestern.
     </p>
-    <p xml:id="eco_de_0000110_2740">
+    <p xml:id="eco_de_0000181_2740">
      Wie gestern saß an demselben Tisch die gar nicht seltsame junge Dame und schrieb Rechnungen aus.
     </p>
-    <p xml:id="eco_de_0000110_2750">
+    <p xml:id="eco_de_0000181_2750">
      Wie gestern sah sie kaum auf, sondern fragte nur mechanisch: »Womit kann ich dienen, mein Herr?«
     </p>
-    <p xml:id="eco_de_0000110_2760">
+    <p xml:id="eco_de_0000181_2760">
      »Ich möchte Fräulein Wildenau sprechen.«
     </p>
-    <p xml:id="eco_de_0000110_2770">
+    <p xml:id="eco_de_0000181_2770">
      »Das tut mir leid. Fräulein Wildenau ist heute nicht hier. Ich vertrete sie. Kann ich einen Auftrag entgegennehmen?«
     </p>
-    <p xml:id="eco_de_0000110_2780">
+    <p xml:id="eco_de_0000181_2780">
      »Ich muß mit Fräulein Wildenau selbst sprechen. Wo finde ich sie?«
     </p>
-    <p xml:id="eco_de_0000110_2790">
+    <p xml:id="eco_de_0000181_2790">
      »Heute können Sie Fräulein Wildenau nicht sprechen. Sie ist krank.«
     </p>
-    <p xml:id="eco_de_0000110_2800">
+    <p xml:id="eco_de_0000181_2800">
      »Krank?!«
     </p>
-    <p xml:id="eco_de_0000110_2810">
+    <p xml:id="eco_de_0000181_2810">
      Wenn es sein Leben gegolten hätte, er hätte in diesem Augenblick seine Erschütterung nicht verbergen können. Wie gelähmt war er, keiner Bewegung, keines Wortes mächtig. Er bückte nur den Kopf und war sich bewußt, ein aschfarbenes, elend aussehendes Gesicht zu zeigen.
     </p>
-    <p xml:id="eco_de_0000110_2820">
+    <p xml:id="eco_de_0000181_2820">
      Nun sprach die junge Dame wieder; aber in einem neuen, ganz anderen Ton.
     </p>
-    <p xml:id="eco_de_0000110_2830">
+    <p xml:id="eco_de_0000181_2830">
      »Der Herr Doktor ist eben dagewesen«, berichtete sie, »er meint, es sei Influenza. Soll ich vielleicht etwas an Fräulein Wildenau bestellen?«
     </p>
-    <p xml:id="eco_de_0000110_2840">
+    <p xml:id="eco_de_0000181_2840">
      Er hatte sich gefaßt.
     </p>
-    <p xml:id="eco_de_0000110_2850">
+    <p xml:id="eco_de_0000181_2850">
      »Was man nicht recht bezeichnen kann, spricht man als Influenza an«, scherzte er. Und fügte eindringlich fragend hinzu: »Ob es wirklich Influenza ist? «
     </p>
-    <p xml:id="eco_de_0000110_2860">
+    <p xml:id="eco_de_0000181_2860">
      Er sah die junge Dame an, die jetzt den Blick voll, mit kaum verhaltener Neugier, auf ihn gerichtet hatte.
     </p>
-    <p xml:id="eco_de_0000110_2870">
+    <p xml:id="eco_de_0000181_2870">
      »Fräulein Wildenau hat sich überanstrengt, das ist, was ich glaube«, sagte sie vertraulich. »Sie ist schon längere Zeit nicht recht munter gewesen. Dieser ganze Umbau und daneben doch immer das Geschäft, das nicht stocken darf, und alles auf ihr allein ich sag immer: Es ist zu viel für einen einzigen Menschen. Aber sie gönnt sich eben keine Ruh'. Na, nun muß sie schon.«
     </p>
-    <p xml:id="eco_de_0000110_2880">
+    <p xml:id="eco_de_0000181_2880">
      Da tönte wieder die Tür. Ein junger Elegant trat ein mit aufgestrupften, weiten Hosen, kurzem Sacküberzieher, roten Schuhen und Handschuhen, den Hut in der Hand, das Monokel im Auge.
     </p>
-    <p xml:id="eco_de_0000110_2890">
+    <p xml:id="eco_de_0000181_2890">
      »Guten Tag, Herr Mende«, sagte die junge Dame in ihrem alten, konventionell liebenswürdigen Ton, »Sie kommen wohl wegen der Bilder. Von den Kabinettkarten sind sechs fertig, von den Visitenkarten ein Dutzend. Bitte, belieben?«
     </p>
-    <p xml:id="eco_de_0000110_2900">
+    <p xml:id="eco_de_0000181_2900">
      Jano beeilte sich, hinauszukommen.
     </p>
-    <p xml:id="eco_de_0000110_2910">
+    <p xml:id="eco_de_0000181_2910">
      In der gewölbten Vorhalle, die wie der ganze Bau in burgartigem Charakter gehalten war, blieb er vor einem der Schaukästen, die da an den Wänden hingen, stehen und starrte auf die ausgestellten, besonders wohlgelungenen Konterfeis von Dresdener Offizieren und von eleganten Damen in Balltoilette.
     </p>
-    <p xml:id="eco_de_0000110_2920">
+    <p xml:id="eco_de_0000181_2920">
      Er sah diese Bilder und sah sie nicht. In seinem Inneren stürmte es.
     </p>
-    <p xml:id="eco_de_0000110_2930">
+    <p xml:id="eco_de_0000181_2930">
      Krank also! Aber natürlich! Wenn er nicht ein so brutaler Egoist und stets so ganz von sich selbst erfüllt wäre, hätte er es gestern schon merken können. Er hatte die Müdigkeit ihrer Bewegungen wohl gesehen, aber sich nicht viel dabei gedacht. Und das hätte er sollen; denn er wußte gut, daß Maria Margarethe ein außergewöhnlich energischer Charakter war, nicht ein Frauenzimmer, das sich gehen läßt. Ehe man ihr Müdigkeit anmerkte, mußte es weit gekommen sein! Das Schrecklichste war ihm aber doch, daß er sie nun nicht sehen konnte. Er fühlte ein rasendes, wehtuendes Verlangen danach.
     </p>
-    <p xml:id="eco_de_0000110_2940">
+    <p xml:id="eco_de_0000181_2940">
      Und plötzlich dachte er: »Aber was ist das für ein unverhofftes Glück, daß ich noch so empfinden kann!«
     </p>
-    <p xml:id="eco_de_0000110_2950">
+    <p xml:id="eco_de_0000181_2950">
      Dies Bewußtsein belebte ihn. Er wandte sich nicht nach der Straßenseite, sondern nach dem Innenhof, hinter dem »ihre« Privatwohnung lag.
     </p>
-    <p xml:id="eco_de_0000110_2960">
+    <p xml:id="eco_de_0000181_2960">
      Der Säulengang mit seinen ausdrucksvollen Landschaftsfresken, der Hof mit der einsamen Pappel und das Burgpförtchen, es kam ihm heute alles weniger märchenhaft vor als gestern.
     </p>
-    <p xml:id="eco_de_0000110_2970">
+    <p xml:id="eco_de_0000181_2970">
      »Es ist nur das Ungewohnte, das zuerst befremdet«, dachte er, »hier wie überall.«
     </p>
-    <p xml:id="eco_de_0000110_2980">
+    <p xml:id="eco_de_0000181_2980">
      Am Burgpförtchen zog er die Klingel oder drückte vielmehr auf den Knopf der elektrischen Leitung und mußte eine ganze Weile warten.
     </p>
-    <p xml:id="eco_de_0000110_2990">
+    <p xml:id="eco_de_0000181_2990">
      Maria Margarethens Hauspersonal nahm sich Zeit! Diese bequem gewordenen Mädchen nahmen sich wahrscheinlich auch Zeit, wenn die kranke Herrin klingelte.
     </p>
-    <p xml:id="eco_de_0000110_3000">
+    <p xml:id="eco_de_0000181_3000">
      Wenn er nur hier etwas zu sagen hätte!
     </p>
-    <p xml:id="eco_de_0000110_3010">
+    <p xml:id="eco_de_0000181_3010">
      Endlich kam das Stubenmädchen.
     </p>
-    <p xml:id="eco_de_0000110_3020">
+    <p xml:id="eco_de_0000181_3020">
      Er erkundigte sich nach dem Befinden der Patientin und fragte, wen sie zur Pflege habe.
     </p>
-    <p xml:id="eco_de_0000110_3030">
+    <p xml:id="eco_de_0000181_3030">
      »Na, Pflege is' ja nicht weiter nötig«, meinte die Lina.
     </p>
-    <p xml:id="eco_de_0000110_3040">
+    <p xml:id="eco_de_0000181_3040">
      »Oho!«
     </p>
-    <p xml:id="eco_de_0000110_3050">
+    <p xml:id="eco_de_0000181_3050">
      Er begann dem jungen Ding aufs ernsthafteste ins Gewissen zu reden. Das war alles, was er tun konnte.
     </p>
-    <p xml:id="eco_de_0000110_3060">
+    <p xml:id="eco_de_0000181_3060">
      War es nicht absurd? Dort, hinter diesen Hauswänden lag die, die er liebt, verlassen, ungepflegt, unbehütet, und hier stand er an ihrer Tür mit all seinem Willen und seiner Liebe und seinen müßigen Kräften und konnte ihr nicht helfen!
     </p>
-    <p xml:id="eco_de_0000110_3070">
+    <p xml:id="eco_de_0000181_3070">
      Und warum ging es nicht, wenn sie alle beide doch so sehnlich danach verlangten? Worin bestanden die unübersteiglichen Hindernisse?
     </p>
-    <p xml:id="eco_de_0000110_3080">
+    <p xml:id="eco_de_0000181_3080">
      »Wage es, einmal wahr zu sein, mein Herz: Ist nicht eben das angstvolle Aufrechterhaltenwollen einer äußeren Würde das Zeichen, daß ihr Kern bereits angefault ist? Worin erweisen wir wahrhaft unsere Mannhaftigkeit dem Weibe gegenüber, das wir lieben: darin, daß wir das Kommando offiziell führen, oder darin, daß wir unser Mehr an Kraft benutzen, ihm zu helfen und es zu stützen und zu schützen? Es kommt doch wohl in erster Linie darauf an, daß unsere Stärke da einsetzt, wo sie nötig ist.«
     </p>
-    <p xml:id="eco_de_0000110_3090">
+    <p xml:id="eco_de_0000181_3090">
      Nach fast drei Wochen erhielt er endlich den heißersehnten Bescheid: Er dürfe sie besuchen.
     </p>
-    <p xml:id="eco_de_0000110_3100">
+    <p xml:id="eco_de_0000181_3100">
      Bis dahin hatte er in seinem Hotel gesessen, täglich zweimal nach ihrem Befinden gefragt, Rosen und Veilchen geschickt und Verse geschrieben.
     </p>
-    <p xml:id="eco_de_0000110_3110">
+    <p xml:id="eco_de_0000181_3110">
      Zum erstenmal seit Jahren des Brachliegens war der poetische Quell einmal wieder geströmt! Aus seiner von Sehnen und bangen Sorgen erfüllten Klausur heraus hatte er Verse geschaffen, die er der Geliebten hätte vorlesen können, ohne sie zu enttäuschen.
     </p>
-    <p xml:id="eco_de_0000110_3120">
+    <p xml:id="eco_de_0000181_3120">
      Maria Margarethe war recht krank gewesen; seit einigen Tagen aber hatte sie das Bett verlassen dürfen.
     </p>
-    <p xml:id="eco_de_0000110_3130">
+    <p xml:id="eco_de_0000181_3130">
      Und indessen war es Frühling geworden.
     </p>
-    <p xml:id="eco_de_0000110_3140">
+    <p xml:id="eco_de_0000181_3140">
      In dem Hof, der wie ein Klosterhof aussah, leuchtete das junge Gras in smaragdenem Grün, es duftete und blaute von Veilchen und die Pappel hatte sich einen Schleier von überaus zarten, rötlichen Blattknospen um ihr Gezweig gewoben. Jano aber sah nicht die Pappel, nicht die Veilchen, sondern allein sie.
     </p>
-    <p xml:id="eco_de_0000110_3150">
+    <p xml:id="eco_de_0000181_3150">
      Sie stand in dem Säulengang, an die Wand mit den Thüringer Landschaftsfresken gelehnt, in ihrem langen, losen, malerischen, braunen Möchsgewand, aber wie blaß noch und schmächtig!
     </p>
-    <p xml:id="eco_de_0000110_3160">
+    <p xml:id="eco_de_0000181_3160">
      Leider war sie nicht allein, sondern konferierte mit ein paar robusten Handwerksleuten, Tünchern oder Stubenmalern, meinte Jano. Es schien, als beschwere sich Maria Margarethe, daß jene einen Vertrag nicht eingehalten hätten, wogegen sich die Männer in ziemlich unwirscher Tonart verwahrten.
     </p>
-    <p xml:id="eco_de_0000110_3170">
+    <p xml:id="eco_de_0000181_3170">
      Wieder fühlte er: Ihre vornehme und zarte Natur zieht im persönlichen Verkehr mit ungebildeten, rücksichtslos auf den eigenen Vorteil bedachten Leuten leicht den kürzeren. Hier lag eine Grenze ihrer Energie und er segnete diese Grenze.
     </p>
-    <p xml:id="eco_de_0000110_3180">
+    <p xml:id="eco_de_0000181_3180">
      Mit wenig Schritten stand er neben ihr.
     </p>
-    <p xml:id="eco_de_0000110_3190">
+    <p xml:id="eco_de_0000181_3190">
      Und sieh: Unter seinem etwas strengen Blick wurde der Ton der aufsässigen Handwerker sogleich ein anderer.
     </p>
-    <p xml:id="eco_de_0000110_3200">
+    <p xml:id="eco_de_0000181_3200">
      Er nahm ohne weiteres die Führung der Unterhandlung. Und da er schnell begriff, daß Maria Margarethe durchaus in ihrem Recht war, fertigte er die Leute kurz und fest ab.
     </p>
-    <p xml:id="eco_de_0000110_3210">
+    <p xml:id="eco_de_0000181_3210">
      Sie fühlten sich überwunden; ziemlich kleinlaut versprachen sie zu tun, was ihre Vertragspflicht war und gingen ihres Weges.
     </p>
-    <p xml:id="eco_de_0000110_3220">
+    <p xml:id="eco_de_0000181_3220">
      »Wie Sie gut mit den Leuten reden können!« war das erste, was Maria Margarethe zu ihm sprach. »Das wußte ich gar nicht.«
     </p>
-    <p xml:id="eco_de_0000110_3230">
+    <p xml:id="eco_de_0000181_3230">
      Und sie schauten einander an, beide mit dem leisen, scheuen und von durchlebtem Schmerz noch überschatteten, aber verheißungsvollen Lächeln, dem richtigen Vorfrühlingslächeln.
     </p>
-    <p xml:id="eco_de_0000110_3240">
+    <p xml:id="eco_de_0000181_3240">
      »Maria Margarethe!« sagte er mit halb erstickter Stimme und reichte ihr beide Hände.
     </p>
-    <p xml:id="eco_de_0000110_3250">
+    <p xml:id="eco_de_0000181_3250">
      Sie legte ihre Hände in die seinen.
     </p>
-    <p xml:id="eco_de_0000110_3260">
+    <p xml:id="eco_de_0000181_3260">
      Kein Wort dazu. Auch er fand keine Worte. Es waren auch keine nötig.
     </p>
-    <p xml:id="eco_de_0000110_3270">
+    <p xml:id="eco_de_0000181_3270">
      Mitten zwischen den rosigen Pappelblattknospen saß ein kleiner Vogel und sang, was er singen konnte.
     </p>
-    <p xml:id="eco_de_0000110_3280">
+    <p xml:id="eco_de_0000181_3280">
      Er sang vielleicht ein Lied davon, daß sich auf Erden alles immerfort ändere und daß es dennoch immer wieder Frühling werde und eines immer ganz das Alte bleibe: die Liebe.
     </p>
    </div>

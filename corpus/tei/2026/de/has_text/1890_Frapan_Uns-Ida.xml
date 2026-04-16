@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000155" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     »Uns' Ida«
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Frapan, Ilse
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     4101
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1890">
+      1890
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000155_20">
+    »Uns' Ida«
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000155_30">
+     Die holsteinischen sind doch immer die besten. Die böhmischen mögen wohl auch gut sein, aber es sind so viele Spiegelkarpfen darunter, und da fällt das Absaugen der Schuppen beinah weg; und nun gar bei den Lederkarpfen, die so eine Art zähen Felles haben! Und dann müssen auch diese Böhmen so lange unterwegs sein, bis sie herkommen, und zuweilen wird das Wasser in den Fässern lau, dann leidet der Geschmack der Fische darunter; oder es gefriert, und dann stirbt gar einer oder der andre ab. Der branntweingetränkte Bissen Brot im Munde erhält sie nicht immer am Leben, durchaus nicht. Nein, bei den Holsteinern ist man seiner Ware sicherer. Johann Christian Wobbe führte nur Holsteiner, bezog sie vom Dieksee, wie alle seine Kunden oft von ihm gehört hatten. Es ist notwendig, daß man sich auf einen Geschäftsmann verlassen könne. Auf Johann Christian Wobbe konnte man sich verlassen, das war gewiß. Wie er so in seinem weitläufigen Keller stand mit den zehn viereckigen rotlackierten Wasserbehältern, in die fortwährend frischer Zufluß rieselte, während es unten ebenso tropfenweise wieder abfloß, sah er in seiner breiten weißen Schürze und der Schirmmütze, mit den roten Backen und den blauen Augen wie die Zuverlässigkeit selber aus. Es war etwas Rundliches, Behäbiges, nicht nur in seinem Gesicht, sogar in seinen Bewegungen, wie er einen großen zappelnden Karpfen aus dem Bassin nahm und mit einer Art behutsamer Zärtlichkeit in die Wagschale legte. »Un wenn Madame ihn lieber gleich tot haben will, denn will ich ihn auf'n Kopf schlagen, aber ich leg da en Tuch über, daß Madam das nich so sieht, denn welche sagen, daß ihnen der Appetit vergeht, wenn sie das sehn. Mir? Nee, Madam, ich weiß da nix von, das is allens Gewohnheit; un wenn man das genau nimmt, – sie sünd ja mal dazu da, nich Madam? Dafür sünd ja die Karpfen in die Welt, daß wir sie uns zu Sylvester, will ich mal sagen, oder zu andern Gelegenheiten gut schmecken lassen. Süh so, Madam, – nee, er lebt nich wieder auf, – un durchlecken tut das auch nich, is gut eingewickelt; – auch gleich 'n Stange Meerrettig? Haben Sie all? so, hätten Sie bei mir auch kriegen können, wär ein dohnt gewesen, – adjüs Madam, un 'n recht vergnügtes neues Jahr, und beehren Sie mich bald wieder.«
+    </p>
+    <p xml:id="eco_de_0000155_40">
+     Die Frau zog ihr Geldtäschchen und zahlte. »Bloß 'n büschen teuer is unser Herr Wobbe,« sagte sie, ihm mit dem Finger drohend, »noch immer so wie vorig Jahr. Bei Bornemann gradüber kosten sie diesmal schon zehn Pfennig weniger das Pfund.«
+    </p>
+    <p xml:id="eco_de_0000155_50">
+     »Madam, was ich Ihnen gesagt hab! denn sünd das keine Holsteiner! das is all zusammengekauften Kram, was sich so Angro nennt! Karpfen Angro, nu bitt ich Ihnen bloß!« Wobbes ganzes Gesicht drückte Widerwillen und Verachtung aus. »Wo jeder Fisch einzeln behandelt werden will!« fügte er gewichtig hinzu.
+    </p>
+    <p xml:id="eco_de_0000155_60">
+     Die Käuferin zuckte die Achseln. »Ich mein man bloß, sonst ging das bei Ihnen auch hilder zu; bei Bornemann stehen die Leute bis auf die Straße hinaus, und seine Niederlage auf der Alster war ganz schwarz von Menschen.«
+    </p>
+    <p xml:id="eco_de_0000155_70">
+     »Ja es is schwer heutzutage!« seufzte der Amtsfischer und sah ängstlich nach der Tür, in der ein paar Dienstmädchen angelegentlich schwatzten, »aber allens, was recht is, 'n reinen Kram is das nich mit den Bornemann!« er schüttelte den runden Kopf und fügte leiser hinzu: »Ich hab ja meinen Schuppen neben seinem stehn auf der Alster, das is all so'n halbtote Ware! Ich möcht sie nich essen, das is gewiß.«
+    </p>
+    <p xml:id="eco_de_0000155_80">
+     Plötzlich sah er, daß die Mädchen wieder hinausgingen. Er sprang ihnen nach und erfaßte eine am Arm.
+    </p>
+    <p xml:id="eco_de_0000155_90">
+     »Fräulein! Lüttmaid! hebben Se all kregen! Nee? na, wat lopen Se denn wedder weg? Könt Se nich en Ogenblick töwen?« rief er eifrig.
+    </p>
+    <p xml:id="eco_de_0000155_100">
+     »Wie hört man eben, dat Se negentig Penn nehmt, denn gaht wie na Bornemann röber,« sagte eins der Mädchen schnippisch, »da spar ick tein Penn op't Pund; kumm, Lise!« –
+    </p>
+    <p xml:id="eco_de_0000155_110">
+     Eine blaß und kränklich aussehende Person, Frau Wobbe selber, in einem dicken lila »Seelenwärmer«, den Kopf in ein wollenes Tuch gehüllt, tauchte neben dem Ladentisch auf; die kleine Kellerstube hinter demselben war ihr gewöhnlicher Aufenthalt während der Verkaufszeit.
+    </p>
+    <p xml:id="eco_de_0000155_120">
+     »Wedder nix to dohn,« sagte sie kleinmütig, während ihr Auge den leeren Laden überflog, »ick kann dat nich begriepen.«
+    </p>
+    <p xml:id="eco_de_0000155_130">
+     »Ick woll!« versetzte ihr Mann, »un ick wull man, ick kunn da'n Peh vorschrieben!«
+    </p>
+    <p xml:id="eco_de_0000155_140">
+     »Wovor, Krischan?«
+    </p>
+    <p xml:id="eco_de_0000155_150">
+     »Dat he nich allens an sick ritt!« rief er grimmig.
+    </p>
+    <p xml:id="eco_de_0000155_160">
+     »Wo kunnst du da woll wat gegen dohn!« sagte die Frau, »dat is nu mal so.«
+    </p>
+    <p xml:id="eco_de_0000155_170">
+     »Dat sall aber nich sin!« rief der Fischhändler dunkelrot und drohend, wie man es diesem gutmütigen Gesicht mit dem Doppelkinn und der kleinen Stumpfnase gar nicht zugetraut hätte und schlug mit der Faust auf die Marmorplatte des Verkaufstisches, »dat is ja de reine Mord, is dat ja!«
+    </p>
+    <p xml:id="eco_de_0000155_180">
+     »Dat Kind is noch buten,« sagte die Frau ablenkend und schob die Hände unter die Schürze, »weet Gott, wat se sick nich verkölt.«
+    </p>
+    <p xml:id="eco_de_0000155_190">
+     »De Deern is mehr vun min Slag,« murrte der Mann, »aber kannst se ja rinropen.«
+    </p>
+    <p xml:id="eco_de_0000155_200">
+     Die Frau ging an die Ladentür, öffnete eine Spalte breit und rief: »Ida! Ida!« mit vor den Mund gehaltenem Tuch, denn es kam ein Wagen voll nassen Nebels und Zugs herein.
+    </p>
+    <p xml:id="eco_de_0000155_210">
+     Der Mann hatte in mürrischem Schweigen, die Hände hinterm Rücken, an einem der Bassins gestanden. Dat is die »Minschenmöglichkeit!« murmelte er vor sich hin.
+    </p>
+    <p xml:id="eco_de_0000155_220">
+     »Wi möt doch to hüt Aben noch mehr Woar' herin hebben, schullst man rut gahn, Krischan.«
+    </p>
+    <p xml:id="eco_de_0000155_230">
+     »Wie bliwt mit den ganzen Kram sitten, sallst mal sehn.«
+    </p>
+    <p xml:id="eco_de_0000155_240">
+     Die Frau setzte sich auf einen Stuhl, der eigentlich für Kunden dastand.
+    </p>
+    <p xml:id="eco_de_0000155_250">
+     »Hör, Krischan,« begann sie zögernd, »wenn du nu ok mit dem Pris dalgüngst.« –
+    </p>
+    <p xml:id="eco_de_0000155_260">
+     Wobbe sah sie zornig an; »Dalgahn? de Swindelei mitmaken? ick weet gor nich, wat du denkst!«
+    </p>
+    <p xml:id="eco_de_0000155_270">
+     »Aber Bornemann« – fiel sie ein.
+    </p>
+    <p xml:id="eco_de_0000155_280">
+     »Wat he kann, dat kann ick nicht!« rief er, »wat for em 'n Spekulatschon is, dat wurr mi rungenieren! dat mußt du doch insehn! twintig Dusent sall he gistern kregen hebben! is da nu gegen an to kamen? ick kann mi termaudbarsten und is all for de Katt!«
+    </p>
+    <p xml:id="eco_de_0000155_290">
+     Er ballte die Faust: »Ick wull, ick kunn em bikamen, den Schinner!«
+    </p>
+    <p xml:id="eco_de_0000155_300">
+     Die Frau sah ihn erschrocken an: »He hett di doch sünst nix dahn.«
+    </p>
+    <p xml:id="eco_de_0000155_310">
+     »Is dat noch nich nog?« schrie er heftig, »dat he mi dat Brot vor'n Mun'n wegritt? dat min ganzen Kram vor de Hun'n geiht? dat ick mit min goden Nam un renommiertes Geschäft von Vadderstiden her, sitten mutt un op Kun'n luurn, as wör ick n' lütten Anfänger? noch nich nog, dat de Kirl herkummt und plant sick mi vor de Näs hen mit sin Spegelscheibens und Marmortischens un groote Springbrunnens un wat nich all, un giwt noch allens billiger? O ick much em –«
+    </p>
+    <p xml:id="eco_de_0000155_320">
+     Er verstummte, es trat endlich wieder ein Käufer ein. Doch konnte die kleine Bestellung seine Laune nicht für lange verbessern.
+    </p>
+    <p xml:id="eco_de_0000155_330">
+     Als sie wieder allein waren, band er die weiße Schürze ab und nahm die Mütze vom Kopf. »Denn will ick nu man losgahn,« sagte er, »dat Bitten, wat hier kummt, kannst du mitdewil woll alleen besorgen.«
+    </p>
+    <p xml:id="eco_de_0000155_340">
+     »Kiek doch ok mal nah de Lütt,« bat die Frau, »mi dücht, se is wedder mit de Schrittschoh los.«
+    </p>
+    <p xml:id="eco_de_0000155_350">
+     »Dat is en fixe Deern,« erwiderte Wobbe, und ein freundliches Lächeln flog über sein mißmutiges Gesicht, »ümmer düchtig dar, dat harr'n Jung warrn süllt.«
+    </p>
+    <p xml:id="eco_de_0000155_360">
+     »Ick wull, dat se man erst to Hus wör,« seufzte die Mutter, »se is ok gor to wild un drook! 'n Deern vun drüttein Jahr un ümmer op de Schrittschoh un op de Straat rumklabastern.«
+    </p>
+    <p xml:id="eco_de_0000155_370">
+     »Lat ehr man,« sagte der Mann, und bürstete seinen Rock, »wenn se öller ward, geiht dat Stillsitten un dat Elend von sülwst los, – dat sind de glücklichsten Johren.«
+    </p>
+    <p xml:id="eco_de_0000155_380">
+     Die Frau schüttelte den Kopf, doch sagte sie nichts weiter, reichte nur dem Weggehenden noch einen großen weißen Schal und Handschuhe. »Dat is da 'n Tog op de oll Alster, – verköl di man nich, Krischan, un – wat ick seggen wull, treck man lewer de grooten Stäbeln an, dat ward natt sin.«
+    </p>
+    <p xml:id="eco_de_0000155_390">
+     Er kehrte wieder um und tat, wie sie ihm geraten.
+    </p>
+    <p xml:id="eco_de_0000155_400">
+     Die Frau blieb fröstelnd sitzen in dem halb oberirdischen Keller mit dem Fisch- und Wassergeruch, dem eintönigen Tropfengeräusch, und betrachtete durch die beschlagenen Fensterscheiben, vor denen schon eine Reihe kleiner Gasflammen brannte, obgleich es kaum halb drei nachmittags war, wie durch einen trüben Flor, das Auf- und Abströmen der Menge. Sie gewahrte zwar eigentlich nichts weiter als stapfende Beine, um die es spritzte, flatternde Kleidersäume und hier und da ein Gesicht mit roter Nase und roten Ohren, das sich neugierig zu ihrem Kellerfenster herabbog. In Bornemanns großem eleganten Laden drüben an der Ecke ging die Tür unaufhörlich auf und zu. Und nun kam eine Drehorgel und spielte: »Nun danket alle Gott,« immer in das Klingeln von Bornemanns Ladentür hinein. Die Frau setzte sich zuletzt so, daß sie nicht mehr hinüber sehen konnte ganz unwillkürlich.
+    </p>
+    <p xml:id="eco_de_0000155_410">
+     Wobbe war inzwischen durch die Stadt gewandert, den alten Jungfernstieg hinunter, dann den neuen. An der Ecke, zwischen Lombardsbrücke und Esplanade lag sein Schuppen auf der Binnenalster. Seit gestern abend taute es; das Eis stand halb unter Wasser, so daß die Zelte und Buden auf dem schwärzlichen Spiegel haltlos zu schwimmen schienen; der Wind zauste die nassen Flaggen, und die schon hie und da angezündeten Lampen schimmerten von unten wieder herauf wie rötlich zitternde Sterne. Eine große Schar Krähen umkreiste mit Gekrächz die Fischlager und flog, sobald sich Menschen näherten, in einer schwärzlichen Wolke zu dem grauen Himmel auf, der nur tief im Westen von ein paar gelben Streifen durchfurcht war. Die dunklen Vögel hockten lauernd auf der großen Wage, die zu dem Bornemannschen Magazin gehörte und spähten mit vorgestreckten Hälsen nach toten Fischen oder nach Abfall. Wobbe stand einen Augenblick still und betrachtete wie sie die Niederlage der Großhändler. Es war auch eine Art von Krähenblick in seinen blauen Augen, wie er gegen Bornemanns Hauptgebäude mit dem Kontor den dicken Fausthandschuh schüttelte. Doch zog er die Hand schnell an sich; ein Mann in Wasserstiefeln und einer Wachstuchjacke trat dort aus der Tür.
+    </p>
+    <p xml:id="eco_de_0000155_420">
+     Wobbe schloß seinen eigenen Schuppen auf, machte Licht und besichtigte die ins aufgeschlagene Eis hinabgelassenen Fischkästen. Wie er hineinleuchtete, war das schwarzgelbe Gewimmel, aus dem gelegentlich ein schnalzendes Fischmaul emporfuhr, deutlich erkennbar. Er ergriff einen großen Ketscher mit eisernem Stiel, der an der Bretterwand lehnte und begann zu fischen. Breite wassergefüllte Bütten standen umher, in die er sein Netz entleerte. Als er genug hatte, schloß er hinter sich ab, um den Knecht zu rufen, der die Bütten in die Stadt karren sollte. Dann war er selbst beim Aufladen behilflich. »Fahr man gau to, Klas,« sagte er, »ick hal blot noch min Hanschen rut.«
+    </p>
+    <p xml:id="eco_de_0000155_430">
+     In Bornemanns Schuppen, der an den seinen stieß, war die Tür nur angelehnt.
+    </p>
+    <p xml:id="eco_de_0000155_440">
+     »Da is all wieder eine!« schrie jemand, und ein Stück Holz flog krachend gegen die Wand.
+    </p>
+    <p xml:id="eco_de_0000155_450">
+     Unwillkürlich horchte Wobbe auf das laute Gespräch drinnen.
+    </p>
+    <p xml:id="eco_de_0000155_460">
+     »Haben Sie sie getroffen? ich mein, sie hat gequiekt?« fragte eine andre Stimme, unterbrach sich aber plötzlich mit dem Schrei: »Donnerwetter, eben ist sie mir gegen die Beine gefahren!« Drinnen entstand ein Gepolter und Gelächter. »Halten Sie die Tür zu, bloß noch einen Augenblick!« rief der erste. »Den Deubel auch! ich bin bange vor dem Unzeug! lassen Sie mich raus, Lührs!«
+    </p>
+    <p xml:id="eco_de_0000155_470">
+     Wobbe hatte eben noch Zeit, auf die Seite zu springen, denn die Tür wurde aufgestoßen und blieb offen hinter den beiden jungen Kommis, die wie zwei Jagdhunde herausliefen. »Da geht sie hin,« rief Lührs hitzig und schwenkte seinen großen Ketscher, »'n büschen aus'n Weg, Lüders, wart, dich krieg ich!«
+    </p>
+    <p xml:id="eco_de_0000155_480">
+     Lüders, schon in Hut und Handschuhen, schüttelte sich vor Widerwillen und eilte dem Lande zu. »Mahlzeit!« nickte er noch flüchtig nach rückwärts.
+    </p>
+    <p xml:id="eco_de_0000155_490">
+     »Herrjes, da is ja noch eine, wir haben ja woll 'n ganzes Nest aufgestöbert! is das 'ne Wirtschaft hier mit dem Viehzeug!« und Lührs schlug um sich, wie gegen eine Rotte unsichtbarer Teufel.
+    </p>
+    <p xml:id="eco_de_0000155_500">
+     »Was is denn los?« schrie es aus den andern Schuppen, und im Nu hatte man sich verständigt.
+    </p>
+    <p xml:id="eco_de_0000155_510">
+     »Halloh Jungens, hier sind sie,« rief Lührs, glitschte aus und plumpste längelang ins flache Wasser. Alles lachte und stürmte durcheinander. Die Fischer, die Verkäufer, die Buchhalter sogar rannten mit aufgeregtem Gesicht wie eine Horde wilder Jungen hinter den unglücklichen Wasserratten drein.
+    </p>
+    <p xml:id="eco_de_0000155_520">
+     Als Lührs naß und völlig atemlos nach einer halbstündigen Jagd zurücklaufen wollte, stieß er fast mit einem zusammen, der landeinwärts ging. Er erkannte den breiten, behaglichen Mann und rief: »Gun Abend, Wobbe! schad, daß Sie nicht mitgeholfen haben; ich hab zum min'sten zehn Stück totgeschlagen; so'n Keirdje haben wir lange nicht gehabt!«
+    </p>
+    <p xml:id="eco_de_0000155_530">
+     »Gun Abend,« erwiderte Wobbe einsilbig und ging schnell vorüber.
+    </p>
+    <p xml:id="eco_de_0000155_540">
+     Frau Wobbe hatte wenig zu tun gehabt; es ist die Wahrheit, gegen einen Nachbar wie Bornemann konnten Leute wie Wobbe nicht aufkommen. Sie saß im Laden und strickte mit ihren weißen, kältesteifen Fingern an einer wollenen Jacke für ihren Mann – es war ein Weihnachtsgeschenk, das nicht ganz fertig geworden. Alle Augenblick legte sie die Nadeln hin, hauchte in die Hände, rieb sie zusammen und horchte, ob ihr Mann oder ihre Tochter nicht zurückkehre. Ida war gekommen, kurz nachdem der Mann das Haus verlassen hatte. »Gott, Deern, büst du endlich dar?« hatte Frau Wobbe erleichtert gerufen und Idas Strümpfe befühlen wollen, ob sie auch nicht naß seien. Aber das war ein Mädchen! sie hatte gestrampelt und gelacht und gerufen: »Ganz knochentrocken! wo is Papa? in'n Schuppen? na, denn gib mir man 'n neues Haarband, mein is wieder weg, denn will ich ihm 'n büschen entgegengehen!« und ohne auf die kläglichen Reden der Mutter zu achten, hatte der Wildfang, der dem Vater glich, wie eine junge Kartoffel einer alten, seine dicken blonden Zöpfe neu zugebunden, sich ein Butterbrot aufgeschmiert und war wieder aus der Tür gewitscht, in den häßlichen naßkalten Winterabend hinaus, der aber, wie es schien, seinen roten Backen und lustigen Augen nicht das geringste anhaben konnte. War das ein Umeinanderlaufen von den beiden!
+    </p>
+    <p xml:id="eco_de_0000155_550">
+     Und nun kamen sie alle zwei nicht wieder, und Trina, die »man eben mal en Gratulatschonskarte« hatte einstecken wollen, war in dieser Angelegenheit jetzt schon eine Stunde abwesend, obgleich der Briefkasten gleich an der Ecke war, und auch noch die Apfelkuchen geholt werden mußten. Und nun, – es war doch wie verhext, kam plötzlich ein Käufer nach dem andern. Und jeder hatte große Eile, und jeder fragte: »Sind Sie heut ganz allein?« und jeder zog auf die Bejahung dieser Frage ein langes Gesicht und meinte, das wäre doch »mal komisch« am Sylvesterabend, wo die meisten Karpfen verkauft würden. Frau Wobbe wurde es so heiß, sie mußte das Kopftuch abwerfen; sie tat sogar den »Seelenwärmer« herunter, damit sie sich schneller drehen und wenden könne. Sie nahm all ihre Kraft zusammen, um jeden Fisch mit einem Schlag zu töten, aber einmal schlug sie fehl und quetschte sich den linken Daumen, und ein großer Karpfen biß sie in die Hand, daß das Blut herunterlief. Ja, das hilft nicht, dazu darf man kein böses Gesicht machen! Dafür ist man eine Geschäftsfrau. Aber sie konnte es doch nicht unterlassen, ängstlich nach der Tür zu sehen unter dem atemlosen Bedienen und – lieber Gott, das fehlte noch, – jetzt stehen so viele Leute da, und die Karpfen sind fast alle; wenn Christian nicht bald kommt und Nachschub bringt, dann kann sie nur den Laden zumachen! na, an den Sylvesterabend will sie denken! –
+    </p>
+    <p xml:id="eco_de_0000155_560">
+     Jetzt! Ein Stein fällt ihr vom Herzen, – »Krischan, büst du da?« Ja, da ist er, und draußen ist Klas mit sechs Kufen voll Karpfen. Gott sei Dank! Sie winkt ihm mit den Augen zu; er hat auch schon die Schürze um und springt umher in seinen großen Wasserstiefeln und vertröstet die Wartenden und fischt aus den Kübeln und schlägt tot und wägt und wickelt ein; das geht ihm anders von der Hand als ihr. Aber sie wundert sich, so viel ihr das Gewühl rundum Zeit läßt, daß er sich so wenig über das gute Geschäft zu freuen scheint. »Was hat er denn nu wieder in'n Kieker?« denkt die Frau, und plötzlich steigt es ihr in den Hals, und sie sagt zu ihm hinüber: »Hast du die Lüttje nich mitgebracht!« Er sieht aber ganz abwesend aus, er scheint nicht gehört zu haben. Nein, denkt sie, die Kleine ist es nicht, er hat was andres im Kopf. Aber wo bleibt denn das Kind? »Ida wollt dir entgegen gehen nachm Schuppen,« er steht zufällig eben neben ihr, hat sie aber wohl gar nicht gesehen, denn er fährt zusammen und fragt: »nachm Schuppen? was soll denn das heißen?«
+    </p>
+    <p xml:id="eco_de_0000155_570">
+     Hat der Mann getrunken? Die Kleine läuft ihm ja sonst überall nach. »Na, sie wird wohl bald kommen, Krischan,« sagt sie beruhigend, denn sie sieht, daß er jetzt immer nach der Tür kuckt. Da nun ein neuer Kübel hereingebracht werden soll, benutzt er die Gelegenheit, sich ein bißchen draußen umzusehen.
+    </p>
+    <p xml:id="eco_de_0000155_580">
+     »Gun Abend, Wobbe,« sagt eine Nachbarin und drängt sich an ihn heran, »nehmen Sie man Ihr Ida in acht, ich wollt es drinnen nich sagen wegen Ihre Frau, aber es is eben wieder eine ertrunken.«
+    </p>
+    <p xml:id="eco_de_0000155_590">
+     »Ertrunken? Wer? Wann?« Wobbe greift sich mit der nassen Hand nach dem Kopf.
+    </p>
+    <p xml:id="eco_de_0000155_600">
+     »Auf die Alster, ne lüttje Deern,« flüstert die Frau, »ich hör man, daß Ihre Kleine noch nich zu Haus is.« –
+    </p>
+    <p xml:id="eco_de_0000155_610">
+     »Krieg ich bald, Herr Wobbe?« ruft ein Dienstmädchen, das ihm auf die Straße gefolgt ist und zupft ihn am Ärmel. »Min Olsch ward dull, wenn ick nich wedder kam, und ick hew all so'n kolle Fäut.«
+    </p>
+    <p xml:id="eco_de_0000155_620">
+     Von der andern Seite hält ihm Trina einen großen zappelnden Fisch vor die Nase: »Herr, de Snieder seggt, dat is keen Karpen, dat is'n Plötzen! kann dat nu woll angahn?«
+    </p>
+    <p xml:id="eco_de_0000155_630">
+     Dem Wobbe stehen die Schweißtropfen auf der Stirn, wie er wieder zurückkehrt. Die dunkelgeringten Augen seiner kränklichen Frau bohren sich in sein Gesicht: Ida?
+    </p>
+    <p xml:id="eco_de_0000155_640">
+     »Sie wird bei Swartaus sein,« wirft er so hin.
+    </p>
+    <p xml:id="eco_de_0000155_650">
+     Die Frau nickt: »Ja, dat wär möglich, da ward hüt de Dannenbom plünnert.«
+    </p>
+    <p xml:id="eco_de_0000155_660">
+     Und immer mehr Kunden drängen sich herein, und immer eifriger plaudert der Mann: »Ja, mein werter Herr Nachbar, gewiß sünd sie frisch; sehen Sie woll? ganz springlabendig! Nehmen Sie lieber große oder kleine, Madam? Große, ganz recht, sonst hat man soviel Swänze. Und Sie, Fräulein? lieber drei kleine? Sie haben den richtigen Gustus, die kleinen smecken feiner! Dree Pund, oll Fründ? kamt Se damit ut? Drei Pund auf'n Prick! Ja, ich hab das all so in'n Griff, wissen Sie, meine zwei Hände sind so gut als 'n Wagschale! Süh so, drei schöne Mittelstücken aus jeden! Und nu da 'n büschen Essig über, denn sollen Sie mal sehn, wie die blau werden! – Geht hild her? freut uns, is Geschäft! soll so sein! Uns wird's so leicht nicht zu –« er bricht ab und läßt einen Augenblick die Hände ruhen, es ist eben ein kleines Mädchen in die Tür gekommen. – Er meint, die Frau habe ihn gerufen, läßt alles liegen, geht zu ihr hin und flüstert mit beklemmtem Atem: »Wat seggst du?« Die Frau starrt ihn an, ohne zu antworten. Es wird ihr plötzlich zuviel, das Gedränge und Gerede und das Licht und selbst ihr Mann, der mit den aufgekrempten Ärmeln und den beschmierten Händen dasteht und spricht wie im Fieber. Sie muß hinüber zu Schwartaus. Aus dem vollen Laden, wo sie so nötig ist. Sie sagt im Hinausgehen: »Ick kam gliek wedder,« aber er hört nicht, er arbeitet wie eine Maschine. Wie sie die Treppen hinaufschleicht, muß sie weinen über ihren Mann. So ist er doch sonst nicht. Ein kleiner rötlicher Strahl von der Straßenlaterne draußen fällt über die Stube, wo der Schrank steht, und plötzlich springt sie zurück und schreit laut! Das Kind liegt ja da in seinem Bett, da vor ihr, aber weiß und still, wie ein totes! »Kind, büst du all dar?« sie geht zitternd auf das Bett zu, aber es antwortet nichts, und sie langt mit unschlüssigen Fingern nach dem weißen Gesicht. Dann tut sie einen langen Atemzug – es ist ja nur Idas zusammengerolltes Nachtjäckchen! Wie sollte denn das Kind auch so still hier heraufgekommen sein? Aber sie muß niedersitzen, denn sie bebt über und über. »Wenn dat man nix to bedüden hett,« murmelt sie und hört zusammenfahrend die Uhr halb neun schlagen. Sie reißt Hut und Mantel aus dem Schrank, ach, das ist ja ihr Sommerhut! na, das ist einerlei heut abend, wenn das Kind nur bei Schwartaus ist. –
+    </p>
+    <p xml:id="eco_de_0000155_670">
+     Das Geschäft geht fort, und nun ist der Mann allein, denn auf Trinas Hilfe ist kaum zu rechnen. Es ist, um sich zu zerreißen. Er sagt auch nur noch das Notdürftigste, und um ihn surrt es und summt es: »Ja, was ich Ihnen sag, allens weggeschwommen, und allens mit Netze und Stangen und Eimers dahinterher! n' Hallo war das, nicht zu glauben! und unter das Eis kriegt man sie ja nicht wieder! Einige sagen zwar, das war'n man all so'n Halbtote, die kommen doch nicht weit, abern großen Schaden ist es doch für Bornemann. – Herr Wobbe, is Ihnen nicht gut? Soll ich Ihnen 'n kleinen Schnaps holen? un watt ick seggen wull, 'n lüttje Deern soll ja dabei ertrunken sein, sagen sie, die erste, die da was von gemerkt hat.«
+    </p>
+    <p xml:id="eco_de_0000155_680">
+     Und nun ein allgemeiner Schrei: »Herrjes, Herr Wobbe!«
+    </p>
+    <p xml:id="eco_de_0000155_690">
+     Der Fischhändler hat sich den Goldfischhafen von der Tonbank über den Leib gerissen, an dem er sich im Umsinken hatte halten wollen. Zwei Nachbarn sind ihm beigesprungen, und nun sitzt er mit verglasten Augen auf dem Haublock, und neben ihm steht Trina und trocknet ihm mit seiner Schürze das Gesicht ab, das von Wasser trieft und auch von Blut, denn die Glassplitter haben ihm die Backe zerschnitten und schreit und heult fortwährend: »Uns' Ida is noch nich to Hus, wenn dat man nich uns' Ida is!«
+    </p>
+    <p xml:id="eco_de_0000155_700">
+     Da vor der Tür Wagengeroll, und die Tür wird langsam aufgemacht mit der ernsthaften Frage: »Wohnt hier der Amtsfischer Wobbe?«
+    </p>
+    <p xml:id="eco_de_0000155_710">
+     »Da bringen sie sie all,« murmeln die Leute und drängen sich zusammen, um Platz zu machen.
+    </p>
+    <p xml:id="eco_de_0000155_720">
+     Ein Mann trägt etwas herein, das in einen großen dunkeln Schal gewickelt ist. Wobbe springt mit gerungenen Händen von seinem Sitz auf: »Min Kind!« da tut sich der Schal etwas auseinander, und eine kleine weiße Nasenspitze wird sichtbar, und eine schwache Stimme sagt: »Ich bin 'n büschen ins Wasser gefallen, Papa, sei man nicht böse!«
+    </p>
+    <p xml:id="eco_de_0000155_730">
+     So schwach die Stimme war, Frau Wobbe muß sie auf der Straße gehört haben, denn da ist sie, Mantel und Hut hinter sich herschleifend, stöhnend und lachend: »Kind, Kind, wat makst du mi for Kummer!« Wobbe aber steht scheu von weitem, als sei es noch nicht Wahrheit, als dürfe er die Gerettete nicht anrühren.
+    </p>
+    <p xml:id="eco_de_0000155_740">
+     »Sei man nicht böse, Papa,« sagt die Stimme wieder, »ich konnt ja doch nicht leiden, daß Bornemann all seine Karpfen wegschwimmen, und da bin ich auf dem alten Eis 'n büschen ausgeglitscht.«
+    </p>
+    <p xml:id="eco_de_0000155_750">
+     Die Leute stehen und wischen sich die Augen; sie hätten nicht geglaubt, daß ein Mann so weinen kann, und diesem rotbäckigen, fidelen Wobbe hätten sie es gewiß nicht zugetraut. Er schluchzt wie ein kleines Kind und streckt immer die Arme nach seiner Tochter aus und geht doch nicht näher.
+    </p>
+    <p xml:id="eco_de_0000155_760">
+     Die Frau ist lange nicht so außer sich. Die schreit nur nach Trina und ›Teekessel aufsetzen‹! und ›Warmflasche füllen‹ und kuckt das Kind nicht mal an; ja, der eine nimmt es schwer, der andre weniger.
+    </p>
+    <p xml:id="eco_de_0000155_770">
+     »Wie das wohl bloß zugegangen is?« fragt jemand Lührs, der die Kleine hergebracht hat. Wobbe wendet sich um und kuckt auf den Boden. Der andre zuckt die Achseln: »Es war ja woll alles morsch in dem alten Fischkasten, es scheint ja woll, daß die Ratten alles durchgenagt haben, die Kleine hat es zuerst bemerkt.«
+    </p>
+    <p xml:id="eco_de_0000155_780">
+     Ida steckt den Kopf aus dem Schal: »Ich geh da rum und such Papa, und da is unser Schuppen zugeschlossen, aber Bornemanns nebenan is offen, und der große Kasten auch, und wie ich so 'reinkuck, merk ich miteins, daß all die Karpfen so 'runtergehen und nach einer Stelle hin, und daß sie immer weniger werden, und da hab ich um Hilfe geschrien und 'n Ketscher von der Wand genommen. Und Lührs könnt mich gern 'runtersetzen, wenn ich man nich Frau Lührs ihr Kleid an hätt, was mir natürlich 'n halbe Meile zu lang is.«
+    </p>
+    <p xml:id="eco_de_0000155_790">
+     »Und all die Karpfen sind weg?« fragt jemand.
+    </p>
+    <p xml:id="eco_de_0000155_800">
+     Lührs schüttelt bedächtig den Kopf: »Ich denk, wir kriegen wohl das meiste wieder, wenn das Eis auf is, – so was fällt da woll mal bei vor, und unser Geschäft kann da ja Gottlob auf stehen.«
+    </p>
+    <p xml:id="eco_de_0000155_810">
+     Der Fischhändler hat endlich sein Kind in die Arme genommen und trägt es in die gewärmten Kissen. Aber er zittert noch immer, wie er nun vor dem Bette sitzt und ihre Händchen hält.
+    </p>
+    <p xml:id="eco_de_0000155_820">
+     Sein ganzes Gesicht ist eine Selbstanklage, ein heiliges Versprechen. Auch er wird diesen Sylvesterabend nicht vergessen.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

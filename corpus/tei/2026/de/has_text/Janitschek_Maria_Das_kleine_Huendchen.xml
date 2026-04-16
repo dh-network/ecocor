@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000090" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000162" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -86,7 +86,7 @@
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000090_20">
+   <p xml:id="eco_de_0000162_20">
     Das kleine Hündchen
    </p>
   </front>
@@ -95,145 +95,145 @@
     <head>
      1.
     </head>
-    <p xml:id="eco_de_000090_30">
+    <p xml:id="eco_de_0000162_30">
      »Wunderlich, wunderlich.«
     </p>
-    <p xml:id="eco_de_000090_40">
+    <p xml:id="eco_de_0000162_40">
      »Das finde ich gar nicht. 's ist eben eine fixe Idee, an der unser Bekannter leidet.«
     </p>
-    <p xml:id="eco_de_000090_50">
+    <p xml:id="eco_de_0000162_50">
      »Fixe Idee? Da irrst du. Der Mann wäre viel zu klug, um sich das nicht selbst zu sagen. Es muß mehr als bloße Sinnestäuschung sein.«
     </p>
-    <p xml:id="eco_de_000090_60">
+    <p xml:id="eco_de_0000162_60">
      Dieses Gespräch wurde im Kaffeehaus einer kleinen süddeutschen Stadt geführt. Es waren drei junge Leute, die hier öfters zusammenkamen, um ihre Meinungen und Ansichten auszutauschen. Während sie sich unterhielten, war ein Vierter eingetreten, ging jetzt auf sie zu und ließ sich bei ihnen nieder.
     </p>
-    <p xml:id="eco_de_000090_70">
+    <p xml:id="eco_de_0000162_70">
      »Wir haben soeben von Ihnen gesprochen« bemerkte der eine der Freunde, »Bolz meint ganz richtig, Sie müßten mit irgend einem Bekannten zusammenziehen; das Alleinsein tauge nicht für Sie.«
     </p>
-    <p xml:id="eco_de_000090_80">
+    <p xml:id="eco_de_0000162_80">
      »Wirklich Breitner, daß sollten Sie aufstecken. Es ist die Ursache aller Ihrer –« er stockte und setzte hinzu: »all Ihrer Unbehaglichkeit. Wenn ich mir vorstelle, daß ich so ganz mutterseelenallein in einer eigenen Wohnung hauste, die während meiner Abwesenheit von einer alten Aufwärterin in Ordnung gebracht wird, daß ich Tag und Nacht mir allein überlassen wäre, Donnerwetter, ich glaub ich würde selbst schwermütig.«
     </p>
-    <p xml:id="eco_de_000090_90">
+    <p xml:id="eco_de_0000162_90">
      Uber Bertram Breitners Gesicht flog ein Lächeln.
     </p>
-    <p xml:id="eco_de_000090_100">
+    <p xml:id="eco_de_0000162_100">
      »Lieber Bolz, dasselbe was Sie mir sagen, habe ich mir unzähligemale selbst gesagt. Ich habe auch den Versuch gemacht, mit Bekannten zusammen zu hausen. Aber –« er lehnte sich mit merkbarem Unmut zurück, »weshalb reden wir wieder von mir? Sprechen wir doch von anderen Dingen. Haben Sie Pichler nicht wieder gesehen? Er sagte mir jüngst, er würde Ende dieser Woche nach London reisen. Er wolle sich dort an einer großen überseeischen Unternehmung beteiligen. Kellner, ein Glas Wermut und eine Manilla.«
     </p>
-    <p xml:id="eco_de_000090_110">
+    <p xml:id="eco_de_0000162_110">
      Die Freunde schwiegen einen Augenblick; dann sagte der eine:
     </p>
-    <p xml:id="eco_de_000090_120">
+    <p xml:id="eco_de_0000162_120">
      »Wo werden Sie den Rest des heutigen Tages verbringen? Wollen Sie sich uns nicht anschließen? Wir gehen nach dem Kegelklub.«
     </p>
-    <p xml:id="eco_de_000090_130">
+    <p xml:id="eco_de_0000162_130">
      Breitner trank seinen Wermut in einem durstigen Zuge aus. »Danke für die freundliche Einladung, habe aber schon über den heutigen Abend verfügt.«
     </p>
-    <p xml:id="eco_de_000090_140">
+    <p xml:id="eco_de_0000162_140">
      Man plauderte noch ein wenig, dann erhoben sich die drei Freunde. Bei ihrem Aufbruch stieß einer von ihnen an Breitners Stuhl an. Breitner warf einen bestürzten Blick neben sich und verfärbte sich ein wenig. Er blieb noch eine Weile, nachdem die Andern sich entfernt hatten. Er versuchte eine Zeitung zu lesen, legte sie aber bald wieder fort. Nachdem er noch zwei Gläschen Wermut geleert hatte, erhob auch er sich und ging.
     </p>
-    <p xml:id="eco_de_000090_150">
+    <p xml:id="eco_de_0000162_150">
      Auf der Straße, als ihn niemand beobachtete, trat ein verängstigter Zug in sein Gesicht. Dann und wann blieb er stehen und sah an seine rechte Seite, als ob er da etwas oder jemanden erblickte.
     </p>
-    <p xml:id="eco_de_000090_160">
+    <p xml:id="eco_de_0000162_160">
      Er ging nach einer entlegenen Straße, trat in ein kleines einstöckiges Haus und klingelte an einer Thür zur ebenen Erde. Eine alte Frau mit ehrwürdigen Zügen öffnete und schüttelte ihm herzlich die Hand.
     </p>
-    <p xml:id="eco_de_000090_170">
+    <p xml:id="eco_de_0000162_170">
      »Herr Breitner! Kommen Sie nur herein. Klara wird gleich dasein.« Sie traten in ein helles, freundliches Zimmer mit weißen gehäkelten Schutzdeckchen auf den Möbeln und vielen Blumen am Fensterbord.
     </p>
-    <p xml:id="eco_de_000090_180">
+    <p xml:id="eco_de_0000162_180">
      Die alte Frau zog Bertram neben sich auf das Sofa.
     </p>
-    <p xml:id="eco_de_000090_190">
+    <p xml:id="eco_de_0000162_190">
      »Mir ists ganz recht, daß ich Sie einmal allein sehe. Ich möchte eine Frage an Sie richten. Sie sind ein Jahr lang in unserer Stadt, seit drei Monaten besuchen Sie uns. Sie nehmen Interesse an meiner Tochter, ja, Sie wünschen ihr Herz zu gewinnen, um sie zu Ihrer Gattin zu machen Verzeihen Sie es einer Mutter, wenn sie neugierig ist, über den Mann Näheres zu erfahren, dem sie ihr Kind anvertrauen soll.«
     </p>
-    <p xml:id="eco_de_000090_200">
+    <p xml:id="eco_de_0000162_200">
      Bertrams Wangen waren noch blasser als sonst geworden.
     </p>
-    <p xml:id="eco_de_000090_210">
+    <p xml:id="eco_de_0000162_210">
      »Fragen Sie, gnädige Frau, ich begreife Ihren Wunsch vollkommen.« Er lehnte sich in die Sofakissen zurück.
     </p>
-    <p xml:id="eco_de_000090_220">
+    <p xml:id="eco_de_0000162_220">
      »Aber meine Fragelust scheint Ihnen Weh zu bereiten, ich sehs an dem Ausdruck Ihres Gesichts.«
     </p>
-    <p xml:id="eco_de_000090_230">
+    <p xml:id="eco_de_0000162_230">
      Er machte eine ungeduldige Handbewegung. »Lassen Sie das, reden Sie nur.«
     </p>
-    <p xml:id="eco_de_000090_240">
+    <p xml:id="eco_de_0000162_240">
      »Also –« die alte Dame schraubte die Lampe etwas höher – »weshalb sind Sie so seltsam? Sie sagen, daß Sie wohlhabend seien, und haben mich sogar über die Höhe Ihres Vermögens unterrichtet. Sie begannen zu studieren, brachen ab. Sie wollten Landwirtschaft betreiben, gingen aber nicht über den Vorsatz hinaus. Dann trafen Sie Maßregeln, eine Reise um die Welt zu machen; aber gleich nach den ersten Vorbereitungen gaben Sie auch diesen Plan auf. Sie haben mir das alles selbst erzählt. Ich weiß nicht, wenn ein anderer Mann so handelte, ich würde einfach denken, er sei eben ein wandelbarer Mensch ohne festen Charakter. Aber Sie machen so gar nicht den Eindruck der Flatterhaftigkeit. Erklären Sie sich mir ein wenig, erzählen Sie. Als Sie eines Tages eintraten, um auf eine Anzeige hin, die ich in der Zeitung erließ, einige Bestellungen zu machen, dachte ich im ersten Augenblick, nicht unsere Nähkünste, sondern die Anmut meiner Tochter habe Sie hierhergezogen. Aber bald wurde ich meinen Irrtum gewahr. Sie hatten mein Kind noch gar nicht gesehen. Als Sie Klara erblickten, ging ein Strahl der Freude über Ihr Gesicht. Sie, der reiche Mann, behandelten die beiden armen Frauen mit einer Ehrerbietung, die uns bewegte. Sie wußten damals ja noch nicht, daß wir Verhältnissen entstammen, die uns allerdings berechtigten, dieses Entgegenkommen von aller Welt fordern zu dürfen. – Genug, wir gewannen Sie herzlich lieb, und ich hatte eine Empfindung des Glückes, als Sie mir eines Tages anvertrauten, daß Sie mein Kind lieben. Verscheuchen Sie nun diesen Schatten eines mir selbst unklaren Argwohns, erklären Sie mir Ihr Wesen und seien Sie der aufrichtigsten Teilnahme gewiß.«
     </p>
-    <p xml:id="eco_de_000090_250">
+    <p xml:id="eco_de_0000162_250">
      Sie nahm liebevoll seine Hand in die ihre. Er machte eine Bewegung mit den Lippen als ob er lächeln wollte, erhob sich, ging etlichemale auf und nieder und kehrte wieder auf seinen vorigen Platz an die Seite der alten Dame zurück.
     </p>
-    <p xml:id="eco_de_000090_260">
+    <p xml:id="eco_de_0000162_260">
      »Gnädige Frau, was soll ich Ihnen sagen? Sie fordern einfach, daß ich mir selbst mein Todesurteil spreche. Ich habe lange diesen Augenblick erwartet, aber gewünscht, ihn noch hinausschieben zu können. Natürlich – ein Unglücklicher geizt ja mit den Stunden seines Glücks. Gnädige Frau!« er erhob sich sehr blaß und stellte sich vor die alte Dame hin, »sehen Sie mal, bitte, hierher an meine rechte Seite. Was erblicken Sie da neben mir? Nein, nein, nicht so hoch, nie derer!« er wies in der Höhe seines Kniees hin.
     </p>
-    <p xml:id="eco_de_000090_270">
+    <p xml:id="eco_de_0000162_270">
      Frau Scheelhausen konnte sich eines leisen Schreckens nicht erwehren.
     </p>
-    <p xml:id="eco_de_000090_280">
+    <p xml:id="eco_de_0000162_280">
      »Aber nichts, nichts sehe ich, bester Breitner« sagte sie betreten.
     </p>
-    <p xml:id="eco_de_000090_290">
+    <p xml:id="eco_de_0000162_290">
      Er lächelte bitter. »Auch Sie nicht. Nun denn. Sehen Sie, hier, fast an meinem Bein angeschmiegt, steht ein kleines schwarzes Hündchen. Sehen Sie es nicht? Es ist von der Größe eines mittleren Rattlers, dunkelhaarig, mit stumpfen schwarzen Augen, die sich von Zeit zu Zeit fragend oder sinnend, ich weiß nicht, auf mich richten. Sehen Sie es wirklich nicht, Sie auch nicht?«
     </p>
-    <p xml:id="eco_de_000090_300">
+    <p xml:id="eco_de_0000162_300">
      Es lag etwas Verzweifeltes im Tonfall seiner Stimme.
     </p>
-    <p xml:id="eco_de_000090_310">
+    <p xml:id="eco_de_0000162_310">
      Die alte Frau sah gespannt auf die angegebene Stelle.
     </p>
-    <p xml:id="eco_de_000090_320">
+    <p xml:id="eco_de_0000162_320">
      »Nein Breitner, bei der Liebe Gottes, ich kann nicht das geringste entdecken.« Dann schlug sie die Hände vor das Gesicht und begann bitterlich zu weinen.
     </p>
-    <p xml:id="eco_de_000090_330">
+    <p xml:id="eco_de_0000162_330">
      »Ein Wahnsinniger, nicht wahr?« sagte er höhnisch. »Und einem Wahnsinnigen giebt eine Mutter ihr Kind nicht, natürlich nicht. Guten Abend, gnädige Frau.«
     </p>
-    <p xml:id="eco_de_000090_340">
+    <p xml:id="eco_de_0000162_340">
      Er trat zur Thür. Sie ergriff ihn an der Hand und zog ihn zurück. Ihre guten, von Thränen gebadeten Augen verschwiegen ihr Entsetzen und hatten nur einen Blick des innigsten Mitgefühls für ihn.
     </p>
-    <p xml:id="eco_de_000090_350">
+    <p xml:id="eco_de_0000162_350">
      »Nein Breitner, so dürfen Sie nicht von mir gehen, so nicht. Erzählen Sie mir von der Sache. Wann hatten Sie jene – Hallucination zum erstenmale?«
     </p>
-    <p xml:id="eco_de_000090_360">
+    <p xml:id="eco_de_0000162_360">
      »Es ist keine Hallucination« sagte er fest, »und ich will nicht, daß Sie es als solche empfinden. Thun Sie es, dann müssen Sie mich ja als Irrsinnigen betrachten, und der bin ich nicht, ich schwöre es Ihnen.«
     </p>
-    <p xml:id="eco_de_000090_370">
+    <p xml:id="eco_de_0000162_370">
      Er fiel kraftlos auf einen Sessel.
     </p>
-    <p xml:id="eco_de_000090_380">
+    <p xml:id="eco_de_0000162_380">
      Sie ließ sich in seiner Nähe nieder und strich beschwichtigend über seine Hand.
     </p>
-    <p xml:id="eco_de_000090_390">
+    <p xml:id="eco_de_0000162_390">
      »Ich halte Sie gewiß für keinen Irrsinnigen, Breitner.«
     </p>
-    <p xml:id="eco_de_000090_400">
+    <p xml:id="eco_de_0000162_400">
      »Aber ich verzichte auch auf Ihr Mitleid.« Er entzog widerwillig seine Hand ihrer Liebkosung. »Ich will, daß Sie trocken sagen: ›Nun ja, vielleicht giebts doch in der Welt der Möglichkeiten einen Fall, daß dieser Hund thatsächlich neben Ihnen herläuft, aber von niemand Anderem als von Ihnen erblickt wird.‹« Er strich sich das braune Haar aus der Stirn. »So will ich es; für andere Empfindungen mir gegenüber danke ich. Da bleibe ich lieber, was ich bisher war: ein einsamer, fürsichgehender Mensch.«
     </p>
-    <p xml:id="eco_de_000090_410">
+    <p xml:id="eco_de_0000162_410">
      »Sagen Sie mir nur eins, lieber Breitner.« Die alte Frau wendete in anscheinender Gleichgültigkeit ihre Blicke von ihm ab und richtete sie auf den grünen Schirm der Lampe. »Wann sahen Sie den Hund zum erstenmale?«
     </p>
-    <p xml:id="eco_de_000090_420">
+    <p xml:id="eco_de_0000162_420">
      Er sann einen Augenblick nach.
     </p>
-    <p xml:id="eco_de_000090_430">
+    <p xml:id="eco_de_0000162_430">
      »Wann? Vor zwanzig – nein, einundzwanzig Jahre ists her. Meine Mutter weilte in einer Sommerfrische mit mir. Es war kurz nach dem Tode meines Vaters. Eines Tages, ich zählte fünf Jahre, entlief ich in übermütiger Tollheit meiner Mutter, die auf einem Spaziergang mit mir begriffen war, rannte ans Ufer des reißenden Mühlbachs, strauchelte und stürzte ins Wasser. Ich ging sofort unter. Meine Mutter, ohne sich zu besinnen, sprang mir nach und suchte mich zu retten. Als ich die Besinnung wieder erlangt hatte, waren mehrere Wochen seit jenem Ereignis vergangen. Meine Mutter war bei ihrem Versuch, mich zu retten, ertrunken.«
     </p>
-    <p xml:id="eco_de_000090_440">
+    <p xml:id="eco_de_0000162_440">
      Er hielt einen Augenblick inne und fuhr dann fort: »Mein erster Augenaufschlag damals ließ mich ein schwarzes Hündchen erblicken, das am Fußende meines Bettes saß und mich ansah. Man glaubte, ich phantasiere. Später nahm mich eine ältere Verwandte meiner Mutter zu sich.
     </p>
-    <p xml:id="eco_de_000090_450">
+    <p xml:id="eco_de_0000162_450">
      Ich lernte das Schweigen, um nicht von allen als Narr angesehen zu werden. Ich lernte meine Augen Lügner nennen, um nicht mit dem, was sie erblickten, rechnen zu müssen. Ich lernte meinen gesunden Verstand unterdrücken, um nicht den Glauben an den gesunden Verstand Anderer opfern zu müssen. Ich wollte mich bemühen, mir selbst als wahnsinnig zu erscheinen, aber mein Gehirn empörte sich dagegen. Nein, ich fühlte es ganz tief und deutlich: ich war kein Irrsinniger. Je mehr ich heranwuchs, je inniger ich mich mit philosophischen und anderen Studien beschäftigte, um so klarer erkannte ich, daß ein Mensch, der den schwierigsten Gedankenwegen Anderer mit Leichtigkeit folgte, die spitzfindigsten Schlußfolgerungen der Logik begriff, unmöglich ein Verrückter sein konnte.
     </p>
-    <p xml:id="eco_de_000090_460">
+    <p xml:id="eco_de_0000162_460">
      Ich beherrschte mich mit eiserner Anstrengung, ich verschwieg das Dasein meines stillen Gefährten Bekannten und Freunden; aber dann und wann konnte ich einen Blick nach der Stelle hin, wo er sich beständig befand, nicht unterdrücken, eine Bewegung nicht vermeiden, die man vielleicht macht, um einen belästigenden Gegenstand von sich zu entfernen. Der Blick, die Bewegung wurden meine Verräter. Ich erweckte zuerst Gelächter, dann Schrecken, dann zum Schlusse das Quälendste: Mitleid mit dem sonst harmlosen, armen Narren. Ich habe Medizinen getrunken, mit nüchternen Materialisten Bruderschaft geschlossen, ich habe zur Religion meine Zuflucht genommen, durch mannichfaltige tolle Streiche meiner Natur, meinen Sinnen eine andere Richtung geben wollen.
     </p>
-    <p xml:id="eco_de_000090_470">
+    <p xml:id="eco_de_0000162_470">
      Ich habe ein Kind zu mir genommen. Eines Tages lief der Bube voll Grauen zu seiner im tiefsten Elend lebenden Pflegemutter zurück. Es wäre immer etwas neben mir, nach dem ich griffe, nach dem ich schielte. Ich habe Freunden Gutes gethan, um sie mir zu eigen zu machen. Sie verzichteten auf meine Wohlthaten und verließen mich mit Frösteln. Ich habe an die Herzen stolzer, vorurteilsloser Frauen gepocht. Aber als sie mich näher kennen lernten, wandten sie sich traurig von mir ab.
     </p>
-    <p xml:id="eco_de_000090_480">
+    <p xml:id="eco_de_0000162_480">
      Eines Tages kam ich in diese kleine Stadt, wo mich niemand kannte. Ich mietete mir eine Wohnung und wollte aufs neue zu leben, Freunde zu gewinnen versuchen. Ich lernte Ihre Tochter kennen. Ich bin kein fliegender Holländer, der erlöst sein will. Ich wünsche eine kluge Frau, die nicht über das ihr Ungewohnte erschrickt und die Flucht ergreift; die nicht mitleidig meine Stirne streichelt, sondern tapfer dem stillen Gefährten ins Auge zu sehen wagt, nicht ängstlich schweigt, sondern über die Thatsache mit mir spricht. Nun habe ich Ihnen gebeichtet. Möge Ihr Kind mir die Absolution nicht verweigern für eine Schuld, die ein wunderliches Geheimnis des Himmels ist.«
     </p>
-    <p xml:id="eco_de_000090_490">
+    <p xml:id="eco_de_0000162_490">
      Er stürzte hinaus. Die alte Frau faltete die Hände.
     </p>
    </div>
@@ -241,55 +241,55 @@
     <head>
      2.
     </head>
-    <p xml:id="eco_de_000090_500">
+    <p xml:id="eco_de_0000162_500">
      Einige Tage vergingen. Einmal gegen Abend klingelte er wieder an.
     </p>
-    <p xml:id="eco_de_000090_510">
+    <p xml:id="eco_de_0000162_510">
      Klara kam ihm entgegengeeilt und streckte ihm beide Hände hin.
     </p>
-    <p xml:id="eco_de_000090_520">
+    <p xml:id="eco_de_0000162_520">
      »Da sind Sie ja! Endlich! Seien Sie herzlich gegrüßt! Wie gehts Ihnen? Womit verbringen Sie Ihre Tage? Wir haben uns ja lange nicht gesehen.«
     </p>
-    <p xml:id="eco_de_000090_530">
+    <p xml:id="eco_de_0000162_530">
      Sie zog ihn neben sich auf einen Sitz nieder. Er sah sie betroffen an. Ihr schönes feines Gesicht brannte, ihre Lippen umspielte ein Lächeln, das ihm fremd an ihr war. Er beantwortete ihre Fragen; sie ließ ihn jedoch kaum ausreden. In hastiger, übersprudelnder Weise erzählte sie ihm Dinge, die von keinerlei Interesse für ihn waren. Dabei warf sie von Zeit zu Zeit einen flüchtigen, jagenden Blick auf ihn. Er wurde immer verwunderter. Was mochte sie haben, sie, deren vornehme Ruhe, deren stolze Haltung bei all ihrer versteckten Wärme ihn so angezogen hatte.
     </p>
-    <p xml:id="eco_de_000090_540">
+    <p xml:id="eco_de_0000162_540">
      Er hatte ein tiefes, wunderbares Wort von ihr erwartet, einen stummen Händedruck nach der dunkeln Geschichte, die ihr die Mutter sicher mitgetheilt hatte. Er hatte erwartet, daß sie ihm sagen würde: »Ich will dir helfen, das Rätsel zu tragen, ich will mit dir stark sein und deine Augen mit meinen sonnigen Blicken stählen, daß sie lachen lernen, deine armen Augen«. Statt dessen suchte sie durch hüpfende Gedanken, durch zerstreuende Gespräche ihn über sich selbst hinwegzutäuschen. Andere Frauen waren bei seiner Geschichte ängstlich geworden und hatten sich von ihm abgewendet. Manche hatten einen Irrsinnigen in ihm vermutet. Sie that keins von beiden. Sie bemühte sich anscheinend, in seinem Verhängnis eine Schrulle von ihm zu erblicken, über die man ihn hinausbringen mußte. Um diesen Zweck zu erreichen, spielte sie die plaudersüchtige Schöne, die an den nichtigsten Gegenständen Interesse zu haben schien. O welch schlecht gewähltes Mittel! Welch grausame Enttäuschung für ihn! Er nahm kühl Abschied von ihr. Als er auf der dunklen Straße seiner Wohnung entgegenschritt, dachte er: es ergeht mir wie dem Tod. Die Einen lachen und witzeln über ihn, um sich über ihn hinwegzutäuschen, die Andern verbergen sich ängstlich vor ihm; aber Wenige wagen es, ihm tapfer Aug in Auge zu blicken, seiner ausgestreckten Rechten zu begegnen.
     </p>
-    <p xml:id="eco_de_000090_550">
+    <p xml:id="eco_de_0000162_550">
      Bertram machte Licht, warf sich auf das Sopha und sah an seine rechte Seite. Der Hund blickte mit stumpfen Augen zu ihm auf.
     </p>
-    <p xml:id="eco_de_000090_560">
+    <p xml:id="eco_de_0000162_560">
      Was willst du eigentlich, unseliges Geschöpf? Was soll dein stummes Dahinschleichen neben mir? Oder wärst du ein bloßes Phantasiegebilde? Nein, nein. Da stehst du neben mir; ich könnte die Haare deines Felles zählen, ich sehe den eingeklemmten Schwanz, die stierenden, stumpfen, auf mich gerichteten Augen – ewig und immer – bei Tag, bei Nacht. Wenn jetzt ein liebes, treues Weib neben mir säße! Siehst du ihn? würde ich sagen. Sie würde ja oder nein antworten. Aber die bleierne Bangnis wäre unterbrochen. Ich würde vor sie hinknien, meinen Kopf in ihren Schooß legen und sie bitten: O fürchte dich nicht vor mir! Und dann würde ich ihn ihr beschreiben, wir redeten über ihn, und damit wäre der Bann des drückenden Geheimnisses gebrochen. Weshalb erschrickt man nur vor Dingen für die der Verstand keine Erklärung findet? Liegt nicht eine große Feigheit darin? Aber vielleicht würde Klara, nachdem sie die erste Verblüffung überwunden hatte, ihre natürliche, schlichte Einfachheit wiederfinden. Er ließ einige Tage vergehen, dann klopfte er aufs Neue bei beiden Damen an. Die Mutter sah ihn forschend und halb traurig an; die Tochter, auf deren etwas erschöpftem Gesicht er die Spuren innerer Qualen wahrzunehmen glaubte, kam ihm wie jüngsthin mit hüpfender Heiterkeit entgegen. Er sah ihr ernst und flehend in die Augen. Sie wandte sich ab.
     </p>
-    <p xml:id="eco_de_000090_570">
+    <p xml:id="eco_de_0000162_570">
      Nach einer in wertlosem Gespräche verbrachten halben Stunde konnte er sich nicht länger beherrschen, er faßte heftig ihre Hände.
     </p>
-    <p xml:id="eco_de_000090_580">
+    <p xml:id="eco_de_0000162_580">
      »Klara, stellen Sie nun die Kindertanzschuhe fort und seien Sie wieder eine Erwachsene.«
     </p>
-    <p xml:id="eco_de_000090_590">
+    <p xml:id="eco_de_0000162_590">
      Bei der hastigen Bewegung, mit der er ihre Hände ergriffen hatte, war ihr ein Ausruf des Schrecks entflohn. Sie fürchtete ihn also doch! Ihr lautes Gebahren sollte nur ihr Grauen vor ihm übertäuben. Also doch!
     </p>
-    <p xml:id="eco_de_000090_600">
+    <p xml:id="eco_de_0000162_600">
      »Klara, behüte Sie Gott!« sagte er mit einer Stimme, die vor Zärtlichkeit und Thränen zitterte, und verließ sie.
     </p>
-    <p xml:id="eco_de_000090_610">
+    <p xml:id="eco_de_0000162_610">
      Draußen war ihm, als töne ihm ein schwaches Rufen nach. Aber er hörte nicht darauf. Den Kopf mit den blassen gequälten Zügen in den Nacken geworfen schritt er weiter.
     </p>
-    <p xml:id="eco_de_000090_620">
+    <p xml:id="eco_de_0000162_620">
      Das war der letzte Versuch gewesen. Nun würde er keinen mehr machen. Weshalb auch sich so heftig gegen die Einsamkeit sträuben? War er denn überhaupt einsam? Er blickte neben sich hin. – Dann begann er eine Opernarie zu pfeifen, bezahlte einige Rechnungen und reiste ab.
     </p>
-    <p xml:id="eco_de_000090_630">
+    <p xml:id="eco_de_0000162_630">
      Man sah ihn auf einem großen Auswandererschiff auf dem Wege nach Australien. Er irrte durch fremde Städte, hörte wunderliche Sprachen um sein Ohr schwirren, sah schwarze, gelbe und braune Menschenantlitze um sich. Aber kein Meer war zu breit, keine Insel zu fern, um den Schatten zu verhindern, ihm Gesellschaft zu leisten. Obwohl Bertram sich dies vorausgesagt hatte, machte es ihn doch unaussprechlich düster und hoffnungslos. Er schloß sich einer Karawane an, die die Wüste durchquerte; auch sein Hund ging mit. Er machte in Gesellschaft eines Abenteurers eine Ballonfahrt viertausend Meter über die Erde mit. Sein Hund fehlte nicht in der kleinen Gondel. Er stieg in die dunkelsten Schachte in Sibiriens Bleibergwerken, der Hund stieg mit.
     </p>
-    <p xml:id="eco_de_000090_640">
+    <p xml:id="eco_de_0000162_640">
      Die Leute hielten ihn für einen Schwerkranken, so elend sah er aus. Menschen, mit denen er auf der Reise bekannt wurde, ermahnten ihn zum Arzt zu gehn und prophezeiten ihm sein baldiges Ende.
     </p>
-    <p xml:id="eco_de_000090_650">
+    <p xml:id="eco_de_0000162_650">
      Er lächelte schmerzlich und beruhigte sie, er hätte seit seinem fünften Jahre nicht besser ausgesehen.
     </p>
-    <p xml:id="eco_de_000090_660">
+    <p xml:id="eco_de_0000162_660">
      Eines Morgens erwachte er in einer seltsamen Stimmung. Eine Sehnsucht nach etwas, das irgendwo in der Welt für ihn in Erfüllung gehen sollte, pochte an sein Herz. Er befand sich zur Zeit im Norden Amerikas. Er benützte die raschesten Verkehrsmittel, um nach Europa zu kommen. Voll Ungeduld durchmaß er die Gallerie des Schnelldampfers, der ihn heimwärts bringen sollte.
     </p>
    </div>
@@ -297,46 +297,46 @@
     <head>
      3.
     </head>
-    <p xml:id="eco_de_000090_670">
+    <p xml:id="eco_de_0000162_670">
      Eines Morgens landete er.
     </p>
-    <p xml:id="eco_de_000090_680">
+    <p xml:id="eco_de_0000162_680">
      Nun war die Feierstimmung vergangen. Ein dumpfer Druck legte sich auf ihn, eine unbestimmte, packende Furcht. Er wußte auf einmal nicht, was er eigentlich hier wollte, und doch war etwas unbewußt Bewußtes in ihm, das ihn getrieben hatte. Er warf sich in einen Eisenbahnzug, der ihn in die Nähe jener Sommerfrische brachte, in der er als Knabe mit seiner Mutter geweilt hatte.
     </p>
-    <p xml:id="eco_de_000090_690">
+    <p xml:id="eco_de_0000162_690">
      Der heftige Wunsch war in ihm entbrannt, noch einmal jene Stätte, jenen reißenden Bach zu sehen, der seiner jungen Mutter so verhängnisvoll geworden war. Er mietete sich in einen kleinen Bauernhof ein. Die Gegend hier hatte sich ziemlich verändert. Der einst breite, tiefe Mühlbach war im Laufe der Zeit ein seichtes Wässerlein geworden, das keine Mühle mehr trieb, sondern zahm zwischen kleinen angebauten Gärten dahinrieselte. Es blieb Bertrams stiller Frage die Antwort schuldig. Das ganze Leben hatte es ja so mit ihm gemacht.
     </p>
-    <p xml:id="eco_de_000090_700">
+    <p xml:id="eco_de_0000162_700">
      Eines Tages erhob er sich früher als sonst von seinem Lager und machte sich zum Ausgehen fertig. Er wollte heute weit weit wandern. Er war in einer merkwürdig verschleierten Stimmung, die dann und wann ein heller Blitz des Bewußtseins erhellte. Dann sagte er sich, wie schön es sein werde, auf breiter, ebener Landstraße dahinzugehn, einer Gegend zu, die ihm nicht besser bekannt war, als wenn er ihre Schilderung in einem alten halbvergessenen Buche gelesen hätte. Er verließ seinen kleinen Hof und begann rüstig auszuschreiten. Er liebte es, so ins Fremde hinein zu wandern, ohne die Namen der Ortschaften zu kennen, durch die er kam.
     </p>
-    <p xml:id="eco_de_000090_710">
+    <p xml:id="eco_de_0000162_710">
      Gemach mäßigte er seine anfangs hastigen Schritte. Die Hitze wurde immer drückender, je mehr sich der Mittag näherte. Die Straße war von weißem Staub bedeckt. Links und rechts dehnten sich weite Strecken Grasland aus. Manchmal lagen bebaute Felder dazwischen und schmale Wege führten in ein oder das andere Dörflein, das abseits lag. Oftmals führte die Straße auch mitten durch Ortschaften. Bertram blickte mit seinen traurigen Augen auf die kleinen Fenster mit den vielen Blumen davor und schritt weiter. Bauern mit hagern, von der Arbeit erhitzten Gesichtern, die Sense über die Schulter gelegt, begegneten ihm. Sie sahen ihm nach, wie er dahinschritt, bleich und verträumt, eine fremdartige Erscheinung.
     </p>
-    <p xml:id="eco_de_000090_720">
+    <p xml:id="eco_de_0000162_720">
      Er mußte den Hut vom Kopf nehmen; große Schweißperlen tropften von seiner Stirn. Seine Lippen waren ganz trocken. Dem Stand der Sonne nach zu schließen mußte es Mittag sein.
     </p>
-    <p xml:id="eco_de_000090_730">
+    <p xml:id="eco_de_0000162_730">
      Er sah sich nach irgend einem Ruhepunkt um. Aber kein Baum, der auch nur den kleinsten Schatten gegeben hätte, war zu erblicken. Eine totenstille bleichende Glut lag über den regungslosen Gräsern der Wiesen. Er ging schweratmend weiter. Da erblickte er ein Feld, dahinter noch eins und noch eins. Äcker folgten. Schweigende, zur Erde gebückte Menschen hantierten darauf. Ein Kinderwagen mit einem schlafenden Knaben stand am Weggraben. Die Mutter grub nicht weit davon Kartoffeln aus. Bertram ging noch ein Stück weiter. Er fühlte die Kleider am Leibe kleben. Die Straße führte jetzt durch eine Ortschaft hindurch.
     </p>
-    <p xml:id="eco_de_000090_740">
+    <p xml:id="eco_de_0000162_740">
      Überall dasselbe drückende Schweigen. Die Häuser standen verlassen da.
     </p>
-    <p xml:id="eco_de_000090_750">
+    <p xml:id="eco_de_0000162_750">
      Es waren wohl ihre Bewohner gewesen, die draußen auf dem Felde arbeiteten. Am ersten besten Brunnen, den er traf, wollte Bertram rasten. Er sah sich um. Die verlassenen stillen Häuschen, die menschenleeren Dorfgassen machten einen seltsamen Eindruck. Es lag eine Heimtücke, etwas Verstecktes in dieser Stille bei strahlendem Sonnenschein.
     </p>
-    <p xml:id="eco_de_000090_760">
+    <p xml:id="eco_de_0000162_760">
      Seine Augen glitten mit leichtem Schauer über die geschlossenen Hausthüren. Da kam etwas auf ihn zu, aus einem Gäßlein, das er gar nicht bemerkt hatte. Er stieß plötzlich einen wilden Schrei aus. Sein Körper schnellte nieder, bäumte sich auf und krümmte sich. An seiner rechten Seite stand der Hund und hatte die Zähne tief in sein Bein gegraben. Mit heißem unartikulirten Geschrei suchte er das Tier von sich loszureißen. Er fühlte es unter seinen wehrenden Händen weichen. Er brach vor Entsetzen und Schmerz in die Kniee. Er sah dem Hund nach, der den Schwanz zwischen die Beine geklemmt mit gesenktem Kopf langsam weiterschritt.
     </p>
-    <p xml:id="eco_de_000090_770">
+    <p xml:id="eco_de_0000162_770">
      Es war sein Hund – ein wirklicher Hund, der auf leisen Pfoten dort hinschlich. Bertrams Augen öffneten sich weit. Er griff an die Wunde, sie brannte wie höllisches Feuer. Er sprang auf. Eine schauerliche Befürchtung erfaßte ihn. Wie wenn der Hund, der ihn verwundet hat, toll gewesen war? Dann wird er in kurzem das Gift in seinem Körper fühlen, wird sein Mund sich wie der eines Raubtieres öffnen, um zu beißen. Eine irrsinnähnliche Angst ergreift ihn. Er eilt durch den Ort, Hut und Stock von sich werfend, und späht nach Menschen aus. Er erblickt niemand. Seine Schritte verdoppeln sich. Endlich bemerkt er etliche Bauern auf dem Felde. Er stürzt auf sie zu, um sie nach einem Arzt zu fragen. Als er sich ihnen nähert, laufen sie bei seinem Anblick davon. Er ihnen nach. Es entspinnt sich eine unheimliche Jagd. Er strauchelt und schlägt zu Boden. Nun kommen sie mit ihren aus der Tasche gezogenen Brotmessern auf ihn zu. Er macht eine letzte Anstrengung und lispelt: »Einen Arzt! Mich hat ein wütender Hund gebissen.« Er schreckt fahren sie bei seiner Eröffnung zurück. Ein wütender Hund! Sie eilen nach dem Dorfe, um ihre Angehörigen zu schützen. Der Unglückliche bleibt liegen. Sie finden bald das Tier mit den stierenden, blutunterlaufenen Augen und erschlagen es mit ihren Knütteln.
     </p>
-    <p xml:id="eco_de_000090_780">
+    <p xml:id="eco_de_0000162_780">
      Erst ganz spät erinnert sich einer des unseligen Menschen, der vor Stunden draußen zusammengebrochen war. Sie suchen und finden ihn. Er ist einige Schritte weiter in den Graben gekrochen und hat die Finger in die Erde gekrallt. Bei ihrem Nahen haucht er: »Bindet mich, damit ich euch nicht zerfleische, und schafft mich zum Arzt.« Sie schnüren seine Arme auf den Rücken und tragen ihn in den Ort. Gehen kann er nicht mehr.
     </p>
-    <p xml:id="eco_de_000090_790">
+    <p xml:id="eco_de_0000162_790">
      Man schafft ihn in das kleine alte Spital und geht, den Bader zu holen. Der Bader ist nach dem nächsten Markt gegangen und kommt erst nach Mitternacht zurück. Er brennt und schneidet den Verwundeten; aber der fühlt wenig mehr. Er ist besinnungslos; das Gift ist ins Blut getreten.
     </p>
-    <p xml:id="eco_de_000090_800">
+    <p xml:id="eco_de_0000162_800">
      Am Abend des nächsten Tages richtet er sich plötzlich auf und blickt mit erwachendem Bewußtsein an das rechte Fußende des Bettes. Das, was er erspäht, muß ihn unendlich beruhigen. Er sieht nichts anderes als die alte barmherzige Schwester die dort kniet und betet. Etwas wie ein erlöstes Lächeln geht über sein Gesicht. Er sinkt zurück.
     </p>
    </div>

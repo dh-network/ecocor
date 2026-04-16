@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000207" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Die Silberwanze
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Reventlow, Franziska zu
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     1317
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1917">
+      1917
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000207_20">
+    Die Silberwanze
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000207_30">
+     Wir waren auch einmal in Belgrad, kamen jedoch nicht dazu, es uns näher anzusehen, weil unser Interesse durch andere Dinge abgelenkt wurde und… aber eben das soll hier erzählt werden.
+    </p>
+    <p xml:id="eco_de_0000207_40">
+     Man langte gegen Abend an, um am nächsten Tage donauabwärts weiterzufahren. Wir hatten uns alle erst im Speisewagen kennengelernt und wollten bis Bukarest zusammen bleiben.
+    </p>
+    <p xml:id="eco_de_0000207_50">
+     »Das also ist Belgrad«, sagte der Professor, als der Zug hielt, und begann verschiedene Dinge aufzuzählen, die man unbedingt sehen müsse. Aber er wurde gleich unterbrochen, denn nun kam die Gepäckrevision, welche sich sehr umständlich gestaltete. So hatte eben der Professor – er war Zoologe – einen fliegenden Fisch in Spiritus bei seinem Handgepäck, den er am Ägäischen Meer mit anderen fliegenden Fischen vergleichen wollte. Dieser wurde zum Gegenstand endloser Diskussionen, denn die Beamten waren mehr neugierig als bureaukratisch und wollten durchaus wissen, was es damit auf sich habe und wozu er ihn brauche. Ferner war da eine junge Frau, die ein Baby und viele Koffer mit sich führte. Die Verhandlungen waren schon der Sprache wegen schwierig und wären sicher nie zu Ende gekommen, wenn nicht der Damenimitator aus Budapest russisch gekonnt hätte. Er selbst hatte außer einer Geige nur eine Hutschachtel mit Trikots und Flitterröckchen bei sich. Diese Garderobestücke gaben ebenfalls Anlaß zu endlosen Fragen, und während er ihre Berechtigung eingehend darlegte, hatte ein zigeunerartiges Subjekt, dessen Funktionen uns unklar blieben, sich der Geige bemächtigt und begann eine schwermütige Weise zu spielen. Es war eigentlich ganz stimmungsvoll, aber der Imitator hatte dafür keinen Sinn und brüllte das Subjekt im höchsten Sopran an. Damit und mit seinem Russisch imponierte er uns so, daß wir ihn gewissermaßen zu unserem Oberhaupt erwählten.
+    </p>
+    <p xml:id="eco_de_0000207_60">
+     Die Revision dauerte eine volle Stunde. Draußen an den Fenstern der Halle lauerte eine Schar von Strolchen auf uns, sie drückten sich die Gesichter an den Scheiben platt und folgten jeder Bewegung mit aufgerissenen Augen. Es waren die Packträger von Belgrad, die sich, als wir den Raum verließen, wie Wahnsinnige auf uns stürzten. Jeder erfaßte ein Gepäckstück, einer sogar das Baby, dann stoben sie auseinander, jeder nach einem anderen Wagen. Wir hinterher, jeder seinem Eigentum nach, Frau Pollacek folgte dem Strolch, der ihr Kind trug, der Damenimitator seinen Flitterröckchen und der Professor dem fliegenden Fisch.
+    </p>
+    <p xml:id="eco_de_0000207_70">
+     Die Kutscher knallten mit der Peitsche und wollten sofort losfahren. Es war entschieden so gemeint, daß auf jedes Stück Gepäck und auf jede Person ein Extrafuhrwerk kommen sollte. Auf diese Weise hätten wir mindestens ein Dutzend Wagen gebraucht. Außerdem wußten wir ja nicht einmal, wohin die Fahrt gehen solle. Man fiel also den Pferden in den Zügel, schrie, gestikulierte, sträubte sich, bis endlich Koffer und Personen in zwei Fiakern untergebracht waren. Nunmehr verlangten wir ein gutes Hotel in der Nähe des Hafens. Die Strolche unternahmen eine nochmalige Sturmattacke und wollten fürstlich belohnt werden. Der, welcher das Kind getragen hatte, verlangte geradezu ein Lösegeld, bekam es aber nicht.
+    </p>
+    <p xml:id="eco_de_0000207_80">
+     Endlich rollten wir dem Hotel zu, und nach dem Souper wollten wir die Stadt ansehen. Man fuhr endlos durch dunkle Gassen, an Mauern und Zäunen entlang und hielt schließlich vor einer unwahrscheinlichen Spelunke. Der Wirt war in Hemdärmeln und wenig vertrauenerwekkend. Der Professor wurde ängstlich, Frau Pollacek beschwor uns, wieder umzukehren, aber der Damenimitator hatte Mut und fand, bei unserer geringen Ortskenntnis habe es keinen Zweck weiter zu suchen, wir würden nur unsere kostbare Zeit verlieren.
+    </p>
+    <p xml:id="eco_de_0000207_90">
+     Es gab eine Art Abendessen, von dem wir nur das Notwendigste zu uns nahmen, und dann gingen wir die Stadt betrachten, hatten aber keinen Plan und fanden sie nicht. Es war zu dunkel. Stundenlang irrten wir durch Gassen, an Bretterwänden, Winkeln und Zäunen entlang und kehrten endlich todmüde zurück. Die Haustür stand offen, aber es war niemand zu sehen. Ratlos tappten wir im Dunkeln herum und stießen in einer Ecke des Flurs auf einen schlafenden Hausknecht. Er wollte durchaus nicht aufstehen und sagte, wir brauchten nur die Treppen hinaufgehen und die Zimmer selbst aussuchen. Der Damenimitator ging mit einem Licht voran, aber in allen Betten lagen schon Leute. Bis wir zuletzt ein unbewohntes Gelaß mit vielen Betten und einem zerrissenen Ledersofa entdeckten. Endgültig verzweifelt beschloß man, hier zu biwakieren. Die ganze Sache, vor allem die Leute, die wir in den anderen Zimmern gesehen, wirkte so unheimlich, daß es uns lieber war, zusammenzubleiben. Es wurde eine ungemütliche Nacht. Die einzige Kerze brannte bald herunter, und alle wälzten sich schlaflos. Zuletzt dämmerten wir doch noch ein, und es war schon Morgen, als Frau Pollacek uns mit einem gellenden Schrei weckte. Dann jammerte sie halb im Schlaf vor sich hin – es sei nicht mehr zum Aushalten – hätte sie nur diese unselige Reise nicht unternommen und so weiter…
+    </p>
+    <p xml:id="eco_de_0000207_100">
+     Ja, um Gottes willen, was denn los sei? – Sie ermunterte sich jetzt völlig: Es habe sie etwas ganz Fürchterliches gestochen… Damit stand sie auf und gebärdete sich wie eine Verzweifelte. Allgemeine Panik. Der Professor sprach von den in den Balkanländern vorkommenden Skorpionarten, die in größerer Anzahl selbst Erwachsenen gefährlich werden könnten. Alle wurden blaß vor Schrecken, nur der mutige Damenimitator schritt zur Tat, untersuchte das eben verlassene Bett und konstatierte, nachdem er alle Decken auseinandergeschlagen hatte, Skorpione in größerer Anzahl seien jedenfalls nicht vorhanden. Uns fiel ein Stein vom Herzen.
+    </p>
+    <p xml:id="eco_de_0000207_110">
+     Die junge Frau hatte sich inzwischen etwas beruhigt und war ebenfalls herangetreten. Plötzlich schrie sie wieder auf:
+    </p>
+    <p xml:id="eco_de_0000207_120">
+     »Da – schauen Sie her!«
+    </p>
+    <p xml:id="eco_de_0000207_130">
+     Alles drängte sich um das Bett, und nun erblickte man ein schimmerndes rundes Tier von der Größe einer mittleren Kaffeebohne, welches sich langsam den Bettrand entlang schob, und, als es die vielen forschenden Blicke auf sich gerichtet fühlte, sichtlich betreten stehen blieb.
+    </p>
+    <p xml:id="eco_de_0000207_140">
+     Der Professor setzte seine Brille auf und suchte mittels eines Stückes Papier seiner habhaft zu werden. Es gelang. Dann betrachtete er es eingehend, schüttelte den Kopf und meinte, er fühle sich versucht, es als die gemeine Bettwanze, Cimex lectuarius, anzusprechen, nur was die silbergraue Färbung und die anscheinend durch den Biß hervorgerufene psychische Erregung beträfe, stehe er vor einem Rätsel.
+    </p>
+    <p xml:id="eco_de_0000207_150">
+     Es folgte nun eine Art naturwissenschaftlicher Sitzung.
+    </p>
+    <p xml:id="eco_de_0000207_160">
+     Mit dem Schlafen war es sowieso vorbei, man saß fröstelnd herum und besprach das Ereignis, tauschte Reiseabenteuer, Kenntnisse, Beobachtungen und Erlebnisse mit gewöhnlichen Wanzen aus, die ja in den südlichen Ländern keinem erspart bleiben – immerhin, ein Insekt wie dieses dem serbischen Boden entsprossene hatte noch keiner gesehen oder je davon gehört.
+    </p>
+    <p xml:id="eco_de_0000207_170">
+     Die Sonne stand schon am Himmel, als der Professor sich erhob und in einer längeren Rede erklärte, er danke den verehrten Anwesenden herzlich für ihr Bestreben, an der Lösung des Problems mitzuwirken. Man sei demselben jedenfalls ein gutes Stück näher gekommen, und er beschließe daher, falls es uns recht sei, dem Tier, das seiner Ansicht nach eine wichtige Entdeckung bedeute, den Namen Cimex argentuus, zu deutsch Silberwanze, beizulegen und seiner Fakultät sofort Mitteilung darüber zu machen.
+    </p>
+    <p xml:id="eco_de_0000207_180">
+     Wir stimmten ihm einmütig bei. Inzwischen war es Zeit zum Aufbruch geworden und zu spät, um Stadt und Festung noch in Augenschein zu nehmen. In diesem Moment hatte auch niemand mehr Interesse dafür.
+    </p>
+    <p xml:id="eco_de_0000207_190">
+     Während wir nunmehr unser Gepäck zusammensuchten, saßen Frau Pollacek und der Damenimitator immer noch nebeneinander auf dem Bettrand. Sie sprachen leise, und es schien uns, daß sie sich manchmal verstohlen die Hand drückten.
+    </p>
+    <p xml:id="eco_de_0000207_200">
+     Und das wird wohl so gewesen sein. Wir machten vor Bukarest noch einmal Station, übernachteten in einem normalen Hotel, wo jeder sein Zimmer für sich hatte, aber am nächsten Morgen, als man weiterfahren wollte, waren jene beiden einfach verschwunden und kamen auch nicht mehr zum Vorschein. Wir fuhren also ohne sie, und während der Zug dahinrollte, sannen wir den verschlungenen Fäden des Lebens nach. Hier waren unversehens zwei Menschen, die man flüchtig kannte, glücklich geworden und ein unbekannter Dritter, nämlich der Herr Pollacek, unglücklich – oder auch umgekehrt, wer konnte das wissen? Und das alles war das Werk einer schlichten Silberwanze, die bis dahin in Belgrad ein obskures Dasein fristete und nun berühmt werden sollte.
+    </p>
+    <p xml:id="eco_de_0000207_210">
+     Der Professor aber lächelte abgeklärt, murmelte vor sich hin »Cimex argentuus« und meinte dann, es habe noch jede wissenschaftliche Entdeckung ihre Opfer gefordert.
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:id="eco_de_0000151" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Selige Liebe
+    </title>
+    <author ref="http://d-nb.info/gnd/118618156">
+     Déry, Juliane
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC conversion
+     </resp>
+     <name>
+      EcoCor-2026 team
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     3582
+    </measure>
+   </extent>
+   <publicationStmt>
+    <publisher ref="https://www.uni-potsdam.de/de/digital-humanities/">
+     Digital Humanities Network at the University of Potsdam
+    </publisher>
+    <distributor ref="https://ecocor.org">
+     ecocor.org
+    </distributor>
+    <date when="2023-06-01"/>
+    <availability>
+     <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+    </availability>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <title/>
+     <author/>
+    </bibl>
+    <bibl type="printSource">
+     <author/>
+     <title/>
+     <respStmt>
+      <resp/>
+      <name>
+      </name>
+     </respStmt>
+     <pubPlace/>
+     <publisher/>
+     <date/>
+    </bibl>
+    <bibl type="firstEdition">
+     <pubPlace/>
+     <date when="1892">
+      1892
+     </date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="de">
+     German
+    </language>
+   </langUsage>
+   <!-- textDesc and ELTeC-specific elements commented out for TEI-all compliance:
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+         </textDesc>
+         -->
+  </profileDesc>
+  <revisionDesc>
+   <change when="2026-04-16">
+    Created by DS
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <p xml:id="eco_de_0000151_20">
+    SELIGE LIEBE.
+   </p>
+  </front>
+  <body>
+   <div type="group">
+    <head>
+    </head>
+    <p xml:id="eco_de_0000151_30">
+     Dein Löwenhaupt sitzt auf einem festen Nacken. Dein Auge blitzt, dein Antlitz strahlt, du hast ein herrlich Profil und einen Wald von Haaren. Siehst prächtig aus mit deinem goldenen Bart, schön fürwahr, kannst aber auch garstig sein, naiver Egoist, wild und weich zugleich. Dein Machtwort lautet: „Ich pfeif auf die Welt!“ Doch wenn ich dich kränke, weinst du. Hüne mit dem Kinderherzen, Wüstenthier und deutscher Michel! Dein Genie tobt, du machst tolle Streiche, grosses Kind, so derb und schlicht, dass ich die Hände zusammenschlagen muss und rufen: „Herrgott, wie bist du dumm!“ Hältst es mit Gevatter Schuster und Schneider und sagst dem König offen deine Meinung. Und deinen Feind behandelst du so: Du gehst auf ihn zu und sagst: „Heut ist ein Wetter, dass man seinem Todfeind die Hand drücken möchte“, und du thust es, mag der Dummkopf denken, was er will. Du hassest mit lachendem Antlitz und schimpfst mit Thränen in den Augen. Du verhöhnst den Papst und lobst Gott oder schweigst und behandelst ihn mit gar viel Zartgefühl.
+    </p>
+    <p xml:id="eco_de_0000151_40">
+     Mein weicher Riese, der wie ein Löwe liebt! Und ob du mich liebst! Und ob du mich quälst! Und ob ich selig bin! Du bist ein verfluchter Kerl!
+    </p>
+    <p xml:id="eco_de_0000151_50">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_60">
+     Aber wie kann man nur so eifersüchtig sein? Dein Benehmen nur, wenn wir unter Leuten sind oder gar in lustiger Gesellschaft! Als littest du Höllenqualen, machst du ein Gesicht. Der steinerne Gast ist neben dir ein fideler Kauz. Ich muss immer zittern. In deinen Augen wetterleuchtets. Du beisst dir auf die Lippen. Weil ich fröhlich bin. Ich darf nicht lachen, mit niemand reden. Du bringst jeden gleich um. Kreidebleich sitzt du da. „Was hat er?“ fragt man, „ist er krank?“ Dass ich mich geniren muss und mir alle Lust vergeht.
+    </p>
+    <p xml:id="eco_de_0000151_70">
+     Warum du mir nur nicht traust und warum gleich so hässliche Worte?
+    </p>
+    <p xml:id="eco_de_0000151_80">
+     Und dann sagst du: ich mache dir Scenen!
+    </p>
+    <p xml:id="eco_de_0000151_90">
+     Doch zürne nur! Nie bist du so gut, als wenn du böse bist, und so galant, nicht zum Erkennen. Tausend kleine Liebesdienste fallen dir ein, mich zu beschämen. Wie habe ichs da gut! Du spielst den Edelmütigen und bist von einer Aufmerksamkeit, von einem Eifer, mir zu dienen! Und das alles mit einer Miene: „Siehst du, wie ich bin!“ Für mich sind das wahre Feiertage. Die Briefe fliegen nur so ins Haus, per Sie und „mit den besten Wünschen“ schliessen sie. Armer Kerl! Wie muss ich lachen! Wirklich du kannst reizend sein.
+    </p>
+    <p xml:id="eco_de_0000151_100">
+     Aber ich verwünsche dich auch. Mein armer Stolz! Was machst du draus?
+    </p>
+    <p xml:id="eco_de_0000151_110">
+     Dann fluche ich dir und sage dir Dinge – doch fasse ich mich schnell und küsse dir die Füsse.
+    </p>
+    <p xml:id="eco_de_0000151_120">
+     Oft glauben wir: nun ists aus, aus und vorbei. Ade auf Nimmerwiedersehn! Drüben stehst du an der Strassenecke, rasend, frierend und bewachst meine Thür mit wütendem, blutendem Herzen. Und ich hocke hinter der Gardine und brüte und leide. Alles ist aus! Doch am dritten Tag, wer kommt zur Thür herein, strahlend und schüchtern, mit Blumen, als wäre nichts geschehen, überhäuft mich mit zärtlichen Fragen, hält mir den Mund zu: „Sprich nichts! nur davon nichts! Nur nichts von diesen schrecklichen Tagen!“ und weint und lacht und nimmt mich wieder in seine Arme?
+    </p>
+    <p xml:id="eco_de_0000151_130">
+     Das Beste vom Zanken ist doch die Versöhnung. Man atmet auf wie nach einer grossen Arbeit. Ach, ist das schön! Eine wahre Erlösung. Wir ruhen auf unseren Lorbeeren aus, so vergnügt, wie neugeboren! „Lebst du noch? Sag, und hast du mich lieb?“ Das ist ein Glück und ein Beglücken! Und das alles hat etwas Grossmütiges, Frisches. Wir sind ganz gerührt, finden keine Worte. Ich frage nur leise: „Ja?“ und du jubelst: „Ja! ja!“
+    </p>
+    <p xml:id="eco_de_0000151_140">
+     Allein die Angst und die Sorge! Ich werde sie nicht los. Du freilich schiltst mich und hast grosse Worte. –
+    </p>
+    <p xml:id="eco_de_0000151_150">
+     Manchmal kann ich dich nicht leiden. Dann geberdest du dich wie ein Wahnsinniger und willst dich auf den Kopf stellen. Das entwaffnet mich. Was thun? Und ich trage dich wieder auf Händen.
+    </p>
+    <p xml:id="eco_de_0000151_160">
+     Du lebst von meiner Gnade, ich fühle meine Macht. Drum habe ich Erbarmen. Nimm das Glück, nimm und gieb!
+    </p>
+    <p xml:id="eco_de_0000151_170">
+     Man lebt ja nur einmal. Freund, da hast du recht, mein Leben aber sei schön, geliebter Freund, und seine Schönheit bist du, Geliebter!
+    </p>
+    <p xml:id="eco_de_0000151_180">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_190">
+     Ich schlafe. Da höre ich ein Lied durch die Nacht. Ich springe auf – wo ist ein Mantel? – und eile auf den Balkon. Dort glühn deine roten Violen. Lau ist die Luft, die Strasse wie eine stille Halle. Und da kommt mein Schatz daher! Deine hohe Gestalt, dein beflügelter Schritt – wie ein Glücksbringer nahst du und winkst strahlend herauf. Ich werfe dir eine Blume zu. Du küssest sie und schwenkst den Hut. Ich höre dein leises : „Schlafe süss!“ Damit ist’s aus. Mich umtönt dein Lied und ich kann nicht mehr schlafen vor Glück.
+    </p>
+    <p xml:id="eco_de_0000151_200">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_210">
+     Weisst du das Wetter? Wir flüchten unter Bäume. Es blitzt durch das Dunkel. Ein Strahl erhellt dein Antlitz, wieder einer – wie schön! Die Donner rollen. Wir schmiegen uns an einander. Es regnet in Strömen aus Wolken und Zweigen. Auch Küsse regnets. Wir lachen des Wetters. Aufrecht stehn wir, pudelnass und pudellustig. Es giesst und giesst, wir triefen nur so. Die Donner brüllen. Zick – Zack! gehts durch die Luft. Wenn uns der Blitz erschlüge, dich und mich derselbe Blitz! Wir halten uns immer fester. Der Himmel will alles in Scherben hauen. Blitze tanzen und zucken wie Dolche und, als berste die Welt, ertönt ein Gekrach. – Wir sehn und hören nichts mehr.
+    </p>
+    <p xml:id="eco_de_0000151_220">
+     Wann regnet es wieder? Es war so schön! Donnerrollen, Blitzeszucken, Liebeswonne – o die herrlichen Naturerscheinungen!
+    </p>
+    <p xml:id="eco_de_0000151_230">
+     Wohin wir den Fuss setzen, geschehn Wunder.
+    </p>
+    <p xml:id="eco_de_0000151_240">
+     Die Bank unter der Linde – welch nüchterner Ort! Ammen stillen dort ihre Schreihälse und hellblaue Soldaten treiben mit jenen ihre Spässe. Sonnig ists und staubig – so profan!
+    </p>
+    <p xml:id="eco_de_0000151_250">
+     Doch kommt der Abend und wir sitzen träumend da – Baum und Bank sind wie verwandelt, solche Zauberer sind wir. Zum Wundergarten wird die Welt, das Leben zum süssen Geheimnis. Die herabhängenden, weit ausgreifenden Zweige, die uns Himmel und Sterne verhüllen. Der ganze Anger liegt wie unter einem grünen Dach. Es rauscht in den Zweigen. Die weiche, kussliche Luft und all’ das Leuchten! Überirdisch wird die Erde. Wie ist uns? Wo sind wir? Wo wir schon oft gewesen. Wir sind geborgen. Es ist unser Reich. –
+    </p>
+    <p xml:id="eco_de_0000151_260">
+     Und die hellen Nächte an der Grotte, wo Mondstrahlen uns vor den Augen tanzen, aus den Schatten hervorblitzen und allerlei Schabernack treiben, um uns zu erschrecken, wo Baum und Busch uns narren, sich vermummen, wo die Gespenster aus der Erde wachsen, die bösen Lauscher, dass ich immer wieder rufe: „Ein Mensch!“ Doch das Gelächter, wenn es nur ein Baumstamm war oder gar ein Pfahl.
+    </p>
+    <p xml:id="eco_de_0000151_270">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_280">
+     Die Thurmuhr der heil. Beatrixkirche klingt so wunderbar. Mittelalterlich und frisch wie ein altes Volkslied, wie ein süsser Name. Du sagst es sei mein Name, ich behaupte, der deine ists. „Hör nur! Hör nur!“ rufen wir jedesmal und müssen uns etwas Liebes sagen.
+    </p>
+    <p xml:id="eco_de_0000151_290">
+     Aus der Ferne hallen die Schläge zu uns gleich singenden Herzen. Wir horchen auf, verstummen, haschen uns süss erzitternd nach den Händen und wissen, wie viel es geschlagen hat.
+    </p>
+    <p xml:id="eco_de_0000151_300">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_310">
+     Wir stehn vor dem goldenen Buddha im Museum, zur Morgenszeit, und bewundern seinen Bauch. Spitzbube von einem Gott, grossmächtiger, dicker Riesengott! Hinter deiner Corpulenz kann man sich manches erlauben, sogar ein Küsschen oder zwei und sich so lieb haben, ohne dass der Saaldiener es merkt. Das nenne ich eine Vorsehung!
+    </p>
+    <p xml:id="eco_de_0000151_320">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_330">
+     Auch die antiken Vasen sind hochinteressant. Nein, diese Bilder drauf! Recht frei, meiner Treu. Du erschöpfst dich in Erklärungen. Das gehört zur Bildung. Ich bin ganz Ohr. Was bist du gelehrt. „Sprich! sprich!“ Ich mache Augen.
+    </p>
+    <p xml:id="eco_de_0000151_340">
+     So also waren die alten Griechen?
+    </p>
+    <p xml:id="eco_de_0000151_350">
+     Du hältst einen ganzen Vortrag über ihre Denkart und wie das alles kam, über ihre Lebensweise und Natur. Was historisch, ist natürlich, doch diese Verderbtheit! Man sollte nicht glauben. Wo blieb die Sittenpolizei?
+    </p>
+    <p xml:id="eco_de_0000151_360">
+     Nein, diese alten Griechen!
+    </p>
+    <p xml:id="eco_de_0000151_370">
+     Doch plötzlich – wie ist uns? Ists, weil die Phantasie uns in allen Fibern arbeitet oder weil wir gar so leicht von Begriff sind? Wir stecken drin im Griechentum, wie in einer Liebesfalle und können uns gar nicht halten vor Glut und allerlei klassischen Gefühlen. Als wären unsere Häupter mit Weinlaub bekränzt und als hätten wir Honigwein getrunken aus goldenen Schalen, so orgienhaft poetisch, so antik süss, so ganz und gar altgriechisch ist uns zu Mut.
+    </p>
+    <p xml:id="eco_de_0000151_380">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_390">
+     Wir sind immer anderswo, wir sind immer anders, die Liebe gefällt sich in solchen Schelmenstreichen.
+    </p>
+    <p xml:id="eco_de_0000151_400">
+     Was doch Sonne, Berg und Thal aus uns nicht alles machen können!
+    </p>
+    <p xml:id="eco_de_0000151_410">
+     Weisst du noch am Felsenvorsprung unten am Fluss, von Buchenzweigen überdacht?
+    </p>
+    <p xml:id="eco_de_0000151_420">
+     Drüben grüsst das stille Ufer mit dem schimmernden Kies. In heller Sonne liegt der Wasserspiegel, von Hügelketten eingesäumt. Blaue Berge rücken näher, ihn abzuschliessen von der Welt, dass er aussieht wie ein langer See.
+    </p>
+    <p xml:id="eco_de_0000151_430">
+     Dort liegen wir und halten uns umschlungen. Goldig üppig glüht das Buschwerk, sonnenweiss der hohe Himmel. Ein Wölkchen kommt herangeschwebt, hockt sich hin und rührt sich nicht mehr. Kein Blatt regt sich. Der Wald ist stumm. Die Bäume wissen nichts von einander. Träge Freude brütet in allem und das Gefühl unendlich warmer Einsamkeit.
+    </p>
+    <p xml:id="eco_de_0000151_440">
+     Das Wasser umspült den Stein, auf dem wir ruhn. Wir blicken auf den Grund, wie durch hellgrünes Glas. Mit halbgeschlossenen Augen belauschen wir den Strom. Die Wellen kommen und gehn, eine nach der andern, eine wie die andere, glatt und glänzend, wie gemeisselt, und plätschern weiche Schlummerlieder. Stille. Rauschende Stille.
+    </p>
+    <p xml:id="eco_de_0000151_450">
+     Erstaunt blickst du mich an. „Bist du denn ein Seeweib?“ fragst du und ich heisse dich meinen Nereus. Wir lachen. Es ist wie ein Bild von Böcklin.
+    </p>
+    <p xml:id="eco_de_0000151_460">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_470">
+     Und ich seufze: „O könnte diese Stunde nicht hundert Jahre währen?“
+    </p>
+    <p xml:id="eco_de_0000151_480">
+     Dir ist das nicht genug. Du bist beleidigt, weil ich so bescheiden.
+    </p>
+    <p xml:id="eco_de_0000151_490">
+     Also tausend Jahre meinetwegen, Millionen Jahre! Nicht trennen möchte ich mich von dieser Stunde in aller Ewigkeit!
+    </p>
+    <p xml:id="eco_de_0000151_500">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_510">
+     Ach, ist das ein Sommertag! Es flimmert uns vor den Augen. Die Luft reflektirt die Farben des Himmels und der Blumen und wie wir über die Wiese gehn. – Sieh den flammenden Strich am Himmel, wie eine leuchtende Saite! Eine Feuerlinie auf Sonnenscheingrund! Hat man je sowas gesehn?
+    </p>
+    <p xml:id="eco_de_0000151_520">
+     Ein Telegraphendraht ists, wahrhaftig! Die Sonne zündet alles an. Das funkelt wie ein Blitzesfaden. –
+    </p>
+    <p xml:id="eco_de_0000151_530">
+     Wie ist doch die Welt so schön! Es giebt nichts Schöneres, als diese Welt!
+    </p>
+    <p xml:id="eco_de_0000151_540">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_550">
+     Kennt Ihr die Zauberbuche?
+    </p>
+    <p xml:id="eco_de_0000151_560">
+     Vor der Stadt, jenseits der Wiese, rechts vom Wald, wo der Bach sich schlängelt. –
+    </p>
+    <p xml:id="eco_de_0000151_570">
+     Bei Vollmond rate ich euch hinzugehn. Dann hat die Buche silberne Blätter und einen Mondscheinschleier. Wir sind eingehüllt in Licht und Glück.
+    </p>
+    <p xml:id="eco_de_0000151_580">
+     Die Zweige neigen sich über uns, vom Wind zärtlich bewegt. Welch eine Musik von heimlichem Klingen und Singen! Der alte Baum von der Wurzel bis zum Wipfel schüttelt sich und lacht so spöttisch priesterhaft, als wollte er sagen: Da habt Ihr meinen Segen, Ihr phantastischen Kinder, Ihr!
+    </p>
+    <p xml:id="eco_de_0000151_590">
+     Und mit tausend Flügeln umschwirrt uns das Glück.
+    </p>
+    <p xml:id="eco_de_0000151_600">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_610">
+     Sommerschein bedeckt den See, dass man kaum ein Wellchen sieht. Eine Möve schwebt darüber hin, wie ein lichter Sonnenpunkt.
+    </p>
+    <p xml:id="eco_de_0000151_620">
+     Und wir lösen den Kahn.
+    </p>
+    <p xml:id="eco_de_0000151_630">
+     Was ist das im nahen Schilf für ein Geflatter und Geschnatter? Wildenten fliegen auf und kreischen bei jedem Ruderschlage.
+    </p>
+    <p xml:id="eco_de_0000151_640">
+     Wir aber schiffen hinaus in den Sonnenschein. Das Boot versinkt schier in den Sonnenfluten und wir mit ihm. –
+    </p>
+    <p xml:id="eco_de_0000151_650">
+     Im Schilfe schnattern die Enten.
+    </p>
+    <p xml:id="eco_de_0000151_660">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_670">
+     Ein Meer von Freiheit umflutet uns. Jenseits winken holde Ufer. Goldene Brücken führen hin. Überall lockt es, alles verführt, die strahlende Luft und die süssen Düfte!
+    </p>
+    <p xml:id="eco_de_0000151_680">
+     Die Leute heuen. Sie schwitzen und glauben es sei ein Tag wie ein anderer.
+    </p>
+    <p xml:id="eco_de_0000151_690">
+     Nur wir schreiten verklärt dahin und lachen heraus. Weil wir uns lieben. Sonst ist ja weiter nichts passirt, nur dass wir uns einfach furchtbar lieben wie die Vögel im Walde, die Engel im Himmel, mit allumfassender, nichtsausschliessender Liebe, wie Menschen, Thiere, Götter lieben. Darum lachen wir.
+    </p>
+    <p xml:id="eco_de_0000151_700">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_710">
+     Wir überjauchzen alle Traurigkeiten dieser Welt.
+    </p>
+    <p xml:id="eco_de_0000151_720">
+     Im Walde fallen die Blätter. Fusshoch liegt das rote, tote Laub. Dort haben wir uns ein Lager gemacht.
+    </p>
+    <p xml:id="eco_de_0000151_730">
+     Die Bäume halten stumme Monologe und sind traurig wie alternde Menschen. O Herbstesnot! Die gelben Sonnenflecke zittern wie vor Angst. Wehende Blätter flattern umher, fliegen zurück, haften an uns und wollen nicht zur Erde. Wie die armen Bäume glühn im verscheidenden Tag! Auflösung liegt über dem Wald wie Abendröte.
+    </p>
+    <p xml:id="eco_de_0000151_740">
+     Wir heben das Haupt und sehn in die Wipfel. Die Blätter lösen sich voll Hast und Schmerz und fallen und fallen – uns ein Goldregen von Seligkeit.
+    </p>
+    <p xml:id="eco_de_0000151_750">
+     Da schrecken wir auf. Der Mond erscheint hinter den kahlen Bäumen. Er regt sich nicht und blickt uns an, gelb und gross, ein Riesenmond, brennend, drohend. Sprachlos stehn wir Hand in Hand, ganz starr über die Begegnung, während er langsam über die Gipfel rollt.
+    </p>
+    <p xml:id="eco_de_0000151_760">
+     Der dumme Mond! Was gehts ihn an?
+    </p>
+    <p xml:id="eco_de_0000151_770">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_780">
+     Wir kommen nicht aus dem Glück heraus, wir kommen immer mehr hinein. Was wir auch empfinden mögen, das Ende ist Freude.
+    </p>
+    <p xml:id="eco_de_0000151_790">
+     Die Irrlichter im Nebel, die uns schrecken wollten, siehst du sie noch?
+    </p>
+    <p xml:id="eco_de_0000151_800">
+     Weiss überschwemmt liegt die weite Wiese, im Dunst zerstreut schweben die Baumwipfel gleich dunklen Charakterköpfen, umwittert von wolkiger Luft. Ein düsteres Gelb in der Höhe, wie wenn Rauch und Gold sich mischen.
+    </p>
+    <p xml:id="eco_de_0000151_810">
+     Allmählig erglüht der Himmel, wie in verborgenem Feuer und der Nebel verwandelt die milchigen Töne in glänzendes Perlmutter. Doch aus unseren Augen entweicht nicht das schwarze Nachtbild. Da hüpft ein Funke, dort wieder einer. Nun erst sieht man, wie viel Finsternis die phantastische Nacht verschwendet. Ich zittere. Diese Funken haben Leben! Du lachst mich aus. „Sie thun nichts!“ sagst du, „sie thun nichts!“ Doch auch dir ist nicht geheuer. Dein Arm umkrampft mich. Uns schauert. Das macht unsere Zärtlichkeit so bebend und so gross. Die tollen gespenstischen Funken! Ist denn die ganze Gegend behext?
+    </p>
+    <p xml:id="eco_de_0000151_820">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_830">
+     Wie ein Golfstrom fliesst unsere Liebe durch die kalte Welt.
+    </p>
+    <p xml:id="eco_de_0000151_840">
+     Welch ein warmes Klima plötzlich! Wie im Süden. Heiss ists in der Winterkälte. Tropenluft im Norden.
+    </p>
+    <p xml:id="eco_de_0000151_850">
+     Lustig waten wir im Schnee, uns trägt der weisse Plan. Die Telegraphenstangen surren und singen, bis in den Kern vibrirt das arme Holz. Dichte Flocken wirbeln. Wir sind die reinen Schneemänner. Und hei, wie der Wind uns ins Gesicht schlägt, der Raufbold! Unmöglich, ihn bei Seite zu drängen, so haut er zu, der grobe Strick! Wir schreien vor Lachen und können nicht weiter, vom Schneegestöber eingezwängt. Wie herauskommen?
+    </p>
+    <p xml:id="eco_de_0000151_860">
+     Und du öffnest die Brust und schlägst den Arm um mich, dass ich im Pelzfutter deines Mantels ganz versinke und um den Wind im Rücken zu haben, schreitest du gen hinten mit leisen, mächtigen Pfoten. Dein Bart bedeckt mein Gesicht wie ein elektrisches Fell, dass ich dich gar nicht sehe und nichts um mich her, nur deine Wärme fühle, deine Urkraft. Deine Brust ist wie ein süsser Herd. Ich höre dein zärtliches Gebrumme an meinen lachenden Ohren. Gieb acht, du erdrückst mich ja mit deinen Tatzen! Bär du, und ich deine Bärin!
+    </p>
+    <p xml:id="eco_de_0000151_870">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_880">
+     Und unsere kleinen Abendmahle in der altdeutschen Stube, wahre Symposien, so gemütlich amüsant und so lustig feierlich!
+    </p>
+    <p xml:id="eco_de_0000151_890">
+     Der Wirt macht Katzenbuckel, der Piccolo starrt uns freudig an, er will, glaube ich, Beobachtungen machen. Der Prinzipal winkt ihn ab, das will er schon selbst besorgen. Er ist ganz Ehrfurcht, der arme Mann. Er weiss, wir sind nicht gewöhnliche Menschen, nein Auserwählte, Glückliche. Seine besten Weine empfiehlt er uns und das Teuerste auf der Karte. Nichts dünkt ihm für uns gut genug. Wenn er nur nicht gar so besorgt wäre! Jeden Moment kommt er herbeigeeilt, ob alles in Ordnung? Ja, Herr Wirt, alles ist in Ordnung!
+    </p>
+    <p xml:id="eco_de_0000151_900">
+     Und du bringst Trinksprüche aus auf dein süsses Lieb und ich lasse meinen Schatz hoch leben. „Sag, warst du je so glücklich?“ ragt mein Schatzinko mit strahlendem Gesicht. „Ich noch nie!“ tausendmal betheuert ers seiner Schatzinka. So schmausen die verliebten Schlemmer, trinken aus einem Glas, reichen sich die schönsten Bissen, stecken diese sich in den Schnabel und blicken zu tief ins Glas und sich zu tief in die Augen, so dass sie auf dem Heimweg sich ganz beispiellos aufführen und berauscht von Freude und Asti spumante um den Friedhof lachend, tollend herumgehn. Sie wissen ja nicht, wo sie sind, nur dass sie bei einander sind. Dreimal umkreisen sie die Kirchhofsmauer.
+    </p>
+    <p xml:id="eco_de_0000151_910">
+     „Die Toten kriegen noch den Schwindel!“ sagst du, dich besinnend, und machst dumme Witze.
+    </p>
+    <p xml:id="eco_de_0000151_920">
+     Sieh die starren Gräber in grauer, fahler Nacht! Vom alten Turm hat die Mitternachtsstunde geschlagen. Aber ich fürchte mich nicht. Nicht einmal vor den Toten, so mutig bin ich. So stolz habe ich dich lieb, so heldenmütig, so närrisch! Mit dir lege ich mich auch ins Grab. Doch nicht jetzt. Wenn einmal die Liebe stirbt, dann lassen wir uns begraben. Du denkst nicht dran. „Dazu kommts nie! Das giebts nicht!“ und mit der Riesenkraft des Glücklichen, reisst du mich an dich, froh, dass so viel Leben dein und hebst mich in die Höhe mit einem lauten Juchzer –
+    </p>
+    <p xml:id="eco_de_0000151_930">
+     Du Freudenbringer mit dem Glorienschein, mein süsser heiliger Buhle!
+    </p>
+    <p xml:id="eco_de_0000151_940">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_950">
+     Lasst euch bekehren, werdet wie wir: Glückanbeter. Es ist wahrste Religion.
+    </p>
+    <p xml:id="eco_de_0000151_960">
+     Unser Symbol ist die Sonne, unser Beten ein Jubelschrei und unser Rosenkranz ein Kranz aus blühenden Rosen.
+    </p>
+    <p xml:id="eco_de_0000151_970">
+     Und wir kennen keine Sünde.
+    </p>
+    <p xml:id="eco_de_0000151_980">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_990">
+     Was starren uns die Menschen an? Steht es uns an der Stirn geschrieben, dass wir Heilige der Liebe sind, König und Königin des höchsten Lebens?
+    </p>
+    <p xml:id="eco_de_0000151_1000">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_1010">
+     Wie auf einem Stück glühender Sonne ruht sichs an deinem Herzen. Fühlst du auch das strahlende Leben in mir? Diese tausend Leben ausstrahlende, kleine heimliche Sonne?
+    </p>
+    <p xml:id="eco_de_0000151_1020">
+     Und diese Sonne in unsern Adern – o heisses, seliges Sonnenblut!
+    </p>
+    <p xml:id="eco_de_0000151_1030">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_1040">
+     Dieses Atmen von dir, zu dir!
+    </p>
+    <p xml:id="eco_de_0000151_1050">
+     Diese Sehnsucht! Als trüge ich deine Seele in mir, als trügst du meine Seele in dir – dieser Durst nach unseren Seelen! Dieses Brennen! Wie wenn zwei Funken sich suchen und über alles hinwegspringen, um sich zu finden. Dieses Aneinanderklammern, dieses Sichnichtlosreisenkönnen! Dieses höllensüsse Verschmelzen! So fliessen Sterne zusammen am jüngsten Tag, wenn die letzte grosse Seligkeit kommt.
+    </p>
+    <p xml:id="eco_de_0000151_1060">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_1070">
+     Grosser Buddha, ich glaube an dich! Warum solltest du kein Gott sein? Bin ich ja doch selber so etwas.
+    </p>
+    <p xml:id="eco_de_0000151_1080">
+     Geht nicht alles von mir aus, kehrt nicht alles zu mir zurück? Lebe ich nicht in jeder Blume, mitschöpferisch in allem Erschaffenen? Atmet, was mich beseelt, nicht auch in ihnen: Seligkeitsdrang in der ewigen Wandlung göttlichen Schöpfergeistes?
+    </p>
+    <p xml:id="eco_de_0000151_1090">
+     Ists nicht, als hätte ich tausend Hände, um zu geben, tausend Herzen, um zu fühlen, tausend Hirne, um zu fassen. Seligkeitsdrang, Seligkeitsdrang?
+    </p>
+    <p xml:id="eco_de_0000151_1100">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_1110">
+     „Einen solchen,“ sagst du, „findest du gar nicht, der so glücklich ist.“
+    </p>
+    <p xml:id="eco_de_0000151_1120">
+     Und ich?
+    </p>
+    <p xml:id="eco_de_0000151_1130">
+     Bin ich nicht ein Genie im Seligsein, ein Gott, der betet?
+    </p>
+    <p xml:id="eco_de_0000151_1140">
+     Altäre möchte ich bauen und Opferflammen gen Himmel steigen sehn.
+    </p>
+    <p xml:id="eco_de_0000151_1150">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_1160">
+     Wir verhüllen unser Antlitz und wagen uns nicht anzusehn, so fasst du uns an, gewaltige Liebe, heiliger Geist!
+    </p>
+    <p xml:id="eco_de_0000151_1170">
+     Da liegen wir zu Boden gestreckt. Wie von jauchzenden Donnern erschlagen liegen wir, eingehüllt in die Glutschleier der Liebe.
+    </p>
+    <p xml:id="eco_de_0000151_1180">
+     Ach, dieses Seligwerden bei lebendigem Leibe, dieses Erglühen, dieses Erlöschen, dieses Nichtbegreifenkönnen. Ist das wirklich die Erde oder ein Gefühlsparadies ausserhalb der Erde, die vierte Dimension? Die Seele, die sich auf Unerhörtes, Niegefühltes vorbereitet, auf tiefheisse, übermenschlich hehre Seligkeiten? Ein Wonnegarten vor dem Himmelsthor? Glühende Morgenrotsträume vor Anbruch des Tages aller Tage?
+    </p>
+    <p xml:id="eco_de_0000151_1190">
+     O die lichte Seelenreise, voll der wonnigsten Stationen und der holdesten Abenteuer!
+    </p>
+    <p xml:id="eco_de_0000151_1200">
+     Wunder, was noch kommen wird!
+    </p>
+    <p xml:id="eco_de_0000151_1210">
+     * * *
+    </p>
+    <p xml:id="eco_de_0000151_1220">
+     Und das Wunder ist gekommen: unser glücklichster Augenblick. Ein grosser Moment! Zu fühlen: du bist unser schönster, ach, seligster Moment! Auf weichen Himmelsarmen schwebten wir in reinere Gefilde. Mit verklärten Leibern –
+    </p>
+    <p xml:id="eco_de_0000151_1230">
+     Nun weiss ich, was der Tod ist: ein Blick ins Jenseits, und wir müssen daran sterben.
+    </p>
+    <p xml:id="eco_de_0000151_1240">
+     Im Theater wars und dann –
+    </p>
+    <p xml:id="eco_de_0000151_1250">
+     Man spielte Tristan und Isolde.
+    </p>
+    <p xml:id="eco_de_0000151_1260">
+     Diese Grösse! Wir sind entzückt. Sind das nicht unsere Stimmen? Wahrhaftig, unsere eigenen Stimmen schlagen uns ans Ohr. Gerade so haben wir uns auch gefunden. Alles stimmt, jeder Blick, jedes Erbeben, jeder Aufschrei – das Lautwerden unserer Herzen, das also ist Musik?
+    </p>
+    <p xml:id="eco_de_0000151_1270">
+     Wir sind’s! Wir erkennen uns! Es ist wie eine Vision, ein Sichselbstinsaugeblicken – welch ein Schauspiel! Unsere Liebe! Wir sehen sie, leibhaftig, eine Welt, die uns durchströmt und doch eine andere –
+    </p>
+    <p xml:id="eco_de_0000151_1280">
+     Dieses Leben in Tönen! Diese Töne als Inbegriff alles Lebens!
+    </p>
+    <p xml:id="eco_de_0000151_1290">
+     So liebe ich dich also? So lieben wir uns also? Welch ein Kunstwerk! Schau, schau, unsere Geschichte! Die Partitur unserer unbegreiflichsten Seelengeschichte! Wir sind ganz erschüttert. So tötlich lieben wir uns also? Das kann man ja ruhigen Blutes gar nicht mit ansehen.
+    </p>
+    <p xml:id="eco_de_0000151_1300">
+     Und nun geschieht etwas, mir ewig unbegreiflich. Wir sitzen nicht mehr im Zuschauerraum. Auf der Bühne sind wir. In König Markes Garten. Wir liegen uns in den Armen und unsere Seelen singen. Wer kann denn das bei sich behalten? O Gott im Himmel, wir vergehn! Vor allen Leuten. In uns ist kein Leben mehr, nur Liebe, Liebe. Ein Glück, so mystisch wie der Tod und unergründlich –
+    </p>
+    <p xml:id="eco_de_0000151_1310">
+     Wie wird das noch enden?
+    </p>
+    <p xml:id="eco_de_0000151_1320">
+     Ein Verbluten in Wonne! Es giebt kein anderes Ende. So muss es kommen. Das hat der Meister gewusst.
+    </p>
+    <p xml:id="eco_de_0000151_1330">
+     Du stirbst für mich. Sieh selbst! Stirb nur, stirb! Ich jubele dir zu und sterbe mit dir. Wir sind frei! Selige Geister, das sind wir. Tristan du und ich Isolde. Es ist kein blosser Name, nein, Inhalt und Inbegriff zugleich.
+    </p>
+    <p xml:id="eco_de_0000151_1340">
+     Und wie wir von dannen gehn, wir halten uns fest umschlungen. Wir haben unsere Liebe gesehn, mag nun die ganze Welt sie sehn! Wir brauchen uns nicht zu kümmern. Wir sind ja gestorben – welch ein Leben!
+    </p>
+    <p xml:id="eco_de_0000151_1350">
+     Die Erde zittert vor Freude, uns zu tragen. Scheint nicht die Sonne? Die hellste Sonne bei tief dunkler Nacht? Unseres Lebens sonnigste Nacht!
+    </p>
+    <p xml:id="eco_de_0000151_1360">
+     Wir sind allein draussen im Feld. Ein Strahlengeglitzer über Gras und Strauch. Und Purpurwolken. Alles ist voll Mysterien und Heiligkeit –
+    </p>
+    <p xml:id="eco_de_0000151_1370">
+     Und unter Schauern flehst du mich an: „O hab’ mich immer lieb, immer und ewig!“
+    </p>
+    <p xml:id="eco_de_0000151_1380">
+     Der Moment entflieht vor diesem Wort. Das Blut entweicht aus unseren Adern –
+    </p>
+    <p xml:id="eco_de_0000151_1390">
+     Himmel senken sich herab. Himmel nehmen uns auf. Tausend Himmel hüllen uns ein. Ein Chaos von Himmeln –
+    </p>
+    <p xml:id="eco_de_0000151_1400">
+     Geliebter, wo bist du? Wie aus einer andern Welt höre ich dich rufen:
+    </p>
+    <p xml:id="eco_de_0000151_1410">
+     „Ewig, ewig!“
+    </p>
+   </div>
+  </body>
+ </text>
+</TEI>
