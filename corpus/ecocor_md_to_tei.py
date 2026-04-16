@@ -80,6 +80,7 @@ MARKDOWN_DIR     = "ecocorMD/ecocorMD_files_to_convert"                       # 
 TEI_STUB         = "aux/EcoStub.xml"                 # Pre-filled TEI template
 OUTPUT_BASE      = "tei/2026"                         # Root of the output tree
 WIKIDATA_CACHE   = "aux/wikidata_cache.json"          # Persistent cache for Wikidata author lookups
+ID_MAP_FILE      = "aux/ecocor_id_map.csv"            # Persistent filename → ecocor ID mapping
 
 # ---------------------------------------------------------------------------
 # Persistent Wikidata cache
@@ -99,6 +100,27 @@ def _save_wikidata_cache(cache):
         json.dump(cache, f, ensure_ascii=False, indent=2)
 
 _wikidata_cache = _load_wikidata_cache()
+
+# ---------------------------------------------------------------------------
+# Persistent filename → ecocor ID map
+# ---------------------------------------------------------------------------
+# Keys are output filenames (without .xml); values are ecocor IDs like
+# "eco_de_000065".  New entries are appended when the script assigns a fresh ID.
+
+def _load_id_map():
+    if os.path.exists(ID_MAP_FILE):
+        with open(ID_MAP_FILE, encoding="utf-8") as f:
+            rows = (line.strip().split(";") for line in f if ";" in line)
+            return {fname: eid for fname, eid in rows if fname != "filename"}
+    return {}
+
+def _save_id_map(id_map):
+    with open(ID_MAP_FILE, "w", encoding="utf-8") as f:
+        f.write("filename;ecocor_id\n")
+        for fname, eid in sorted(id_map.items()):
+            f.write(f"{fname};{eid}\n")
+
+_id_map = _load_id_map()
 
 # ---------------------------------------------------------------------------
 # Wikidata helper functions
@@ -413,14 +435,21 @@ class TEI:
 
     def get_full_id(self):
         """
-        Return the document-level XML identifier, e.g. ``eco_de_000001``.
+        Return the document-level XML identifier, e.g. ``eco_de_000065``.
 
-        The zero-padding adapts to the magnitude of ``TEI.teiid``:
-          - teiid  1–9  → 5 leading zeros  (e.g. ``000001``)
-          - teiid 10+   → 4 leading zeros  (e.g. ``000010``)
+        Looks up ``self.outputfilename`` in the persistent ID map first.
+        If found, returns the stored ID (ensuring stable IDs across re-runs).
+        If not found, generates a new ID from ``TEI.teiid``, stores it in the
+        map, saves the map to disk, and increments ``TEI.teiid``.
         """
-        numzeros = 5 if TEI.teiid < 10 else 4
-        return f"eco_{self.isolang()}_{'0' * numzeros}{TEI.teiid}"
+        if self.outputfilename in _id_map:
+            return _id_map[self.outputfilename]
+        # Generate a new ID and persist it
+        new_id = f"eco_{self.isolang()}_{TEI.teiid:06d}"
+        _id_map[self.outputfilename] = new_id
+        _save_id_map(_id_map)
+        TEI.teiid += 1
+        return new_id
 
     def get_paragraph_id(self, count):
         """
@@ -718,8 +747,8 @@ class TEI:
             if ch:
                 ch["when"] = datetime.date.today().isoformat()
 
-        # 8. Advance the global counter so the next document gets a different ID
-        TEI.teiid += 1
+        # Note: TEI.teiid is incremented inside get_full_id() only when a new
+        # ID is generated (i.e. the filename was not already in the ID map).
 
     # --- serialisation and output -----------------------------------------
 
