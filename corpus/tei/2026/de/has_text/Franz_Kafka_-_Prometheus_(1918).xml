@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000019" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_000083" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -79,17 +79,17 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
-   <change when="2026-04-15">
+   <change when="2026-04-16">
     Created by DS
    </change>
   </revisionDesc>
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000019_20">
+   <p xml:id="eco_de_000083_20">
     Prometheus
    </p>
-   <p xml:id="eco_de_000019_30">
+   <p xml:id="eco_de_000083_30">
     Franz Kafka
    </p>
   </front>
@@ -97,19 +97,19 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000019_40">
+    <p xml:id="eco_de_000083_40">
      Von Prometheus berichten vier Sagen: Nach der ersten wurde er, weil er die Götter an die Menschen verraten hatte, am Kaukasus festgeschmiedet, und die Götter schickten Adler, die von seiner immer wachsenden Leber fraßen.
     </p>
-    <p xml:id="eco_de_000019_50">
+    <p xml:id="eco_de_000083_50">
      Nach der zweiten drückte sich Prometheus im Schmerz vor den zuhackenden Schnäbeln immer tiefer in den Felsen, bis er mit ihm eins wurde.
     </p>
-    <p xml:id="eco_de_000019_60">
+    <p xml:id="eco_de_000083_60">
      Nach der dritten wurde in den Jahrtausenden sein Verrat vergessen, die Götter vergaßen, die Adler, er selbst.
     </p>
-    <p xml:id="eco_de_000019_70">
+    <p xml:id="eco_de_000083_70">
      Nach der vierten wurde man des grundlos Gewordenen müde. Die Götter wurden müde, die Adler wurden müde, die Wunde schloß sich müde.
     </p>
-    <p xml:id="eco_de_000019_80">
+    <p xml:id="eco_de_000083_80">
      Blieb das unerklärliche Felsgebirge. – Die Sage versucht das Unerklärliche zu erklären. Da sie aus einem Wahrheitsgrund kommt, muß sie wieder im Unerklärlichen enden.
     </p>
    </div>

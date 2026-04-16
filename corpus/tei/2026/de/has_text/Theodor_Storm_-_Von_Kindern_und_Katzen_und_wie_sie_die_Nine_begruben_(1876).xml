@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000079" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000143" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -79,17 +79,17 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
-   <change when="2026-04-15">
+   <change when="2026-04-16">
     Created by DS
    </change>
   </revisionDesc>
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000079_20">
+   <p xml:id="eco_de_0000143_20">
     Theodor Storm
    </p>
-   <p xml:id="eco_de_000079_30">
+   <p xml:id="eco_de_0000143_30">
     Von Kindern und Katzen, und wie sie die Nine begruben
    </p>
   </front>
@@ -97,121 +97,121 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000079_40">
+    <p xml:id="eco_de_0000143_40">
      Mit Katzen ist es in früherer Zeit in unserem Hause sehr »begänge« gewesen. Noch vor meiner Hochzeit wurde mir von einem alten Hofbesitzer ein kleines kaninchengraues Kätzchen ins Haus gebracht; er nahm es sorgsam aus seinem zusammengeknüpften Schnupftuch, setzte es vor mir auf den Tisch und sagte: »Da bring ich was zur Aussteuer!«
     </p>
-    <p xml:id="eco_de_000079_50">
+    <p xml:id="eco_de_0000143_50">
      Diese Katze, welche einen weißen Kragen und vier weiße Pfötchen hatte, hieß die »Manschettenmieße«. Während ihrer Kindheit hatte ich sie oft, wenn ich arbeitete, vorn in meinem Schlafrock sitzen, so daß nur der kleine hübsche Kopf hervorguckte. Höchst aufmerksam folgten ihre Augen meiner schreibenden Feder, die bei dem melodischen Spinnerlied des Kätzchens gar munter hin und wider glitt. Oftmals, als wolle sie meinen gar zu großen Eifer zügeln, streckte sie wohl auch das Pfötchen aus und hielt die Feder an, was mich dann stets bedenklich machte und wodurch mancher Gedankenstrich in meine nachher gedruckten Schriften gekommen ist.
     </p>
-    <p xml:id="eco_de_000079_60">
+    <p xml:id="eco_de_0000143_60">
      Die Manschettenmieße selber ist, wie ich fürchte, durch diesen Verkehr etwas gar zu gebildet geworden; denn da sie endlich groß und dann auch Mutter manches allerliebsten kaninchengrauen Kätzchens geworden war, verlangte sie, gleich den feinen Damen, allezeit eine Amme für ihre Kinder; und da die Nachbarskatzen sich nur selten zu diesem Dienst verstehen wollten, so sind fast alle ihre kleinen Ebenbilder elendiglich zugrunde gegangen. Nur einen kleinen weißen Kater zog sie wirklich groß, welcher wegen seines grimmigen Aussehens »der weiße Bär« genannt wurde und nachher aber eine Katze war.
     </p>
-    <p xml:id="eco_de_000079_70">
+    <p xml:id="eco_de_0000143_70">
      Später, da schon zwei kleine Buben lustig durch Haus und Garten tobten, waren zwei Katzen in der Wirtschaft; nämlich außer den vorbenannten noch ein Sohn des weißen Bären, genannt »der schwarze Kater«, ein großer ungebärdiger Geselle; vielleicht ein Held, aber jedenfalls ein Scheusal, von dem nicht viel zu sagen, als daß er, besonders in der schönen Frühlingszeit, unter schauderhaftem Geheul gegen alle Nachbarskater zu Felde lag, daß er stets mit einem blutigen Auge und zerfetztem Fell umherlief und außerdem noch seine kleinen Herren biß und kratzte.
     </p>
-    <p xml:id="eco_de_000079_80">
+    <p xml:id="eco_de_0000143_80">
      Von der Großmutter, der Manschettenmieße, die nachmals ganz berühmt geworden ist, wäre noch vielerlei zu berichten; da sie aber in der Geschichte, die ich hier am Schluß erzählen will, nur ein einzigmal »Miau« zu sagen hat, so soll's für eine schicklichere Gelegenheit verspart sein.
     </p>
-    <p xml:id="eco_de_000079_90">
+    <p xml:id="eco_de_0000143_90">
      Es geschah aber, daß unser mit drei Katzen also stattlich begründetes Heimwesen durch den hereingebrochenen Dänenkrieg gar jämmerlich zugrunde ging; meine beiden Knaben und noch ein kleiner dritter, der hinzugekommen war, mußten mit mir und ihrer Mutter in die Fremde wandern, und, so gastlich man uns draußen aufnahm, es war doch in den ersten Jahren eine trübe, katzenlose Zeit.
     </p>
-    <p xml:id="eco_de_000079_100">
+    <p xml:id="eco_de_0000143_100">
      Zwar hatten wir ein Kindermädchen, welches Anna hieß; ihr gutes rundes Gesicht sah allzeit aus, als wäre sie eben vom Torfabladen hergekommen, weshalb die Kinder sie die »schwarze Anna« nannten; aber eine Katze in unser gemietetes Haus zu nehmen, konnten wir noch immer nicht den Mut gewinnen. Da – drei Jahre waren so vergangen – kam von selber eine zugelaufen, ein weiß und schwarz geflecktes Tierchen, schon wohlerzogen und von anschmiegsamer Gemütsart.
     </p>
-    <p xml:id="eco_de_000079_110">
+    <p xml:id="eco_de_0000143_110">
      Was ist von diesem Käterchen zu sagen? – Zum mindesten der Pyramidenritt.
     </p>
-    <p xml:id="eco_de_000079_120">
+    <p xml:id="eco_de_0000143_120">
      Da nämlich den beiden größeren Buben das gewöhnliche Zubettegehen doch gar zu simpel war, so hatten sie's erfunden, auf der schwarzen Anna zu Bett zu reiten; derart, daß sie dabei auf ihrer Schulter saßen und die kleinen Kinderbeinchen vorn herunterbaumelten. Jetzt aber wurde das um vieles stattlicher; denn eines Abends, da sich die Tür der Schlafkammer öffnete, kam in das Wohnzimmer zum Gutenachtsagen eine vollständige Pyramide hereingeritten: über dem großen Kopf der schwarzen Anna der kleinere des lachenden Jungen, über diesem dann der noch viel kleinere Kopf des Käterchens, das sich ruhig bei den Vorderpfötchen halten und dabei ein gar behaglich und vernehmbares Spinnen ausgehen ließ. – Dreimal ritt diese Pyramide die Runde in der Stube und dann zu Bett.
     </p>
-    <p xml:id="eco_de_000079_130">
+    <p xml:id="eco_de_0000143_130">
      Es war sehr hübsch; aber es wurde der Tod des kleinen Katers. Die guten Stunden, die er nach solchem Ritt zur Belohnung im Federbett bei seinem jungen Freunde zubringen durfte, hatten ihn so verwöhnt, daß er eines scharfen Wintermorgens, da er am Abend ausgeschlossen worden, tot und steifgefroren im Waschhause aufgefunden wurde.
     </p>
-    <p xml:id="eco_de_000079_140">
+    <p xml:id="eco_de_0000143_140">
      Und wieder kam eine stille, katzenlose Zeit.
     </p>
-    <p xml:id="eco_de_000079_150">
+    <p xml:id="eco_de_0000143_150">
      Aber wo fände sich nicht eine Aushilfe! Ich konnte ja vortrefflich Katzen zeichnen; – und ich zeichnete! Freilich nur mit Feder und Tinte; aber sie wurden ausgeschnitten und aus dem Tuschkasten sauber angemalt: Katzen von allen Farben und Arten, sitzende und springende, auf vieren und auf zweien gehend, Katzen mit einer Maus im Maule und einem Milchtopf in der Pfote, Katzen mit Kätzchen auf dem Arme und einem bunten Vöglein in der Tatze; den Preis über alle aber gewann ein würdig blickender grauer Kater mit rauhem, bärtigem Antlitz. Ihm wurde in einer Kammer, wo die Kinder spielten, aus Bauholz ein eigenes Haus mit Wohn- und Staatsgemächern aufgebaut. Viel Zeit und Mühe war darauf verwandt worden; deshalb erhielt es aber auch das Vorrecht, vor dem zerstörenden Eulbesen der Köchin durch strenges Verbot geschützt zu werden. Es hieß »das Hotel zur schwarzen Anna«; und »der alte Herr«, welchen Namen der Graue sich gar bald erworben hatte, hat lange darin gewohnt. Selten nur verließ er seine angenehmen Räume; desto lieber, da es ihm an Dienerschaft nicht fehlte, versammelte er bei sich die Gesellschaft seiner Freunde und Freundinnen. Dann ging es hoch her; wir haben oft durchs Fenster geguckt. Fetter Rahm in Tassenschälchen, Bratwürstchen und gebratene Lerchen wurden immer aufgetragen; den Ehrenplatz zur Rechten des Gastgebers aber hatte allzeit ein allerliebstes weißes Kätzchen mit einem roten Bändchen um den Hals; ob es eine Verwandte oder gar die Tochter desselben gewesen, haben wir nicht erfahren können.
     </p>
-    <p xml:id="eco_de_000079_160">
+    <p xml:id="eco_de_0000143_160">
      Außer solchen Festen lebte übrigens der alte Herr still für sich weg; nur manchmal liebte er es, aus seinem Hause auf die Spiele der Kinder in der Kammer hinabzublicken, wozu er die bequemste Gelegenheit hatte, da das Hotel »Zur schwarzen Anna« auf einer Fensterbank erbaut war. Dann stieß wohl eins der Kinder das andre an und flüsterte: »Seht, seht! Der alte Herr steht wieder einmal am Fenster!«
     </p>
-    <p xml:id="eco_de_000079_170">
+    <p xml:id="eco_de_0000143_170">
      Auch seinen Geburtstag sollte er noch erleben. Zu diesem Feste, an welchem alle Kater und Katzen sich zur Gratulation versammeln sollten, bekam ich den Auftrag, sein Brustbild in Lebensgröße zu malen, was dann auch wirklich am Morgen des Festtages, in einen breiten Goldrahmen gefaßt, im Saale des Hotels aufgehangen wurde.
     </p>
-    <p xml:id="eco_de_000079_180">
+    <p xml:id="eco_de_0000143_180">
      Aber es nimmt alles einmal ein Ende. – Da wir eines Morgens aufgestanden waren, fanden wir ihn tot in seinem Bette. Ob er bei dem letzten leckeren Mahle sich zu viel getan, ob die ihm zugemessene Lebensdauer abgelaufen war; – soviel steht fest, was wir hier vor uns sahen, war nur noch seine entseelte Hülle.
     </p>
-    <p xml:id="eco_de_000079_190">
+    <p xml:id="eco_de_0000143_190">
      Also wurde ein Schächtelchen mit schwarzem Papier beklebt und ausgeschlagen und so ein Sarg daraus gemacht. Der alte Herr wurde hineingelegt und stand zur Parade in dem großen Saale des Hotels, wo von der Wand sein noch in aller Lebensfülle gemaltes Bildnis auf den Sarg herabsah.
     </p>
-    <p xml:id="eco_de_000079_200">
+    <p xml:id="eco_de_0000143_200">
      Endlich wurde er auf dem Steinhofe – ach, einen Garten hatten wir da draußen nicht! – in das für ihn gegrabene Grab gesenkt und mit einem schweren Steine fest und dauerhaft bedeckt.
     </p>
-    <p xml:id="eco_de_000079_210">
+    <p xml:id="eco_de_0000143_210">
      – Aber wer möchte nicht gern wissen, wie die Toten aussehen. – Natürlich wurde der alte Herr nach einem halben Jahr wieder ausgegraben, sehr mit Schimmel überzogen vorgefunden, schaudernd und ganz genau betrachtet und dann endlich noch einmal und auch zum allerletzten Mal begraben.
     </p>
-    <p xml:id="eco_de_000079_220">
+    <p xml:id="eco_de_0000143_220">
      Für Kinder und alte Leute, welch ein erlösender Zauber liegt in dem Begraben!
     </p>
-    <p xml:id="eco_de_000079_230">
+    <p xml:id="eco_de_0000143_230">
      In der Heimat zur Zeit der Manschettenmieße, als die zwei ältesten Knaben ihre ersten Kittel noch nicht ausgetragen hatten, als sie für den großen Garten, der am Hause war, mit eignem »Schmierzeug« noch versehen waren – in jener glücklichen Zeit gab es außer Katzen auch noch andres Getier im Hause. Da war ein kleiner weißer Pudel, welcher »Bube« hieß, aber leider trotz des Tierarztes schon früh an einer Hunde-Kinderkrankheit sterben mußte; dann war ein weißes Kaninchen, welches »Nine« hieß, und außerdem noch eine weiße Taube, welche keinen Namen hatte, sonst aber sehr wohl »Federlos« hätte heißen können.
     </p>
-    <p xml:id="eco_de_000079_240">
+    <p xml:id="eco_de_0000143_240">
      In dem geräumigen Taubenschlage auf dem Hausboden hatte sie einst mit vielen schönen Gefährten, Hahnenschwänzen und Mohrenköpfen, gewohnt und sich von dort aus lustig mit ihnen über den grünen Gärten in der Luft getummelt; aber eines Nachts war der Marder eingebrochen, und sie allein blieb die Überlebende. Damit sie in dem großen leeren Schlage nicht allzusehr die Einsamkeit empfinde, wurde das Kaninchen ihr zum Gesellen beigegeben, und da weder dieses von ihren Erbsen, noch sie die Hundeblumenblätter des Kaninchens begehrte, so lebten sie wie Geschwister einträchtiglich beisammen. Wenn die Taube von ihren Ausflügen heimkam, klappte Nine allzeit freudig mit den Hinterkäufen; denn sie spielten dann Greif oder Haschemännchen miteinander, und da das Kaninchen sehr gut greifen konnte, so geschah es dabei ganz von selber, daß es seiner Freundin einen Mund voll Federn nach dem andern abbiß. – So wurde sie das Täubchen »Federlos« und konnte nur noch mit den Posen fliegen.
     </p>
-    <p xml:id="eco_de_000079_250">
+    <p xml:id="eco_de_0000143_250">
      Aber weiter kam es nicht; die Posen sollte sie behalten. Denn da die Knaben eines Morgens in den Schalg hinanstiegen, flatterte das Täubchen Federlos zwar noch um sie herum, Nine aber lag mit ausgestreckten vieren tot und platt am Boden.
     </p>
-    <p xml:id="eco_de_000079_260">
+    <p xml:id="eco_de_0000143_260">
      Eilig stürmten sie die Treppen hinab und verkündeten im Wohnzimmer ihre Trauerkunde, wo ich ahnungslos bei meiner Tasse Tee saß.
     </p>
-    <p xml:id="eco_de_000079_270">
+    <p xml:id="eco_de_0000143_270">
      Wahrscheinlich hatte Nine sich an Taubenfedern totgegessen; indessen ich bedachte solches nicht und sagte ohne viele Umstände: »Da habt ihr's wohl verhungern lassen!«
     </p>
-    <p xml:id="eco_de_000079_280">
+    <p xml:id="eco_de_0000143_280">
      Ob das Gewissen der beiden dennoch nicht ganz rein gewesen? – Aber – hilf Himmel! wie huben auf dieses Wort die kleinen Kerle an zu schreien! Kein Trost, kein Zuspruch half, die Tränen liefen ihnen stromweis über die Backen.
     </p>
-    <p xml:id="eco_de_000079_290">
+    <p xml:id="eco_de_0000143_290">
      Da trat mein Freund, der Doktor – der als Primaner einst so schön die Klarinette spielte – in die Tür. »Hallo! Junges, was ist da los?«
     </p>
-    <p xml:id="eco_de_000079_300">
+    <p xml:id="eco_de_0000143_300">
      Die Augen wandten sich zu dem Sprecher, und einen Augenblick lang stockte das Geheul. »Doktor«, rief der eine im wehmütigsten Klagelaut, »unser Nine ist tot! «
     </p>
-    <p xml:id="eco_de_000079_310">
+    <p xml:id="eco_de_0000143_310">
      »Und wir haben es verhungern lassen!« schrie der andre. – Dann heulten sie beide wieder mit vereinten Kräften.
     </p>
-    <p xml:id="eco_de_000079_320">
+    <p xml:id="eco_de_0000143_320">
      »Jungens!« rief der Doktor. »Euer Nine wird nicht mehr lebendig! Aber wißt ihr denn das nicht? Wenn es tot ist, so müßt ihr es begraben!«
     </p>
-    <p xml:id="eco_de_000079_330">
+    <p xml:id="eco_de_0000143_330">
      Begraben! – Das Zauberwort war gesprochen. Das Geschrei verstummte, die Tränen wurden abgewischt, ein wahres Sonnenleuchten verklärte die Gesichter der beiden Kinder. – Schon waren sie aus dem Zimmer und die Bodentreppe hinauf; und nicht lange, so kamen sie fröhlichen Angesichts mit dem Leichnam ihres Nine angezogen; der eine hatte es an den Ohren, der andre an den Hinterläufen. So zogen wir mitsammen in den Garten hinaus.
     </p>
-    <p xml:id="eco_de_000079_340">
+    <p xml:id="eco_de_0000143_340">
      Als wir auf dem großen Steige waren, begegnete uns die Manschettenmieße. »Miau! « sagte sie, indem sie stehenblieb und uns ansah.
     </p>
-    <p xml:id="eco_de_000079_350">
+    <p xml:id="eco_de_0000143_350">
      Der Zug hielt; und die Kinder sahen sie wieder an. »Mite«, sagte der Kleine, noch einmal in seinen Klageton verfallend, »unser Nine ist tot!«
     </p>
-    <p xml:id="eco_de_000079_360">
+    <p xml:id="eco_de_0000143_360">
      Dann setzte der Zug sich wieder in Bewegung, und Mite machte einen Buckel und sprang mit, um dem Begräbnis beizuwohnen.
     </p>
-    <p xml:id="eco_de_000079_370">
+    <p xml:id="eco_de_0000143_370">
      Der Doktor hatte schon den Spaten in der Hand, und an der Geißblattlaube unter überhängenden Ulmenzweigen wurde nach reiflicher Erwägung die Stätte auserwählt. Da wurde ich von der Magd ins Haus zurückgerufen und überließ dem Doktor allein die Leitung unsrer Trauerfeierlichkeit.
     </p>
-    <p xml:id="eco_de_000079_380">
+    <p xml:id="eco_de_0000143_380">
      Drinnen im Hause erwarteten mich ganz andre Dinge. Da war ein Mann, der hatte einen bösen Schuldner, von dem er weder Kapital noch Zinsen erhalten konnte, und wir sprachen wohl eine halbe Stunde miteinander, auf welche Weise ihm zu beidem zu verhelfen sei.
     </p>
-    <p xml:id="eco_de_000079_390">
+    <p xml:id="eco_de_0000143_390">
      Als ich dann wieder in den Garten hinauskam, war der Doktor nicht mehr da; auch der Körper des verstorbenen Nine war verschwunden, und der Spaten lehnte an der Planke. Die beiden kleinen Totengräber aber – die natürlich ihr Schmierzeug anhatten – lagen neben der Geißblattlaube auf den Knien und hatten einen kleinen seltsam glänzenden Erdhügel zwischen sich, auf dem sie beide eifrig mit ihren rotkarierten Taschentüchern rieben.
     </p>
-    <p xml:id="eco_de_000079_400">
+    <p xml:id="eco_de_0000143_400">
      »Was macht ihr da?« fragte ich, indem ich zu ihnen trat; denn diese Sache war mir völlig unverständlich.
     </p>
-    <p xml:id="eco_de_000079_410">
+    <p xml:id="eco_de_0000143_410">
      Da guckte der Kleine auf. »Papa!« sagte er, und sein Gesicht leuchtete so fröhlich wie droben kaum die liebe Himmelssonne – »wir polieren Nine sein Grab mit Spucke!«
     </p>
-    <p xml:id="eco_de_000079_420">
+    <p xml:id="eco_de_0000143_420">
      – Und also endete dies vergnügliche Begräbnis.
     </p>
    </div>

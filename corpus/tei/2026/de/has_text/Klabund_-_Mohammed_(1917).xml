@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000057" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000121" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -79,20 +79,20 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
-   <change when="2026-04-15">
+   <change when="2026-04-16">
     Created by DS
    </change>
   </revisionDesc>
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000057_20">
+   <p xml:id="eco_de_0000121_20">
     Klabund
    </p>
-   <p xml:id="eco_de_000057_30">
+   <p xml:id="eco_de_0000121_30">
     Mohammed
    </p>
-   <p xml:id="eco_de_000057_40">
+   <p xml:id="eco_de_0000121_40">
     Roman eines Propheten
    </p>
   </front>
@@ -100,1519 +100,1519 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000057_50">
+    <p xml:id="eco_de_0000121_50">
      Ambra und Aloe und alle Wohlgerüche Arabiens über dich, den erlauchten Leser dieses geringen Buches. Du stehst mir nahe wie meiner Eltern Kind. Sei mein tapferer Bruder! Meine scheue Schwester!
     </p>
-    <p xml:id="eco_de_000057_60">
+    <p xml:id="eco_de_0000121_60">
      Mohammed Ibn Ishak grüßt den edlen Gefährten und die anmutige Genossin einer kurzen Reise durch die Märchenwildnis seiner Schrift. Nach mündlichen Berichten und Zeugnissen und den gewissenhaften Erzählungen seiner Freunde schrieb er das Leben Mohammeds, des Gesandten Gottes, wie er es wahrhaftig erlebte. Möge Nachsicht seinem gewagten Unternehmen vergönnt sein! Die Agave muß blühen, das Weib muß lieben, die Sonne sich sonnen, Mohammed Ibn Ishak mußte dichten: die goldene Geißel und die rosane Entzückung seines Seins.
     </p>
-    <p xml:id="eco_de_000057_70">
+    <p xml:id="eco_de_0000121_70">
      Der Schatten einer Palme segnete Aminah, die Liebliche, welche sanft dahingestreckt sich ihm vertraute. Die bronzene Wüste lag vor ihren Blicken, ein Kessel, der über unsichtbaren Feuern schwang. Ihre Ahnung irrte nach Westen. Dort hob sich eine Wolke Staub vom Boden, als entstiege sie einer Karawane. Mit lässiger Ängstlichkeit spielten ihre kleinen grauen Hände wie zwei Mäuse im silbernen Sand. Die Wolke aber kam näher, und sie nahm die Gestalt und den Glanz eines Jünglings an. Die Palme zu ihren Häupten begann zu tönen. Die Luft bestürmte sie. Zu schwarzen seidenen Kissen wandelte sich der Schatten, in dem sie lag. Eine selige Müdigkeit streichelte ihre Glieder. Ein strahlendes Echo zitternd gestammelter Liebkosung empfing sie aus der Wolke, dann sank sie rücklings in einen schwärmerischen Schlaf.
     </p>
-    <p xml:id="eco_de_000057_80">
+    <p xml:id="eco_de_0000121_80">
      Als sie erwachte, hing ihr die Dämmerung ins Gesicht. Ihre Brüste stießen hell und hart ins Dunkle. Die schimmernden Brustwarzen berührten die steigenden Sterne, ihre Geschwister. Ermattet und erlöst sah sie den braunen Rücken eines Jünglings, der in das Abendrot schritt. In weiter Ferne unkörperlich sich entfaltete und in einer blauen Wolke entschwand.
     </p>
-    <p xml:id="eco_de_000057_90">
+    <p xml:id="eco_de_0000121_90">
      Als Aminah einen Sohn gebar, da nannte sie ihn Mohammed. Sie empfand aber keine Wehen, wie die Weiber sonst, wenn sie gebären. Sie krümmte sich nicht wie die Weinbergschnecken. Sie schrie nicht wie der Schakal oder die wilde Katze. Sie lächelte, da sie ihn von sich nahm. Die Wunde schloß sich alsobald, sie erhob sich von ihrem Lager und eilte leichtfüßig, das Kind auf den Armen, nach der Kaaba. Dort brach sie in die Knie. Der schwarze Stein, der einst vom Himmel gefallen war, berührte die weißen Lippen des Säuglings, der, noch erblindet, sich an ihn saugte und Milch von ihm trank wie von den Brüsten einer Mutter.
     </p>
-    <p xml:id="eco_de_000057_100">
+    <p xml:id="eco_de_0000121_100">
      Aminah aber war zart, und Mohammed ergriff sie mit den Pranken eines jungen Tigers. Da sprach Abd Almuttalib zu ihr:
     </p>
-    <p xml:id="eco_de_000057_110">
+    <p xml:id="eco_de_0000121_110">
      »Ich werde gehen und eine Amme suchen. Denn das Kind ist stark, wie ich noch keines sah; es könnte dich töten... Auch mangelt es an genügender Nahrung für dich. Wir haben Dürre und Hungersnot. Ich werde gehen zu den Frauen vom Stamme der Benu Saad, deren Beruf und Verdienst es ist, zu säugen.«
     </p>
-    <p xml:id="eco_de_000057_120">
+    <p xml:id="eco_de_0000121_120">
      Abd Almuttalib ging auf den Markt, wo die Frauen vom Stamme der Benu Saad sich als Ammen anbieten, und rief: »Eine Amme für Mohammed, den Sohn der Aminah!«
     </p>
-    <p xml:id="eco_de_000057_130">
+    <p xml:id="eco_de_0000121_130">
      Das Gemurmel der Frauen, das wie Plätschern eines tiefen Brunnens klang, riß mitten hindurch wie ein Leinentuch. Sie spitzten ihre Ohren wie Häsinnen.
     </p>
-    <p xml:id="eco_de_000057_140">
+    <p xml:id="eco_de_0000121_140">
      Als sie aber hörten, daß der Name eines Vaters nicht ausgerufen wurde, überstürzten sich ihre Stimmen wie Kaskaden, um dann munter und eben weiter dahinzuplätschern.
     </p>
-    <p xml:id="eco_de_000057_150">
+    <p xml:id="eco_de_0000121_150">
      Ein Waisenkind! Pah! Was soll es damit! Das Gehalt fällt mager aus, wenn der Vater fehlt. Und wo bleiben die üblichen Ehrengeschenke des Erzeugers an die Amme? Der Großvater wird sich nicht sonderlich um das Kind kümmern.
     </p>
-    <p xml:id="eco_de_000057_160">
+    <p xml:id="eco_de_0000121_160">
      Abd Almuttalib lief den Markt auf und ab und rief: »Eine Amme für Mohammed, den Sohn der Aminah!«
     </p>
-    <p xml:id="eco_de_000057_170">
+    <p xml:id="eco_de_0000121_170">
      Er lief den ganzen Vormittag. Als alle andern Frauen schon Säuglinge gefunden hatten, trat Halimeh, die Ärmliche und Unscheinbare, mit den schlaffen Brüsten, welche fürchtete, um ihren Verdienst zu kommen, auf Almuttalib zu und sprach: »Ich bin bereit, Mohammed, den Sohn der Aminah, zu säugen und zu pflegen...«
     </p>
-    <p xml:id="eco_de_000057_180">
+    <p xml:id="eco_de_0000121_180">
      Sie nahm den Knaben auf die Arme und trug ihn, mißvergnügt, daß sie ein Waisenkind davongetragen und weiterer Geschenke verlustig gehe, zu ihrer Kamelin, einem halbverhungerten kärglichen Tier, und schloß sich der Karawane der Ammen an, die mit ihren Säuglingen heimritten.
     </p>
-    <p xml:id="eco_de_000057_190">
+    <p xml:id="eco_de_0000121_190">
      Als sie nun Mohammed an ihren schlaffen Busen legte, da schwoll er rund wie ein Granatapfel und gab Milch im Überfluß. Am Abend, da es sie hungerte und ihr Mann die Kamelin molk, molk er viele Eimer voll. Als sie sich zum Schlaf niederlegten, standen Dattel- und Feigenbäume um ihr Lager und sie tranken und aßen sich seit langem wieder einmal satt. Halimeh aber sagte: »Wisse, wir sind in einen Garten der Wunder getreten. Die Welt liegt hinter einem Rosenbusch. Palmen fächeln wie Mohrensklaven. Ich bin jung und wieder schön. Küsse mich Geliebter...«
     </p>
-    <p xml:id="eco_de_000057_200">
+    <p xml:id="eco_de_0000121_200">
      Das Land der Benu Saad, welches das unfruchtbarste Arabiens ist, wandelte sich, wo die Schritte Halimehs, der Amme Mohammeds, es berührten, zu einem paradiesischen Acker. Schwer mit Milch beladen schwankte Halimehs Vieh jeden Abend heim. Die Bäume warfen Schatten und Früchte ins ehedem leere Haus. Vögel und Blumen, die man vordem in dieser Gegend nie gesehen, blühten und zwitscherten um Mohammed und Halimeh. Nach zwei Jahren entwöhnte Halimeh Mohammed von ihrer Brust. Er aber verlangte noch oft nach ihr, bis in sein viertes Jahr.
     </p>
-    <p xml:id="eco_de_000057_210">
+    <p xml:id="eco_de_0000121_210">
      Mohammed verbrachte die Tage als Hirt auf den Wiesen der Tochter Abu Dsueibs.
     </p>
-    <p xml:id="eco_de_000057_220">
+    <p xml:id="eco_de_0000121_220">
      Öfter sprach Halimeh mit ihrem Mann: »Wundert es dich nicht, daß seine Mutter gar nicht nach ihm verlangt? Ist das noch eine rechte Mutter, die vier Jahre, zwei Jahre nach der Entwöhnung, sich gar nicht nach ihrem Knaben erkundigt?«
     </p>
-    <p xml:id="eco_de_000057_230">
+    <p xml:id="eco_de_0000121_230">
      »Abd Almuttalib schickt regelmäßig das Abgehandelte und Ausgemachte. Und haben wir nicht sonderbaren Segen durch Mohammed? Bekümmere dich nicht um die unmütterlichen Gefühle fremder Mütter«, entgegnete ärgerlich ihr Gatte. Das Gespräch durchbrach, wie der Wolf die Lammhürde, bellend der Milchbruder Mohammeds, ihrer beider Sohn.
     </p>
-    <p xml:id="eco_de_000057_240">
+    <p xml:id="eco_de_0000121_240">
      Ein riesiger Vogel, so erzählte er stammelnd, sei auf Mohammed, der sich bei den Tieren auf der Wiese befand, aus der Sonne herniedergestoßen, habe ihm mit dem goldenen Schnabel die Brust aufgehackt, so daß die Gedärme heraushingen, und habe in den Gedärmen gewühlt, als suche er das Herz. Da habe sich plötzlich eine schöne Frauengestalt, durchsichtig wie Glas und wie ein Schleier über die Wiese wehend, gegen den Vogel geworfen, der, von seinem Opfer ablassend, sich nunmehr gegen die offenbare Feindin wandte, sie mit seinen riesigen Krallen ergriff und mit ihr in den Lüften verging.
     </p>
-    <p xml:id="eco_de_000057_250">
+    <p xml:id="eco_de_0000121_250">
      Erschreckt eilten Halimeh und ihr Gatte, der in Eile eine Hacke als Waffe an sich riß, auf die Wiese. Sie fanden das Vieh ruhig grasend und inmitten des Viehes auf einem kleinen Hügel Mohammed ohnmächtig, mit aufgerissener Brust und einer Wunde in der Herzgegend. Sie trugen ihn ins Haus und verbanden die Wunde, welche zusehends heilte.
     </p>
-    <p xml:id="eco_de_000057_260">
+    <p xml:id="eco_de_0000121_260">
      Nach drei Tagen schon sprang Mohammed wieder, der über sein Erlebnis keine Auskunft geben konnte, zwischen den Eseln und Kamelen im Stall umher.
     </p>
-    <p xml:id="eco_de_000057_270">
+    <p xml:id="eco_de_0000121_270">
      Aus der Beschreibung der schleierhaften Frau, die Mohammeds Milchbruder malte, schlössen Halimeh und ihr Gatte mit Bestimmtheit, daß es Aminah, Mohammeds Mutter, gewesen sein müsse. Das Abenteuer entsetzte sie aber dermaßen, daß sie beschlossen, Mohammed seiner Familie zurückzubringen und das Kostgeld aufzusagen.
     </p>
-    <p xml:id="eco_de_000057_280">
+    <p xml:id="eco_de_0000121_280">
      Als sie ihn zu Abd Almuttalib brachten, erfuhren sie, daß Aminah, Mohammeds Mutter, gestorben sei. Der wunderliche Alte hatte es ihnen drei Jahre verheimlicht.
     </p>
-    <p xml:id="eco_de_000057_290">
+    <p xml:id="eco_de_0000121_290">
      In Syrien lebte ein Mönch namens Bahirah in einer Einsiedelei inmitten eines Gehölzes. Er hatte ehemals seine Hütte unter einem Baum, nicht weit von der großen Karawanenstraße, errichtet. Es war aber nach und nach ein ganzer Wald um seine Behausung aufgeschossen, der sie vor den Blicken und Besuchen neugieriger Schnüffler verbarg. Er war ein Christ und mit christlichen Sitten und Gebräuchen wohlvertraut. In seiner Hütte verwahrte er an einer eisernen Kette ein heiliges Buch, zu dem die Mönche und Schriftgelehrten von weither pilgerten. Das Buch aber hatte ihm prophezeit, er werde den Gesandten Gottes erblicken und in den Armen halten an dem Morgen, an dem er es nicht werde berühren können. Und der Gesandte Gottes werde eine Narbe über dem Herzen haben: die Narbe, da Gott ihm sein menschliches Herz aus der Brust geschnitten und ihm ein englisches eingesetzt habe an seiner Statt. Jahrelang hielt Bahirah Ausschau nach dem Gesandten Gottes und bereitete sich auf ihn vor mit Gebeten und Kasteiungen.
     </p>
-    <p xml:id="eco_de_000057_300">
+    <p xml:id="eco_de_0000121_300">
      Eines Morgens, als er den Tag wie gewöhnlich mit einem Gebete aus dem heiligen Buch eröffnen wollte, sah er, daß das heilige Buch vollkommen eingesponnen war. Auf dem grünen Gespinst aber hockte eine große giftige Spinne, das Zeichen Luzifers auf der Stirn.
     </p>
-    <p xml:id="eco_de_000057_310">
+    <p xml:id="eco_de_0000121_310">
      Kaum hatte Bahirah sich von seinem Schreck erholt, als Getrappel von Pferden und Kamelen auf der Landstraße vernehmlich wurde.
     </p>
-    <p xml:id="eco_de_000057_320">
+    <p xml:id="eco_de_0000121_320">
      Bahirah stürzte sich auf die Straße und warf sich der Karawane entgegen, die Arme weit gebreitet. Er fiel dem vordersten Reiter in die Zügel und schrie: »Ich lasse Euch nicht, Ihr tut mir denn die Ehre und seid für heute meine Gäste. Der Gesandte Gottes weilt unter Euch, ich will ihm huldigen.«
     </p>
-    <p xml:id="eco_de_000057_330">
+    <p xml:id="eco_de_0000121_330">
      Seinen weißen Bart zauste der Wüstenwind. Seine Augen brannten.
     </p>
-    <p xml:id="eco_de_000057_340">
+    <p xml:id="eco_de_0000121_340">
      Die Kureischiten lächelten, und ihr Anführer, Abu Talib, der Oheim Mohammeds, sprach: »Ehrwürdiger Vater, wir wollen Euch gern das Vergnügen machen, uns zu bewirten. Aber den Gesandten Gottes, von dem Ihr spracht, führen wir nicht bei uns, erinnern uns auch nicht, von einem solchen gehört zu haben.«
     </p>
-    <p xml:id="eco_de_000057_350">
+    <p xml:id="eco_de_0000121_350">
      Die Karawane sattelte ab. Mit Hilfe seiner Jünger richtete Bahirah unter einem Baume ein Mahl her: Lammfleisch, Brot und Milch, und lud sie alle ein, jung und alt, Sklaven und Freie.
     </p>
-    <p xml:id="eco_de_000057_360">
+    <p xml:id="eco_de_0000121_360">
      Als sie bei Tisch saßen, musterte Bahirah seine Gäste der Reihe nach mit gütigen Augen und sprach: »Kureischiten, es darf keiner, auch der Geringste nicht, zurückbleiben. Ich habe Euch alle eingeladen; fehlt auch niemand in der Runde?«
     </p>
-    <p xml:id="eco_de_000057_370">
+    <p xml:id="eco_de_0000121_370">
      Die Kureischiten lächelten, und Abu Talib sprach:
     </p>
-    <p xml:id="eco_de_000057_380">
+    <p xml:id="eco_de_0000121_380">
      »Wir sind alle hier versammelt. Ein Knabe nur, mein Neffe, blieb im Lager, um auf die Tiere acht zu haben.«
     </p>
-    <p xml:id="eco_de_000057_390">
+    <p xml:id="eco_de_0000121_390">
      Da sprang Bahirah auf und schrie: »Holt mir den Knaben!« Zwei Sklaven brachten Mohammed, der unbefangen auf den Mönch zutrat und sich tief vor ihm verneigte, die Arme über die Brust gekreuzt.
     </p>
-    <p xml:id="eco_de_000057_400">
+    <p xml:id="eco_de_0000121_400">
      Als er die Verbeugung vollendet hatte und die Arme seitwärts fallen ließ, erkannte Bahirah auf dem nackten Oberkörper unter dem Herzen die Wunde, das Mal des Prophetentums. Bahirah aber gedachte ihn zu versuchen und sprach:
     </p>
-    <p xml:id="eco_de_000057_410">
+    <p xml:id="eco_de_0000121_410">
      »Schwör« mir bei Lat und Uzza, Knabe, ob du wahre Träume hast!«
     </p>
-    <p xml:id="eco_de_000057_420">
+    <p xml:id="eco_de_0000121_420">
      Der Knabe schüttelte den dunkeln Kopf, und eine Gebärde des Ekels erschütterte seine Züge. »Ich glaube nicht an Lat und Uzza, die Götzen der Kureischiten. Jeder Eid, der bei ihnen geschworen wird, ist ein Meineid.«
     </p>
-    <p xml:id="eco_de_000057_430">
+    <p xml:id="eco_de_0000121_430">
      »Woran glaubst du sonst, Knabe, wenn nicht an die Götter deines Volkes?«
     </p>
-    <p xml:id="eco_de_000057_440">
+    <p xml:id="eco_de_0000121_440">
      »Die Götzen meines Volkes sind tönerne Götzen. Ich kann sie mit meinem Stecken zerschlagen.«
     </p>
-    <p xml:id="eco_de_000057_450">
+    <p xml:id="eco_de_0000121_450">
      »Und woran glaubst du, Knabe?«
     </p>
-    <p xml:id="eco_de_000057_460">
+    <p xml:id="eco_de_0000121_460">
      Der Knabe hob den Kopf. Den linken Arm schön um eine Bambusstaude geschlungen, sprach er leise:
     </p>
-    <p xml:id="eco_de_000057_470">
+    <p xml:id="eco_de_0000121_470">
      »An mich.«
     </p>
-    <p xml:id="eco_de_000057_480">
+    <p xml:id="eco_de_0000121_480">
      Bahirah kreuzte die Arme und neigte sich vor dem Knaben, wie der Knabe soeben vor ihm. Dann führte er ihn in das Haus, das heilige Buch ihm zu zeigen.
     </p>
-    <p xml:id="eco_de_000057_490">
+    <p xml:id="eco_de_0000121_490">
      Da sah er wieder das grüne Gespinst und auf dem Gespinst die giftige Spinne. Sie zischte wie eine Schlange, als Mohammed ihr nahekam.
     </p>
-    <p xml:id="eco_de_000057_500">
+    <p xml:id="eco_de_0000121_500">
      Er aber packte sie mit der Faust, warf sie auf den Boden und zertrat sie mit bloßer Sohle.
     </p>
-    <p xml:id="eco_de_000057_510">
+    <p xml:id="eco_de_0000121_510">
      Er riß das Gespinst auseinander, schlug das Buch auf, und ob er gleich zuvor niemals gelesen und keiner Buchstaben kundig war, las er:
     </p>
-    <p xml:id="eco_de_000057_520">
+    <p xml:id="eco_de_0000121_520">
      »Gelobt sei Gott, der Herr der tausend Welten. Der Allerbärmer. Der König der Richter und der Richter der Könige. Ihm dienen wir, so dient er uns. Er leite uns den geraden Weg: den Weg der Gnade und der Güte. Des Willens und der Weisung. Es ist nur ein Gott, ihn zeugte niemand, er zeuget niemanden, es ist nur ein Gott, und Mohammed ist sein Prophet ...«
     </p>
-    <p xml:id="eco_de_000057_530">
+    <p xml:id="eco_de_0000121_530">
      Des Abends, als die Kureischiten sich zum Aufbruch rüsteten, nahm Bahirah Abu Talib beiseite:
     </p>
-    <p xml:id="eco_de_000057_540">
+    <p xml:id="eco_de_0000121_540">
      »Wisse, daß Ihr den Gesandten Gottes unter Euch habt. Meine alten Augen sind selig, da sie ihn noch gesehen, meine dürre Lippe lobpreist seine kindliche Gottheit.«
     </p>
-    <p xml:id="eco_de_000057_550">
+    <p xml:id="eco_de_0000121_550">
      Abu Talib lächelte verzeihend:
     </p>
-    <p xml:id="eco_de_000057_560">
+    <p xml:id="eco_de_0000121_560">
      »Wer ist es, den Ihr meint, ehrwürdiger Vater?«
     </p>
-    <p xml:id="eco_de_000057_570">
+    <p xml:id="eco_de_0000121_570">
      Der Greis verneigte sich:
     </p>
-    <p xml:id="eco_de_000057_580">
+    <p xml:id="eco_de_0000121_580">
      »Es ist Mohammed, Euer Neffe.«
     </p>
-    <p xml:id="eco_de_000057_590">
+    <p xml:id="eco_de_0000121_590">
      Abu Talib lachte:
     </p>
-    <p xml:id="eco_de_000057_600">
+    <p xml:id="eco_de_0000121_600">
      »Märchenerzähler!« und schwang sich aufs Pferd. »Die Kureischiten handeln mit Edelsteinen und Seidenstoffen, aber nicht mit Göttern. Mohammed ist ein Kaufmann.«
     </p>
-    <p xml:id="eco_de_000057_610">
+    <p xml:id="eco_de_0000121_610">
      Der Alte ballte die Faust. Er bellte:
     </p>
-    <p xml:id="eco_de_000057_620">
+    <p xml:id="eco_de_0000121_620">
      »Er wird Euch Euren Unglauben mit rechter Münze heimzahlen!«
     </p>
-    <p xml:id="eco_de_000057_630">
+    <p xml:id="eco_de_0000121_630">
      Mohammed kehrte von einer Geschäftsreise, die er im Auftrag seines Oheims Abu Talib unternommen hatte, aus Syrien zurück. Die Geschäfte waren ihm nicht nach Wunsch und Willen gelungen, und mißmutig ritt der Jüngling seiner Straße. In sich versunken, bemerkte er nicht, wie er in die Fährte einer kleinen Reisegesellschaft geriet und, von ihr geleitet, sich besinnungslos ihrer Führung ergab. Die Gesellschaft machte halt. Mohammed stieg ebenfalls vom Pferde. Man begab sich in ein Haus. Mohammed, eine Gaststätte vermutend, folgte. Wohlig auf einem Kissen dahingestreckt, hing er müde geflügelten Träumen nach. Als er sich von einem Sonnenstrahl des bunten Fensters geblendet zur Seite ins Dämmerige wandte, sah er eine Dame vor sich, die ihm eine Schale Kaffee reichte.
     </p>
-    <p xml:id="eco_de_000057_640">
+    <p xml:id="eco_de_0000121_640">
      Er erhob sich, errötend und verwirrt.
     </p>
-    <p xml:id="eco_de_000057_650">
+    <p xml:id="eco_de_0000121_650">
      »Herrin, wer seid Ihr ? Täuscht mich Trübung der Träume? Bin ich in keinem Gasthaus?«
     </p>
-    <p xml:id="eco_de_000057_660">
+    <p xml:id="eco_de_0000121_660">
      »Beruhigt Euch, Mohammed – Ihr seht, ich kenne Euch – Ihr seid in einem gastlichen Hause – im Hause der Chadidjeh, der Tochter des Chuweiled.«
     </p>
-    <p xml:id="eco_de_000057_670">
+    <p xml:id="eco_de_0000121_670">
      »Herrin, führt mich zu Chadidjeh, daß ich sie um Verzeihung bitte für meine Eindringlichkeit in ihr Haus. Der heiße Tag, die Ahnungen der Seele verwirrten mich.«
     </p>
-    <p xml:id="eco_de_000057_680">
+    <p xml:id="eco_de_0000121_680">
      »Entschuldigt Euch nicht, Mohammed, Chadidjeh steht vor Euch.«
     </p>
-    <p xml:id="eco_de_000057_690">
+    <p xml:id="eco_de_0000121_690">
      Mohammed verneigte sich dreimal.
     </p>
-    <p xml:id="eco_de_000057_700">
+    <p xml:id="eco_de_0000121_700">
      Die Röte, die über sein Gesicht flutete, durchflammte die Dämmerung.
     </p>
-    <p xml:id="eco_de_000057_710">
+    <p xml:id="eco_de_0000121_710">
      »Herrin, ich sah auf meinen Wanderungen viele Frauen. Ich las in ihren braunen Dattelaugen und versuchte die weiße Schrift ihrer Stirnen zu enträtseln. Ich nannte sie Schwestern, aber keine verlockte mich zur bleibenden Einkehr. Da öffnet sich ein Haus: gleichsam von selbst. Da öffnet sich ein Herz: in abendlicher Dämmerung. Ein Blutstrom umbraust mich. Ich kralle mich wie ein Geier in die Äste meiner Verzweiflung. Helft mir, Herrin, zum Guten und zur Vollendung oder ruft einen Sklaven, daß er mich erschlage...«
     </p>
-    <p xml:id="eco_de_000057_720">
+    <p xml:id="eco_de_0000121_720">
      Chadidjeh zitterte.
     </p>
-    <p xml:id="eco_de_000057_730">
+    <p xml:id="eco_de_0000121_730">
      »Mohammed, bleibt in diesem Hause, das sich vor Euch aufgetan.«
     </p>
-    <p xml:id="eco_de_000057_740">
+    <p xml:id="eco_de_0000121_740">
      Mohammed fiel in die Kissen.
     </p>
-    <p xml:id="eco_de_000057_750">
+    <p xml:id="eco_de_0000121_750">
      »Wie soll ich Euch verstehen? Ihr spottet meiner! O kenntet Ihr die Qual meines Tuns, bisher bestimmt, den Reichtum meines Oheims zu mehren, aus fremden Börsen Gold in die seinen zu tun, um falsche Werte fronend zu feilschen. Handle! fordert der Ohm. Handle! das gleiche Wort, doch welch entfernter, heilig hoher Sinn! – schreit eine Stimme aus blumiger Wolke, die mich stets beschattet.«
     </p>
-    <p xml:id="eco_de_000057_760">
+    <p xml:id="eco_de_0000121_760">
      Chadidjeh lehnte an einer Säule, um die sich eine geschnitzte Schlange schlang:
     </p>
-    <p xml:id="eco_de_000057_770">
+    <p xml:id="eco_de_0000121_770">
      »Mohammed, du glaubst gewiß, daß du es warst, der unserer Karawane sich anschloß. Wisse: wir waren es, die dir folgten... Wir sahen die Wolke über deinem Haupte, die dein Kamel und dich beschattete, und folgten dir, um des Schattens teilhaftig zu werden, denn die Sonne versengte unsere Stirnen. Wir sind es, die dir zu Dank verpflichtet sind, daß du uns in deinem Schatten reiten ließest – denn die Wolke folgte dir wie ein getreuer Hund.«
     </p>
-    <p xml:id="eco_de_000057_780">
+    <p xml:id="eco_de_0000121_780">
      »Herrin, ich schuf die Wolke nicht: dankt ihm, der sie uns sandte...«
     </p>
-    <p xml:id="eco_de_000057_790">
+    <p xml:id="eco_de_0000121_790">
      »Wir sahen nur die Wolke, doch hörten wir die Stimme nicht.«
     </p>
-    <p xml:id="eco_de_000057_800">
+    <p xml:id="eco_de_0000121_800">
      »Die Stimme wird Gestalt annehmen und unter uns wandeln. Sie wird ihren Mund finden, dem sie weithin vernehmbar donnernd entfahre.«
     </p>
-    <p xml:id="eco_de_000057_810">
+    <p xml:id="eco_de_0000121_810">
      »Mohammed, Gesegneter, ich biete dir mein Haus als Burg der Zuflucht. Handle, wie die Götter es dir befehlen, mit Worten der Wildheit und Wehmut und mit Münze nicht mehr. Betritt und verlaß mein Haus, daß das deine sei, wie du es immer willst, und sei mein Gatte. Nicht werden meine Arme dich ketten und halten, wenn dich der Geist in die Weite und Wüste treibt.«
     </p>
-    <p xml:id="eco_de_000057_820">
+    <p xml:id="eco_de_0000121_820">
      Mohammed stürzte vor Chadidjeh zusammen. Sie hob ihn auf und führte den Jüngling zu Chuweiled Ibn Asad, ihrem Vater. Abu Talib hielt für Mohammed bei Chuweiled um dessen Tochter an.
     </p>
-    <p xml:id="eco_de_000057_830">
+    <p xml:id="eco_de_0000121_830">
      Mohammed brachte zwanzig junge Kamele als Morgengabe mit in die Ehe, die ihm Abu Talib schenkte, obgleich ihn der schlechte Ausfall der syrischen Geschäfte, die Mohammed für ihn geführt hatte, verdroß.
     </p>
-    <p xml:id="eco_de_000057_840">
+    <p xml:id="eco_de_0000121_840">
      Chadidjeh aber war damals die angesehenste Frau unter den Kureischiten, sowohl hinsichtlich ihres Geblütes als wegen ihres großen Reichtums, um den sie jedermann beneidete.
     </p>
-    <p xml:id="eco_de_000057_850">
+    <p xml:id="eco_de_0000121_850">
      Nach einer mondhellen Nacht fanden die Wächter des Heiligtumes der Kaaba, da sie die gewohnte Runde machten, den heiligen, vom Himmel gefallenen Stein nicht mehr.
     </p>
-    <p xml:id="eco_de_000057_860">
+    <p xml:id="eco_de_0000121_860">
      Durch Mekka scholl der Klagegesang der Kureischiten.
     </p>
-    <p xml:id="eco_de_000057_870">
+    <p xml:id="eco_de_0000121_870">
      Man verdächtigte einen griechischen Kaufmann, dessen Schiff bei Djidda gestrandet war, des Diebstahls. Der Grieche beteuerte unter fünfundzwanzig Peitschenhieben heulend seine Unschuld.
     </p>
-    <p xml:id="eco_de_000057_880">
+    <p xml:id="eco_de_0000121_880">
      Man suchte in allen Häusern der alten Stadt und in den Armenquartieren nach dem Stein. Man scheuchte Gesindel und allerlei Laster und Verbrechen auf. Der Stein blieb verschwunden.
     </p>
-    <p xml:id="eco_de_000057_890">
+    <p xml:id="eco_de_0000121_890">
      Da beantragte Mohammed, man möchte in den Palästen der Reichen und Vornehmen die Untersuchung fortsetzen.
     </p>
-    <p xml:id="eco_de_000057_900">
+    <p xml:id="eco_de_0000121_900">
      »Bei Lat und Uzza,« erstaunte Otba, der Emir, »ich finde des Jünglings Rat vorlaut angebracht und übel gegeben. Die Sklaven werden rebellieren, es wird ihnen der Kamm schwellen, wenn sie erfahren, daß man Herren ebenso behandelt wie Knechte, Edle wie Niedre, Reiche wie Arme. Unsere Macht beruht auf den Privilegien unserer Kaste. Sind wir so närrisch, uns dieser Privilegien freiwillig zu begeben? Wir verdienten, gepeitscht zu werden wie der dicke Grieche, der sich zum Stranden künftiges Mal eine andere Küste aussuchen wird als die unsere.«
     </p>
-    <p xml:id="eco_de_000057_910">
+    <p xml:id="eco_de_0000121_910">
      Otba schmetterte ein Gelächter in den Raum, als schütte er einen Sack Nüsse auf die Steinfliesen.
     </p>
-    <p xml:id="eco_de_000057_920">
+    <p xml:id="eco_de_0000121_920">
      Da erhob sich Iblis, der Böse, in Gestalt eines vornehmen Kureischiten und sprach:
     </p>
-    <p xml:id="eco_de_000057_930">
+    <p xml:id="eco_de_0000121_930">
      »Glück und Seligkeit auf deinen Samen, Otba. Du bist mir lieb wie Vater und Mutter: ich gebe meine Geliebte und mein schönstes Kamel für dich hin – gestatte mir aber, in Freundschaft und Verehrung zu bemerken, daß ich Mohammeds Rat gerecht und so arg nicht achte. Nur bin ich der Meinung, im Hause der Chadidjeh, bei welcher Mohammed, ihr Gatte, wohnt, mit der Untersuchung zu beginnen.«
     </p>
-    <p xml:id="eco_de_000057_940">
+    <p xml:id="eco_de_0000121_940">
      Iblis zwinkerte mit seinem einen Auge. Um die Stelle, wo sich beim Menschen ein zweites Auge zu befinden pflegt, hatte er ein rotes Tuch geschlungen, indem er vorgab, an einem Augenübel zu leiden.
     </p>
-    <p xml:id="eco_de_000057_950">
+    <p xml:id="eco_de_0000121_950">
      Otba, der Emir, erhob seinen Blick und ließ ihn lang auf Iblis ruhen. Dann strich er sich über die braune gefurchte Stirn und schwang eine kleine silberne Schelle.
     </p>
-    <p xml:id="eco_de_000057_960">
+    <p xml:id="eco_de_0000121_960">
      Zwei schwarze Sklaven sprangen, voll tierischer Demut wie Kaninchen, an Otba empor, mit gesteiften Ohren und halb offenen Lippen seines Winkes gewärtig.
     </p>
-    <p xml:id="eco_de_000057_970">
+    <p xml:id="eco_de_0000121_970">
      »Man untersuche das Haus der Chadidjeh, der Gattin des Mohammed, Neffen des Abu Talib, nach dem schwarzen Stein.«
     </p>
-    <p xml:id="eco_de_000057_980">
+    <p xml:id="eco_de_0000121_980">
      Chadidjeh empfing am Tore die Boten des Rates.
     </p>
-    <p xml:id="eco_de_000057_990">
+    <p xml:id="eco_de_0000121_990">
      »Herrin,« sagte der erste, »verzeiht, daß wir Euch Ungelegenheiten bereiten. Es ist unsere Pflicht.«
     </p>
-    <p xml:id="eco_de_000057_1000">
+    <p xml:id="eco_de_0000121_1000">
      »Tut nur, was euch befohlen,« lächelte Chadidjeh, »das ganze Haus steht euch offen. Nur bitte ich euch, mit jenem Glasschrank vorsichtig zu verfahren, der meine Vasen enthält, daß ihr nichts zerbrecht. Ich habe erst neulich von jenem griechischen Kaufmann, den ihr so übel zugerichtet, einige kostbare Gläser erworben, die nach einer sonderbaren, mir unbekannten Manier hergestellt sind. Fremde Götter schweben darauf mit fremden Tieren und haben Harfen und Schalmeien in den Händen. Achtet ihrer gut!«
     </p>
-    <p xml:id="eco_de_000057_1010">
+    <p xml:id="eco_de_0000121_1010">
      Chadidjeh zog sich in ihr innerstes Gemach zurück.
     </p>
-    <p xml:id="eco_de_000057_1020">
+    <p xml:id="eco_de_0000121_1020">
      Die Boten durchsuchten das Haus, ernst und unmutig, von den Neckereien der Mägde verspottet.
     </p>
-    <p xml:id="eco_de_000057_1030">
+    <p xml:id="eco_de_0000121_1030">
      »Ihr da!« zwitscherten sie und bespritzten die Diener der Gerechtigkeit kreischend mit Wasser, »wenn wir schon Diebe sind – was seid denn ihr dann, bärtige Unholde! Schäbige Schlucker!«
     </p>
-    <p xml:id="eco_de_000057_1040">
+    <p xml:id="eco_de_0000121_1040">
      Als sie in das Schlafzimmer Mohammeds drangen, fanden sie den schwarzen Stein unter seinem Kopfkissen.
     </p>
-    <p xml:id="eco_de_000057_1050">
+    <p xml:id="eco_de_0000121_1050">
      Die Mägde erblaßten.
     </p>
-    <p xml:id="eco_de_000057_1060">
+    <p xml:id="eco_de_0000121_1060">
      Chadidjeh sank ohnmächtig an einer Säule nieder.
     </p>
-    <p xml:id="eco_de_000057_1070">
+    <p xml:id="eco_de_0000121_1070">
      Mohammed ward des Diebstahls am Heiligtum der Kureischiten angeklagt.
     </p>
-    <p xml:id="eco_de_000057_1080">
+    <p xml:id="eco_de_0000121_1080">
      Er trat mit freier Stirne vor die Richter und sprach:
     </p>
-    <p xml:id="eco_de_000057_1090">
+    <p xml:id="eco_de_0000121_1090">
      »Erhabener Emir! und ihr ändern! meine Brüder und Freunde! Erhebt euch nicht zum Richter über den, der vor euch steht. Er bedarf des Richters nicht, da er sich selbst zum Richter gesetzt. Der jeden Tag, ach jede Stunde mit sich hadert und rechtet, den einen Gott wie die Gazelle das Wasser sucht, und seines unwürdigen Wesens oft keinen Rat, seiner dunklen Furcht oft keine Zuflucht weiß. Vernehmt die Wahrheit Mohammeds und seinen Traum der Wirklichkeit: Mohammed kam nicht zum Stein, der heilige Stein kam zu Mohammed, auf daß geoffenbaret werde die Gesandtschaft und Sendung Mohammeds. Schwört ab der Götzen Lat und Uzza und zerschlagt ihre Standbilder mit Hammer und Keule!
     </p>
-    <p xml:id="eco_de_000057_1100">
+    <p xml:id="eco_de_0000121_1100">
      Es gibt nur eine Gerechtigkeit! Sprecht sie, Richter! Es gibt nur eine Güte! Übt sie, Menschen! Es gibt nur einen Geist: er ist gezeugt von keinem Vater, er ist geboren von keiner Mutter. Er weht im Winde: so lauscht ihm denn. Er strahlt im Lichte: so seht ihn denn. Glaubt dem Wunder des Steines! Allah il Allah! Es ist nur ein Gott, und Mohammed ist sein Prophet!«
     </p>
-    <p xml:id="eco_de_000057_1110">
+    <p xml:id="eco_de_0000121_1110">
      Da verwunderten sich die Richter, und Otba sprach:
     </p>
-    <p xml:id="eco_de_000057_1120">
+    <p xml:id="eco_de_0000121_1120">
      »Er ist voll Hochmut und Trotz und voll verworrener Reden. Auch scheint mir schmachvoll, daß er seines Volkes Götter beschimpft. Aber, bei Lat und Uzza, ich sehe auf seine Stirn und finde keine Schuld an ihm.«
     </p>
-    <p xml:id="eco_de_000057_1130">
+    <p xml:id="eco_de_0000121_1130">
      Iblis, der Einäugige, biß sich auf die Lippen.
     </p>
-    <p xml:id="eco_de_000057_1140">
+    <p xml:id="eco_de_0000121_1140">
      »Man kramte den Stein aus seinem Bett: wer stahl ihn sonst?«
     </p>
-    <p xml:id="eco_de_000057_1150">
+    <p xml:id="eco_de_0000121_1150">
      »Jemand, der Mohammed übel will und ihm mit List nach Ehre und Leben trachtet«, sprach Abu Talib.
     </p>
-    <p xml:id="eco_de_000057_1160">
+    <p xml:id="eco_de_0000121_1160">
      Iblis zuckte mit seinem Auge. Abu Talib fuhr fort: »Ich kenne Mohammed gut, ich bin sein Ohm: er ist ein schlechter Kaufmann, aber der wahrhaftigste Mensch. Bahirah, der Mönch, schon nannte ihn den Gesandten Gottes. Das Volk aber nennt ihn Al Emin, ›den Treuen‹, denn niemand fand je ein Fehl an ihm.«
     </p>
-    <p xml:id="eco_de_000057_1170">
+    <p xml:id="eco_de_0000121_1170">
      Da trat der Gerichtshof zusammen, und sie sprachen ihn des Diebstahls am Heiligtum frei, verurteilten ihn aber wegen Beleidigung der alten Götter der Kureischiten zu hundert Dirhem Geldstrafe.
     </p>
-    <p xml:id="eco_de_000057_1180">
+    <p xml:id="eco_de_0000121_1180">
      In einer goldenen Kassette, die sie ihm zum Geschenk machte, trug Chadidjeh selbst am nächsten Tage das Geld zu Otba.
     </p>
-    <p xml:id="eco_de_000057_1190">
+    <p xml:id="eco_de_0000121_1190">
      Auf dem Brunnenrande der Kaaba sonnte sich Tag für Tag eine große giftige Schlange, die sich gegen jeden, der sich ihr näherte, zischend erhob. Am Abend kroch sie in den Brunnen zurück, wo man ihr Fleisch hinabwarf, sie zu besänftigen.
     </p>
-    <p xml:id="eco_de_000057_1200">
+    <p xml:id="eco_de_0000121_1200">
      Man wagte nicht, den heiligen Stein an seinem Orte wieder einzufügen, solange die giftige Schlange ihn argwöhnisch bewachte.
     </p>
-    <p xml:id="eco_de_000057_1210">
+    <p xml:id="eco_de_0000121_1210">
      Mohammed aber stand auf und predigte: »Die grüne Schlange haben euch Lat und Uzza, eure Götzen, und Iblis, der Böse, geschickt, damit der heilige Stein nicht wieder zu seiner Stätte komme. Gestattet, daß ich mich der Schlange nähere und ihr das Haupt abschlage.«
     </p>
-    <p xml:id="eco_de_000057_1220">
+    <p xml:id="eco_de_0000121_1220">
      Sie aber hatten Furcht vor der Rache der Schlange und ihrer Götzen und schrien:
     </p>
-    <p xml:id="eco_de_000057_1230">
+    <p xml:id="eco_de_0000121_1230">
      »Nein, wir wollen sie weiter füttern mit erlesenen Speisen, damit wir sie versöhnen.«
     </p>
-    <p xml:id="eco_de_000057_1240">
+    <p xml:id="eco_de_0000121_1240">
      Und sie warfen eines Tages ein Kind in den Brunnen, welches die Schlange fraß.
     </p>
-    <p xml:id="eco_de_000057_1250">
+    <p xml:id="eco_de_0000121_1250">
      Da schlich sich Mohammed des Nachts zu ihr und erschlug sie, während sie schlief, mit einem Stein.
     </p>
-    <p xml:id="eco_de_000057_1260">
+    <p xml:id="eco_de_0000121_1260">
      Als nun das Heiligtum wieder eingemauert werden sollte, entstand Streit unter den Kureischiten, welchem Stamme die Ehre zuteil würde, die Mauerung des schwarzen Steines zu vollziehen.
     </p>
-    <p xml:id="eco_de_000057_1270">
+    <p xml:id="eco_de_0000121_1270">
      Sie brachten Schalen mit Blut und schlössen Bündnisse gegeneinander, schlugen die Trommeln und Pauken und bliesen mit den Flöten und Trompeten.
     </p>
-    <p xml:id="eco_de_000057_1280">
+    <p xml:id="eco_de_0000121_1280">
      Die Fackel des Krieges glänzte schon fern über den Nächten.
     </p>
-    <p xml:id="eco_de_000057_1290">
+    <p xml:id="eco_de_0000121_1290">
      Mohammed aber trat vor die Kureischiten und sprach:
     </p>
-    <p xml:id="eco_de_000057_1300">
+    <p xml:id="eco_de_0000121_1300">
      »Reicht mir ein goldenes Tuch!«
     </p>
-    <p xml:id="eco_de_000057_1310">
+    <p xml:id="eco_de_0000121_1310">
      Und sie reichten es ihm.
     </p>
-    <p xml:id="eco_de_000057_1320">
+    <p xml:id="eco_de_0000121_1320">
      Da legte er den schwarzen Stein auf das goldene Tuch und ließ jede Ecke des Tuches von einem aus den vier Stämmen der Kureischiten halten.
     </p>
-    <p xml:id="eco_de_000057_1330">
+    <p xml:id="eco_de_0000121_1330">
      So trugen die vier Stämme der Kureischiten gemeinsam den heiligen Stein an seinen Platz.
     </p>
-    <p xml:id="eco_de_000057_1340">
+    <p xml:id="eco_de_0000121_1340">
      Hind, die Tochter Otbas, verfolgte Mohammed mit ihren Nachstellungen.
     </p>
-    <p xml:id="eco_de_000057_1350">
+    <p xml:id="eco_de_0000121_1350">
      Sie sandte ihm einen Brief durch eine Sklavin:
     </p>
-    <p xml:id="eco_de_000057_1360">
+    <p xml:id="eco_de_0000121_1360">
      »Hind, die Tochter Otbas an Mohammed, den Neffen Abu Talibs:
     </p>
-    <p xml:id="eco_de_000057_1370">
+    <p xml:id="eco_de_0000121_1370">
      Ich liebe Dich, Mohammed, und gebe Dir meine Keuschheit preis, indem ich es Dir gestehe. Ich bitte Dich, heute nacht zu mir zu kommen. Die, die Dir dies überbrachte, wird Dich am Platze der Kaaba erwarten und Dich führen. In Sehnsucht und Süße. Hind.«
     </p>
-    <p xml:id="eco_de_000057_1380">
+    <p xml:id="eco_de_0000121_1380">
      Mohammed zerriß den Zettel und ließ sie ohne Antwort.
     </p>
-    <p xml:id="eco_de_000057_1390">
+    <p xml:id="eco_de_0000121_1390">
      Da sandte sie ihm am dritten Tag ein anderes Schreiben:
     </p>
-    <p xml:id="eco_de_000057_1400">
+    <p xml:id="eco_de_0000121_1400">
      »Hind, die Tochter Otbas, an Mohammed, den Gesandten Gottes. Ich habe von Deiner neuen Lehre eines einigen Gottes vernommen und bin begierig, sie zu empfangen. Laß mich zu lange nicht in Unwissenheit und geistiger Armut schmachten. Ich verlange nach der heiligen Lehre und bin durstig, sie vom Munde des Propheten zu trinken. Hind.«
     </p>
-    <p xml:id="eco_de_000057_1410">
+    <p xml:id="eco_de_0000121_1410">
      Mohammed, der sie durchschaute, zerriß auch diesen Zettel und würdigte sie keiner Antwort.
     </p>
-    <p xml:id="eco_de_000057_1420">
+    <p xml:id="eco_de_0000121_1420">
      Sie aber wurde fürder seine bitterste Feindin.
     </p>
-    <p xml:id="eco_de_000057_1430">
+    <p xml:id="eco_de_0000121_1430">
      Chuweiled brachte einen Zug Sklaven, männliche und weibliche, aus Syrien. Er ließ nach seiner Tochter schicken, streichelte ihr über das Haar und bat sie, den besten Sklaven und die schönste Sklavin sich auszusuchen, ehe er sie verkaufe.
     </p>
-    <p xml:id="eco_de_000057_1440">
+    <p xml:id="eco_de_0000121_1440">
      Chadidjeh wählte Ali, den Knaben, sie wählte ihn zu ihrem Diener, und Maria, die Koptin, das schönste Mädchen, welches sie je gesehen. Sie gedachte sie zu ihrer Freundin zu machen und schenkte sie weiter an Mohammed, der sie zu seiner zweiten Gattin erkor und zärtlich liebte.
     </p>
-    <p xml:id="eco_de_000057_1450">
+    <p xml:id="eco_de_0000121_1450">
      Unerträglich wird mir der Anblick der Menschen, die Lüge ihres Mundes, das Prahlerische ihres Gesichtes. Sie sind wie Schnecken aus sich herausgekrochen, ihr Haus und Hort aber liegt weit hinter ihnen, ihre schleimige Spur ist verwischt, und niemand findet mehr zur Burg der Behütung. Ich selber, o Gott, was bin ich für ein schlimmer Gauch! Gefallener Engel! Liebloser Liebender! Wie der Gärtner das Wasser in den Mund nimmt, die Blumen zu besprengen, habe ich schöne Worte im Munde und lasse sie über die dürre Wiese regnen. Was nützt dem Grashalm der Regen von Worten, das edle Geplätscher, wenn ihm die Sonne, die Tat des Lichts, nicht folgt? Ich bin mir widerlich wie eine tote Ratte. Ich stinke von der Verwesung der Untat. Ich bin ein Gespött: der spinnenden Spinne, dem jagenden Wolf, der emsigen Ameise, der turtelnden Taube, dem hurtigen Hecht. Nichts tue ich als träumen. Nichts will ich als Wünsche. Nichts kann ich, als dich ehren, Erde, dich lieben, Tier, dich preisen, Geist – mich aber, ziellosen Wanderer in Listen und Lüsten, tatenlosen Trunkenbold, muß ich: ja: unausdenkbar und unaussprechlich verachten.
     </p>
-    <p xml:id="eco_de_000057_1460">
+    <p xml:id="eco_de_0000121_1460">
      Mohammed stürzte sich in die Einsamkeit, brandend und brüllend, daß sie wie ein Meer über ihm zusammenschlug. Niemand durfte sich mit seinem zerbrechlichen Kahn auf die von der Geißel Gottes gepeitschten Wogen wagen, sie hätten ihn zerschmettert und als wertloses Strandgut an die Küste geworfen. Nicht Chadidjeh, die schillernde Schlange, kroch die besonnten Felsen zur Einsiedelei empor. Nicht Maria, dem singenden Vogel, glückte der schmerzliche Flug durch das Dornengebüsch und an den Leimruten und Netzen der Vogelsteller vorbei.
     </p>
-    <p xml:id="eco_de_000057_1470">
+    <p xml:id="eco_de_0000121_1470">
      Mohammed jubelte: sein Lachen brauste in den Lüften: seine Stirn stürmte zu den Wolken:
     </p>
-    <p xml:id="eco_de_000057_1480">
+    <p xml:id="eco_de_0000121_1480">
      Ich bin allein! Niemandes Folgsamer und meiner endlich gewiß! Die Sonne ist meine Sonne, ich wandle meinen Schritt. Ich sehe mich im Spiegel des Baches und bin betroffen. Ich falle nieder am Ufer und trinke durstig mein Antlitz. Nachts fallen die Sterne auf meinen Weg und sind Kiesel, die im Mondlicht glänzen. Ich hebe sie in meine Hand und betrachte sie willig. Die Eidechse, meine kleine Schwester, hält an der Mauer meinen Blicken stand, und zärtlich sehe ich sie in dunkler Höhle entschwinden. Der ich in der Gemeinschaft und Gemeinheit der Menschen mich hassen lernte – ich wage mich zum erstenmal zu lieben und weine mich wie ein Kind in seligen Schlaf ...
     </p>
-    <p xml:id="eco_de_000057_1490">
+    <p xml:id="eco_de_0000121_1490">
      Mohammed rannte bis in die tiefsten Täler Mekkas.
     </p>
-    <p xml:id="eco_de_000057_1500">
+    <p xml:id="eco_de_0000121_1500">
      Die Wildnis entwirrte sich vor ihm. Schlinggewächse entschlangen sich. Sumpf ward Erde. Silberne Quelle Labsal. Die Steine ebneten sich unter seinem fröhlichen Fuß. Die Fichten verneigten sich. Und die Felsen warfen sich Echo auf Echo zu wie einen klingenden Ball: Heil dir, Mohammed, Gesandter Gottes!
     </p>
-    <p xml:id="eco_de_000057_1510">
+    <p xml:id="eco_de_0000121_1510">
      Es war der heißeste Ramadhan seit vielen Jahrzehnten. In den Straßen der Städte fielen die Maultiere tot um. Kamele verdursteten. Hunde wurden tollwütig. An den Karawanenstraßen schimmerten wie Meilensteine eines qualvollen Weges die Leichen der von der Sonne erschlagenen Araber. – Chadidjeh und Maria lagen im steinernen Schatten des Hauses, im kühlsten innersten Gemache, auf Bastdecken. Sie hatten die Kleider von sich gestreift, die, zu einem Knäuel geschichtet, wie ein bunter Götze aus der Dämmerung glotzten. Ihre schönen Brüste leuchteten wie weiße Ampeln. Sie tranken Fruchtwasser, naschten an Zuckergebäck und spielten Mühle. Ein zahmer chinesischer Zeisig mit einem sonderbaren hahnähnlichen feuerroten Schöpf sprang auf den Feldern des Spielbrettes zirpend zwischen den Steinen.
     </p>
-    <p xml:id="eco_de_000057_1520">
+    <p xml:id="eco_de_0000121_1520">
      Plötzlich warf Ali, der Knabe, den Vorhang zurück und meldete:
     </p>
-    <p xml:id="eco_de_000057_1530">
+    <p xml:id="eco_de_0000121_1530">
      »Ein Bettler, Herrin, steht am Tor und läßt sich nicht abweisen. Ich bot ihm Datteln. Er wies sie zurück. Ich bot ihm Münze. Er schlug sie mir aus der Hand. Sein Bart und sein Haar ist verwildert wie ein Wald aus Knieholz. Er stinkt wie ein Schakal. Sein Leib ist mit schwarzen Krusten bedeckt. Er ähnelt einem Taschenkrebs. Die Arme schlägt er wie Mühlenflügel. Aus seinem Mund tropft heißer Speichel wie gesiedetes Blei. Seine Augen sind groß wie die Augen von Irren. Er wünscht Euch zu sprechen, Herrin ...«
     </p>
-    <p xml:id="eco_de_000057_1540">
+    <p xml:id="eco_de_0000121_1540">
      Maria zitterte.
     </p>
-    <p xml:id="eco_de_000057_1550">
+    <p xml:id="eco_de_0000121_1550">
      Ein Spielstein fiel aus ihren Fingern und klirrte aufs Brett.
     </p>
-    <p xml:id="eco_de_000057_1560">
+    <p xml:id="eco_de_0000121_1560">
      Der Zeisig kreischte.
     </p>
-    <p xml:id="eco_de_000057_1570">
+    <p xml:id="eco_de_0000121_1570">
      Chadidjeh stützte das Kinn in die Hand.
     </p>
-    <p xml:id="eco_de_000057_1580">
+    <p xml:id="eco_de_0000121_1580">
      »Bring uns Decken, Ali.«
     </p>
-    <p xml:id="eco_de_000057_1590">
+    <p xml:id="eco_de_0000121_1590">
      Der Knabe huschte maushaft durch den Raum.
     </p>
-    <p xml:id="eco_de_000057_1600">
+    <p xml:id="eco_de_0000121_1600">
      Die weißen Ampeln erloschen unter Tüchern.
     </p>
-    <p xml:id="eco_de_000057_1610">
+    <p xml:id="eco_de_0000121_1610">
      »Der Mann soll kommen.«
     </p>
-    <p xml:id="eco_de_000057_1620">
+    <p xml:id="eco_de_0000121_1620">
      Mit klappernden Gliedern tanzte ein gebrechlicher Greis durch die Tür.
     </p>
-    <p xml:id="eco_de_000057_1630">
+    <p xml:id="eco_de_0000121_1630">
      Unreiner Atem erfüllte die Luft.
     </p>
-    <p xml:id="eco_de_000057_1640">
+    <p xml:id="eco_de_0000121_1640">
      Häßlichkeit mißhandelte die Blicke, die ihn beschauten.
     </p>
-    <p xml:id="eco_de_000057_1650">
+    <p xml:id="eco_de_0000121_1650">
      Grauweißes Haar wuchs pilzig aus dem Kopf.
     </p>
-    <p xml:id="eco_de_000057_1660">
+    <p xml:id="eco_de_0000121_1660">
      Der Burnus, der ihn wie mit Krähenflügeln beschirmte, stob schmutzig und zerrissen von seinen Lenden.
     </p>
-    <p xml:id="eco_de_000057_1670">
+    <p xml:id="eco_de_0000121_1670">
      Lallend fiel er zwischen den Frauen nieder.
     </p>
-    <p xml:id="eco_de_000057_1680">
+    <p xml:id="eco_de_0000121_1680">
      »Mohammed!« schrien die Frauen.
     </p>
-    <p xml:id="eco_de_000057_1690">
+    <p xml:id="eco_de_0000121_1690">
      Wie Bambus schössen sie steil in die Höhe. Die Decken fielen von ihren Hüften. Ihre weißen Brüste funkelten.
     </p>
-    <p xml:id="eco_de_000057_1700">
+    <p xml:id="eco_de_0000121_1700">
      Mohammed gesundete.
     </p>
-    <p xml:id="eco_de_000057_1710">
+    <p xml:id="eco_de_0000121_1710">
      Die Frauen pflegten ihn wie ein Kind: mit Hühnerfleisch und Eselsmilch. Sie wuschen und kämmten ihn des Morgens. Sie trugen ihn im Sessel nachts, wenn Kühlung wehte, auf das Dach. Da saß er im Sessel und sah mit leeren Augen in die Sterne.
     </p>
-    <p xml:id="eco_de_000057_1720">
+    <p xml:id="eco_de_0000121_1720">
      »Liebes Licht!« sagte er und winkte den goldenen Brüdern.
     </p>
-    <p xml:id="eco_de_000057_1730">
+    <p xml:id="eco_de_0000121_1730">
      Als Mohammed eines Tages zu sich kam, sah er Chadidjeh in Unterhandlung mit einem Reisenden, der von Medina eingetroffen war und gute Geschäfte in Essenzen und Ölen für sie gemacht hatte.
     </p>
-    <p xml:id="eco_de_000057_1740">
+    <p xml:id="eco_de_0000121_1740">
      »Während du fiebrig plappertest, Mohammed,« Chadidjeh sah ihn an, »habe ich gehandelt.«
     </p>
-    <p xml:id="eco_de_000057_1750">
+    <p xml:id="eco_de_0000121_1750">
      »O Weib,« sprach Mohammed, »dem Worte werden Füße wachsen, und es wird schreiten. Es wird ein Leib sein und eine Stirne haben. Seine harten Hände werden das Schwert schwingen und das Wort wird töten, welche an die Macht des Wortes nicht glaubten.«
     </p>
-    <p xml:id="eco_de_000057_1760">
+    <p xml:id="eco_de_0000121_1760">
      Der Herbst, der die Blätter rötete und bräunte, färbte auch Mohammeds Haar und Bart wieder braun. Seine Glieder dehnten, seine Muskeln füllten sich. Ohne Stab vermochte er kraftvoll wie einst zu schreiten.
     </p>
-    <p xml:id="eco_de_000057_1770">
+    <p xml:id="eco_de_0000121_1770">
      Leicht, und nur aus Zärtlichkeit auf Maria gestützt, ging er in den glitzernden Abend.
     </p>
-    <p xml:id="eco_de_000057_1780">
+    <p xml:id="eco_de_0000121_1780">
      »Erzähle mir, Mohammed,« sprach Maria, »was sich ereignete, seit du uns im Ramadhan verlassen. Sofern es dich nicht schmerzt. Wenn es die Erinnerung belastet: wirf es von dir und auf mich. Ich will alle deine Lasten gern und heiter bis ans Ende aller Zeiten tragen. Peinigen dich aber meine Worte wie Mücken oder stechen sie wie giftige Kakteen: so laß uns schweigen und wie dunkle Palmen schweigsam im blauen Himmel stehn.«
     </p>
-    <p xml:id="eco_de_000057_1790">
+    <p xml:id="eco_de_0000121_1790">
      Mohammed haschte nach einem fliegenden Käfer.
     </p>
-    <p xml:id="eco_de_000057_1800">
+    <p xml:id="eco_de_0000121_1800">
      »Jahrhunderte, so schien es mir, raste ich einsam durch die Welt. Der einzige Mensch. Kein Bruder und keine Schwester, keine Gattin und keine Geliebte waren mir zugetan. Ich nährte mich von den Früchten der Wildnis und stillte meinen Durst an den springenden Bächen. Einst hatte ich Hunger nach Fleisch. Ich schnitzte mir einen Bogen und eine Lanze und jagte einer Hindin nach. Ich richtete den Bogen, der Pfeil schwirrte von der Sehne – ich fiel in mich zusammen. Blut rann aus meiner Brust. Der Pfeil hatte mich selbst durchbohrt. Niemals mehr stellte ich einem Tiere nach. Gazelle und Löwe folgten freundlich meinen Schritten. Taube und Geier begrüßten mich schnäbelnd aus den Lüften. Bart und Haar sprossen lang aus Haupt und Brust und Beinen. Wild ward ich und alt und hatte keine Gedanken, kein Wissen und keine Vernunft. Da kam ich an den Berg Hira und erstieg ihn stöhnend. Und als ich den Gipfel erklommen hatte – ich stieg aber Monate und Jahre –, fiel ich in einen tiefen Schlaf. Dem enttauchte wie aus dunklen Fluten ein schöner Jüngling. Er hielt ein beschriebenes seidenes Tuch vor sein Gesicht. Nicht sah ich sein Gesicht, nur seine elfenbeinerne Gestalt. Und der Jüngling sprach: ,Lies!' Ich aber lallte unwirsch kaum verständliche Laute – ich hatte in den Jahren und Jahrhunderten der Einsamkeit die Sprache vergessen und verloren. Da stülpte der Jüngling das Tuch mir über den Kopf, daß ich zu ersticken meinte, und donnerte: Mohammed! Dich ruft Gott! Ich bin Gabriel, sein Gesandter!«
     </p>
-    <p xml:id="eco_de_000057_1810">
+    <p xml:id="eco_de_0000121_1810">
      Mohammeds Stimme wuchs und schlug wie der Donner von der felsigen Bläue des Himmels zurück.
     </p>
-    <p xml:id="eco_de_000057_1820">
+    <p xml:id="eco_de_0000121_1820">
      »Der Engel aber riß das Tuch zurück und mit dem Tuch mein Haupt, das wie ein Bildnis blutend auf der Seide schwebte. Als ich das Bewußtsein wiedererlangte, lag ich in deinen Armen, Maria, und in den Armen von Chadidjeh. Ich sah vergehend noch den braunen Rücken eines Jünglings, der in das Abendrot schritt. In weiter Ferne unkörperlich sich entfaltete und in einer goldenen Wolke entschwand.«
     </p>
-    <p xml:id="eco_de_000057_1830">
+    <p xml:id="eco_de_0000121_1830">
      Maria breitete die Arme.
     </p>
-    <p xml:id="eco_de_000057_1840">
+    <p xml:id="eco_de_0000121_1840">
      Sie sank der Nacht an die schwesterlichen Brüste.
     </p>
-    <p xml:id="eco_de_000057_1850">
+    <p xml:id="eco_de_0000121_1850">
      Im Monat Dsu-l-kaadeh bestieg Mohammed zum zweitenmal das Gebirge Hira.
     </p>
-    <p xml:id="eco_de_000057_1860">
+    <p xml:id="eco_de_0000121_1860">
      Als Mohammed vom Hira kam, umschritt er siebenmal die Kaaba, dann blieb er in der Mittagssonne stehn, steil wie ein Standbild, und kein Tropfen Schweiß trat auf seine Stirn. Er schickte aber Maria, die Koptin, seine Geliebte, die von zarten Sitten war, durch die Stadt. Glücklich gehorchte sie seinen Befehlen, denn sie glaubte an ihn, und ihr nächtlicher Wunsch, der wie ein Hund vor ihrem Lager ruhte, war: Gib mir, Gott, einen Sohn von Mohammed, oder wenn du es willst, eine Tochter. Ja, laß mich ein Tier gebären: eine Schlange oder ein Kalb – eine Quelle oder einen Felsen – nur daß ich von ihm schwanger werde und ihm ein Lebendes oder Totes gebäre. Denn alles ist gut, was von ihm kommt: es sei nun die Geißel oder der Kuß. Die Liebe oder die Verachtung. –
     </p>
-    <p xml:id="eco_de_000057_1870">
+    <p xml:id="eco_de_0000121_1870">
      Maria, die Koptin, ging durch die Stadt mit einer kleinen Glocke und läutete. Und das Volk strömte herbei; Männer und Weiber und Kinder, und ein alter Mann im weißen Bart
     </p>
-    <p xml:id="eco_de_000057_1880">
+    <p xml:id="eco_de_0000121_1880">
      – es war aber Abu Bekr, ein gelehrter Sonderling – fragte: »Was läßt du, schönes Mädchen, die Glocke klingen? Bist du nicht Maria, die Koptin? Läutest du zu einem bunten Fest mit Wein, Musik und Reigen? Siehe, die Sonne steht hoch und brennt um unsere Stirnen wie nahe Fackeln. Erwarte den lauen Abend, die trauliche Nacht und rufe dann, aber leise, mit dem Zeichen eines Vogels, die Liebenden.«
     </p>
-    <p xml:id="eco_de_000057_1890">
+    <p xml:id="eco_de_0000121_1890">
      Maria aber sprach: »Ich bin Maria, die Koptin, und lade euch, Kureischiten, im Auftrage meines Herrn Mohammed zum Fest. Er wartet euer auf dem Platze vor der Kaaba und bittet euch, sofort zu kommen. Wer zu ihm eilt, der wird im Schatten wandeln, wenngleich die Sonne im Zenith zürne. Er wird Labung finden, Trank und heilige Feier.«
     </p>
-    <p xml:id="eco_de_000057_1900">
+    <p xml:id="eco_de_0000121_1900">
      So sprach Maria und durcheilte die glühenden Straßen. Es war ihr, als liefe sie auf glühenden Scheiten. Aber sie spürte ihre sengenden Sohlen nicht. Sie läutete die Glocke und sprach ihren Spruch.
     </p>
-    <p xml:id="eco_de_000057_1910">
+    <p xml:id="eco_de_0000121_1910">
      Die Kureischiten gingen in ihre Häuser und richteten sich festlich her. In seidene Tücher hüllten sich die Frauen und bemalten sich Wimper und Lippe. Goldene Spangen umrankten die zärtlichen Knöchel. Amulette hingen an geflochtenen Haaren zwischen den Brüsten: versteinte Skarabeen oder Libellen. Die Männer schnallten sich ziegenlederne Gürtel um den leuchtenden Burnus und steckten darein Dolch und Bogen und Flöte. Die Kinder aber, die keines Schmuckes bedürfen, sprangen nackt zwischen Eltern und Geschwistern, warfen sich zur Erde nieder, zum Himmel empor und wieherten wie junge Pferde oder gurrten wie die Tauben.
     </p>
-    <p xml:id="eco_de_000057_1920">
+    <p xml:id="eco_de_0000121_1920">
      Als sie alle versammelt waren (es waren aber unter ihnen Otba, der Emir, Abu Talib, der Oheim, und Iblis, der Böse), hielt Mohammed seine Stimme wie einen Schild über sie und sprach:
     </p>
-    <p xml:id="eco_de_000057_1930">
+    <p xml:id="eco_de_0000121_1930">
      »Kureischiten! Brüder und Schwestern! Die Zeit hat sich erfüllt, daß ich nicht mehr zu einzelnen trete und ihnen vertraulich von der Wahrhaftigkeit künde. Gott ist auf dem Berge Hira, der fortan der Heilige Berg genannt sei, zu mir getreten in Gestalt eines schönen Jünglings und hat befohlen: Tritt hervor mit dem, was ich dir auftrug. Predige deinem Volke und senke deine Flügel über die Gläubigen, die dir folgen. Sprich: ich bin der klare Prediger. Niemand kehrt zur Heimat denn durch mich.
     </p>
-    <p xml:id="eco_de_000057_1940">
+    <p xml:id="eco_de_0000121_1940">
      Kureischiten! Die Zeit hat sich erfüllt. Der Greuel, so ihr mit Hilfe der Götzen Lat und Uzza verübt, sind genug und übergenug. Lüge schien euch ein mildes Mittel zum Leben. Betrug des Bruders, Eid- und Ehebruch erfreulichste Tat. Gold! stand goldgestickt auf den Bannern eurer Sehnsucht. Gold glänzte in euren toten Augen. Gold brach euch aus dem Herzen. Im Golde wühlten eure hohlen Hände. Lat prangte auf goldenem Sockel. Uzza fraß täglich tausend Unzen Gold. Man sprach zur Gattin nicht: ich liebe dich. Man sagte: Gold. Man grüßte den Bruder nicht: Gott segne dich! Man sagte: Gold. Das erste Wort, das der Säugling sprechen lernte, hieß: Gold. Das letzte, das des Greises erbleichende Lippe lallte: Gold. Mit Gold knechtetet ihr eure Brüder, kauftet Sklaven und Sklavinnen, daß sie euch dienten, dazu nur gut und geschaffen, lebende Maschinen, euch neues Gold wie Getreide zu dreschen. Und doch ist ein Sklave ein Mensch wie ihr: mit Blut in den Adern und Seele im Herzen. Gebt frei, ihr Kureischiten, eure Sklaven. Sagt: frei sollen sein alle Menschen. Denn alle Menschen sind Geschwister, geschaffen nach dem einzigen Bilde des einzigen Gottes. In Freiheit soll jeder tun seine Tat, jeder denken seine Gedanken, jeder üben seine Übung, jeder träumen seinen Traum. Jedem soll glücken sein Glück!
     </p>
-    <p xml:id="eco_de_000057_1950">
+    <p xml:id="eco_de_0000121_1950">
      Freiheit, ihr Kureischiten, jedem Sohne einer Mutter. Jeder Tochter eines Vaters.
     </p>
-    <p xml:id="eco_de_000057_1960">
+    <p xml:id="eco_de_0000121_1960">
      Dies sei zum ersten gerammt als ein starker Pfahl des neuen Gesetzes: Freiheit!
     </p>
-    <p xml:id="eco_de_000057_1970">
+    <p xml:id="eco_de_0000121_1970">
      Zum zweiten, ihr Kureischiten: reißt herab von ihren goldenen Thronen die goldenen Götzen Lat und Uzza. Stellt auf den Sockel des Glaubens den einzigen Geist!
     </p>
-    <p xml:id="eco_de_000057_1980">
+    <p xml:id="eco_de_0000121_1980">
      Nicht: Gold! ihr Kureischiten: Geist! sei euer Feldgeschrei. Es ist nur ein Geist, dem sollt ihr Altäre und Moscheen bauen. Er warf euch einst den heiligen Stein vom Himmel! Heut spricht er durch des Menschen Mund zu euch. Erkennt die Zeichen, die er gab: Gott läßt den Regen der Sterne nicht vergebens regnen. Umsonst nicht schuf er Weib und Mann, Sonne und Mond, Tod und Leben: sich ergänzend. Die Erde ist der Wunder größtes. Der Mensch unmenschlichstes Geschöpf. Erkennet, Kureischiten, euren wahren Herrn.
     </p>
-    <p xml:id="eco_de_000057_1990">
+    <p xml:id="eco_de_0000121_1990">
      Es sei gesteckt der zweite Pfahl des neuen Tempels: der Glaube an den einzigen Gott! Die einzige Güte! Den einzigen Geist!
     </p>
-    <p xml:id="eco_de_000057_2000">
+    <p xml:id="eco_de_0000121_2000">
      Allah il Allah!«
     </p>
-    <p xml:id="eco_de_000057_2010">
+    <p xml:id="eco_de_0000121_2010">
      Mohammed stand gekreuzigt gegen den blinkenden Himmel. Ein Schweigen lastete eisern über dem heißen Platz.
     </p>
-    <p xml:id="eco_de_000057_2020">
+    <p xml:id="eco_de_0000121_2020">
      Da flog ein Stein gegen Mohammed (den ersten aber schleuderte Iblis der Böse), und dann ein anderer, ein dritter. Schließlich brach ein Hagel von Steinen über Mohammed zusammen, aus grauenvoller Stille geworfen.
     </p>
-    <p xml:id="eco_de_000057_2030">
+    <p xml:id="eco_de_0000121_2030">
      Mohammed ward, schwer verwundet, von Ali, dem Knaben, und Maria, der Koptin, in das Haus der Chadidjeh getragen, wo er vor Sonnenuntergang noch von seinen Wunden genas und sich dankend im Gebet nach Westen neigte.
     </p>
-    <p xml:id="eco_de_000057_2040">
+    <p xml:id="eco_de_0000121_2040">
      Wolken jagten windgetrieben in wunderlichen Figuren über den Mond: blumenhafte Ornamente, schwarze Ringe, schnaubende Panther, verträumte Vögel, schlanke Krokodile, märchenwilde Menschen mit Ziegenbeinen und Widderhörnern.
     </p>
-    <p xml:id="eco_de_000057_2050">
+    <p xml:id="eco_de_0000121_2050">
      Pfeifend fegte der Wind den Staub durch die Straßen.
     </p>
-    <p xml:id="eco_de_000057_2060">
+    <p xml:id="eco_de_0000121_2060">
      Dann und wann erschien, ruhig und unverwandelt, ein Stern zwischen den wolkigen Wesen.
     </p>
-    <p xml:id="eco_de_000057_2070">
+    <p xml:id="eco_de_0000121_2070">
      Mohammed warf sich schlaflos von einer Seite auf die andere.
     </p>
-    <p xml:id="eco_de_000057_2080">
+    <p xml:id="eco_de_0000121_2080">
      Der Morgen verzieht. Und will und will nicht nahen. – Bin ich vergessen? Verworfen? Ein Bündel alter Kleider – in die Ecke? Wer hört mich, wenn ich spreche? Wer sieht mich, wenn ich schreite? –
     </p>
-    <p xml:id="eco_de_000057_2090">
+    <p xml:id="eco_de_0000121_2090">
      Mohammed sprang auf.
     </p>
-    <p xml:id="eco_de_000057_2100">
+    <p xml:id="eco_de_0000121_2100">
      Er stieß mit dem Fuß nach Ali, der neben ihm schlief.
     </p>
-    <p xml:id="eco_de_000057_2110">
+    <p xml:id="eco_de_0000121_2110">
      Der Knabe rieb sich schlaftrunken Wangen und Augen.
     </p>
-    <p xml:id="eco_de_000057_2120">
+    <p xml:id="eco_de_0000121_2120">
      »Was wünschest du, Herr?«
     </p>
-    <p xml:id="eco_de_000057_2130">
+    <p xml:id="eco_de_0000121_2130">
      Mohammed senkte die Wimpern.
     </p>
-    <p xml:id="eco_de_000057_2140">
+    <p xml:id="eco_de_0000121_2140">
      »Folge mir, Knabe. Ich habe Furcht... allein. Ich will, daß etwas Lebendiges um mich sei.«
     </p>
-    <p xml:id="eco_de_000057_2150">
+    <p xml:id="eco_de_0000121_2150">
      Einsam und schallend schritten sie durch die nächtlichen Straßen Mekkas.
     </p>
-    <p xml:id="eco_de_000057_2160">
+    <p xml:id="eco_de_0000121_2160">
      Der Mond warf ihre Schatten ihnen lang und spitz voraus.
     </p>
-    <p xml:id="eco_de_000057_2170">
+    <p xml:id="eco_de_0000121_2170">
      Katzen kreuzten den Weg: aus schwarzen Winkeln wie im Arnikarausche leise tanzend.
     </p>
-    <p xml:id="eco_de_000057_2180">
+    <p xml:id="eco_de_0000121_2180">
      Hunde bellten brav: fern hinter Hürden.
     </p>
-    <p xml:id="eco_de_000057_2190">
+    <p xml:id="eco_de_0000121_2190">
      Hyänen heulten vor den Toren.
     </p>
-    <p xml:id="eco_de_000057_2200">
+    <p xml:id="eco_de_0000121_2200">
      Ein Hahn stand weiß auf einer Mauer.
     </p>
-    <p xml:id="eco_de_000057_2210">
+    <p xml:id="eco_de_0000121_2210">
      Im Zickzack durchzogen sie die schweigsame Stadt.
     </p>
-    <p xml:id="eco_de_000057_2220">
+    <p xml:id="eco_de_0000121_2220">
      Torbogen nahmen sie dunkel auf und entließen sie strahlend.
     </p>
-    <p xml:id="eco_de_000057_2230">
+    <p xml:id="eco_de_0000121_2230">
      Wolken schwärzten wie mit Pinselstrichen den Mond.
     </p>
-    <p xml:id="eco_de_000057_2240">
+    <p xml:id="eco_de_0000121_2240">
      Ruhig und unverwandelt schien ein Stern.
     </p>
-    <p xml:id="eco_de_000057_2250">
+    <p xml:id="eco_de_0000121_2250">
      Sie eilten eine Palmenallee entlang. Ein Tor erschloß sich ihnen.
     </p>
-    <p xml:id="eco_de_000057_2260">
+    <p xml:id="eco_de_0000121_2260">
      Ali, der Knabe, bebte zurück.
     </p>
-    <p xml:id="eco_de_000057_2270">
+    <p xml:id="eco_de_0000121_2270">
      Sie standen auf dem Begräbnisplatz von Mekka.
     </p>
-    <p xml:id="eco_de_000057_2280">
+    <p xml:id="eco_de_0000121_2280">
      Mohammed schritt bis in die Mitte der Gräber. Die Gräber öffneten sich. Unabsehbar bis ans Ende der Welt dehnten sich die duldsamen Reihen der Toten im weißen Licht des Mondes. Die Schädel schillerten Opalen. Skelett lag neben Skelett, in dünnen Totenhemden; frierend.
     </p>
-    <p xml:id="eco_de_000057_2290">
+    <p xml:id="eco_de_0000121_2290">
      Mohammed erhob seine Stimme. Wie ein erzener Stab zerschlug sie die Einsamkeit.
     </p>
-    <p xml:id="eco_de_000057_2300">
+    <p xml:id="eco_de_0000121_2300">
      »Ihr Toten, ich grüße euch! Ein Sterblicher segnet die Gestorbenen! Ich rede zu den Lebenden wie in eine leere Wand. Ihre Ohren sind mit Werg verstopft und ihre Lippen mit Leim verkittet. So erhebe ich meine Stimme zu den Toten, daß sie mich ihren Bruder nennen und begreifen. Ihr Toten, die ihr seid unzählige wie Sand der Wüste, verachtet und verscheucht nicht den, der elend zu euch flüchtet. Er ist geringer denn der Geringste von euch. Er ist unwissender denn der Unwissendste unter euch. O dürfte er nur eine Stunde einer der euren sein: mit Weisheit und Tugend, wie mit Juwelen beladen, kehrte er zurück in den Kreis der Lebenden, sie fabelhaft unfehlbar zu bekehren ...«
     </p>
-    <p xml:id="eco_de_000057_2310">
+    <p xml:id="eco_de_0000121_2310">
      Schweigsam lauschten die Reihen der Toten. Unabsehbar dehnte sich Grab an Grab bis ans Ende der Welt. Die Schädel schillerten opalen. Skelett lag neben Skelett, in dünnen Totenhemden, im weißen Licht des Mondes unsagbar frierend.
     </p>
-    <p xml:id="eco_de_000057_2320">
+    <p xml:id="eco_de_0000121_2320">
      Die ersten acht Gläubigen, die sich trotz aller Anfeindungen an Mohammed anschlössen, waren Ali, der Knabe; Zeid Ibn Haritha, der Freigelassene; Abu Bekr, der Gelehrte; Otham, der Mildtätige; Abd Errahman, der Gerechte; Zubeir, der Gütige; Saad, der Tapfere; Talha, der Schöne.
     </p>
-    <p xml:id="eco_de_000057_2330">
+    <p xml:id="eco_de_0000121_2330">
      Als aber Talha sich zu Mohammed bekehrte, da raunten die Mädchen, die um ihn waren: »Wirst du uns nicht mehr lieben, schöner Talha?«
     </p>
-    <p xml:id="eco_de_000057_2340">
+    <p xml:id="eco_de_0000121_2340">
      »Ich werde euch immer lieben«, sprach Talha und entzog sich den sanften Händen der braunen Ebra; aber sein Blick flog über sie hinweg zu den Bergen, und er hörte nur ihre Stimme. Ihre Schlankheit, so verführerisch, hatte sich ihm entfremdet.
     </p>
-    <p xml:id="eco_de_000057_2350">
+    <p xml:id="eco_de_0000121_2350">
      Ebra höhnte: »Mohammed wird dich häßlich machen und dir Furchen ins Antlitz graben, darein er seine Weisheit sät. Kein Mädchen wird sich mehr in dich verlieben. Die Weisheit ist für alte Leute, Talha – was willst du mit ihr beginnen? Sie ist ein dürres greisenhaftes Weib mit hängenden Brüsten. Sieh die meinen, schöner Talha, wie sie wie zwei Berge von meiner Erde stehen. Komm und ruhe zwischen ihnen.«
     </p>
-    <p xml:id="eco_de_000057_2360">
+    <p xml:id="eco_de_0000121_2360">
      Talhas Blick kam von den ewigen Bergen zurück, darauf er geruht, und er sprach:
     </p>
-    <p xml:id="eco_de_000057_2370">
+    <p xml:id="eco_de_0000121_2370">
      »Ich brauche die Ruhe deines Leibes nicht, denn ich ruhte auf den Bergen der Ewigkeit. Die Wolke Wehmut beschattete mich. Der dunkle Strom floß zu meinen Füßen: darauf fuhr ein syrisches Boot, bewimpelt, Gesang ertönte der Gestorbenen, und es klang süß wie Vogelruf am Morgen.«
     </p>
-    <p xml:id="eco_de_000057_2380">
+    <p xml:id="eco_de_0000121_2380">
      Laut auf lachte Ebra. Die Mädchen schlössen einen Reigen um Talha und zwitscherten:
     </p>
-    <p xml:id="eco_de_000057_2390">
+    <p xml:id="eco_de_0000121_2390">
      Der schöne Talha Entwöhnt sich der Mädchen, Geht zu den Toten, Schmeichelt den Toten. Der schöne Talha Geht auf die Berge, Streichelt die Bäume, Seufzet am Quell. Der schöne Talha Liebt eine Wolke, Morgens und abends Späht er nach ihr. Doch sie entgleitet, Doch sie entschwindet, Trauriger Talha, Fliege ihr nach!
     </p>
-    <p xml:id="eco_de_000057_2400">
+    <p xml:id="eco_de_0000121_2400">
      Versunken in sich schritt Talha wie ein Solotänzer in einem Knabenhaus den Reigen. Lachend und lieblich lebendig folgten die ungezogenen Mädchen.
     </p>
-    <p xml:id="eco_de_000057_2410">
+    <p xml:id="eco_de_0000121_2410">
      Mohammed sah in seinen acht Gläubigen eine besondere Bedeutung: ein wohlgeordnetes Sternbild. Den Glauben errang zuerst und am leichtesten: das Kind, der freieste Mensch. Sodann der Sklave, der seine Ketten kannte, als Freigelassener ihrer ledig wurde. Sodann der Strebende, Forschende, ernsthaft Gelehrte. Sodann der Mildtätige, der seines Reichtums freiwillig sich begab. Sodann der Richter, der nicht Recht, sondern Gerechtigkeit sprach. Sodann der Gütige, der durch Leiden zur Güte kam. Sodann der Tapfere, der, nachdem er tausend Feinde zu Boden geworfen, endlich sich selbst besiegte. Zuletzt der Schöne, der, Gottes Antlitz wie eine Fahne vor sich schwingend: durch Stolz und Überhebung dennoch am schwersten zu Gott gelangt. Oft erst muß ihn der Aussatz oder die Blattern zerfressen, daß er erkenne das Vergängliche des gemalten Gleichnisses.
     </p>
-    <p xml:id="eco_de_000057_2420">
+    <p xml:id="eco_de_0000121_2420">
      »Das erste und das letzte Glied an meinem Ringe«, sprach Mohammed, »sind mir die liebsten. Sie binden den Ring und führen vom Anfang zum Ende: Ah', der Knabe, und Talha, der Schöne: sie sollen neben mir schreiten. Umschlungen mit ihnen will ich das Paradies suchen. Durch alle Himmel wollen wir rennen: ein seliges Dreigestirn, bis Gott im siebenten die letzte Binde von unsern Augen nimmt, und wir, nur leicht geblendet, das unverlöschliche Licht, die ewige Ampel enthüllen.«
     </p>
-    <p xml:id="eco_de_000057_2430">
+    <p xml:id="eco_de_0000121_2430">
      Die Kureischiten spotteten, daß Mohammed im Tempel der Kaaba mit den Geringen und Geringsten zusammensaß.
     </p>
-    <p xml:id="eco_de_000057_2440">
+    <p xml:id="eco_de_0000121_2440">
      »Seht nur,« riefen sie, »Gott hat durch Mohammed den alten Lumpen Fukeiha Jasar begnadet und begnadigt. Wenn Gottes Wort zu trinken wäre, er möchte ein sehr beredter Mann und der Heiligste der Heiligen werden.«
     </p>
-    <p xml:id="eco_de_000057_2450">
+    <p xml:id="eco_de_0000121_2450">
      Mohammed aber fuhr sie an wie ein fauchender Löwe:
     </p>
-    <p xml:id="eco_de_000057_2460">
+    <p xml:id="eco_de_0000121_2460">
      »Fukeiha wollte nie mehr sein, als er ist: ein armer Lump mit einem Herzen zum Hellen. Aber ihr, edle Herren und reiche Händler, was seid denn ihr? Seidene Gewänder, hinter denen Standbilder aus Kot starren.«
     </p>
-    <p xml:id="eco_de_000057_2470">
+    <p xml:id="eco_de_0000121_2470">
      Die Sklavin, welche Mohammed einst die Briefe der Hind überreicht hatte, lauerte ihm auf, als er morgens, ehe die Sonne aufging, das Heiligtum der Kaaba betrat.
     </p>
-    <p xml:id="eco_de_000057_2480">
+    <p xml:id="eco_de_0000121_2480">
      »Was willst du, Mädchen?« fragte er leise, das erblühende Licht nicht zu stören.
     </p>
-    <p xml:id="eco_de_000057_2490">
+    <p xml:id="eco_de_0000121_2490">
      Sie neigte den ägyptischen Kopf:
     </p>
-    <p xml:id="eco_de_000057_2500">
+    <p xml:id="eco_de_0000121_2500">
      »Ich bin von allen Sklavinnen erlost, mich dir darzubringen, Mohammed. Du streitest für unser aller Freiheit. So sind wir übereingekommen, daß eine von uns als schwachen Dank der Gemeinschaft die Freiheit ihres jungfräulichen Leibes dir opfere. Mich traf das Los.
     </p>
-    <p xml:id="eco_de_000057_2510">
+    <p xml:id="eco_de_0000121_2510">
      Nimm mich an heiliger Stätte hin, damit ich geheiligt werde.«
     </p>
-    <p xml:id="eco_de_000057_2520">
+    <p xml:id="eco_de_0000121_2520">
      Mohammed trug sie in den Tempel. Er warf sich über sie.
     </p>
-    <p xml:id="eco_de_000057_2530">
+    <p xml:id="eco_de_0000121_2530">
      Ihr Name war Aischa.
     </p>
-    <p xml:id="eco_de_000057_2540">
+    <p xml:id="eco_de_0000121_2540">
      Sie wurde seine dritte Frau und die Ahnin der Kalifen.
     </p>
-    <p xml:id="eco_de_000057_2550">
+    <p xml:id="eco_de_0000121_2550">
      Als er sie von ihrer Jungfraunschaft erlöste, floß Blut über die Altarsteine.
     </p>
-    <p xml:id="eco_de_000057_2560">
+    <p xml:id="eco_de_0000121_2560">
      Die Wächter fanden, nach Sonnenaufgang die Halle betretend, ein Büschel roter Mohnblumen auf den Fliesen des Altars.
     </p>
-    <p xml:id="eco_de_000057_2570">
+    <p xml:id="eco_de_0000121_2570">
      Otba, Iblis, in der Gestalt eines vornehmen Kureischiten, und viele andere Erlauchte des Stammes trafen sich in einem Knabenbordell der alten Stadt.
     </p>
-    <p xml:id="eco_de_000057_2580">
+    <p xml:id="eco_de_0000121_2580">
      Sie hatten je einen Knaben neben sich auf dem Polster. Gelächter ertönte. Gedämpftes Saitenspiel und matter Klang von Küssen. Ampeln glänzten wie erleuchtete Pomeranzen.
     </p>
-    <p xml:id="eco_de_000057_2590">
+    <p xml:id="eco_de_0000121_2590">
      Ein Knabe begattete im Schauakt eine dressierte Ziege.
     </p>
-    <p xml:id="eco_de_000057_2600">
+    <p xml:id="eco_de_0000121_2600">
      Otba sprach:
     </p>
-    <p xml:id="eco_de_000057_2610">
+    <p xml:id="eco_de_0000121_2610">
      »Mohammed wächst uns über den Kopf. Ich habe sein irres Treiben mit Rücksicht auf Abu Talib, seinen Oheim und meinen Freund, bisher mit Nachsicht verfolgt. Seine Anhänger aber mehren sich. Schon sprießen finstere Gesichter aus dunkeln Gassen wie wilder Efeu. Sklavinnen und Sklaven wollen ihre Ketten nicht mehr tragen und murren, es gibt keine von den Göttern gewollte Abhängigkeit. Und es sei nur ein Gott: der Gott der Liebe.«
     </p>
-    <p xml:id="eco_de_000057_2620">
+    <p xml:id="eco_de_0000121_2620">
      Die Ziege meckerte.
     </p>
-    <p xml:id="eco_de_000057_2630">
+    <p xml:id="eco_de_0000121_2630">
      Iblis, der Einäugige, echote meckernd:
     </p>
-    <p xml:id="eco_de_000057_2640">
+    <p xml:id="eco_de_0000121_2640">
      »Huldigen wir nicht auch hier einem Gotte: dem Gotte der Liebe?«
     </p>
-    <p xml:id="eco_de_000057_2650">
+    <p xml:id="eco_de_0000121_2650">
      Man lachte und lächelte.
     </p>
-    <p xml:id="eco_de_000057_2660">
+    <p xml:id="eco_de_0000121_2660">
      Malik, der fette Wirt, der seinen weichen Wanst wie einen herabhängenden Altweiberbusen vor sich herschob, wieherte.
     </p>
-    <p xml:id="eco_de_000057_2670">
+    <p xml:id="eco_de_0000121_2670">
      Otba fuhr fort:
     </p>
-    <p xml:id="eco_de_000057_2680">
+    <p xml:id="eco_de_0000121_2680">
      »Neulich traf ich zwei Knaben beim Ballspiel. Sie warfen sich den Ball wechselseitig zu und riefen: Dies ist Lats Kopf. Er ist gehangen. Oder: Dies ist Uzzas Kopf. Er ist enthauptet. – Das ist Mohammeds Werk: er vergiftet die Jugend.«
     </p>
-    <p xml:id="eco_de_000057_2690">
+    <p xml:id="eco_de_0000121_2690">
      Abu Sehern streichelte seinem Knaben über die braunen Locken:
     </p>
-    <p xml:id="eco_de_000057_2700">
+    <p xml:id="eco_de_0000121_2700">
      »Ich begreife Mohammed nicht: ist er ein Zauberer?«
     </p>
-    <p xml:id="eco_de_000057_2710">
+    <p xml:id="eco_de_0000121_2710">
      Abu Sofjam beschied:
     </p>
-    <p xml:id="eco_de_000057_2720">
+    <p xml:id="eco_de_0000121_2720">
      »Er ist kein Zauberer. Er macht keine Zeichen und spricht keine Sprüche wie die Zauberer...«
     </p>
-    <p xml:id="eco_de_000057_2730">
+    <p xml:id="eco_de_0000121_2730">
      »So ist er ein Besessener?«
     </p>
-    <p xml:id="eco_de_000057_2740">
+    <p xml:id="eco_de_0000121_2740">
      »Ich sah Besessene: sie schlugen mit fiebrigen Armen in Feuer und Flamme. Bohrten sich Nadeln durch die Wangen. Stampften durch siedendes Pech. Mohammed tut nichts dergleichen.«
     </p>
-    <p xml:id="eco_de_000057_2750">
+    <p xml:id="eco_de_0000121_2750">
      »So ist er ein Dichter?«
     </p>
-    <p xml:id="eco_de_000057_2760">
+    <p xml:id="eco_de_0000121_2760">
      »Ich las die Dichter der alten und neuen Zeit.
     </p>
-    <p xml:id="eco_de_000057_2770">
+    <p xml:id="eco_de_0000121_2770">
      Mohammed spricht nicht wie sie. Er redet ganz ohne Reime.«
     </p>
-    <p xml:id="eco_de_000057_2780">
+    <p xml:id="eco_de_0000121_2780">
      Da erhob Iblis die blecherne Stimme: »Er ist kein Narr, kein Dichter, kein Zauberer und kein Besessener. Er weiß recht gut, was er will. Er will, o Otba, die Macht im Staate. Er will den Königsmantel um seine Lenden schlagen, damit ganz Arabien ihn zum Fürsten ausrufe und er geehrt und begütert sei vor allen ändern. Dies, o ihr Freunde, ist Mohammeds wahres Gesicht und die trübe Quelle seiner Pläne.«
     </p>
-    <p xml:id="eco_de_000057_2790">
+    <p xml:id="eco_de_0000121_2790">
      Otba seufzte:
     </p>
-    <p xml:id="eco_de_000057_2800">
+    <p xml:id="eco_de_0000121_2800">
      »Was sollen wir tun? Er ist mit vielen von uns verwandt. Ich schätze seinen Oheim. Sein Schwiegervater ist ein trefflicher Mann.«
     </p>
-    <p xml:id="eco_de_000057_2810">
+    <p xml:id="eco_de_0000121_2810">
      »Wählt aus allen vier Stämmen der Kureischiten je einen mutigen Jüngling«, riet Iblis. »Gebt ihnen Schwerter in die Faust, daß sie ihn beim Morgengebet, das er in der Kaaba zu verrichten pflegt, erschlagen. Es wird kein Stamm der Schuldige sein, da die Schuld sich auf alle vier Stämme verteilt und sein Blut sich über sämtliche Familien verstreut...«
     </p>
-    <p xml:id="eco_de_000057_2820">
+    <p xml:id="eco_de_0000121_2820">
      Man applaudierte lebhaft den Worten des Iblis.
     </p>
-    <p xml:id="eco_de_000057_2830">
+    <p xml:id="eco_de_0000121_2830">
      Äffisch ahmten die Knaben die Handbewegungen ihrer Herren nach und klatschten mit kleinen Händen dem Morde Beifall.
     </p>
-    <p xml:id="eco_de_000057_2840">
+    <p xml:id="eco_de_0000121_2840">
      Die klatschenden Äußerungen der Hände gingen in einen von zwölf Knaben getanzten Reigen über.
     </p>
-    <p xml:id="eco_de_000057_2850">
+    <p xml:id="eco_de_0000121_2850">
      Mohammed ward beim Morgengebet von vier mit Schwertern bewaffneten Jünglingen überfallen.
     </p>
-    <p xml:id="eco_de_000057_2860">
+    <p xml:id="eco_de_0000121_2860">
      Ein Nebel verwirrte ihre Augen, so daß sie einander gegenseitig hinschlachteten.
     </p>
-    <p xml:id="eco_de_000057_2870">
+    <p xml:id="eco_de_0000121_2870">
      Iblis, der Einäugige mit der roten Binde, fand ihre Leichen, als er den Leichnam Mohammeds suchte.
     </p>
-    <p xml:id="eco_de_000057_2880">
+    <p xml:id="eco_de_0000121_2880">
      Er reckte den runzligen Arm gleich einem verdorrten Ast zum Himmel.
     </p>
-    <p xml:id="eco_de_000057_2890">
+    <p xml:id="eco_de_0000121_2890">
      Von nun an hatten die Moslems, die Gläubigen Mohammeds, viel zu dulden. Man warf die Niederen, die keinen vornehmen Familienanhang hatten, tagelang in feuchte, naßkalte Keller, um sie darauf, auf Steinen festgebunden, der sengenden Wüstensonne preiszugeben. Schlangen und Kröten waren ihre Genossen und die Flöhe der Wüste, welche sich zwischen die Zehen krallten und die Füße zerfraßen. Sie wurden in Käfige gesteckt, in denen sie weder sitzen noch stehen konnten, und, halb liegend, zu unförmigen Geschöpfen gemästet, um plötzlich durch Hunger zu vogelähnlichen Gerippen abzumagern.
     </p>
-    <p xml:id="eco_de_000057_2900">
+    <p xml:id="eco_de_0000121_2900">
      Chadidjeh und Abu Talib, die mit ihrem Ansehen Mohammed gestützt, starben in einem Monat.
     </p>
-    <p xml:id="eco_de_000057_2910">
+    <p xml:id="eco_de_0000121_2910">
      Chadidjeh bekannte auf der Bahre, in letzten Fiebern brennend, sich zu Mohammeds Lehre.
     </p>
-    <p xml:id="eco_de_000057_2920">
+    <p xml:id="eco_de_0000121_2920">
      Mohammed bekränzte sie mit rotem Mohn, der Blume des Propheten, und hielt mit Maria, der Koptin, und Aischa, der Ahnin der Kalifen, die Totenwache.
     </p>
-    <p xml:id="eco_de_000057_2930">
+    <p xml:id="eco_de_0000121_2930">
      Gabriel, der Engel, stand zu ihren Häupten und entzündete Sterne an den Totenkerzen.
     </p>
-    <p xml:id="eco_de_000057_2940">
+    <p xml:id="eco_de_0000121_2940">
      Mohammed kehrte von seinem Abendgange heim, mit Kot beworfen. Die Kureischiten höhnten: »Wenn du Gottes Gesandter bist und Wunder vermagst, so verwandle den Dreck in eine goldene Krone, die dein Haupt ziere und dich zum Herzog erhebe!« Der Kamelmist hing ihm in die Stirne. Winselnd wusch ihm Maria den Kopf.
     </p>
-    <p xml:id="eco_de_000057_2950">
+    <p xml:id="eco_de_0000121_2950">
      Ein Rhododendron blühte Mohammed zum Firmament.
     </p>
-    <p xml:id="eco_de_000057_2960">
+    <p xml:id="eco_de_0000121_2960">
      »Weine nicht Mädchen, ich muß den heiligen Stein und die ungastliche Heimat für einige Zeit verlassen. Ich werde aber zurückkehren, ihn als letzten Stein in mein Gebäude einzufügen. Geh zu Abu Bekr, zu Talha und den übrigen und bescheide sie heimlich in die Höhle des Berges Thaur unterhalb der Stadt.«
     </p>
-    <p xml:id="eco_de_000057_2970">
+    <p xml:id="eco_de_0000121_2970">
      Iblis, der Böse, der von Mohammeds Plänen erfuhr, sandte einen Meuchelmörder, ihn in der letzten Nacht im Schlafe zu überfallen. Da dieser an Mohammeds Bett schlich und den grünen Mantel aus Hadhramaut von ihm zog, den Dolch gezückt, bereit, ihn Mohammed in die Kehle zu stoßen, sah er einen unirdisch schönen Jüngling im sanftesten Schlaf.
     </p>
-    <p xml:id="eco_de_000057_2980">
+    <p xml:id="eco_de_0000121_2980">
      Klirrend fiel dem Mörder der Dolch zu Boden, und stöhnend stürzte er auf seine Stirn.
     </p>
-    <p xml:id="eco_de_000057_2990">
+    <p xml:id="eco_de_0000121_2990">
      In der Höhle des Berges Thaur trafen sich nächtlich die Gläubigen, zur Auswanderung gerüstet.
     </p>
-    <p xml:id="eco_de_000057_3000">
+    <p xml:id="eco_de_0000121_3000">
      Mohammed ritt mit Aischa, die ein Kind von ihm unterm Mieder trug, auf einer mageren Kamelin, dem ärmlichsten Tiere der Karawane.
     </p>
-    <p xml:id="eco_de_000057_3010">
+    <p xml:id="eco_de_0000121_3010">
      Am Abend aber, als es sie hungerte, und Ali die Kamelin molk, molk er viele Eimer voll. Als sie sich zum Schlaf niederlegten, standen Dattel- und Feigenbäume um ihr Lager, und sie aßen und tranken sich satt. Maria sagte:
     </p>
-    <p xml:id="eco_de_000057_3020">
+    <p xml:id="eco_de_0000121_3020">
      »Wir wandeln in einem Garten der Wunder. Das Leid liegt hinter einem Rosenbusch. Palmen fächeln uns: freiwillige Diener unserer Einsamkeit. Ich bin so jung und schön. Küsse mich, Geliebter...«
     </p>
-    <p xml:id="eco_de_000057_3030">
+    <p xml:id="eco_de_0000121_3030">
      Schon winkten die Dattel- und Lotoshaine des eine Stunde von Medina gelegenen Berges Koba. Von Granatäpfeln, Zitronen, Pfirsichen und Orangen wehte ein Duft in die erregten Nüstern der Menschen und Tiere.
     </p>
-    <p xml:id="eco_de_000057_3040">
+    <p xml:id="eco_de_0000121_3040">
      »Siehe,« sprach Aischa und deutete mit entflammter Hand nach dem gesegneten Hügel, »das Paradies!«
     </p>
-    <p xml:id="eco_de_000057_3050">
+    <p xml:id="eco_de_0000121_3050">
      Mütterlichen Entzückens voll gedachte sie der Zukunft des Kindes, das unter ihren Brüsten leise hämmerte: wie ein verschütteter Bergmann, der zum Lichte will.
     </p>
-    <p xml:id="eco_de_000057_3060">
+    <p xml:id="eco_de_0000121_3060">
      Klare Bäche sprangen vom Berge bis an ihre Füße.
     </p>
-    <p xml:id="eco_de_000057_3070">
+    <p xml:id="eco_de_0000121_3070">
      Al Kaswa, Mohammeds Kamel, kniete nieder und trank.
     </p>
-    <p xml:id="eco_de_000057_3080">
+    <p xml:id="eco_de_0000121_3080">
      Noch heute wird die Stelle, wo es in die Knie sank, dem Pilger von frommen Gläubigen gezeigt, welche dort, zum Andenken an Mohammeds Kamel, eine Moschee namens Al Takwa errichtet haben.
     </p>
-    <p xml:id="eco_de_000057_3090">
+    <p xml:id="eco_de_0000121_3090">
      Mohammed ließ am Bache rasten.
     </p>
-    <p xml:id="eco_de_000057_3100">
+    <p xml:id="eco_de_0000121_3100">
      Kaum war er aus dem Sattel gestiegen und hatte Aischa und Maria von ihren Kamelen gehoben, als eine Schar Aussätziger, schmutzig und schreiend, aus den Wein- und Aprikosengärten vom Berge Koba herniederbrach: wie Schlangen oft aus Blütenbüschen züngeln.
     </p>
-    <p xml:id="eco_de_000057_3110">
+    <p xml:id="eco_de_0000121_3110">
      Die Leute von Medina pflegten ihre Kranken auf den Berg Koba zu schaffen, wo eine reine heilsame Luft wehte und die Natur sie selbst ernährte.
     </p>
-    <p xml:id="eco_de_000057_3120">
+    <p xml:id="eco_de_0000121_3120">
      »He, mein Freund,« krächzte der Anführer der Aussätzigen, der sich an zwei Ästen als Krücken, wie ein Marabu hüpfend, fortbewegte: sein linkes Bein war nur mehr ein grüner Stumpf und von weißen Maden zerfressen – und »wenn du ein Prophet bist, so beweise es dadurch, daß du ein Wunder tust: an uns, den elendesten und erbärmlichsten der Geschöpfe. Wir sind an Felsen geschmiedet gleich dem griechischen Gott, und Adler und Raben, Würmer und Ratten fressen uns bei lebendigem Leibe ... Hilf uns, Mohammed, und wir wollen dir glauben!«
     </p>
-    <p xml:id="eco_de_000057_3130">
+    <p xml:id="eco_de_0000121_3130">
      Der Alte schwenkte flehend seine Krücke.
     </p>
-    <p xml:id="eco_de_000057_3140">
+    <p xml:id="eco_de_0000121_3140">
      Und wie im eingeübten Chorgesang wiederholte blökend die Herde der Unreinen und Aussätzigen:
     </p>
-    <p xml:id="eco_de_000057_3150">
+    <p xml:id="eco_de_0000121_3150">
      »Hilf uns, Mohammed, und wir wollen dir glauben!«
     </p>
-    <p xml:id="eco_de_000057_3160">
+    <p xml:id="eco_de_0000121_3160">
      Ein leeres Auge glotzte wie ein Kiesel zum Himmel. Beinstümpfe bebten.
     </p>
-    <p xml:id="eco_de_000057_3170">
+    <p xml:id="eco_de_0000121_3170">
      Eitrige Leiber krampften sich im blöden Gelächter. Auf blutenden Stirnen sammelten sich graue Wolken von Fliegen. Verfaulter Atem verpestete die Luft: unruhig scharrten Kamele und Pferde den Boden.
     </p>
-    <p xml:id="eco_de_000057_3180">
+    <p xml:id="eco_de_0000121_3180">
      Aus Beulen tropfte bräunliche Flüssigkeit ins Gras, das alsobald verdorrte. Wangen klafften auseinander, und in die offene Mundhöhle kroch, eine silberne Schlange, die Sonne.
     </p>
-    <p xml:id="eco_de_000057_3190">
+    <p xml:id="eco_de_0000121_3190">
      Entsetzt wichen die Moslems zurück, feindselig eine Wand von Blicken zwischen sich und den Aussätzigen aufrichtend. J*
     </p>
-    <p xml:id="eco_de_000057_3200">
+    <p xml:id="eco_de_0000121_3200">
      Mohammed trat in den Kreis der Aussätzigen, der sich trillernd und quakend hinter ihm schloß.
     </p>
-    <p xml:id="eco_de_000057_3210">
+    <p xml:id="eco_de_0000121_3210">
      Er warf das Haupt in den Himmel: »Herr, schenk mir ein Wunder! Ich möchte fürder nicht gehen, wenn diese humpeln, ich möchte nicht rein atmen, wenn diese verfaulten Lungen ächzen, nicht blicken, wenn sie mit erblindeten Gesten in die Räume tasten. Vergib mir, Herr, wie ich dir vergebe, und glaube mir, so will ich wieder an dich glauben! Es ist so viel des Elends, daß ich fast verzage...«
     </p>
-    <p xml:id="eco_de_000057_3220">
+    <p xml:id="eco_de_0000121_3220">
      Da die Aussätzigen das Licht auf Mohammeds Stirn sahen, fielen sie anbetend zur Erde.
     </p>
-    <p xml:id="eco_de_000057_3230">
+    <p xml:id="eco_de_0000121_3230">
      Mohammed berührte jeden mit seinem Stabe und sagte selig:
     </p>
-    <p xml:id="eco_de_000057_3240">
+    <p xml:id="eco_de_0000121_3240">
      »Sei geheilt!«
     </p>
-    <p xml:id="eco_de_000057_3250">
+    <p xml:id="eco_de_0000121_3250">
      Da entsprang der erste und war ein langohriger brauner Hase. Der zweite schrumpfte zur winzigen Maus zusammen und suchte sich piepsend ein Loch. Der dritte schwang sich als gläserne Libelle in die Lüfte. Der vierte wieherte und war ein Pferd, das den Genossen sich gesellte. Der fünfte war ein Feuersalamander, der zwischen den Steinen schillernd dahinschoß. Der sechste fand sich brav als Esel wieder, der siebente lockte als Tauber gurrend sein Weibchen. Und jeder war ein Tier, war gut und glücklich...
     </p>
-    <p xml:id="eco_de_000057_3260">
+    <p xml:id="eco_de_0000121_3260">
      Als Mohammed zu den Gefährten zurückkehrte, da schien es ihnen allen, als hätten sie geträumt.
     </p>
-    <p xml:id="eco_de_000057_3270">
+    <p xml:id="eco_de_0000121_3270">
      Die Wand der Blicke war gefallen.
     </p>
-    <p xml:id="eco_de_000057_3280">
+    <p xml:id="eco_de_0000121_3280">
      Sie ritten schon im Schatten des Berges Koba. Von Granatäpfeln, Zitronen, Pfirsichen, Orangen wehte ein süßester Duft in ihre erregten Nüstern.
     </p>
-    <p xml:id="eco_de_000057_3290">
+    <p xml:id="eco_de_0000121_3290">
      Und leise, im Halbschlaf, sprach Aischa, an Mohammed geschmiegt:
     </p>
-    <p xml:id="eco_de_000057_3300">
+    <p xml:id="eco_de_0000121_3300">
      »Das Paradies!«
     </p>
-    <p xml:id="eco_de_000057_3310">
+    <p xml:id="eco_de_0000121_3310">
      Mohammed erreichte Medina, als das Gestirn sich nach Westen wandte und zwölf Nächte vom Monat Rabia-l-awwal verflossen waren.
     </p>
-    <p xml:id="eco_de_000057_3320">
+    <p xml:id="eco_de_0000121_3320">
      Die von Medina lebten in vererbter Feindschaft mit denen von Mekka.
     </p>
-    <p xml:id="eco_de_000057_3330">
+    <p xml:id="eco_de_0000121_3330">
      Sie nahmen den Propheten mit Jubel auf und zogen ihm mit Zimbeln und Gesang entgegen.
     </p>
-    <p xml:id="eco_de_000057_3340">
+    <p xml:id="eco_de_0000121_3340">
      »Das Glück hat die von Mekka verlassen,« sangen sie, »und sucht seine Zuflucht im ragenden Medina. Der neue Gott flieht vor den alten Göttern, aber er wird sich wenden mit Schild und Axt und Speer und wird zerschmettern ihr tönernes Haupt und ihre hohlen Bäuche. Die aber um die Götter glucksen, wie gackernde Hennen: ihnen wird man die Augen aus dem Kopfe reißen, mit denen sie die Sonne befleckten, und man wird ihre Leiber in die Zisternen werfen, daß der Regen sie ersäufe und die Schakale sie fressen.«
     </p>
-    <p xml:id="eco_de_000057_3350">
+    <p xml:id="eco_de_0000121_3350">
      Mohammed predigte von der Mauer herab, gestützt auf Ali, denn die lange Reise war ihm beschwerlich gewesen:
     </p>
-    <p xml:id="eco_de_000057_3360">
+    <p xml:id="eco_de_0000121_3360">
      »Leute von Medina! Der Prophet segnet euch und schwingt seine Fahne über euch! Ich gebe mich in eure Hand, gebt euch denn in meinen Geist, und traut mir, wie ich euch vertraue. Medina sei die Burg des lautren Gottes! Es wird niemand in seinem Dienst dem Tode anheimfallen, der nicht in das Paradies eingeht. Er wird schön gekleidet und edelsteingeschmückt bei schlanken Engeln verweilen, im Kreise erlauchter Freunde. Hundert Knaben werden einen jeden Frommen bedienen: mit goldenen Schüsseln werden sie aufwarten und kristallenen Pokalen. Ewig wird Wein auf seinem Tische stehen und weißes Fleisch von jungen Tauben. Er wird essen, ohne satt, und trinken, ohne trunken zu werden, der letzte Bissen wird ihm munden wie der erste. Muntere Mädchen werden tanzend ihn berauschen, und ihre Hautfarbe wird sein wie der Glanz des Vollmondes. Hundert Frauen, die ihre Jungfräulichkeit stetig neu gewinnen, werden ihn liebend beglücken. Dattelbäume beschatten ihn unsterblich. Glocken klingen aus jedem Gesträuch, wie Äolsharfen, in den Wind gehängt. Fontänen sprühen Weisheit. Kühlung weht aus silbernen Seen, und er wird sanft entschlafen im Schöße des schönsten Engels.«
     </p>
-    <p xml:id="eco_de_000057_3370">
+    <p xml:id="eco_de_0000121_3370">
      Da schrien die Leute von Medina:
     </p>
-    <p xml:id="eco_de_000057_3380">
+    <p xml:id="eco_de_0000121_3380">
      »Wir glauben dir, Mohammed, und deinem Gotte, der soviel Seligkeit zu verschenken hat. Sei unser Feldhauptmann im heiligen Streite!«
     </p>
-    <p xml:id="eco_de_000057_3390">
+    <p xml:id="eco_de_0000121_3390">
      Da ließ Mohammed von Ali die grüne Fahne über ihnen schwenken und krümmte die Finger seiner rechten Hand:
     </p>
-    <p xml:id="eco_de_000057_3400">
+    <p xml:id="eco_de_0000121_3400">
      »Schwört bei dieser Fahne, mich nie zu verlassen, in Armut und Elend nicht, in Rausch und Reichtum nicht, in Krieg und Frieden nicht, im Diesseits und Jenseits nicht!«
     </p>
-    <p xml:id="eco_de_000057_3410">
+    <p xml:id="eco_de_0000121_3410">
      Die Leute von Medina warfen die Arme in die Luft und krümmten die Finger ihrer rechten Hand wie Mohammed:
     </p>
-    <p xml:id="eco_de_000057_3420">
+    <p xml:id="eco_de_0000121_3420">
      »Wir schwören bei der grünen Fahne des Propheten, dich, Mohammed, nie zu verlassen: in Armut und Elend nicht, in Rausch und Reichtum nicht, in Krieg und Frieden nicht, im Diesseits und Jenseits nicht.«
     </p>
-    <p xml:id="eco_de_000057_3430">
+    <p xml:id="eco_de_0000121_3430">
      Über ihnen auf der Mauer flatterte die grüne Fahne im Winde: der silberne Halbmond bog sich wie Über ihnen auf der Mauer flatterte die grüne Fahne im Winde: der silberne Halbmond bog sich wie eine zur Ernte erhobene Sichel.
     </p>
-    <p xml:id="eco_de_000057_3440">
+    <p xml:id="eco_de_0000121_3440">
      Mohammed ließ einen Graben um Medina ziehen und verkündete die Errichtung des Staates Medina. Von den umliegenden Stämmen erschienen bald Abgesandte und zollten ihm Tribut. Er führte eine Armensteuer ein und schenkte sämtlichen Sklaven und Sklavinnen Medinas die Freiheit.
     </p>
-    <p xml:id="eco_de_000057_3450">
+    <p xml:id="eco_de_0000121_3450">
      Aischa gebar ihm auf dem Dach seines Hauses, in den Armen Marias, der Koptin, einen Sohn; der ward der Vater der Kalifen.
     </p>
-    <p xml:id="eco_de_000057_3460">
+    <p xml:id="eco_de_0000121_3460">
      Am Tage seiner Geburt begann Mohammed mit dem Bau der Moschee. Er hatte eine Schürze umgetan wie ein Werkmann und arbeitete mit Hammer, Spaten und Spachtel inmitten der Maurer. Und legte das Werkzeug nicht eher aus der Hand, als bis die Moschee vollendet war.
     </p>
-    <p xml:id="eco_de_000057_3470">
+    <p xml:id="eco_de_0000121_3470">
      Die Moslems aber sangen:
     </p>
-    <p xml:id="eco_de_000057_3480">
+    <p xml:id="eco_de_0000121_3480">
      Seht den Propheten: ganz einer der unsern. In Demut gekniet vor dem Werke wie wir. Nichts ist ihm zu unwert, zu handeln zum Heile. Herr: türme die Kirche, beglänze die Kuppel, erhöhe den Miedern, erleuchte das Licht!
     </p>
-    <p xml:id="eco_de_000057_3490">
+    <p xml:id="eco_de_0000121_3490">
      Mohammed stand auf dem Turme der vollendeten Moschee und richtete den Blick wie einen Pfeil nach Mekka:
     </p>
-    <p xml:id="eco_de_000057_3500">
+    <p xml:id="eco_de_0000121_3500">
      »Gott läßt zum zweitenmal nicht einen Stern vom Himmel fallen. Des schwarzen Steines Schimmer umgibt mit Gloriole mein alterndes Haupt. Ach, vielleicht auch ist es Sehnsucht nur des kindlichen Herzens nach der Heimat: nach den Wiesen, wo der Knabe mit den Kühen und Eseln sprang. Nach der guten, dicken Amme Halimeh. Dem Herdfeuer Abu Talibs. Den Weissagungen des Mönches Bahirah. Warum sah ich niemals meine Mutter? Saß niemals auf ihren Knien und spielte Reiter? Empfing von ihrem Munde nicht die mütterliche Lehre des edlen Ehrgeizes? Der Erhabenheit des Gewissens? Es zieht sich mir das Herz zusammen, als hätte ich es in Essig getaucht, wenn ich darüber sinne.
     </p>
-    <p xml:id="eco_de_000057_3510">
+    <p xml:id="eco_de_0000121_3510">
      Warum, o Gott, läßt du mit neuer Offenbarung so lange auf dich warten? Was steht mir noch bevor ?
     </p>
-    <p xml:id="eco_de_000057_3520">
+    <p xml:id="eco_de_0000121_3520">
      Ich flehte dich um den Besuch meines Freundes, des Engels Gabriel. Er aber verzog.
     </p>
-    <p xml:id="eco_de_000057_3530">
+    <p xml:id="eco_de_0000121_3530">
      Ich hatte einen Traum: da hing ich am Galgen. Ehe ich aber den letzten Seufzer ausstieß, floß Same von mir zur Erde. Dem entsproß eine Sonnenblume, von Farbe und Gestalt, wie ich sie niemals sah.
     </p>
-    <p xml:id="eco_de_000057_3540">
+    <p xml:id="eco_de_0000121_3540">
      Herr, laß mein Schwert nicht schartig und meinen Schild nicht rostig werden!«
     </p>
-    <p xml:id="eco_de_000057_3550">
+    <p xml:id="eco_de_0000121_3550">
      Des Nachts, nach dem Gebet der Abendröte, erschien Gabriel auf einem weißen, prächtig geschirrten Schimmel und sprach:
     </p>
-    <p xml:id="eco_de_000057_3560">
+    <p xml:id="eco_de_0000121_3560">
      »Schwing‘ dich hinter mir aufs Pferd, Mohammed !«
     </p>
-    <p xml:id="eco_de_000057_3570">
+    <p xml:id="eco_de_0000121_3570">
      Mohammed entbrannte:
     </p>
-    <p xml:id="eco_de_000057_3580">
+    <p xml:id="eco_de_0000121_3580">
      »Mein Freund, daß ich dich wieder habe!« Er bestieg hinter Gabriel den Schimmel. Sie galoppierten in den Wolken und erblickten nach zwei Stunden die Zinnen von Jerusalem.
     </p>
-    <p xml:id="eco_de_000057_3590">
+    <p xml:id="eco_de_0000121_3590">
      Am Ölberg machte der Engel halt, schwang sich vom Pferd und hielt Mohammed die Steigbügel :
     </p>
-    <p xml:id="eco_de_000057_3600">
+    <p xml:id="eco_de_0000121_3600">
      »Steig ab, Mohammed, wir sind am Ziel.«
     </p>
-    <p xml:id="eco_de_000057_3610">
+    <p xml:id="eco_de_0000121_3610">
      Mohammed sprang strahlend zur Erde. Abraham, Moses und Christus traten auf ihn zu, umarmten ihn und nannten ihn: Bruder! Sie beteten zusammen, und Mohammed las ihnen aus seinem ungeschriebenen Buche, dem Koran, vor. Als er geendigt, hingen Tränen an aller Wimpern, und Christus küßte ihn.
     </p>
-    <p xml:id="eco_de_000057_3620">
+    <p xml:id="eco_de_0000121_3620">
      Da es Mohammed dürstete, brachte ein Engel ein Tablett mit drei Bechern. Im ersten duftete Wein, im zweiten blinkte Milch, im dritten schien Wasser.
     </p>
-    <p xml:id="eco_de_000057_3630">
+    <p xml:id="eco_de_0000121_3630">
      Mohammed wählte das Glas mit Milch, und nach ihm tranken Christus und die Propheten daraus.
     </p>
-    <p xml:id="eco_de_000057_3640">
+    <p xml:id="eco_de_0000121_3640">
      »Ich weiß,« sprach Mohammed, »hätte ich das Gefäß mit Wasser gewählt, so wäre meine Lehre wie Wasser in der Wüste verflossen. Hätte ich Wein getrunken: sie wäre in Irrglauben erstickt. Mit der Milch meiner Milde will ich sie kräftigen.« –
     </p>
-    <p xml:id="eco_de_000057_3650">
+    <p xml:id="eco_de_0000121_3650">
      Am frühen Morgen, vor Sonnenaufgang, leitete Gabriel den Propheten nach Medina zurück.
     </p>
-    <p xml:id="eco_de_000057_3660">
+    <p xml:id="eco_de_0000121_3660">
      Mohammed erzählte von seiner nächtlichen Reise Maria, Aischa, Ali, Talha und dem alten Abu Bekr.
     </p>
-    <p xml:id="eco_de_000057_3670">
+    <p xml:id="eco_de_0000121_3670">
      »Hat dich, wie du berichtest, auf dem Rückweg der Engel durch Jerusalem geführt, so erzähle mir einiges von Jerusalem, seiner Lage, seinen Straßen, Kirchen und Palästen.«
     </p>
-    <p xml:id="eco_de_000057_3680">
+    <p xml:id="eco_de_0000121_3680">
      Mohammed lächelte und erzählte Abu Bekr von Jerusalem.
     </p>
-    <p xml:id="eco_de_000057_3690">
+    <p xml:id="eco_de_0000121_3690">
      »Bei Gott,« erstaunte Abu Bekr, »ich war selbst in jungen Jahren in Jerusalem. Du sprichst wahr!«
     </p>
-    <p xml:id="eco_de_000057_3700">
+    <p xml:id="eco_de_0000121_3700">
      Mohammed beschloß, Mekka und das Heiligtum zu erobern. Denn er hatte vernommen von Anschlägen, die Otba und Iblis gegen ihn und Medina planten, und gedachte ihnen zuvorzukommen.
     </p>
-    <p xml:id="eco_de_000057_3710">
+    <p xml:id="eco_de_0000121_3710">
      Er raffte in Eile ein Fähnlein, etwa fünfhundert Mann, zusammen und schlug die Straße nach Mekka ein.
     </p>
-    <p xml:id="eco_de_000057_3720">
+    <p xml:id="eco_de_0000121_3720">
      Auf der Mitte des Weges aber traten ihm Otba und Iblis mit einem Heer von zweitausend Mann entgegen.
     </p>
-    <p xml:id="eco_de_000057_3730">
+    <p xml:id="eco_de_0000121_3730">
      Mohammed schwenkte die grüne Fahne und rief:
     </p>
-    <p xml:id="eco_de_000057_3740">
+    <p xml:id="eco_de_0000121_3740">
      »Wer heute fällt, wird in das Paradies eingehn!«
     </p>
-    <p xml:id="eco_de_000057_3750">
+    <p xml:id="eco_de_0000121_3750">
      Brüllend stürzten sie sich dem Feinde entgegen.
     </p>
-    <p xml:id="eco_de_000057_3760">
+    <p xml:id="eco_de_0000121_3760">
      Iblis auf seinem Rappen kreischte belustigt:
     </p>
-    <p xml:id="eco_de_000057_3770">
+    <p xml:id="eco_de_0000121_3770">
      »Er ist wahnsinnig geworden!«
     </p>
-    <p xml:id="eco_de_000057_3780">
+    <p xml:id="eco_de_0000121_3780">
      Jauchzend gab Hind, Otbas Tochter, das Zeichen zum Angriff:
     </p>
-    <p xml:id="eco_de_000057_3790">
+    <p xml:id="eco_de_0000121_3790">
      »Tapfer, tapfer, ihr Söhne Abd Eddars! Fahrt ihnen wie Tiger an die Gurgeln, Kureischiten! Sucht Mohammed, ihren Führer und Verführer, der Lat und Uzza, eure Götter, beschimpft und besudelt hat! Lat und Uzza sind mit euch! Zeigt euch ihrer nicht unwürdig. Iblis auf schwarzem Rappen wird euch führen! Schleudert ihnen die Lanzen mit Widerhaken in den Bauch, daß die Gedärme wie Schlangen aus ihrer Höhle hervorbrechen! Gedenket eurer Mütter, Frauen und Töchter, die euch folgen! Gedenket, wie sie, wenn ihr unterliegt, geschändet dem Feinde anheimfallen! Stürmt vorwärts, ihr Söhne Abd Eddars! Kehrt einer dem Feinde den Rücken, so sollen geliebte Arme ihn nimmer umschlingen! Kein weiches Polster wird ihm von seiner Geliebten bereitet sein! Sie wird sich verachtungsvoll von ihm wenden und ihren Leib den Helden schenken! Tötet, tötet!« jubelte Hind.
     </p>
-    <p xml:id="eco_de_000057_3800">
+    <p xml:id="eco_de_0000121_3800">
      Die Gläubigen wurden umzingelt und, so wild und verzweifelt sie kämpften, zur Flucht gezwungen..
     </p>
-    <p xml:id="eco_de_000057_3810">
+    <p xml:id="eco_de_0000121_3810">
      Gabriel sandte Mohammed den Schimmel, auf dem er, das Haupt mit Asche bestreut, die Fahne um seinen Leib geschlungen, an der Spitze seiner Getreuen entfloh.
     </p>
-    <p xml:id="eco_de_000057_3820">
+    <p xml:id="eco_de_0000121_3820">
      Iblis, auf seinem Rappen, reckte ihm die verdorrte Faust nach.
     </p>
-    <p xml:id="eco_de_000057_3830">
+    <p xml:id="eco_de_0000121_3830">
      Hind, die Tochter Otbas, die sich Iblis auf dem Schlachtfeld zwischen den Leichen brünstig zu eigen gab, verstümmelte mit den Frauen der Kureischiten die gefallenen Moslems. Sie schnitten ihnen Ohren, Nasen und die Zeichen ihrer Männlichkeit ab. Aus den Ohren und Nasen verfertigten sie Fuß- und Halsbänder, die sie beim Einzug in Mekka trugen.
     </p>
-    <p xml:id="eco_de_000057_3840">
+    <p xml:id="eco_de_0000121_3840">
      Die Kureischiten verfolgten Mohammed bis vor die Mauern von Medina, gegen das sie vergeblich anrannten.
     </p>
-    <p xml:id="eco_de_000057_3850">
+    <p xml:id="eco_de_0000121_3850">
      Mohammed erkannte, daß er übereilt gehandelt und sich schlecht zur Eroberung des Heiligtums vorbereitet hatte.
     </p>
-    <p xml:id="eco_de_000057_3860">
+    <p xml:id="eco_de_0000121_3860">
      Er geißelte sich vierzehn Tage, daß ihm das Blut in Bächen vom Körper rann, nahm keinen Bissen Brot und betete für die gefallenen Moslems.
     </p>
-    <p xml:id="eco_de_000057_3870">
+    <p xml:id="eco_de_0000121_3870">
      Am fünfzehnten Tage erschien ihm nach dem Gebete der Abendröte Gabriel. Er stellte eine silberne Leiter an, auf der Mohammed empor zum Himmel stieg.
     </p>
-    <p xml:id="eco_de_000057_3880">
+    <p xml:id="eco_de_0000121_3880">
      Moses stand am Tor der Wache und sprach:
     </p>
-    <p xml:id="eco_de_000057_3890">
+    <p xml:id="eco_de_0000121_3890">
      »Was wünschest du, Mohammed?«
     </p>
-    <p xml:id="eco_de_000057_3900">
+    <p xml:id="eco_de_0000121_3900">
      Mohammed neigte sich:
     </p>
-    <p xml:id="eco_de_000057_3910">
+    <p xml:id="eco_de_0000121_3910">
      »Ich habe gesündigt durch schlecht getane Tat. Ich komme, für die Seelen meiner gefallenen Freunde Gnade und Verzeihung zu erbitten.«
     </p>
-    <p xml:id="eco_de_000057_3920">
+    <p xml:id="eco_de_0000121_3920">
      Moses sprach: »Sie sei, auf deine Fürsprache, ihnen gewährt«, und führte ihn bis in den siebenten Himmel zu den letzten Wonnen der Erkenntnis, zu Gott.
     </p>
-    <p xml:id="eco_de_000057_3930">
+    <p xml:id="eco_de_0000121_3930">
      Und Mohammed fragte, in eine Wolke versunken, Gott, wieviel Gebete er seinem Volke täglich auferlege.
     </p>
-    <p xml:id="eco_de_000057_3940">
+    <p xml:id="eco_de_0000121_3940">
      Da antwortete Gott durch Moses: »Fünfzig!« Da sprach Mohammed: »Herr, es sind nicht alle Menschen so stark, daß sie fünfzig Gebete täglich ertrügen. Sind nicht die meisten schwach und elend, und ist nicht ihre Brust mit Qualen gefüllt? Ich will wohl täglich tausend Gebete verrichten: laß meinem Volke die Gebete nach!« Da forderte Gott von Mohammed durch Moses vierzig Gebete von seinem Volk.
     </p>
-    <p xml:id="eco_de_000057_3950">
+    <p xml:id="eco_de_0000121_3950">
      Mohammed aber sprach: »Das Gebet ist mühsam und mein Volk ist schwach, laß, Herr, noch größer deine Milde walten!«
     </p>
-    <p xml:id="eco_de_000057_3960">
+    <p xml:id="eco_de_0000121_3960">
      Und Gott erließ seinem Volke auf das unaufhörliche Flehen Mohammeds alle Gebete bis auf fünf: das Morgengebet, sobald die Morgenröte erblinkt, das Mittaggebet, wenn die Sonne im Zenith steht, das Nachmittaggebet, wenn die Sonne nach Westen sank, das Abendgebet, wenn die Sonne unter den Horizont taucht, das Nachtgebet, wenn der letzte Schein der Abendröte von den Lippen der Nacht aufgesaugt wurde.
     </p>
-    <p xml:id="eco_de_000057_3970">
+    <p xml:id="eco_de_0000121_3970">
      Mohammed rüstete ein Jahr zum Zuge gegen Mekka und brachte zehntausend Mann zusammen.
     </p>
-    <p xml:id="eco_de_000057_3980">
+    <p xml:id="eco_de_0000121_3980">
      Maria, die Koptin, lief, die zweite Sure des Koran singend, durch die Stadt:
     </p>
-    <p xml:id="eco_de_000057_3990">
+    <p xml:id="eco_de_0000121_3990">
      »Wir sind Gottes. Unser Weg kam von ihm. Unser Weg führt wieder zu ihm zurück. Bestreitet für Gott, welche sind wider Gott! Und also wider euch! Seid wild und mutig: der Geist befeuere euch! Aber artet nicht aus: laßt die Zügel eurer Pferde nicht los, denn Gott liebt nicht die Zügellosen. Bekämpft sie nicht am heiligen Hause, bis sie euch selber dort bekämpfen. Dann aber tötet sie, tötet sie und werft sie in die Kloaken. Denn Frevel ist ärger denn Tötung.
     </p>
-    <p xml:id="eco_de_000057_4000">
+    <p xml:id="eco_de_0000121_4000">
      Wir sind Gottes und zu ihm kehren wir zurück.«
     </p>
-    <p xml:id="eco_de_000057_4010">
+    <p xml:id="eco_de_0000121_4010">
      Mohammed zog aus Medina aus, beglänzt von Zuversicht und bekränzt mit Liebe.
     </p>
-    <p xml:id="eco_de_000057_4020">
+    <p xml:id="eco_de_0000121_4020">
      Voll Entsetzen vernahm Otba von den fürchterlichen Rüstungen Mohammeds.
     </p>
-    <p xml:id="eco_de_000057_4030">
+    <p xml:id="eco_de_0000121_4030">
      Kundschafter hinterbrachten sie ihm, als er die Nacht in einem Knabenbordell der alten Stadt verschlief.
     </p>
-    <p xml:id="eco_de_000057_4040">
+    <p xml:id="eco_de_0000121_4040">
      Mit der Morgenröte bestieg er sein Pferd und ritt heimlich aus Mekka, Mohammed entgegen.
     </p>
-    <p xml:id="eco_de_000057_4050">
+    <p xml:id="eco_de_0000121_4050">
      Er traf ihn auf dem alten Schlachtfeld, wo noch die Knochen der gefallenen Moslems bleichten.
     </p>
-    <p xml:id="eco_de_000057_4060">
+    <p xml:id="eco_de_0000121_4060">
      Er ritt bis an Mohammed heran, das Alter hatte sein Haupthaar kalkig geweißt, und sagte:
     </p>
-    <p xml:id="eco_de_000057_4070">
+    <p xml:id="eco_de_0000121_4070">
      »Ich bin Otba, dein Feind. Ist es wahr, was man mir berichtet hat, daß du zehntausend Mann gegen Mekka aufgeboten hast?«
     </p>
-    <p xml:id="eco_de_000057_4080">
+    <p xml:id="eco_de_0000121_4080">
      Mohammed gebot grimmig:
     </p>
-    <p xml:id="eco_de_000057_4090">
+    <p xml:id="eco_de_0000121_4090">
      »Überzeuge dich!«
     </p>
-    <p xml:id="eco_de_000057_4100">
+    <p xml:id="eco_de_0000121_4100">
      Und er ließ seine Truppen in Parade antreten und in Kolonnen zu je hundert mit ihren Bannern vor dem Feldherrn der Feinde defilieren.
     </p>
-    <p xml:id="eco_de_000057_4110">
+    <p xml:id="eco_de_0000121_4110">
      Otba saß wie ein Affe zusammengekauert auf seinem Falben und zählte die Kolonnen.
     </p>
-    <p xml:id="eco_de_000057_4120">
+    <p xml:id="eco_de_0000121_4120">
      Mit einem Ruck warf er sich und sein Pferd herum gegen Mohammed:
     </p>
-    <p xml:id="eco_de_000057_4130">
+    <p xml:id="eco_de_0000121_4130">
      »Es ist wahr, was man mir erzählt hat. Bist du unerbittlich, uns zu vernichten? «
     </p>
-    <p xml:id="eco_de_000057_4140">
+    <p xml:id="eco_de_0000121_4140">
      »Ich will euch nicht vernichten, ich will euch zum Leben erwecken. Denn Gott ließ mich wissen: bestreitet für Gott, welche sind wider Gott und also wider euch!«
     </p>
-    <p xml:id="eco_de_000057_4150">
+    <p xml:id="eco_de_0000121_4150">
      Otba kaute mit seinen zahnlosen Kiefern:
     </p>
-    <p xml:id="eco_de_000057_4160">
+    <p xml:id="eco_de_0000121_4160">
      »Was kann ich tun, die Kureischiten zu erretten?«
     </p>
-    <p xml:id="eco_de_000057_4170">
+    <p xml:id="eco_de_0000121_4170">
      »Übergib mir Mekka und das Heiligtum und zerstöre die Götzen Lat und Uzza, die es verunreinigen.«
     </p>
-    <p xml:id="eco_de_000057_4180">
+    <p xml:id="eco_de_0000121_4180">
      Otba sann.
     </p>
-    <p xml:id="eco_de_000057_4190">
+    <p xml:id="eco_de_0000121_4190">
      Die Sonne kämmte seinen Scheitel.
     </p>
-    <p xml:id="eco_de_000057_4200">
+    <p xml:id="eco_de_0000121_4200">
      »Laß uns die Götzen noch auf ein Jahr, daß wir so plötzlich sie nicht verlieren und an uns Irrewerden ...«
     </p>
-    <p xml:id="eco_de_000057_4210">
+    <p xml:id="eco_de_0000121_4210">
      »Ihr rennt wie geblendete Stiere in Wildnis und Irre...«
     </p>
-    <p xml:id="eco_de_000057_4220">
+    <p xml:id="eco_de_0000121_4220">
      Otba rutschte vom Pferde in die Knie:
     </p>
-    <p xml:id="eco_de_000057_4230">
+    <p xml:id="eco_de_0000121_4230">
      »Sieh mich alten Mann, den Häuptling der Kureischiten, deines Mutterstammes, vor dir im Staube! Laß uns die Götzen einen Monat noch!«
     </p>
-    <p xml:id="eco_de_000057_4240">
+    <p xml:id="eco_de_0000121_4240">
      »Ich bin kein Händler. Ich lasse nicht mit mir feilschen.«
     </p>
-    <p xml:id="eco_de_000057_4250">
+    <p xml:id="eco_de_0000121_4250">
      Ali, der Jüngling, erglühte vor Scham.
     </p>
-    <p xml:id="eco_de_000057_4260">
+    <p xml:id="eco_de_0000121_4260">
      »Erlaube mir, Mohammed, ihm das Haupt abzuschlagen!«
     </p>
-    <p xml:id="eco_de_000057_4270">
+    <p xml:id="eco_de_0000121_4270">
      Mohammed schüttelte abwehrend den Kopf.
     </p>
-    <p xml:id="eco_de_000057_4280">
+    <p xml:id="eco_de_0000121_4280">
      »Ich gebe ihm freies Geleit nach Mekka zurück. Er soll verkünden, was er sah. Ich will kein Blutvergießen ohne Nutz und Frommen. Denn Gott ließ mich wissen: seid wild und mutig! Der Geist befeuere euch! Aber artet nicht aus: laßt die Zügel eurer Pferde nicht los, denn Gott liebt nicht die Zügellosen ... Ich fordere, Otba, von den Kureischiten, daß sie alle Waffen: Lanzen, Speere, Schwerter, Dolche, Bogen und Pfeile, zu einem Haufen vor dem Heiligtum zusammentragen. Daß niemand, weder Mann noch Weib noch Kind, sich bei meinem Einzug auf den Straßen antreffen läßt. Wer in seinem Hause bleibt, soll geborgen sein. Sein Leben und sein Eigentum sei unverletzlich.«
     </p>
-    <p xml:id="eco_de_000057_4290">
+    <p xml:id="eco_de_0000121_4290">
      Otba berief die Ältesten und Edlen der Kureischiten zum Rate.
     </p>
-    <p xml:id="eco_de_000057_4300">
+    <p xml:id="eco_de_0000121_4300">
      »Mohammed zieht gegen uns mit zehntausend tapferen Streitern. Wir sind vor ihm wie herbstliche Blätter im Winde. Schichtet die Waffen: Lanzen, Speere, Schwerter, Dolche, Bogen und Pfeile, vor dem Heiligtum zu einem Hügel zusammen. Verberge sich ein jeder in seinem Haus, so soll sein Leben und Eigentum unverletzlich sein.«
     </p>
-    <p xml:id="eco_de_000057_4310">
+    <p xml:id="eco_de_0000121_4310">
      Die Ältesten und Edlen eilten durch die Stadt und trugen die Kunde von Haus zu Haus.
     </p>
-    <p xml:id="eco_de_000057_4320">
+    <p xml:id="eco_de_0000121_4320">
      Hind aber, Otbas Tochter, lief ihm aus dem Rathaus auf die Straße nach, zerrte an seinem weißen Bart und schrie:
     </p>
-    <p xml:id="eco_de_000057_4330">
+    <p xml:id="eco_de_0000121_4330">
      »Seht den schmutzigen Affen, er war im Lager der Feinde. Er verrät uns.«
     </p>
-    <p xml:id="eco_de_000057_4340">
+    <p xml:id="eco_de_0000121_4340">
      Iblis, der Einäugige, der den beiden begegnete, zog sein Messer und stieß den Greis nieder.
     </p>
-    <p xml:id="eco_de_000057_4350">
+    <p xml:id="eco_de_0000121_4350">
      Der Vortrupp der Moslems, der durch das Tor Beni Scheiba in Mekka einzog, fand auf den Straßen keinen lebenden Menschen. Nur die Leiche Otbas, des Greises, lag, die Stirne im Kot, vor dem Rathaus, den Dolch des Iblis im Nacken.
     </p>
-    <p xml:id="eco_de_000057_4360">
+    <p xml:id="eco_de_0000121_4360">
      Als Mohammed, der den Schimmel Gabriels ritt, in die Straße, die nach der Kaaba führte, einbog, sprengte ihm in voller Ausrüstung Iblis, der Böse, auf dunklem Rappen entgegen. Sie kreuzten die Schwerter. Im siebenten Gange hieb ihm Mohammed das Haupt ab. Ein Moslem, der den rollenden Kopf ergriff und die Trophäe den Kameraden weisen wollte, hielt plötzlich einen verrunzelten Kürbis in der Hand.
     </p>
-    <p xml:id="eco_de_000057_4370">
+    <p xml:id="eco_de_0000121_4370">
      Iblis' Rumpf raschelte, ein gelbes vertrocknetes Strohbündel, vom Rappen.
     </p>
-    <p xml:id="eco_de_000057_4380">
+    <p xml:id="eco_de_0000121_4380">
      Siebenmal umkreiste Mohammed auf seinem Pferde das Heiligtum.
     </p>
-    <p xml:id="eco_de_000057_4390">
+    <p xml:id="eco_de_0000121_4390">
      Dann sprang er herab, überließ die Zügel Ali, dem Jüngling, und betrat die Kaaba.
     </p>
-    <p xml:id="eco_de_000057_4400">
+    <p xml:id="eco_de_0000121_4400">
      Er hob das Schwert und zerschlug die Götzen Lat und Uzza.
     </p>
-    <p xml:id="eco_de_000057_4410">
+    <p xml:id="eco_de_0000121_4410">
      Er umarmte den heiligen Stein, der einst vom siebenten Himmel gefallen war, und küßte ihn siebenmal.
     </p>
-    <p xml:id="eco_de_000057_4420">
+    <p xml:id="eco_de_0000121_4420">
      Sieben Stunden lag er vor dem Stein im Gebet.
     </p>
-    <p xml:id="eco_de_000057_4430">
+    <p xml:id="eco_de_0000121_4430">
      Er bedeckte ihn mit der grünen Fahne und trat vor das Tor der Kaaba:
     </p>
-    <p xml:id="eco_de_000057_4440">
+    <p xml:id="eco_de_0000121_4440">
      »Moslems, Gott gab euch Ruhm und Ehre vor allen, da ihr das Heiligtum erobertet, ohne einen Tropfen Blut zu vergießen. In Friede und Freiheit werde künftig die Wallfahrt zu ihm gestattet. Wer immer nach Mekka zum Heiligtum pilgere, sei unantastbar. Gott hat Mekka geheiligt an dem Tage, da er Himmel und Erde schuf. Und Mekkas Erde bleibe heilig bis zu den Posaunen der Auferstehung!«
     </p>
-    <p xml:id="eco_de_000057_4450">
+    <p xml:id="eco_de_0000121_4450">
      Mohammed kehrte, vom Jubel der Gläubigen umbraust, nach seiner Hauptstadt Medina zurück.
     </p>
-    <p xml:id="eco_de_000057_4460">
+    <p xml:id="eco_de_0000121_4460">
      Mohammed besaß ein zahmes schwarzes Kaninchen, das er sehr liebte. Es teilte morgens seine Milch mit ihm und schlief auf seinem Bett.
     </p>
-    <p xml:id="eco_de_000057_4470">
+    <p xml:id="eco_de_0000121_4470">
      Es spielte um ihn, wenn er im Garten sich erging.
     </p>
-    <p xml:id="eco_de_000057_4480">
+    <p xml:id="eco_de_0000121_4480">
      Eines Tages ward es an seiner zweispaltigen Lippe von einer Schlange gebissen.
     </p>
-    <p xml:id="eco_de_000057_4490">
+    <p xml:id="eco_de_0000121_4490">
      Vom Schüttelfrost gepackt, die Augen geschlossen, riß es den Mund auf und zu und duldete unsagbare Schmerzen.
     </p>
-    <p xml:id="eco_de_000057_4500">
+    <p xml:id="eco_de_0000121_4500">
      Aber kein Laut war ihm vergönnt, die Qualen kundzutun.
     </p>
-    <p xml:id="eco_de_000057_4510">
+    <p xml:id="eco_de_0000121_4510">
      Mohammed bettete es an seine Brust, die Tränen jagten ihm über die Wangen.
     </p>
-    <p xml:id="eco_de_000057_4520">
+    <p xml:id="eco_de_0000121_4520">
      Wie kann ich dir helfen? Es ist ein Abgrund zwischen uns, so tief, Gott selbst vermöchte keine Brücke zu schlagen. Stürbe ich mit dir, so wäre ein Gemeinsames, das uns zur Brüderlichkeit zwänge.
     </p>
-    <p xml:id="eco_de_000057_4530">
+    <p xml:id="eco_de_0000121_4530">
      Schon streifen die Flügel der Fledermaus auch meinen erlöschenden Tag, und ich sterbe, hilfloses Tier, einsam und hilflos wie du – mögen geliebteste Menschen auch mich seufzend in Armen halten ...
     </p>
-    <p xml:id="eco_de_000057_4540">
+    <p xml:id="eco_de_0000121_4540">
      Mohammed erwachte und sah den goldenen Vogel um die Ampel schweben. Und er rief Maria, die Koptin, und sprach: »Die Wände des Zimmers sind zerrissen, da der Meister das Tor vermauerte und die Fenster mit wilden Pflanzen verklebte. Efeu schlang sich um meine Blicke und Winde wand sich um meine Füße. Nun stürzte die steinerne Wand gen Westen und ließ die Sonne herein. Ach, nun erst, da sie sinkt, seh ich sie steigen. Bin ich wie eine Blume, die sich entfaltet und die sich nie mehr schließen möchte. Mit tausend Blütenblättern kralle ich mich ans Licht. Siehst du den goldenen Vogel auf der roten Wolke schweben?«
     </p>
-    <p xml:id="eco_de_000057_4550">
+    <p xml:id="eco_de_0000121_4550">
      Mohammed warf seine wilden Augen wie Steine zur Ampel empor.
     </p>
-    <p xml:id="eco_de_000057_4560">
+    <p xml:id="eco_de_0000121_4560">
      Maria erschrak.
     </p>
-    <p xml:id="eco_de_000057_4570">
+    <p xml:id="eco_de_0000121_4570">
      »Herr, es ist die Ampel, die dich verwirrt. Ein Sonnenstrahl hat sich in ihr wie in einem Käfig gefangen.«
     </p>
-    <p xml:id="eco_de_000057_4580">
+    <p xml:id="eco_de_0000121_4580">
      Mohammed sprach:
     </p>
-    <p xml:id="eco_de_000057_4590">
+    <p xml:id="eco_de_0000121_4590">
      »Bringe mir Wasser!«
     </p>
-    <p xml:id="eco_de_000057_4600">
+    <p xml:id="eco_de_0000121_4600">
      Maria enteilte.
     </p>
-    <p xml:id="eco_de_000057_4610">
+    <p xml:id="eco_de_0000121_4610">
      Da sie mit dem Krug auf der Schwelle stand, entfiel er ihren Händen und zerbrach klirrend.
     </p>
-    <p xml:id="eco_de_000057_4620">
+    <p xml:id="eco_de_0000121_4620">
      Sie bückte sich verscheucht nach den Scherben und schrie.
     </p>
-    <p xml:id="eco_de_000057_4630">
+    <p xml:id="eco_de_0000121_4630">
      Das Wasser aber floß bis an das Lager Mohammeds, der die Hand hineintauchte und sich die Stirne schmerzlich kühlte.
     </p>
-    <p xml:id="eco_de_000057_4640">
+    <p xml:id="eco_de_0000121_4640">
      Das Wasser ist beflissen, ihm zu dienen, sann Maria. Er bändigt die Elemente. Daß doch mein armes Herz, ach, nie zur Ruhe, nie zu Mohammed kommt.
     </p>
-    <p xml:id="eco_de_000057_4650">
+    <p xml:id="eco_de_0000121_4650">
      Mohammed ließ die Hand in die Nässe hängen.
     </p>
-    <p xml:id="eco_de_000057_4660">
+    <p xml:id="eco_de_0000121_4660">
      Ein Bergbach plätschert über meine spielerischen Finger. Ich habe nicht verlernt zu spielen. Werde zur Kugel, Bach, daß ich dich balle und, frohes Kind, mit Mutter Erde und Vater Gott Fangball spiele.
     </p>
-    <p xml:id="eco_de_000057_4670">
+    <p xml:id="eco_de_0000121_4670">
      Er ballte das Wasser zur Faust.
     </p>
-    <p xml:id="eco_de_000057_4680">
+    <p xml:id="eco_de_0000121_4680">
      Und Maria sah, wie er eine silberne Kugel in Händen hielt.
     </p>
-    <p xml:id="eco_de_000057_4690">
+    <p xml:id="eco_de_0000121_4690">
      Er warf sie in die Luft, wo sie strahlend zerplatzte.
     </p>
-    <p xml:id="eco_de_000057_4700">
+    <p xml:id="eco_de_0000121_4700">
      In der Ampel, der goldene Vogel, zwitscherte.
     </p>
-    <p xml:id="eco_de_000057_4710">
+    <p xml:id="eco_de_0000121_4710">
      Der Himmel bezog sich mit Wolken.
     </p>
-    <p xml:id="eco_de_000057_4720">
+    <p xml:id="eco_de_0000121_4720">
      Ängstlich schrien die Hühner, und die Hunde bellten.
     </p>
-    <p xml:id="eco_de_000057_4730">
+    <p xml:id="eco_de_0000121_4730">
      Mohammed stöhnte.
     </p>
-    <p xml:id="eco_de_000057_4740">
+    <p xml:id="eco_de_0000121_4740">
      »Die Wand steht wieder da, und das Tor glotzt, groß geöffnet.
     </p>
-    <p xml:id="eco_de_000057_4750">
+    <p xml:id="eco_de_0000121_4750">
      Der silberne Ball entsprang meiner Hand.
     </p>
-    <p xml:id="eco_de_000057_4760">
+    <p xml:id="eco_de_0000121_4760">
      Die rote Wolke verdampfte.
     </p>
-    <p xml:id="eco_de_000057_4770">
+    <p xml:id="eco_de_0000121_4770">
      Der goldene Vogel stürzte, vom Pfeile meiner Blicke durchbohrt, blutend zu Boden.
     </p>
-    <p xml:id="eco_de_000057_4780">
+    <p xml:id="eco_de_0000121_4780">
      Gewürm kriecht aus den Kellern.
     </p>
-    <p xml:id="eco_de_000057_4790">
+    <p xml:id="eco_de_0000121_4790">
      Magere Molche.
     </p>
-    <p xml:id="eco_de_000057_4800">
+    <p xml:id="eco_de_0000121_4800">
      Fette Frösche.
     </p>
-    <p xml:id="eco_de_000057_4810">
+    <p xml:id="eco_de_0000121_4810">
      Schillernde Schlangen.
     </p>
-    <p xml:id="eco_de_000057_4820">
+    <p xml:id="eco_de_0000121_4820">
      Blinde wanken winselnd durch die Gassen, von krötigen Kindern irr lallend geführt. Weiber gebären Wahnsinn. Boten aus bunteren Ländern bringen böse Nachricht. Ewiger Krieg. Ewiger Krieg. Flüsse springen durstig über ihre Ufer. Es regnet Wanzen. Menschen werden nur geboren als Zwillinge: Bauch an Bauch oder Rücken an Rücken, qualvoll gekettet.
     </p>
-    <p xml:id="eco_de_000057_4830">
+    <p xml:id="eco_de_0000121_4830">
      Kein Schlaf hängt mehr die Schleier seiner Güte um unsere erblassende Stirn.
     </p>
-    <p xml:id="eco_de_000057_4840">
+    <p xml:id="eco_de_0000121_4840">
      Unselige Wetter drohen unsern Türmen.
     </p>
-    <p xml:id="eco_de_000057_4850">
+    <p xml:id="eco_de_0000121_4850">
      Maria, rufe mir Ali, den Jüngling, und Talha, den Schönen. Auf ihre Schultern gestützt, will ich das brennende Haus verlassen, wenn der Blitz es erschlug.«
     </p>
-    <p xml:id="eco_de_000057_4860">
+    <p xml:id="eco_de_0000121_4860">
      Weinend knieten Ali und Talha am Kopfende seines Lagers.
     </p>
-    <p xml:id="eco_de_000057_4870">
+    <p xml:id="eco_de_0000121_4870">
      Zu seinen Füßen saß Maria, tränenlos und taub vor Schmerzen.
     </p>
-    <p xml:id="eco_de_000057_4880">
+    <p xml:id="eco_de_0000121_4880">
      Und Mohammed sprach:
     </p>
-    <p xml:id="eco_de_000057_4890">
+    <p xml:id="eco_de_0000121_4890">
      »Ali, du Junger, und Talha, du Schöner: ihr noch: Zauber der Zukunft! Ich verfalle, und morsch ist mein Gebälk von der Last des Himmels und den Stürmen der Erde. Wenn ich gestorben bin, fürchtet euch nicht! Zieht mir die lederne Haut vom Leibe wie einem gefallenen Tier, das dem Abdecker gebührt. Und dreht mir die Arme aus den Gelenken und werft sie in die Wüste, daß die Schakale sie benagen und die Sonne sie dörre. Bespannt eine Trommel mit meinem Fell und schlagt darauf mit den Klöppeln meiner Knochen, daß sie die Gläubigen rufe zum heiligen Kampf, zum strahlenden Gemetzel, zur ewigen Schlacht, zum süßesten Sieg.«
     </p>
-    <p xml:id="eco_de_000057_4900">
+    <p xml:id="eco_de_0000121_4900">
      Sie deckten über Mohammed einen gestreiften Mantel, daß nicht Fliege und Ungeziefer seinen Frieden surrend beschmutze. Und Ali erhob sich und sprach: »Bei Gott, Mohammed ist nicht gestorben. Er ist zu seinem Herrn gegangen, wie Moses, der vierzig Tage sein Volk gemieden und erst am einundvierzigsten zurückkehrte, nachdem man schon die Totenfeier für ihn gerichtet. Bei Allah, der Gesandte Gottes wird zurückkehren und denen, die ihn totsagten, das Maul zerschmettern.«
     </p>
-    <p xml:id="eco_de_000057_4910">
+    <p xml:id="eco_de_0000121_4910">
      »Wenn du mich liebst, Talha,« Maria, die Koptin, lehnte sich an seine Schulter, »so tötest du mich. Ich habe den Mut nicht dazu. Töte mich und bette meine Leiche an die seine, daß ich im Himmel neben ihm erwache.«
     </p>
-    <p xml:id="eco_de_000057_4920">
+    <p xml:id="eco_de_0000121_4920">
      Talha, dem leichter Schwung der Rede nicht gegeben, schüttelte das schöne Haupt.
     </p>
-    <p xml:id="eco_de_000057_4930">
+    <p xml:id="eco_de_0000121_4930">
      »Ich kann nicht töten, was von sich aus lebt und leben will ...«
     </p>
-    <p xml:id="eco_de_000057_4940">
+    <p xml:id="eco_de_0000121_4940">
      Da entwich Maria, die Koptin, aus dem Haus.
     </p>
-    <p xml:id="eco_de_000057_4950">
+    <p xml:id="eco_de_0000121_4950">
      Sie lief mit wunden Füßen nach dem Berge Koba, dem Hort der Aussätzigen.
     </p>
-    <p xml:id="eco_de_000057_4960">
+    <p xml:id="eco_de_0000121_4960">
      Vergehend vor Wildheit und Verlangen nach dem Tode, umarmte sie Otmar, einen jungen Kesselflicker, dem der Aussatz die Brust zerfraß. In seine Wunde bettete sie ihren Kopf und küßte ihm den Eiter aus den Löchern.
     </p>
-    <p xml:id="eco_de_000057_4970">
+    <p xml:id="eco_de_0000121_4970">
      Otmar, der Kesselschmied, weinte an ihrer Leiche und schüttete Granatäpfel-, Orangen- und Pfirsichblüten über sie.
     </p>
-    <p xml:id="eco_de_000057_4980">
+    <p xml:id="eco_de_0000121_4980">
      Er verbrannte sie heimlich und streute die Asche beim Gebet der sinkenden Sonne in den Westwind.
     </p>
-    <p xml:id="eco_de_000057_4990">
+    <p xml:id="eco_de_0000121_4990">
      Mohammed lag drei Tage unbeerdigt, wie es den Gebräuchen entsprach.
     </p>
-    <p xml:id="eco_de_000057_5000">
+    <p xml:id="eco_de_0000121_5000">
      Am vierten, als Ali und Talha mit der Waschung Mohammeds beschäftigt waren, trat ein uraltes Männchen ins Haus. Seine fleischlosen Arme schlugen wie Klöppel klappernd an die zersprungene Glocke seines Körpers. Sein eisgrauer Bart wehte fransig bis über die Knie.
     </p>
-    <p xml:id="eco_de_000057_5010">
+    <p xml:id="eco_de_0000121_5010">
      Die Augen rollten wie Glaskugeln hörbar in ihren Höhlungen.
     </p>
-    <p xml:id="eco_de_000057_5020">
+    <p xml:id="eco_de_0000121_5020">
      »Wer bist du, Alter?« fragte Ali, »du störst die Ruhe des milde Schlafenden. Der Tod weilt im Haus.«
     </p>
-    <p xml:id="eco_de_000057_5030">
+    <p xml:id="eco_de_0000121_5030">
      Auf Zehenspitzen hüpfte der Greis an Mohammed heran, dessen Haupt an der Brust Talhas lag, während Ali das Wasser über ihn goß-
     </p>
-    <p xml:id="eco_de_000057_5040">
+    <p xml:id="eco_de_0000121_5040">
      Der Greis hob spitz den Zeigefinger:
     </p>
-    <p xml:id="eco_de_000057_5050">
+    <p xml:id="eco_de_0000121_5050">
      »Wie schön ist er im Leben und im Tode!«
     </p>
-    <p xml:id="eco_de_000057_5060">
+    <p xml:id="eco_de_0000121_5060">
      Er verneigte sich dreimal, die Hände über dem dürren Leib gekreuzt:
     </p>
-    <p xml:id="eco_de_000057_5070">
+    <p xml:id="eco_de_0000121_5070">
      »Ich bin Bahirah, der Mönch, und gekommen, dich noch einmal zu betrachten, Mohammed. Hundertunddreißig Jahre sandte mir der Herr, und ich habe sie getragen, in Demut und Würde, gefaßt und begreifend. Zwei Tage ragen wie Schneegipfel aus der Ebene meiner Jahre: da ich dich, Mohammed, ins Leben gehen, und heute, da ich dich scheiden sehe. Ich habe gewissenhaft und streng das heilige Buch verwahrt, das Gott in meine Höhle legte. Jeden Morgen las ich darin – und ich las, o Mohammed, was du geschrieben: was du gesagt, gedacht, geahnt, geträumt, gewollt. Unsichtbar schrieb eine starke Hand im heiligen Buche deine Lehre, dein Leben – bis es erfüllt ward. Da zersprang die Kette – und das Buch war frei ...«
     </p>
-    <p xml:id="eco_de_000057_5080">
+    <p xml:id="eco_de_0000121_5080">
      Der Alte wandte sich an Ali und Talha, die ihm lauschten:
     </p>
-    <p xml:id="eco_de_000057_5090">
+    <p xml:id="eco_de_0000121_5090">
      »Ich habe es meiner Eselin aufgeladen, die ich draußen an die Säule band. Ich habe es mitgebracht, es in der Moschee an geweihter Stelle niederzulegen, denn Tage nur noch trennen mich von Al Dschannat, Al Araf oder Dschehenam. Dieses Buch, genannt der Koran, sei allen Gläubigen befohlen und ans Herz der Menschheit gelegt als ewig unverrückbares Gesetz. Die Fackel der Liebe leuchtet daraus und die Kerze der Verheißung. Es soll in der Moschee von Medina gelesen werden, täglich; durch hundert Priester: von Anfang bis Ende. Unaufhörlich soll tönen Gottes, des Einzigen, Wort, von Morgenland bis Abendland. Von Auf- bis Niedergang der Sonne ...«
     </p>
    </div>

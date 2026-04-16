@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/COST-ELTeC/Schemas/master/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:id="eco_de_000069" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eco_de_0000133" xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -79,17 +79,17 @@
    </textDesc>
   </profileDesc>
   <revisionDesc>
-   <change when="2026-04-15">
+   <change when="2026-04-16">
     Created by DS
    </change>
   </revisionDesc>
  </teiHeader>
  <text>
   <front>
-   <p xml:id="eco_de_000069_20">
+   <p xml:id="eco_de_0000133_20">
     Max Dauthendey
    </p>
-   <p xml:id="eco_de_000069_30">
+   <p xml:id="eco_de_0000133_30">
     Die Abendglocken vom Mijderatempel hören
    </p>
   </front>
@@ -97,211 +97,211 @@
    <div type="group">
     <head>
     </head>
-    <p xml:id="eco_de_000069_40">
+    <p xml:id="eco_de_0000133_40">
      Der älteste Baum Japans steht am Biwasee, nicht weit von der Stadt Ozu, nicht weit von den Tempelterrassen des Mijderatempels, der auf grünem Hügel über einem Kryptomerienwalde liegt.
     </p>
-    <p xml:id="eco_de_000069_50">
+    <p xml:id="eco_de_0000133_50">
      Als dieser viele tausend Jahre alte Baum nicht höher als ein Grashalm war, leuchtete der harfenförmige Biwasee dicht bei dem Baumschößling ebenso wie heute noch unverändert bei der alten zerklüfteten Baumruine.
     </p>
-    <p xml:id="eco_de_000069_60">
+    <p xml:id="eco_de_0000133_60">
      Dieser älteste Baum Japans stützt sich jetzt wie ein gealterter Gott, der Hunderte von Armen vom Himmel über die Erde ausbreitet, auf Hunderte von Stangen, die gleich Hunderten von Krücken und Stelzen sein morsches Dasein tragen.
     </p>
-    <p xml:id="eco_de_000069_70">
+    <p xml:id="eco_de_0000133_70">
      Damals, als der Baum jung wie ein Halm war, war aber der Mijderatempel noch nicht gebaut, und niemand noch hörte den wunderbaren Klang der Mijderaglocke, die abends beruhigend wie eine singende Frau ihre Stimme von den Tempelterrassen an dem alten Uferbaum vorüber zur Harfe des Biwasees schickt.
     </p>
-    <p xml:id="eco_de_000069_80">
+    <p xml:id="eco_de_0000133_80">
      Dieser Baum wurde in ferner Vorzeit aus China nach Japan herübergebracht, als winziges Würzelein zuerst; und in Japan erfuhr man erst sehr spät seine chinesische Geschichte.
     </p>
-    <p xml:id="eco_de_000069_90">
+    <p xml:id="eco_de_0000133_90">
      Als der Baum so groß wie ein Menschenkind wurde, hatte er noch nicht einmal einen Japaner gesehen. Und als die ersten japanischen Menschen zu ihm kamen, war er schon in den kräftigsten Mannesjahren und fast so hoch wie die Kryptomerienbäume des nahen Bergwaldes.
     </p>
-    <p xml:id="eco_de_000069_100">
+    <p xml:id="eco_de_0000133_100">
      So ein Baum, der nie von der Stelle rückt und dessen Umgebung gleichfalls nie fortreist und der nur die Bewegungen der Jahreszeiten kennt, hat ein vorzügliches Gedächtnis. Dieses drückt sich aber nicht darin aus, daß sich sein Mark Gedanken macht über das, was gewesen ist oder was kommen wird, sondern das Gedächtnis eines Baumes liegt immer offen an seiner Außenseite. Die Furchen und Rinden haben sich jeden Tag mit Linien, Eingrabungen, Knorpeln, Schürfungen die kleinsten Erlebnisse wie mit einer stenographischen Schrift in Zeichenschrift notiert. Wie der Baum sich dehnte, wenn ihm in der Welt wohl war, und sich verborkte und sich verpanzerte, wenn ihn die Welt bedrohte, vergrübelte sich seine Rinde und faltete sich zu einer Zeichenschrift.
     </p>
-    <p xml:id="eco_de_000069_110">
+    <p xml:id="eco_de_0000133_110">
      Die Schriftgelehrten der Bäume sind die Ameisen, die Libellen, die Bienen, die Vögel. Die Borkenkäfer und Borkenwürmer sind untergeordnete Schriftsetzer, die an der Schicksalssprache des Baumes, an der Rindenschrift, mitarbeiten.
     </p>
-    <p xml:id="eco_de_000069_120">
+    <p xml:id="eco_de_0000133_120">
      Diese Sprache der Bäume entdeckte eines Tages, als die Japaner noch vorzeitliche Bastkleider, Blättergewänder und verwildertes Kopfhaar trugen, nicht in Japan, sondern in China, ein weiser Einsiedler. Der hieß Ata-Mono.
     </p>
-    <p xml:id="eco_de_000069_130">
+    <p xml:id="eco_de_0000133_130">
      Die Geschichte Ata-Monos liegt weit zurück; sie fällt vor die Entdeckung des alten Baumes am Biwasee.
     </p>
-    <p xml:id="eco_de_000069_140">
+    <p xml:id="eco_de_0000133_140">
      Als Ata-Mono die ersten Schriftzeichen in einem chinesischen Weidenbaum entdeckte, las er auch in der Baumrinde das Mittel, seinen Leib unsterblich zu erhalten. In dem Bast jenes Weidenbaumes in China stand geschrieben, daß jeder Mensch, ob groß oder niedrig, ob klug oder beschränkt, ob schwach oder stark, alt oder jung, sich die Unsterblichkeit des Lebensfadens und auch des Leibes erhalten könne, wenn er einmal im Leben beim Laut einer bestimmten Harfe einschlafe. Diese Harfe, sagte der chinesische Weidenbaum, sei nicht in China, aber nicht weit über dem Meer in einem kleinen Inselland, das damals in China noch keinen Namen hatte und nur von einigen »das Land des ewigen Feuers« genannt wurde, weil der Feuerkrater Fushiyama dort immer rauchte.
     </p>
-    <p xml:id="eco_de_000069_150">
+    <p xml:id="eco_de_0000133_150">
      Ata-Mono suchte den Weg dorthin und las von Baum zu Baum die Rindensprache, bis er ans Meer kam; aber niemand konnte ihn hinüberführen, denn nur Schiffe, die durch Zufall nach dem Inselland verschlagen wurden, alle hundert Jahre einmal, hatten Kunde von dem Feuerland gebracht, in dem Ata-Monos Harfe liegen sollte.
     </p>
-    <p xml:id="eco_de_000069_160">
+    <p xml:id="eco_de_0000133_160">
      Ata-Mono saß jetzt jahraus, jahrein am Meer und schmachtete nach der Unsterblichkeit, kehrte seinem Vaterlande den Rücken und sah mit seinem Angesicht Tag für Tag nach Osten, wo hinter den Wellenbergen das kleine Land des ewigen Feuers war, darin die fremde Harfe liegen sollte.
     </p>
-    <p xml:id="eco_de_000069_170">
+    <p xml:id="eco_de_0000133_170">
      Eines Tages kam ein Oststurm. Ata-Mono zog sich etwas weiter vom Strand zurück. Da sah er in der Ferne über dem aufgerüttelten Meer ein vielarmiges Wesen. Das kam mit senkrechtem Leib und dunklen Krallen wie ein mächtiger, belaubter Baum über das Meer geschossen.
     </p>
-    <p xml:id="eco_de_000069_180">
+    <p xml:id="eco_de_0000133_180">
      Ata-Mono hielt die Erscheinung zuerst für ein Gespenst, dann für einen Drachen, und dann erkannte er, daß der vielarmige, riesige, aufgerichtete Körper wirklich ein Baum war, ein grüner, frischer Kryptomerienbaum mit feuerrotem Stamm; denn die Rinden der Kryptomerienbäume leuchten rot, wenn sie naß werden. Dieser Baum troff von Seewasser, schoß an den kiesigen Strand; und als wandere er leibhaftig auf seinen Wurzeln, eilte er, vom Wind getrieben, eine Viertelstunde tiefer in das Land hinein, bis er andere Bäume fand, in deren Nähe er windgeschützt stehenblieb und sich mit seinen Wurzeln wie mit riesigen Adlerkrallen feststellte.
     </p>
-    <p xml:id="eco_de_000069_190">
+    <p xml:id="eco_de_0000133_190">
      Ata-Mono kannte keine Furcht; und als der wunderbare Baum wie eine rote Fackel über das Wellengewühl des Meeres aufrecht daherkam und seine finsteren Zweige wie schwarzen Rauch in die Luft streckte, da wich der sehnsüchtige Träumer nicht zurück, denn er war ja der erste Vertraute, den die Bäume sich unter den Menschen auserwählt und dem sie ihre Rindenschrift in einer guten Stunde zu erkennen gegeben hatten; und er kannte keine Furcht vor den Bäumen, auch nicht vor diesem seltsamen übers Meer gewanderten Baumriesen.
     </p>
-    <p xml:id="eco_de_000069_200">
+    <p xml:id="eco_de_0000133_200">
      Ata-Mono legte sich in dieser Nacht unter den neuangekommenen Baum, nachdem er Wurzeln und Rinde von Tang, Seeschlamm und Seemuscheln gereinigt hatte; und er schlief ein mit dem Bewußtsein, daß dieser Baum zu ihm allein nach China und sonst zu keinem anderen gesendet war. Und er freute sich, am nächsten Morgen aus der Rinde dieses Baumes Schicksale und Gedanken und Wünsche dieser Kryptomerie zu lesen und vielleicht zu erfahren, wie er nach dem kleinen Land des ewigen Feuers zu jener Harfe gelangen könne.
     </p>
-    <p xml:id="eco_de_000069_210">
+    <p xml:id="eco_de_0000133_210">
      Der Morgen kam, und Ata-Mono studierte bis zur untergehenden Sonne, ohne zu essen, ohne zu trinken, ohne aufzuschauen, die Gruben, Windungen und Furchen in der Rinde seines Baumkameraden. Aber es war ihm unmöglich, die Zeichen der Rinde zu entziffern, er verstand nichts von der Sprache dieses Baumes. Die Zeichensprache aller chinesischen Bäume konnte er lesen, an diesem Baum aber blieb sie für ihn unleserlich. Und Ata-Mono weinte, als die Sonne untergegangen war und er unter dem unbegreiflichen Baum saß, unwissend und einsam. »Wenn ich dich nicht lesen kann, so sprich!« schrie er den Baum ungeduldig an, als die Sonne zum letzten Male aufleuchtete und den Stamm rot bestrich. »Herrlicher, herrlicher Baum!« schrie Ata-Mono voll Entzücken, weil der Baum von der Wurzel bis zur Krone wie eine feurige Kohle leuchtete.
     </p>
-    <p xml:id="eco_de_000069_220">
+    <p xml:id="eco_de_0000133_220">
      Der Baum schwieg. Die Sonne ging unter.
     </p>
-    <p xml:id="eco_de_000069_230">
+    <p xml:id="eco_de_0000133_230">
      Ata-Mono schrie: »ich schwöre, daß ich nichts mehr essen und nichts mehr trinken werde, bis du mich deine Rindenschrift lesen läßt oder bis du mir jemanden sendest, der mich deine Schrift lehrt.«
     </p>
-    <p xml:id="eco_de_000069_240">
+    <p xml:id="eco_de_0000133_240">
      Und Ata-Mono lief zum Strand und stopfte sich den Mund mit Kieseln voll, weil er nicht mehr essen, nicht mehr reden, nicht mehr schreien und nicht mehr atmen wollte.
     </p>
-    <p xml:id="eco_de_000069_250">
+    <p xml:id="eco_de_0000133_250">
      Halb erstickt lag er am Strande und haßte den neuen Baum und haßte China und haßte seine Sehnsucht nach der Unsterblichkeit.
     </p>
-    <p xml:id="eco_de_000069_260">
+    <p xml:id="eco_de_0000133_260">
      »Ich will die Harfe vergessen«, dachte er und lag in den letzten Atemzügen. Dann wurde ihm wohler. Wie beruhigend ist es doch, wenn man einen wilden Wunsch aufgibt! Man steigt herab wie von einem wilden Pferd und hat wieder festen Boden unter den Füßen.
     </p>
-    <p xml:id="eco_de_000069_270">
+    <p xml:id="eco_de_0000133_270">
      Nach dieser beruhigenden Betrachtung richtete er sich gcdankenlos auf, nahm die Steine gedankenlos aus dem Munde und schöpfte frischen Atem. Dann sprang er auf seine beiden Beine, streckte die Arme aus und lachte wieder zum ersten Male seit vielen Jahren. Und seine Stirn, die immer gegrübelt hatte, wurde blank und jung wie die aufgehende Mondscheibe.
     </p>
-    <p xml:id="eco_de_000069_280">
+    <p xml:id="eco_de_0000133_280">
      »Ach, Mond, lebst du noch? Ich habe dich lange nicht gesehen.« Und Ata-Mono bewunderte die kleinste Muschel im Mondschein, die Grübchen im Sand und die Wölklein, die mit dem Mond zogen, denn er hatte seit Jahren nur Bäume und Baumrinden gesehen und alles andere vergessen. Und nun ließ er auch sein Gehör wieder zu sich kommen. Er, der nur mit den Augen an den Baumrinden gelebt hatte, horchte, wie das Dünengras raschelte, wie die Dünenmäuse miteinander wisperten, wie die Füchse hinter den Baumwurzeln bellten, wie die Eulen sich zuriefen und wie die Fische im Mondschein plätscherten. Und nachdem er sein Gehör befriedigt hatte, sagten seine Zunge und sein Gaumen zu ihm, seine Zähne und sein Magen und sein gekühltes Blut: »Weißt du, es gibt ganz andere Dinge zu essen als Baumsaft und Baumrinde, wovon du dich jahrelang genährt hast. Hörst du nicht? In der Ferne gackern Truthühner im Schlaf. Und Schweine grunzen im Schlaf, weil ihnen der Mond auf die Rüssel scheint. Und Bauernhöfe sind in der Nähe, wo du Eier, Schweinespeck, gebackene Fische und Reis essen kannst. Und sehnst du dich nicht nach Wärme am ganzen Leib? Und hast du nicht dort, wo den andern Menschen ein verliebtes Herz sitzt, einen bitterkalten Fleck in der Brust?«
     </p>
-    <p xml:id="eco_de_000069_290">
+    <p xml:id="eco_de_0000133_290">
      Ata-Mono seufzte tief auf, weil alles ihm wahr schien, was seine Sinne zu ihm sagten. Er stand auf und erinnerte sich, daß die Menschen Kleider trugen. Und er flocht sich noch in der Nacht ein langes Hemd aus gedörrtem Tang, und er war eitel genug und flocht sich Ketten aus Muscheln daran und Ketten aus Muscheln ins Haar, weil er den Dirnen, denen er begegnen sollte, zu gefallen wünschte.
     </p>
-    <p xml:id="eco_de_000069_300">
+    <p xml:id="eco_de_0000133_300">
      Ata-Mono ging dann, als es kaum Tag war, unter den letzten Sternen fort vom Meere, wieder mit dem Gesicht in das chinesische Land hinein.
     </p>
-    <p xml:id="eco_de_000069_310">
+    <p xml:id="eco_de_0000133_310">
      Bei dem ersten Bauernhaus standen drei Weiber an einem Brunnen. Die sagten freundlich: »Guten Morgen, Ata-Mono.« Und Ata-Mono dankte und war verwundert, daß man seinen Namen kannte, und er bat um etwas süßes Wasser.
     </p>
-    <p xml:id="eco_de_000069_320">
+    <p xml:id="eco_de_0000133_320">
      Und während er noch wartete, bis der Eimer aus dem Brunnen stiege, ging eines der drei Weiber grüßend fort. Der erste Becher süßen Wassers, den er seit Jahren trank, schien ihm so nahrhaft und so wohltuend, daß er glaubte, es würde ihn nie mehr dürsten. Und er sagte zu den Frauen:
     </p>
-    <p xml:id="eco_de_000069_330">
+    <p xml:id="eco_de_0000133_330">
      »Ich werde euch später danken, wenn ich einmal reich werde.«
     </p>
-    <p xml:id="eco_de_000069_340">
+    <p xml:id="eco_de_0000133_340">
      Die Frauen verneigten sich vor Ata-Mono wie vor einem adligen Herrn und sagten: »Du bist der Reichste im Lande!« Und ihr Gruß und ihre Ehrerbietung machten, daß er sein Herz sich wieder erwärmen fühlte, als schiene ihm die Sonne in den offenen Mund.
     </p>
-    <p xml:id="eco_de_000069_350">
+    <p xml:id="eco_de_0000133_350">
      Ata-Mono ging, gesättigt durch den Wassertrunk, von dem Bauernhof fort, tiefer in das Land, bewunderte die Reisfelder und die Maulbeerbäume und kam zu einer Ortschaft. Die bestand aus nur zehn Häusern. Aber nahezu dreißig Frauen standen am Eingang des Ortes. Und alle dreißig verneigten sich vor Ata-Mono. Er erkannte unter den Frauen jene, welche die dritte gewesen an dem Brunnen, an dem er vorher getrunken hatte, und die fortgegangen war und hier seine Ankunft angesagt hatte. Er staunte darüber, daß das geschehen war, und er wußte nicht, warum die Leute soviel Wesens aus ihm, dem Unbekannten, machten.
     </p>
-    <p xml:id="eco_de_000069_360">
+    <p xml:id="eco_de_0000133_360">
      Eine Frau wurde rot und trat vor und sagte: »Unsere Männer sind bei der Feldarbeit und wissen nicht, daß du kommst. Nur wir haben es eben erst durch eine Frau erfahren, daß du nach China zurückkehrst.«
     </p>
-    <p xml:id="eco_de_000069_370">
+    <p xml:id="eco_de_0000133_370">
      Er konnte vor Staunen nicht antworten und kaum danken – so tief verfiel er in Betrachtungen und erriet nicht, warum alle die Frauen Zeit und Lust hätten, sich um ihn zu kümmern.
     </p>
-    <p xml:id="eco_de_000069_380">
+    <p xml:id="eco_de_0000133_380">
      Ata-Mono hatte noch nicht den Ort mit den zehn Häusern verlassen, kamen ihm auf der Landstraße über den nächsten Hügel und über den zweiten Hügel und über den dritten und vierten Hügel schon neue Frauen und Mädchen entgegen. Immer empfing er dieselben Grüße, und immer wieder mußte er hören, daß die Männer bei der Arbeit seien.
     </p>
-    <p xml:id="eco_de_000069_390">
+    <p xml:id="eco_de_0000133_390">
      Ata-Mono ging über den fünften Hügel. Dort standen schon Reihen von Frauen zu beiden Seiten des Weges. Die hatten sich gelagert und standen auf und verneigten sich. Ihre Reihen waren dicht gedrängt. Aber kurz vor Sonnenuntergang, am sechsten Hügel, dahinter die Hauptstadt der Provinz lag, standen die Frauen nicht nur am Wege, sondern saßen auch in den Zweigen der Bäume, und ihre Gesichter waren glänzend wie Lampen am Abend. Die oben in den Bäumen klatschten Beifall, und die, die unten standen, verneigten sich und murmelten Beifall.
     </p>
-    <p xml:id="eco_de_000069_400">
+    <p xml:id="eco_de_0000133_400">
      Hundert Schritte vor dem Tor und den vier Türmen der Provinzhauptstadt, wo das Frauengedränge am Wege am dichtesten war, hörte Ata-Mono plötzlich einen allgemeinen Schrei des Entsetzens. Ein surrender Laut traf sein Ohr, und ein langer, schwirrender Pfeil sauste vor ihm in den Boden und stand senkrecht und zitternd fest vor seinem Fuß.
     </p>
-    <p xml:id="eco_de_000069_410">
+    <p xml:id="eco_de_0000133_410">
      Er staunte, aber er ließ sich nicht in seinem Weg stören und tat drei Schritte weiter. Da stürzten schnell drei Speere vor ihm nieder. Der eine zerschellte an einem Baum, der zweite durchbohrte ein Weib am Wegrand, der dritte fuhr durch Ata-Monos Haar und riß die Muschelkette aus seinem Haar mit sich.
     </p>
-    <p xml:id="eco_de_000069_420">
+    <p xml:id="eco_de_0000133_420">
      Gleich darauf sah Ata-Mono, daß die Frauen auf den vier Türmen des Stadttores in Aufruhr gerieten und von jedem Turm einen Mann herunterstürzten.
     </p>
-    <p xml:id="eco_de_000069_430">
+    <p xml:id="eco_de_0000133_430">
      »Was bedeutet das?« fragte Ata-Mono die zwei Frauen, die ihm zunächst standen. »O Herr, ein paar eifersüchtige Männer wollen Euch töten«, sagte die eine der beiden Frauen eifrig; die andere lachte.
     </p>
-    <p xml:id="eco_de_000069_440">
+    <p xml:id="eco_de_0000133_440">
      »Warum sehe ich nur Frauen und keinen Mann, der mich begrüßt?« fragte er weiter.
     </p>
-    <p xml:id="eco_de_000069_450">
+    <p xml:id="eco_de_0000133_450">
      »O Herr, der Regent hat befohlen: am Tage, wo Ihr vom Meere wieder nach China zurückkehren würdet, dürfe kein Mann sein Haus verlassen und kein Mann die Straße betreten, da die Eifersucht der Männer grenzenlos ist und weil dich alle Männer hier hassen.«
     </p>
-    <p xml:id="eco_de_000069_460">
+    <p xml:id="eco_de_0000133_460">
      Ata-Mono sagte verwundert: »ich habe seit Jahren keine Männer gesprochen. Warum hassen sie mich, und warum sind sie eifersüchtig auf mich?«
     </p>
-    <p xml:id="eco_de_000069_470">
+    <p xml:id="eco_de_0000133_470">
      »Herr, Ihr wißt nicht, daß der Regent tief betrübt war, weil Ihr, der Ihr der erste seid, der die Sprache der Bäume verstand – weil Ihr China den Rücken kehren wolltet.«
     </p>
-    <p xml:id="eco_de_000069_480">
+    <p xml:id="eco_de_0000133_480">
      Ata-Mono staunte:
     </p>
-    <p xml:id="eco_de_000069_490">
+    <p xml:id="eco_de_0000133_490">
      »Ich habe es niemand erzählt. Woher weiß der Regent, daß ich die Schrift der Baumrinden lesen kann?«
     </p>
-    <p xml:id="eco_de_000069_500">
+    <p xml:id="eco_de_0000133_500">
      »Herr, man sah Euch ja täglich in Eurem Heimatort an allen Wegen, in allen Wäldern, wie Ihr laut die Sprache der Bäume entziffert habt. Die Menschen standen in Scharen um Euch und lernten von Euch das Lesen der Rinden. Und jetzt lesen alle unsere Männer und verstehen die Sprache der Bäume wie Ihr.«
     </p>
-    <p xml:id="eco_de_000069_510">
+    <p xml:id="eco_de_0000133_510">
      »Sind sie deswegen eifersüchtig, eure Männer, weil ich der erste war, der die Sprache der Bäume verstand?«
     </p>
-    <p xml:id="eco_de_000069_520">
+    <p xml:id="eco_de_0000133_520">
      »O nein, Herr, sie sind eifersüchtig, weil der Regent am Tag, da Ihr China den Rücken wendetet und ans Meer gingt, geschworen hat, daß Ihr an dem Tag, an dem Ihr umkehren und unter sein Volk zurückkehren würdet – daß Ihr dann die Wahl hättet unter allen Frauen, ob verheiratet oder unverheiratet, ob hoch oder niedrig; ja, die Regentin selbst dürft Ihr Euch als Frau erwählen. Aber Ihr müßt Euch entscheiden, ehe die Sonne dieses Tages untergeht. Habt Ihr dann nicht gewählt, wird man Euch morgen töten. Der Regent will, daß Ihr, tot oder lebendig, jetzt im Lande bleibt und daß Ihr nicht den Ruhm des Landes gefährdet, daß Ihr nicht auswandert oder eine Frau aus einem anderen Volke wählt als aus dem unsere.
     </p>
-    <p xml:id="eco_de_000069_530">
+    <p xml:id="eco_de_0000133_530">
      Die Männer, die vorhin von den Türmen gestürzt wurden, waren die Männer von den vier schönen Töchtern des Regenten; diese vier Männer wollten Euch töten, ehe Ihr die Stadt betreten hättet, weil sie bei Eurer Brautschau für ihre Frauen fürchteten.«
     </p>
-    <p xml:id="eco_de_000069_540">
+    <p xml:id="eco_de_0000133_540">
      Ata-Mono sagte: »Alle hunderttausend Frauen des Landes sind mir willkommen. Sowenig wie ich jetzt mehr den Willen zur Unsterblichkeit habe, sowenig Willen habe ich zur Liebeswahl. Ich werde also morgen sterben. Warum bin ich nicht schon vorhin gestorben, als der Pfeil zielte und die Speere eine Frau töteten, statt mich zu töten?«
     </p>
-    <p xml:id="eco_de_000069_550">
+    <p xml:id="eco_de_0000133_550">
      »Komm!« sagte das Weib, das ihm geantwortet hatte. »Leg deinen Arm um mich und verkündige mich als deine Frau. Dann wirst du nicht sterben müssen. Und ich will dir helfen, dir deine Unsterblichkeit zu sichern, die du am Meer vergeblich erwartet hast.«
     </p>
-    <p xml:id="eco_de_000069_560">
+    <p xml:id="eco_de_0000133_560">
      Ata-Mono fragte rasch:
     </p>
-    <p xml:id="eco_de_000069_570">
+    <p xml:id="eco_de_0000133_570">
      »Kennst du die Rindensprache der roten Kryptomerienbäume?«
     </p>
-    <p xml:id="eco_de_000069_580">
+    <p xml:id="eco_de_0000133_580">
      »Natürlich«, sagte die Frau ebenso rasch. »Ich habe zwar nie einen solchen Baum gesehen, ich kenne aber seine Rindenschrift wie die Linien meiner Hand.«
     </p>
-    <p xml:id="eco_de_000069_590">
+    <p xml:id="eco_de_0000133_590">
      Ata-Mono fragte noch rascher:
     </p>
-    <p xml:id="eco_de_000069_600">
+    <p xml:id="eco_de_0000133_600">
      »Weißt du, wo die Harfe liegt, die ich suche?«
     </p>
-    <p xml:id="eco_de_000069_610">
+    <p xml:id="eco_de_0000133_610">
      »Natürlich«, antwortete ebenso rasch die Frau. »Alle Bäume erzählen, daß die Harfe im kleinen ewigen Feuerland liegt.«
     </p>
-    <p xml:id="eco_de_000069_620">
+    <p xml:id="eco_de_0000133_620">
      »Weib, weißt du den Weg dorthin?« »Natürlich. Ich werde ihn dir schon zeigen. Wenn du mich zu deiner Frau gemacht hast, werde ich ihn in Erfahrung bringen. Alles wird mir gelingen, wenn du mich liebst.«
     </p>
-    <p xml:id="eco_de_000069_630">
+    <p xml:id="eco_de_0000133_630">
      »Wirst du mir treu bleiben, wenn ich dich heirate, und willst du die Unsterblichkeit mit mir teilen?«
     </p>
-    <p xml:id="eco_de_000069_640">
+    <p xml:id="eco_de_0000133_640">
      »Treu bleiben?« fragte das Weib und schmollte. »Das ist das Natürlichste von der Welt. Das verspreche ich dir gar nicht. Aber die Unsterblichkeit werde ich natürlich mit dir teilen. «
     </p>
-    <p xml:id="eco_de_000069_650">
+    <p xml:id="eco_de_0000133_650">
      Ata-Mono betrat die Stadt nicht. Siebenundneunzig Schritte vor der Stadt, heißt es in den chinesischen und japanischen Chroniken, legte er seinen Arm um ein Weib. Aber nicht um das Weib, das er ausgefragt hatte und welches immer so geläufig »natürlich« geantwortet hatte, sondern um eines, das daneben gestanden und zu allem gelacht hatte, melodisch und freundlich wie eine singende Glocke.
     </p>
-    <p xml:id="eco_de_000069_660">
+    <p xml:id="eco_de_0000133_660">
      Diese Frau hatte Ata-Mono nichts versprochen, und die Länder ehren heute noch ihr Andenken und ihr singendes Lachen.
     </p>
-    <p xml:id="eco_de_000069_670">
+    <p xml:id="eco_de_0000133_670">
      Als der große chinesische Weise und Wissende und sein lieblich lachendes Weib nach glücklichster Ehe hochbetagt starben, begrub man beide am Meeresstrande unter dem rätselhaften Baum, dessen Rinde Ata-Mono niemals entziffert hat.
     </p>
-    <p xml:id="eco_de_000069_680">
+    <p xml:id="eco_de_0000133_680">
      Hundert Jahre nachher, als die Chinesen Japan entdeckten und den harfenförmigen Biwasee als die große Harfe im Lande des ewigen Feuers liegen fanden, brachte man dorthin ein Reis jenes unerklärlichen Baumes, zu einer Zeit, wo die Japaner noch in Blätterkleidern und mit ungekämmten Haaren das kleine Feuereiland bewohnten und die Chinesen dort die ersten Apostel höherer Bildung und Gesittung wurden.
     </p>
-    <p xml:id="eco_de_000069_690">
+    <p xml:id="eco_de_0000133_690">
      Und wieder einige Jahrhunderte später, als die ersten chinesischen Buddhisten-Mönche die Religion des Pflanzen-, des Tierreiches und des Menschenreiches den Japanern gaben und sie die Verbrüderung aller Weltallwesen lehrten und Mönche den Mijderatempel mit seinen Terrassen am Biwasee bauten, da erinnerte man sich wieder des rätselhaften Baumes, der nun durch die Jahrhunderte stark und mächtig geworden war. Und jeder, der zu dem Baum am Biwasee kam, sprach von Ata-Monos Geschichte, bis eines Tages ein japanischer Mönch geboren wurde. Dieser war der erste, der die Rinde des alten, rätselhaften Baumes am Biwasee entziffern lernte, die bis dahin unleserlich geblieben war. Und er las zu seinem Erstaunen von der Baumrinde den Satz:
     </p>
-    <p xml:id="eco_de_000069_700">
+    <p xml:id="eco_de_0000133_700">
      »0 wisse, Mensch, und höre mich, der ich alt werde wie die Erdrinde: Mir und allen, welche so alt werden auf der Erde, steht die Liebe höher als die Unsterblichkeit.«
     </p>
-    <p xml:id="eco_de_000069_710">
+    <p xml:id="eco_de_0000133_710">
      Und diesen Spruch las der japanische Mönch milliarden- und milliardenmal in die Kronenäste, in den Stamm und in die Wurzelrinden gegraben; bis zur tiefsten Wurzel drunten in der Erde sprach der Baum keinen anderen Satz. Nun erinnerte man sich auch, daß Ata-Mono, seitdem er glücklich mit dem lachenden Weibe lebte, nie mehr von der Unsterblichkeit gesprochen, daß er sein Weib niemals nach dem Wege zur Unsterblidikeit gefragt hatte. Und aus der Vergangenheit stieg das Lachen jenes Weibes wie aus einem Grab, als Mönche eine Glocke gegessen hatten, die noch heute abends im Mijderatempel geläutet wird und deren Stimme wie die sanftgewordene Stimme von Jahrtausenden klingt und die den singenden Ton eines glücklichen Weibes hat.
     </p>
-    <p xml:id="eco_de_000069_720">
+    <p xml:id="eco_de_0000133_720">
      Der alte Baum ist heute nur noch ein Stummel, von Stelzen und Krücken gestützt. Zu dem Platze, wo er am See steht, führt ein hölzernes Tempeltor. Seine Zweige sind mit Tausenden von weißen Gebetszetteln behangen. Tausende von Pilgern aus Japan und China besuchen ihn, den Unsterblichen, der verkündet: »Die Liebe ist größer als die Unsterblichkeit«, und nennen ihn »den Glücklichen«, weil er Abend um Abend die kostbare Frauenstimme der Abendglocke des Mijderatempels belauschen darf, die jenem weiblichen Lachen gleicht, bei welchem einst Ata-Mono den Wunsch nach Unsterblichkeit vergaß.
     </p>
    </div>

@@ -822,8 +822,19 @@ def main():
     # Rows without a filename value mean "no source text available yet"
     df["Filename"] = df["Filename"].fillna("NoSourceTxt")
 
-    # Reset the document counter so IDs start from eco_de_000001 / eco_en_000001
-    TEI.teiid = 1
+    # Start the document counter after the highest ID already present in eco-de/tei/,
+    # so new files never clash with existing ones.
+    import glob as _glob, re as _re, os as _os
+    _script_dir = _os.path.dirname(_os.path.abspath(__file__))
+    _tei_dir = _os.path.join(_script_dir, "..", "..", "..", "eco-de", "tei")
+    existing = _glob.glob(_os.path.join(_tei_dir, "**", "*.xml"), recursive=True)
+    taken = [
+        int(m.group(1))
+        for f in existing
+        for m in [_re.search(r'xml:id="eco_\w+_0*(\d+)"', open(f).read())]
+        if m
+    ]
+    TEI.teiid = max(taken) + 1 if taken else 1
 
     df.apply(row_to_tei, axis=1)
 
