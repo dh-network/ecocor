@@ -49,7 +49,26 @@ import re                       # Regex-based word counting
 import os                       # File-existence checks and path handling
 import datetime                 # Current date for TEI revisionDesc
 import json                     # Persistent Wikidata cache
+import unicodedata              # Unicode normalisation for ASCII filenames
 import wikidataintegrator as wdi  # Querying Wikidata's SPARQL endpoint
+
+# ---------------------------------------------------------------------------
+# Filename sanitisation
+# ---------------------------------------------------------------------------
+
+_UMLAUT_MAP = str.maketrans({
+    "ä": "ae", "ö": "oe", "ü": "ue",
+    "Ä": "Ae", "Ö": "Oe", "Ü": "Ue",
+    "ß": "ss",
+})
+
+def _ascii_filename(name):
+    """Replace German umlauts/ß, then strip any remaining non-ASCII characters."""
+    name = name.translate(_UMLAUT_MAP)
+    # Decompose accented letters (e.g. é → e + combining acute) and drop the marks
+    name = unicodedata.normalize("NFD", name)
+    name = name.encode("ascii", "ignore").decode("ascii")
+    return name
 
 # ---------------------------------------------------------------------------
 # Path constants
@@ -243,8 +262,11 @@ class TEI:
             self.outputfilename = title  # Fall back to the title as filename
 
         # XML does not allow spaces in attribute values such as xml:id;
-        # also avoids spaces in file system paths
+        # also avoids spaces in file system paths.
+        # Non-ASCII characters (umlauts, ß, etc.) are transliterated to ASCII
+        # so that output XML filenames are portable across all systems.
         self.outputfilename = self.outputfilename.replace(" ", "")
+        self.outputfilename = _ascii_filename(self.outputfilename)
 
         # Metadata fields — populated by row_to_tei() after construction
         self.year           = None
